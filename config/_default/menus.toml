@@ -1,0 +1,135 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+[[main]]
+  name = "Beranda"
+  url = "/"
+  weight = 5
+
+[[main]]
+  name = "Tentang Kami"
+  url = "#about"
+  weight = 10
+
+[[main]]
+  name = "Berita"
+  url = "#posts"
+  weight = 15
+
+[[main]]
+  name = "Kunjungan"
+  identifier = "kunjungan"
+  url = "/kunjungan/"
+  weight = 20
+
+[[main]]
+  name = "Informasi Umum"
+  parent = "kunjungan"
+  url = "/kunjungan/"
+  weight = 21
+
+[[main]]
+  name = "Aturan"
+  parent = "kunjungan"
+  url = "/kunjungan/aturan/"
+  weight = 22
+
+[[main]]
+  name = "Pendaftaran"
+  parent = "kunjungan"
+  url = "/kunjungan/daftar/"
+  weight = 23
+
+[[main]]
+  name = "Jadwal"
+  parent = "kunjungan"
+  url = "/kunjungan/siang/"
+  weight = 24
+
+[[main]]
+  name = "Penelitian"
+  identifier = "penelitian"
+  url = "/penelitian/"
+  weight = 25
+
+[[main]]
+  name = "Kondisi Cuaca"
+  parent = "penelitian"
+  url = "https://bosscha.itb.ac.id/aws/"
+  weight = 26
+
+[[main]]
+  name = "Topik"
+  parent = "penelitian"
+  url = "/penelitian/"
+  weight = 27
+
+[[main]]
+  name = "Publikasi"
+  parent = "penelitian"
+  url = "#publications"
+  weight = 28
+
+[[main]]
+  name = "Akademik"
+  url = "/akademik/"
+  weight = 30
+
+[[main]]
+  name = "Layanan"
+  identifier = "layanan"
+  url = "/layanan/"
+  weight = 35
+
+[[main]]
+  name = "Kalender Astronomi"
+  parent = "layanan"
+  url = "/layanan/astrocal/"
+  weight = 36
+
+[[main]]
+  name = "Press-release"
+  parent = "layanan"
+  url = "/layanan/pressrelease"
+  weight = 37
+
+# [[main]]
+#   name = "Tes"
+#   parent = "layanan"
+#   url = "/layanan/test/"
+#   weight = 38
+
+[[main]]
+  name = "Tautan"
+  url = "#projects"
+  weight = 40
+
+[[main]]
+  name = "Galeri"
+  url = "/gallery/"
+  # url = "/galeri-2/"
+  weight = 45
+
+[[main]]
+  name = "Kontak"
+  url = "/kontak/"
+  weight = 50
+
+# [[main]]
+#   name = "Publications"
+#   url = "#featured"
+#   weight = 40
+
+# [[main]]
+#   name = "Contact"
+#   url = "#contact"
+#   weight = 60
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# [[main]]
+#    name = "CV"
+#    url = "files/cv.pdf"
+#    weight = 70
