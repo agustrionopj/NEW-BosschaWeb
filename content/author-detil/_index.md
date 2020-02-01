@@ -21,6 +21,7 @@ menu:
     # parent: Fasilitas
     weight: 1
 
+weight: 1
 ---
 
 {{<figure src="koepel.png" title="Kubah Refraktor Ganda Zeiss (credit: M. Yusuf)" >}}

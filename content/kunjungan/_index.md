@@ -1,5 +1,6 @@
 +++
 title = "Informasi Umum"
+weight = 1
 
 date = 2019-07-09T00:00:00
 # lastmod = 2018-09-09T00:00:00
@@ -12,6 +13,7 @@ type = "docs"  # Do not modify.
 [menu.kunjungan]
   name = "Informasi Umum"
   weight = 1
+
 +++
 
 Program kunjungan publik ini terbagi menjadi dua:
