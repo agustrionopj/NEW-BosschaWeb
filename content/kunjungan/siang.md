@@ -1,19 +1,18 @@
-+++
-title = "Kunjungan Siang"
+---
+title: Kunjungan Siang
+date: 2018-09-09T00:00:00.000Z
+lastmod: 2018-09-09T00:00:00.000Z
+draft: false
+toc: true
+type: docs
+linktitle: Kunjungan Siang
+menu:
+  kunjungan:
+    parent: Jadwal Kunjungan
+    weight: 4
 
-date = 2018-09-09T00:00:00
-# lastmod = 2018-09-09T00:00:00
-
-draft = false  # Is this a draft? true/false
-toc = true  # Show table of contents? true/false
-type = "docs"  # Do not modify.
-
-# Add menu entry to sidebar.
-linktitle = "Kunjungan Siang"
-[menu.kunjungan]
-  parent = "Jadwal Kunjungan"
-  weight = 3
-+++
+weight: 4
+---
 
 Untuk hari <font color='red'>Selasa - Jumat</font>, Observatorium Bosscha <font color='red'>hanya menerima kunjungan dari instansi/sekolah/organisasi</font>. Khusus hari <font color='red'>Sabtu</font>, pengunjung yang diterima hanyalah <font color='red'>kunjungan dari keluarga/perorangan atau kelompok kecil < 25 orang</font>.
 

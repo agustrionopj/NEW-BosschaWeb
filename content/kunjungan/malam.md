@@ -1,19 +1,17 @@
-+++
-title = "Kunjungan Malam"
+---
+title: Kunjungan Malam
+date: 2018-09-08T17:00:00.000Z
+draft: false
+toc: true
+type: docs
+linktitle: Kunjungan Malam
+menu:
+  kunjungan:
+    parent: Jadwal Kunjungan
+    weight: 5
 
-date = 2018-09-09T00:00:00
-# lastmod = 2018-09-09T00:00:00
-
-draft = false  # Is this a draft? true/false
-toc = true  # Show table of contents? true/false
-type = "docs"  # Do not modify.
-
-# Add menu entry to sidebar.
-linktitle = "Kunjungan Malam"
-[menu.kunjungan]
-  parent = "Jadwal Kunjungan"
-  weight = 4
-+++
+weight: 5
+---
 
 Program kunjungan malam hanya dibuka beberapa malam di musim kemarau (periode April sampai Oktober). Acara berlangsung dari jam <font color='red'>17:00 - 20:00</font> WIB. Harap datang sebelum acara dimulai. Karena kapasitas yang terbatas, harap mendaftar jauh hari sebelumnya.
 

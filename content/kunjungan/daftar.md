@@ -1,18 +1,17 @@
-+++
-title = "Pendaftaran Kunjungan"
+---
+title: Pendaftaran Kunjungan
+date: 2018-09-08T17:00:00.000Z
+lastmod: 2018-09-08T17:00:00.000Z
+draft: false
+toc: true
+type: docs
+menu:
+  kunjungan:
+    name: Pendaftaran Kunjungan
+    weight: 3
 
-date = 2018-09-09T00:00:00
-# lastmod = 2018-09-09T00:00:00
-
-draft = false  # Is this a draft? true/false
-toc = true  # Show table of contents? true/false
-type = "docs"  # Do not modify.
-
-# Add menu entry to sidebar.
-[menu.kunjungan]
-  name = "Pendaftaran Kunjungan"
-  weight = 5
-+++
+weight: 3
+---
 {{% alert note %}}
 Dengan melakukan pendaftaran dan pembayaran, anda telah menyetujui [aturan berkunjung]({{< ref "/kunjungan/aturan.md">}}) ke Observatorium Bosscha. Sebelum mendaftar lihatlah terlebih dahulu [jadwal kunjungan]({{< ref "/kunjungan/siang.md">}}) di Observatorium Bosscha.
 {{% /alert %}}

@@ -1,19 +1,19 @@
-+++
-title = "Aturan Kunjungan"
-weight = 2
+---
+title: Aturan Kunjungan
 
-date = 2018-09-09T00:00:00
-# lastmod = 2018-09-09T00:00:00
+date: 2018-09-09T00:00:00.000Z
+lastmod: 2018-09-09T00:00:00.000Z
 
-draft = false  # Is this a draft? true/false
-toc = true  # Show table of contents? true/false
-type = "docs"  # Do not modify.
+draft: false
+toc: true
+type: docs
+menu:
+  kunjungan:
+    name: Aturan Kunjungan
+    weight: 2
 
-# Add menu entry to sidebar.
-[menu.kunjungan]
-  name = "Aturan Kunjungan"
-  weight = 2
-+++
+weight: 2
+---
 
 Selama berada di Observatorium Bosscha, pengunjung **diwajibkan** menaati peraturan berikut.
 

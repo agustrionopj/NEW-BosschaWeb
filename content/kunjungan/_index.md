@@ -1,20 +1,18 @@
-+++
-title = "Informasi Umum"
-weight = 1
+---
+title: Informasi Umum
+weight: 1
+date: 2019-07-09T00:00:00.000Z
+lastmod: 2018-09-09T00:00:00.000Z
+draft: false
+toc: true
+type: docs
+menu:
+  kunjungan:
+    name: Informasi Umum
+    weight: 1
 
-date = 2019-07-09T00:00:00
-# lastmod = 2018-09-09T00:00:00
-
-draft = false  # Is this a draft? true/false
-toc = true  # Show table of contents? true/false
-type = "docs"  # Do not modify.
-
-# Add menu entry to sidebar.
-[menu.kunjungan]
-  name = "Informasi Umum"
-  weight = 1
-
-+++
+weight: 1
+---
 
 Program kunjungan publik ini terbagi menjadi dua:
 

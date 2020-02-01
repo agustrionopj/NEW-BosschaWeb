@@ -1,4 +1,29 @@
-+++
+---
+title: Instrumen Penelitian
+date: 2018-09-08T17:00:00.000Z
+lastmod: 2020-01-31T08:00:00.000Z
+draft: false
+toc: true
+type: docs
+linktitle: Instrumen
+identifier: instrumen
+menu:
+  author-detil:
+    parent: Fasilitas
+    weight: 2
+
+weight: 2
+
+gallery_item:
+  - album: zeiss
+    image: zeiss3.jpg
+    caption: Teleskop refraktor ganda Zeiss
+  - album: zeiss
+    image: zeiss4.jpg
+    caption: Teleskop refraktor ganda Zeiss
+
+---
+<!-- +++
 title = "Instrumen Penelitian"
 
 #date = 2018-09-09T00:00:00
@@ -26,7 +51,7 @@ album = "zeiss"
 image = "zeiss4.jpg"
 caption = "Teleskop refraktor ganda Zeiss"
 
-+++
++++ -->
 
 
 ## Teleskop Refraktor Ganda Zeiss

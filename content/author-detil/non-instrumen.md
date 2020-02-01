@@ -1,65 +1,48 @@
-+++
-title = "Fasilitas Pendukung"
+---
+title: Fasilitas Pendukung
+date: 2019-09-24T00:00:00.000Z
+lastmod: 2020-01-31T14:00:00.000Z
+draft: false
+toc: true
+type: docs
+linktitle: Penunjang
+menu:
+  author-detil:
+    parent: Fasilitas
+    weight: 3
 
-#date = 2019-09-24T00:00:00
-lastmod = 2020-01-31T14:00:00
+weight: 3
 
-draft = false  # Is this a draft? true/false
-toc = true  # Show table of contents? true/false
-type = "docs"  # Do not modify.
+gallery_item:
+  - album: perpus
+    image: perpus1.jpg
+    caption: Perpustakaan
+  - album: perpus
+    image: perpus2.jpg
+    caption: Perpustakaan
+  - album: perpus
+    image: perpus3.jpg
+    caption: Perpustakaan
+  - album: bengkel
+    image: bengkel1.jpg
+    caption: Bengkel Teknik
+  - album: bengkel
+    image: bengkel2.jpg
+    caption: Bengkel Teknik
+  - album: kerkhoven
+    image: kerkhoven1.jpg
+    caption: Wisma Kerkhoven
+  - album: kerkhoven
+    image: kerkhoven2.jpg
+    caption: Wisma Kerkhoven
+  - album: kerkhoven
+    image: kerkhoven3.jpg
+    caption: Wisma Kerkhoven
+  - album: kerkhoven
+    image: kerkhoven4.jpg
+    caption: Wisma Kerkhoven
 
-# Add menu entry to sidebar.
-linktitle = "Penunjang"
-[menu.author-detil]
-  parent = "Fasilitas"
-  weight = 2
-
-[[gallery_item]]
-album = "perpus"
-image = "perpus1.jpg"
-caption = "Perpustakaan"
-
-[[gallery_item]]
-album = "perpus"
-image = "perpus2.jpg"
-caption = "Perpustakaan"
-
-[[gallery_item]]
-album = "perpus"
-image = "perpus3.jpg"
-caption = "Perpustakaan"
-
-[[gallery_item]]
-album = "bengkel"
-image = "bengkel1.jpg"
-caption = "Bengkel Teknik"
-
-[[gallery_item]]
-album = "bengkel"
-image = "bengkel2.jpg"
-caption = "Bengkel Teknik"
-
-[[gallery_item]]
-album = "kerkhoven"
-image = "kerkhoven1.jpg"
-caption = "Wisma Kerkhoven"
-
-[[gallery_item]]
-album = "kerkhoven"
-image = "kerkhoven2.jpg"
-caption = "Wisma Kerkhoven"
-
-[[gallery_item]]
-album = "kerkhoven"
-image = "kerkhoven3.jpg"
-caption = "Wisma Kerkhoven"
-
-[[gallery_item]]
-album = "kerkhoven"
-image = "kerkhoven4.jpg"
-caption = "Wisma Kerkhoven"
-
-+++
+---
 
 ## Perpustakaan
 ***
