@@ -549,7 +549,7 @@ table > tbody > tr:hover > th {
 div.alert > div {
   position: relative;
   display: block;
-  font-size: 1rem;
+  font-size: 0.9rem; /* change font-size in alert box */
   margin-left: 2rem;
   margin-top: 0;
   margin-bottom: 0;
