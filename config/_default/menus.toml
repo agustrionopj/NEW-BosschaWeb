@@ -9,7 +9,7 @@
   weight = 5
 
 [[main]]
-  name = "Tentang Kami"
+  name = "Profil"
   url = "#about"
   weight = 10
 
