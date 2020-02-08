@@ -35,7 +35,7 @@ Jadwal kunjungan siang adalah sebagai berikut.
 | Sabtu   |	Sesi 1: 09:30     |	 90  | keluarga/pribadi/kelompok $<$ 25 orang|
 |         | Sesi 2: 10:45 	  |  90  | |
 |         | Sesi 3: 12:00     |	 90  | |
-|         | Sesi 4: 13:00     |	90   | |
+|         | Sesi 4: 13:15     |	 90   | |
 
 {{% alert note %}}
 Kalender kunjungan tahun 2020 selengkapnya bisa dilihat dan diunduh pada tautan {{% staticref "img/kalender_kunjungan2020.png" "newtab"%}}berikut{{% /staticref %}}.
