@@ -14,45 +14,15 @@ menu:
 
 weight: 2
 
-gallery_item:
-  - album: zeiss
-    image: zeiss3.jpg
-    caption: Teleskop refraktor ganda Zeiss
-  - album: zeiss
-    image: zeiss4.jpg
-    caption: Teleskop refraktor ganda Zeiss
+# gallery_item:
+#   - album: zeiss
+#     image: zeiss3.jpg
+#     caption: Teleskop refraktor ganda Zeiss
+#   - album: zeiss
+#     image: zeiss4.jpg
+#     caption: Teleskop refraktor ganda Zeiss
 
 ---
-<!-- +++
-title = "Instrumen Penelitian"
-
-#date = 2018-09-09T00:00:00
-lastmod = 2020-01-31T15:00:00
-
-draft = false  # Is this a draft? true/false
-toc = true  # Show table of contents? true/false
-type = "docs"  # Do not modify.
-
-# Add menu entry to sidebar.
-linktitle = "Instrumen"
-identifier = "instrumen"
-
-[menu.author-detil]
-  parent = "Fasilitas"
-  weight = 1
-
-[[gallery_item]]
-album = "zeiss"
-image = "zeiss3.jpg"
-caption = "Teleskop refraktor ganda Zeiss"
-
-[[gallery_item]]
-album = "zeiss"
-image = "zeiss4.jpg"
-caption = "Teleskop refraktor ganda Zeiss"
-
-+++ -->
-
 
 ## Teleskop Refraktor Ganda Zeiss
 

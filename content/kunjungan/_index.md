@@ -81,6 +81,13 @@ Akses menuju Observatorium Bosscha bisa dilihat pada peta di bawah ini. Perkiraa
 </body>
 </html>
 
+<br>
+
+Berikut adalah denah Observatorium Bosscha.
+
+{{<figure library="true" src="peta.png" lightbox="true">}}
+
+
 Suasana kunjungan publik Observatorium Bosscha bisa dilihat pada galeri berikut.
 ***
 {{<foldergallery src="kunjungan">}}
