@@ -55,7 +55,7 @@
 
 <body>
     <div class="gallery">
-        {{ $path := print "content\\" .Page.File.Dir (.Get "src") }}
+        {{ $path := print "content\\id\\" .Page.File.Dir (.Get "src") }}
         {{ $url  := print .Page.RelPermalink (.Get "src") }}
         {{ range (readDir $path)  }}
         {{ $src := print $url "/" .Name }}
