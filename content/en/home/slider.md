@@ -30,8 +30,8 @@ height = "400px"
 #  cta_icon = "circle"
 
 [[item]]
-  title = "**Selamat Datang**"
-  content = "di Observatorium Bosscha"
+  title = "**Welcome to**"
+  content = "Bosscha Observatory"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -44,7 +44,7 @@ height = "400px"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   
-  cta_label = "Tentang Kami"
+  cta_label = "About Us"
   cta_url = "#about"
   cta_icon_pack = "fas"
   cta_icon = "user-check"
@@ -54,8 +54,8 @@ height = "400px"
   # cta_icon = "graduation-cap"
 
 [[item]]
-  title = "Kalender Astronomi 2020"
-  content = "Lihat peristiwa Astronomi di tahun 2020"
+  title = "Astronomy Calendar 2020"
+  content = "List of Astronomy Event in 2020"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -68,7 +68,7 @@ height = "400px"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   
-  cta_label = "Detail"
+  cta_label = "Details"
   cta_url = "/layanan/astrocal"
   cta_icon_pack = "fas"
   cta_icon = "calendar"
@@ -79,43 +79,43 @@ height = "400px"
 
 
 [[item]]
-  title = "**Penelitian**"
-  content = "Observasi, Pengembangan Instrumen & Sistem,  Publikasi"
+  title = "**Research**"
+  content = "Observation, Development,  Publication"
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "headers/research.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.6  # Darken the image. Value in range 0-1.
 
-  cta_label = "Detail"
+  cta_label = "Details"
   cta_url = "/penelitian/"
   cta_icon_pack = "fas"
   cta_icon = "user-astronaut"
 
 [[item]]
-  title = "**Pendidikan**"
-  content = "Praktikum, Kerja Praktik, Kerjasama Non-Astronomi"
+  title = "**Academic**"
+  content = "Students projects, Internship, Non-Astronomy Activities"
   align = "left"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "headers/akademik.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.6  # Darken the image. Value in range 0-1.
 
-  cta_label = "Detail"
+  cta_label = "Details"
   cta_url = "/akademik/"
   cta_icon_pack = "fas"
   cta_icon = "book-open"
 
 [[item]]
-  title = "**Layanan**"
-  content = "Kunjungan Publik & Khusus, Pelatihan, Pengamatan Hilal"
+  title = "**Services**"
+  content = "Public visit, Courses, Lunar Crescent Observations"
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "headers/kunjungan.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.6  # Darken the image. Value in range 0-1.
 
-  cta_label = "Detail"
+  cta_label = "Details"
   cta_url = "/layanan/"
   cta_icon_pack = "fas"
   cta_icon = "users"

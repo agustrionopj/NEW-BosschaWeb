@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Observatorium Bosscha
+name: Bosscha Observatory
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Fakultas Matematika dan Ilmu Pengetahuan Alam
+role: Faculty of Mathematics and Natural Sciences
 
 # Organizations/Affiliations
 organizations:
@@ -79,6 +79,6 @@ email: ""
 # - Visitors
 ---
 
-Observatorium Bosscha adalah lembaga riset yang berada di bawah naungan Fakultas Matematika dan Ilmu Pengetahuan Alam Institut Teknologi Bandung (<a href="https://fmipa.itb.ac.id" target="_blank">FMIPA ITB</a>). Hingga saat ini, Observatorium Bosscha merupakan satu--satunya observatorium besar di Indonesia. Bersama--sama dengan <a href="https://www.as.itb.ac.id/en/" target="_blank">Program Studi Astronomi</a>, FMIPA ITB, Observatorium Bosscha menjadi pusat penelitian, pendidikan, dan pengembangan ilmu Astronomi di Indonesia.
+Bosscha Observatory is a research institution under the auspices of the Faculty of Mathematics and Natural Sciences, Institut Teknologi Bandung (<a href="https://fmipa.itb.ac.id" target="_blank">FMIPA ITB</a>). Bosscha Observatory is the only large observatory in Indonesia to date. In conjunction with <a href="https://www.as.itb.ac.id/en/" target="_blank">Astronomy Study Program</a>, FMIPA ITB, Bosscha Observatory becomes the center of research, education, and development of Astronomy in Indonesia.
 
-Detail lebih lanjut mengenai [sejarah]({{< ref "/author-detil/_index.md">}}), [staf]({{< ref "#people" >}}), [fasilitas]({{< ref "/author-detil/instrumen.md" >}}), <a href="https://bosscha.itb.ac.id/aws/" target="_blank">gambaran kondisi cuaca</a> dan [akses]({{< ref "/author-detil/akses.md" >}}) silakan cek tautan [berikut]({{< ref "/author-detil/_index.md">}}).
+Further details regarding [history]({{< ref "/author-detil/_index.md">}}), [staff]({{< ref "#people" >}}), [facility]({{< ref "/author-detil/instrumen.md" >}}), overview of <a href="https://bosscha.itb.ac.id/aws/" target="_blank">weather condition</a> and [how to get here]({{< ref "/author-detil/akses.md" >}}) please check the following [link]({{< ref "/author-detil/_index.md">}}).

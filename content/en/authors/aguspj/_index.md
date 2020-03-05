@@ -30,7 +30,7 @@ email = ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Peneliti"]
+user_groups = ["Researcher"]
 
 # List qualifications (such as academic degrees)
 #[[education.courses]]
@@ -86,7 +86,5 @@ user_groups = ["Peneliti"]
 #   link = "files/cv.pdf"
 
 +++
-
-Pria yang kerap dipanggil `PJ` ini sedang mengerjakan topik penelitian bintang variabel dan okultasi. Waktu senggangnya dihabiskan dengan bermain piano, fotografi, dan _coding_. Detail lebih lanjut bisa dilihat di <a href="https://agustrionopj.github.io/" target="_blank">sini</a>.
 
 #### [<i class="fas fa-angle-left"></i> Kembali]({{< relref "/#people" >}})

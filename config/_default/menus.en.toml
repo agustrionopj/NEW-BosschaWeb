@@ -19,7 +19,7 @@
   weight = 15
 
 [[main]]
-  name = "Public"
+  name = "Visit"
   identifier = "kunjungan"
   url = "/kunjungan/"
   weight = 20
@@ -31,13 +31,13 @@
   weight = 21
 
 [[main]]
-  name = "Visitation Rules"
+  name = "Rules & Guidelines"
   parent = "kunjungan"
   url = "/kunjungan/aturan/"
   weight = 22
 
 [[main]]
-  name = "Admissions"
+  name = "Admission"
   parent = "kunjungan"
   url = "/kunjungan/daftar/"
   weight = 23
@@ -73,7 +73,7 @@
   weight = 28
 
 [[main]]
-  name = "Education"
+  name = "Academic"
   url = "/akademik/"
   weight = 30
 

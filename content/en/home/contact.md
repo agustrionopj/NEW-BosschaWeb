@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
-title = "Kontak"
-subtitle = "Kontak yang tertera pada laman ini adalah untuk keperluan [kunjungan](/kunjungan/). Untuk keperluan lain, silakan cek laman [kontak](/kontak/). Ganti '[at]' dengan '@' saat anda berkirim email."
+title = "Contact"
+subtitle = "Contact number listed on this page is related to [public visit's](/kunjungan/) information and admission. For other purposes, kindly check [contact](/kontak/) page. Change '[at]' with '@' when you send your email."
 
 # Automatically link email and phone?
 autolink = false

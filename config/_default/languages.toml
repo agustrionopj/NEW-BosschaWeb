@@ -4,10 +4,10 @@
 
 # Configure the English version of the site.
 [en]
- languageCode = "en-us"
- title = "Bosscha Observatory"
- contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-
+  languageCode = "en-us"
+  title = "Bosscha Observatory"
+  contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  copyright = "&copy; {year} Bosscha Observatory"
 # [en.params]
 #  languageName = "EN"
  
