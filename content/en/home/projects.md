@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Tautan"
-subtitle = "Tautan institusi dan media Astronomi"
+title = "Links"
+subtitle = "Astronomy media and institution"
 
 [content]
   # Page type to display. E.g. project.
@@ -22,11 +22,11 @@ subtitle = "Tautan institusi dan media Astronomi"
   filter_default = 0
   
   [[content.filter_button]]
-    name = "Semua"
+    name = "All"
     tag = "*"
   
   [[content.filter_button]]
-    name = "Edukasi"
+    name = "Education"
     tag = "edukasi"
   
   [[content.filter_button]]
@@ -34,7 +34,7 @@ subtitle = "Tautan institusi dan media Astronomi"
     tag = "media"
   
   [[content.filter_button]]
-    name = "Institusi"
+    name = "Institution"
     tag = "institusi"
     
   # [[content.filter_button]]

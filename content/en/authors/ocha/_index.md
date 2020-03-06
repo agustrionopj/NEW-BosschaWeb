@@ -87,4 +87,4 @@ user_groups = ["_Outreach_"]
 
 +++
 
-#### [<i class="fas fa-angle-left"></i> Kembali]({{< relref "/#people" >}})
+#### [<i class="fas fa-angle-left"></i> Back]({{< relref "/#people" >}})

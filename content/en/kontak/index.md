@@ -3,8 +3,8 @@
 widget = "contact"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Kontak"
-subtitle = "Kontak kami pada jalur yang sesuai dengan keperluan anda."
+title = "Contacts"
+subtitle = "Please use our contact lines below that suits your needs."
 
 # Enable native social sharing buttons?
 sharing = false
@@ -21,34 +21,34 @@ autolink = true
 #   2: formspree.io
 email_form = 0
 +++
-### <i class="fas fa-envelope-open-text"></i> Alamat Surat
+### <i class="fas fa-envelope-open-text"></i> Postal Address
 
 > Observatorium Bosscha <br>
 FMIPA Institut Teknologi Bandung <br>
 Jl. Peneropongan Bintang, Lembang, Bandung Barat 40391 <br>
 Jawa Barat, Indonesia
 
-### <i class="fas fa-phone"></i> Telepon/Fax
+### <i class="fas fa-phone"></i> Phone/Fax
 
  | 
 --- | ---
-**Kontak Non - Kunjungan** | `+62 22 278 6027`
+**Phone (<u>NOT</u> for Visit admission/inquiry)** | `+62 22 278 6027`
 
 {{%alert note%}}
-Permintaan informasi/pendaftaran lewat telepon/fax hanya dilayani pada jam dan hari kerja: **Senin--Jumat pukul 09:00 s.d. 15:00 WIB**.
+Information inquiry by phone/fax will be responded only in workdays: **Monday--Friday 09:00 to 15:00 Western Indonesian Time (WIB)**.
 {{%/alert%}}
 
 <!-- * Kunjungan publik  : `+62 22 278 6001` -->
 
 
 ### <i class="fas fa-envelope"></i> E-mail
-Ganti '[at]' dengan lambang '@' saat anda mengirimkan e-mail.
+Replace '[at]' with '@' symbol when you send e-mail.
 <!-- * Kunjungan publik  : `kunjungan@as.itb.ac.id`
 * Riset/Administrasi    : `bosscha@as.itb.ac.id`
 * Perpustakaan              : `ely@as.itb.ac.id` -->
 
  | 
 --- | ---
-**Kunjungan publik**  | `kunjungan[at]as.itb.ac.id`
-**Riset/Administrasi**   | `bosscha[at]as.itb.ac.id`
-**Perpustakaan**              | `ely[at]as.itb.ac.id`
+**Public visit**  | `kunjungan[at]as.itb.ac.id`
+**Research/Academic**   | `bosscha[at]as.itb.ac.id`
+**Library**              | `ely[at]as.itb.ac.id`

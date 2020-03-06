@@ -1,5 +1,5 @@
 ---
-title: Lokasi dan Akses
+title: Location & Access
 date: 2019-09-24T00:00:00.000Z
 lastmod: 2018-09-09T00:00:00.000Z
 draft: false
@@ -7,7 +7,7 @@ toc: true
 type: docs
 menu:
   author-detil:
-    name: Lokasi & Akses
+    name: Location & Access
     weight: 40
 
 weight: 40
@@ -38,31 +38,29 @@ weight: 40
 </body>
 </html>
 
-Ada beberapa alternatif transportasi untuk menuju ke Observatorium Bosscha.
+## By Private Transportation
 
-## Kendaraan Pribadi
-
-**Perkiraan durasi**: 
+**Estimated time**: 
 
 |       |       |
 | ------- | ------- |
-| Setiabudi - Gerbang bawah | $\pm$ 45 menit |
-| Gerbang bawah - Observatorium | $\pm$ 20 menit (jalan kaki) |
+| Setiabudi - Lower Entrance Gate| $\pm$ 45 minutes |
+| Lower Entrance Gate - Observatory | $\pm$ 20 minutes (by walking) |
 
-Dari <font color='red'>Jl. Setiabudi</font> Bandung, silahkan ambil jalan ke <font color='red'>arah lembang</font>. Dalam perjalanan akan <font color='red'>melewati Universitas Pendidikan Indonesia (UPI Bandung)</font> dan <font color='red'>terminal `Ledeng`</font>. Setelah sampai <font color='red'>terminal `Ledeng`</font>, teruskan perjalanan ke <font color='red'>arah Lembang</font>. Ikuti jalan sampai <font color='red'>Pusdik Korps Wanita Angkatan Darat</font>. Setelah kurang lebih 400 meter, akan sampai <font color='red'>gerbang bawah Observatorium Bosscha</font> yang berada di kanan jalan. Kendaraan besar seperti Bus diparkir di depan gerbang ini. Perjalanan dilanjutkan dengan <font color='red'>jalan kaki</font> sekitar 800 meter, melewati gerbang atas, dan sampai di Observatorium.
+From  <font color='red'>Jl. Setiabudi</font> Bandung, go to the direction of <font color='red'>Lembang</font> town. Along the way, you will pass  <font color='red'>Indonesia Education University or Universitas Pendidikan Indonesia (UPI Bandung)</font> and <font color='red'>Ledeng Terminal</font>. After passing <font color='red'>Ledeng Terminal</font>, continue your way to <font color='red'>Lembang</font>. Follow the main road until you pass <font color='red'>Women Army Education Center or Pusdik Korps Wanita Angkatan Darat</font>. From here, at approximately 400 meters, you will arrive at <font color='red'>Lower Entrance Gate of Bosscha Observatory</font> on the right side of the street from where you came. Big vehicles e.g. Bus are parked in front of this gate. You go to the Observatory by <font color='red'>walkin</font> for around 800 meter, passing through Upper Entrance Gate of Bosscha Observatory and finally arrived at the observatory.
 
-## Kendaraan Umum
+## By Public Transportation
 
-**Perkiraan durasi**:
+**Estimated time**:
 
 |       |       |
 | ------- | ------- |
-| St. Hall - Gerbang bawah | $\pm$ 2 jam |
-| Terminal `Cicaheum` - Gerbang bawah | $\pm$ 2,5 jam |
-| Terminal `Leuwi Panjang` - Gerbang bawah | $\pm$ 3,5 jam |
-* Dari <font color='red'>Stasiun Hall Bandung</font> <br>
-Naik <font color='red'>Angkutan Kota St. Hall – Lembang</font>, turun di gerbang bawah Observatorium.
-* Dari <font color='red'>Terminal Bus Cicaheum</font> <br>
-Naik <font color='red'>Angkutan Kota Cicaheum – Ledeng</font>, turun di <font color='red'>terminal Ledeng</font>, dilanjutkan naik <font color='red'>St. Hall – Lembang</font>, turun di gerbang bawah Observatorium.
-* Dari <font color='red'>Terminal Leuwi Panjang</font> <br>
-Naik <font color='red'>Bus Damri arah `Ledeng`</font>. Dari `Ledeng` naik <font color='red'>St. Hall – Lembang</font>, turun di gerbang bawah Observatorium.
+| <font color='red'>Stasiun Hall</font> Train Station - Lower Entrance Gate | $\pm$ 2 hours |
+| <font color='red'>Cicaheum</font> Terminal- Lower Entrance Gate | $\pm$ 2.5 hours |
+| <font color='red'>Leuwi Panjang</font> Terminal- Lower Entrance Gate | $\pm$ 3.5 hours |
+* From <font color='red'>Stasiun Hall</font> Train Station, Bandung <br>
+Ride public transport with direction written: <font color='red'>St. Hall – Lembang</font>, and stop directly at <font color='red'>Lower Entrance Gate</font>.
+* From <font color='red'>Cicaheum Terminal (bus station)</font> <br>
+Ride public transport with direction written: <font color='red'>Cicaheum – Ledeng</font>, and stop at <font color='red'>Ledeng Terminal</font>, and change your ride to public transport <font color='red'>St. Hall – Lembang</font>. Stop at <font color='red'>Lower Entrance Gate</font>.
+* From <font color='red'>Leuwi Panjang Terminal (bus station)</font> <br>
+Ride <font color='red'>**Damri** bus with direction written: **Ledeng**</font>. From <font color='red'>Ledeng</font> ride public transport <font color='red'>St. Hall – Lembang</font>, and stop at <font color='red'>Lower Entrance Gate</font>.

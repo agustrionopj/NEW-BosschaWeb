@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Sejarah dan Perkembangan Terkini"
+title: "History and Recent Development"
 linktitle: "Sejarah dan Perkembangan Terkini"
 summary:
 date: 2020-01-30T12:33:42+07:00
@@ -17,32 +17,32 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   author-detil:
-    name: Sejarah & Masa Kini
+    name: Then & Now
     # parent: Fasilitas
     weight: 1
 
 weight: 1
 ---
 
-{{<figure src="koepel.png" title="Kubah Refraktor Ganda Zeiss (credit: M. Yusuf)" >}}
+{{<figure src="koepel.png" title="Dome of Zeiss Double Refractor(credit: M. Yusuf)" >}}
 
-## Sejarah
+## History
 
-Observatorium Bosscha (dahulu bernama <font color="red">Bosscha Sterrenwacht</font>) dibangun oleh <font color="red">Nederlandsch-Indische Sterrenkundige Vereniging (NISV)</font> atau Perhimpunan Astronomi Hindia Belanda. 
+The Bosscha Observatory (formerly known as <font color='red'>Bosscha Sterrenwacht</font>) was built by the <font color='red'>Nederlandsch-Indische Sterrenkundige Vereniging (NISV)</font> or the Netherlands East Indies Astronomy Association.
 
-Pada rapat pertama NISV, diputuskan akan dibangun sebuah observatorium di Indonesia demi memajukan Ilmu Astronomi di Hindia Belanda. Dalam rapat itulah, <font color="red">Karel Albert Rudolf (K.A.R.) Bosscha</font>, seorang tuan tanah di perkebunan teh Malabar, bersedia menjadi penyandang dana utama dan berjanji akan memberikan bantuan pembelian teropong bintang. Sebagai penghargaan atas jasa K.A.R. Bosscha dalam pembangunan observatorium ini, maka nama Bosscha diabadikan sebagai nama observatorium ini. 
+There was in first meeting of NISV that concluded to build an observatory in Indonesia to advance Astronomy in the Dutch East Indies. During the meeting, <font color='red'>Karel Albert Rudolf (KAR) Bosscha</font>, a landlord in the Malabar tea plantation, agreed to become the main funder and promised to provide assistance in purchasing binoculars. As a tribute to KAR Bosscha's services in the construction of this observatory, the name Bosscha is enshrined as the name of this observatory.
 
-Pembangunan observatorium ini sendiri menghabiskan waktu kurang lebih 5 tahun sejak tahun 1923 sampai dengan tahun 1928. Publikasi internasional pertama Observatorium Bosscha dilakukan pada tahun 1933. Namun kemudian observasi terpaksa dihentikan dikarenakan sedang berkecamuknya Perang Dunia II. Setelah perang usai, dilakukan renovasi besar-besaran pada observatorium ini karena kerusakan akibat perang hingga akhirnya observatorium dapat beroperasi dengan normal kembali. Kemudian pada tanggal 17 Oktober 1951, NISV menyerahkan observatorium ini kepada pemerintah RI. Setelah Institut Teknologi Bandung (ITB) berdiri pada tahun 1959, Observatorium Bosscha kemudian menjadi bagian dari ITB. Dan sejak saat itu, Bosscha difungsikan sebagai lembaga penelitian dan pendidikan formal Astronomi di Indonesia.
+The construction of the observatory itself took approximately 5 years from 1923 to 1928. The first international publication of the Bosscha Observatory was in 1933. But then observations were forced to stop due to the raging World War II. After the war, a major renovation of the observatory was carried out due to damage from the war so that the observatory was able to operate normally again. Then on October 17, 1951, NISV handed over the observatory to the Indonesian government. After the Bandung Institute of Technology (Institut Teknologi Bandung, ITB) was established in 1959, Bosscha Observatory then became part of ITB. And since then, Bosscha has functioned as a formal Astronomy research and education institution in Indonesia.
 
-Selain mengemban tugasnya dalam penelitian dan pendidikan, Observatorium Bosscha melaksanakan kegiatan pengabdian masyarakat, baik dalam bentuk kegiatan rutin maupun kegiatan yang sifatnya insidental bergantung pada terjadinya fenomena astronomi yang menarik. Observatorium Bosscha pun membuka peluang kolaborasi dan belajar bagi mahasiswa maupun peneliti dari berbagai tempat di seluruh dunia. Peneliti dan mahasiswa dari berbagai tempat telah datang untuk melakukan pengamatan astronomi, melakukan analisis data astrofisika, belajar instrumentasi, dan lain sebagainya. Observatorium Bosscha juga menerima mahasiswa maupun peneliti yang ingin belajar topik-topik non--astronomi yang relevan, misalnya tentang sejarah, bangunan, manajemen, serta lingkungan di Observatorium Bosscha.
+In addition to carrying out his duties in research and education, Bosscha Observatory carries out community service activities, both in the form of routine activities and incidental activities, depending on the occurrence of interesting astronomical phenomena. Bosscha Observatory also opens opportunities for collaboration and learning for students and researchers from various places around the world. Researchers and students from various places have come to conduct astronomical observations, conduct astrophysical data analysis, learn instrumentation, and so forth and so on. Bosscha Observatory also accepts students and researchers who want to learn relevant non-astronomical topics, for example about history, architectural/buildings, management, and environment study at the Bosscha Observatory.
 
-Tahun 2004, Observatorium Bosscha dinyatakan sebagai Benda Cagar Budaya oleh Pemerintah. Oleh karena itu, keberadaan Observatorium Bosscha dilindungi <font color="red">UU Nomor 2 / 1992</font> tentang Benda Cagar Budaya. Selanjutnya, tahun 2008, Pemerintah menetapkan Observatorium Bosscha sebagai salah satu <font color="red"> Objek Vital Nasional </font> yang harus diamankan.
+In 2004, the Bosscha Observatory was declared as a Cultural Heritage Property by the Government. Therefore, the existence of the Bosscha Observatory is protected by <font color='red'>Government Legislation Number 2/1992</font> concerning Cultural Heritage Objects. Furthermore, in 2008, the Government established the Bosscha Observatory as one of the National Vital Objects that had to be secured.
+
 * * *
-## Direktur
+## List of Directors of Bosscha Observatory
 
-Berikut adalah daftar direktur Observatorium Bosscha.
 
-| Tahun | Nama  |
+| Year of duty | Name  |
 | ----- | ----- |
 | 1923 – 1940 | Dr. Joan Voûte |
 | 1940 – 1942 | Dr. Aernout de Sitter |
@@ -57,4 +57,4 @@ Berikut adalah daftar direktur Observatorium Bosscha.
 | 2006 – 2010 | Dr. Taufiq Hidayat |
 | 2010 – 2012 | Dr. Hakim Luthfi Malasan |
 | 2012 – 2018 | Dr. Mahasena Putra |
-| 2018 -- Sekarang | Premana W. Premadi, Ph.D |
+| 2018 -- $\ldots$ | Premana W. Premadi, Ph.D |

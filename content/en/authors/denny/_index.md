@@ -30,7 +30,7 @@ email = ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Peneliti"]
+user_groups = ["Researcher"]
 
 # List qualifications (such as academic degrees)
 #[[education.courses]]
@@ -82,4 +82,4 @@ user_groups = ["Peneliti"]
 
 +++
 
-#### [<i class="fas fa-angle-left"></i> Kembali]({{< relref "/#people" >}})
+#### [<i class="fas fa-angle-left"></i> Back]({{< relref "/#people" >}})

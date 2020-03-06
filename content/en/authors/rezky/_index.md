@@ -87,6 +87,6 @@ user_groups = ["_Outreach_"]
 
 +++
 
-Semenjak berkenalan dengan astronomi pada jenjang SMA, Rezky mendalami ilmu alam semesta di Astronomi ITB, terutama topik mengenai Tata Surya beserta benda-benda kecil yang ada di dalamnya. Jangan ragu untuk bertanya, karena remah alam semesta ini tak segan untuk berdiskusi mengenai semesta beserta inspirasi yang dikandungnya.
+Since getting acquainted with astronomy at the high school level, Rezky has studied the natural sciences at Astronomy ITB, especially the topic of the Solar System and the small objects in it. Do not hesitate to ask, because he is not reluctant to discuss the universe and the inspiration it contains.
 
-#### [<i class="fas fa-angle-left"></i> Kembali]({{< relref "/#people" >}})
+#### [<i class="fas fa-angle-left"></i> Back]({{< relref "/#people" >}})

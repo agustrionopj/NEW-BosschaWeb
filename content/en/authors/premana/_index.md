@@ -30,7 +30,7 @@ email = ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Direktur"]
+user_groups = ["Director"]
 
 # List qualifications (such as academic degrees)
 #[[education.courses]]
@@ -67,12 +67,12 @@ user_groups = ["Direktur"]
 
 +++
 
-Bu Premana, atau yang sering dipanggil Bu Nana, merupakan peneliti di bidang Kosmologi sekaligus dosen program studi Astronomi ITB yang juga aktif dalam berbagai organisasi, di antaranya adalah *Universe Awareness* (UNAWE) dan Yayasan ALS Indonesia, sebuah wadah yang menaungi penyandang ALS (*Amythropic Lateral Schlerosis*, penyakit langka yang menyerang syaraf secara bertahap seperti yang diderita Prof. Stephen Hawking). Saat ini beliau menjabat sebagai Direktur Observatorium Bosscha. 
+Mrs. Premana, or often called Mrs. Nana, is a researcher in the field of cosmology as well as a lecturer in the Astronomy Study Program at ITB who is also active in various organizations, including the Universe Awareness (UNAWE) and the ALS Indonesia Foundation, a forum that houses ALS (*Amythropic Lateral Schlerosis*, a rare disease that attacks the nerves as suffered by Prof. Stephen Hawking). She currently serves as Director of the Bosscha Observatory.
 
-Berkat kontribusi Bu Nana di dunia Astronomi, nama beliau diabadikan sebagai nama asteroid, yaitu asteroid <a href="https://ssd.jpl.nasa.gov/horizons.cgi#results" target="_blank">`12937 Premadi`</a>. 
+Thanks to Mrs. Nana's contribution to the world of Astronomy, her name was enshrined as the name of the asteroid, the asteroid <a href="https://ssd.jpl.nasa.gov/horizons.cgi#results" target="_blank">`12937 Premadi`</a>.
 
-Cek profil beliau pada situs <a href="https://fmipa.itb.ac.id/premana-w-premadi/" target="_blank">FMIPA ITB</a>.
+Check her profile on the <a href="https://fmipa.itb.ac.id/premana-w-premadi/" target="_blank">FMIPA ITB</a> website.
 
-Detail aktivitas beliau terkait penelitian dan *community development* bisa dilihat pada tautan <a href="https://alsnstars.wordpress.com/work-2/public-service/" target="_blank">berikut</a>.
+Details of her activities related to research and community development can be seen in the following <a href="https://alsnstars.wordpress.com/work-2/public-service/" target="_blank">link</a>.
  
-#### [<i class="fas fa-angle-left"></i> Kembali]({{< ref "/#people" >}})
+#### [<i class="fas fa-angle-left"></i> Back]({{< ref "/#people" >}})

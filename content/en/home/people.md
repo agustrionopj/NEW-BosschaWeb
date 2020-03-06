@@ -57,5 +57,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-#### [<i class="fas fa-angle-left"></i> Kembali](/author-detil/)
-
+#### [<i class="fas fa-angle-left"></i> Back](/en/author-detil)

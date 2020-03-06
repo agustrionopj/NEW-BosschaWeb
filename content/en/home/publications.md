@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Publikasi"
-subtitle = "[Lihat semua](/publication/)"
+title = "Publications"
+subtitle = "[See all](/en/publication/)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -67,8 +67,8 @@ subtitle = "[Lihat semua](/publication/)"
 +++
 
 {{% alert note %}}
-Cari publikasi dengan cepat dengan menggunakan [filter publikasi]({{< ref "/publication/_index.md" >}}).
+Find publication by using [publication filter]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
 
-#### [<i class="fas fa-angle-left"></i> Kembali]({{< relref "/penelitian/_index.md" >}})
+#### [<i class="fas fa-angle-left"></i> Back]({{< relref "/penelitian/_index.md" >}})
 ***

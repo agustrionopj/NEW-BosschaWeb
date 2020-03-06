@@ -1,10 +1,10 @@
 +++
-title = "Kumpulan Press Release"
+title = "Press-releases Repository"
 date = 2019-04-20T00:00:00
 toc = true
 type = "docs"
 
-linktitle = "press release"
+linktitle = "press-releases"
 
 [menu.layanan]
     parent = "Material"

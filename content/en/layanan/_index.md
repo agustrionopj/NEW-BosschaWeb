@@ -1,5 +1,5 @@
 +++
-title = "Layanan Masyarakat"
+title = "Services"
 
 date = 2018-09-09T00:00:00
 # lastmod = 2018-09-09T00:00:00
@@ -14,4 +14,4 @@ type = "docs"  # Do not modify.
 #  weight = 1
 +++
 
-Halaman ini berisi kumpulan file yang bebas untuk diunduh. Silakan pergunakan untuk keperluan sosialisasi astronomi dengan tetap mencantumkan kredit asal file yaitu Observatorium Bosscha.
+In this page, you could find files which can be downloaded for astronomy education and outreach. Term and condition applied. Credit goes to Bosscha Observatory.

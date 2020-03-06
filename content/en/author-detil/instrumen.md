@@ -1,15 +1,15 @@
 ---
-title: Instrumen Penelitian
+title: Research Instruments
 date: 2018-09-08T17:00:00.000Z
 lastmod: 2020-01-31T08:00:00.000Z
 draft: false
 toc: true
 type: docs
-linktitle: Instrumen
+linktitle: Instruments
 identifier: instrumen
 menu:
   author-detil:
-    parent: Fasilitas
+    parent: Facility
     weight: 2
 
 weight: 2
@@ -24,7 +24,7 @@ weight: 2
 
 ---
 
-## Teleskop Refraktor Ganda Zeiss
+## Zeiss Double Refractor Telescope
 
 * * *
 
@@ -32,15 +32,15 @@ weight: 2
 
   | 
 --- | ---
-Nama Teleskop | Zeiss
-Diameter lensa | 0,6 m (ganda)
-Panjang Fokus | 1080 cm (atau 10,8 m)
-Fokus Rasio | f/18
-Skala bayangan| 18,4"/mm
+Telescope name | Zeiss
+Diameter | 0.6 m (double)
+Focal length | 1080 cm (or 10.8 m)
+Focal ratio | f/18
+Plate scale| 18.4"/mm
 
-Teleskop ganda Zeiss 0,6 m ini berada pada satu-satunya gedung kubah di Observatorium Bosscha yang telah menjadi _landmark_ Bandung utara selama lebih dari 85 tahun. Bangunan teleskop ini dirancang oleh arsitek Bandung ternama, yaitu <hl> K.C.P. Wolf Schoemacher </hl>, yang juga guru Presiden Soekarno. Teleskop dan gedung kubah ini merupakan sumbangan dari K.A.R. Bosscha yang secara resmi diserahkan kepada Perhimpunan Astronomi Hindia-Belanda pada bulan Juni 1928. Kubah gedung memiliki bobot 56 ton dengan diameter 14,5 m dan terbuat dari baja setebal 2 mm. Saat ini, teleskop Ganda Zeiss ini merupakan teleskop terbesar dan tertua di Observatorium Bosscha. 
+The 0.6 m Zeiss Double Refractor Telescope, or Zeiss Telescope for short, is located in the only dome-shape building at Bosscha Observatory which has been a landmark of Northern Bandung for more than 85 years. This telescope building was designed by renowned Bandung architect, K.C.P. Wolf Schoemacher, who is also teacher of first Indonesian president, Soekarno. This telescope and its building was donated by K.A.R. Bosscha and then officially handed over this observatory to the Dutch East Indies Astronomy Association in June 1928. The dome weights 56 tons with a diameter of 14.5 m and is made of 2 mm thick steel. Today, Zeiss Telescope is the largest and the oldest telescope at Bosscha Observatory.
 
-Tahun 2008, teleskop ini genap berusia 80 tahun. Sampai sejauh ini, teleskop ini masih berfungsi dengan baik berkat perawatan yang konsisten. Sistem detektor fotografi pernah digunakan di teleskop ini sampai dengan tahun 1980-an. Sejak awal 1990-an, teknologi detektor dijital (menggunakan CCD astronomi) mulai digunakan di Observatorium Bosscha, untuk meningkatkan tingkat sensitivitas pengamatan. Selain itu, instrumentasi teleskop juga terus dimodernisasi. Teleskop ini merupakan jenis refraktor (menggunakan lensa) dan terdiri dari 2 teleskop utama dan 1 teleskop pencari (finder). Diameter teleskop utama adalah 0,6 m dengan panjang fokus hampir 11 m, dan teleskop pencari berdiameter 0,4 m. Medan pandang teleskop pencari adalah 1,5 derajat atau sekitar 3 kali diameter citra bulan purnama. Medan pandang langit yang luas ini memudahkan untuk mengidentifikasi bintang yang hendak diamati, dibandingkan dengan citra bintang di langit melalui peta bintang. Teleskop ini dapat mengamati bintang-bintang yang jauh lebih lemah, kurang lebih 100000 kali lebih lemah dari bintang yang dapat dilihat oleh mata telanjang. Instrumen utama ini telah digunakan untuk berbagai penelitian astronomi, antara lain untuk pengamatan astrometri, yaitu untuk memperoleh informasi posisi benda langit secara akurat dalam orde sepersepuluh detik busur, khususnya untuk memperoleh orbit bintang ganda visual. Hingga saat ini terdapat koleksi sekitar 10000 data pengamatan bintang ganda visual yang diperoleh dengan menggunakan teleskop ini. Selain itu, teleskop ini juga digunakan untuk pengamatan gerak diri bintang dalam gugus bintang. Teleskop ini juga digunakan untuk pengukuran paralak bintang guna penentuan jarak bintang. Pencitraan dengan CCD juga digunakan untuk mengamati komet dan planet-planet, misalnya Mars, Jupiter, dan Saturnus. Dengan menggunakan spektrograf BCS (*Bosscha Compact Spectrograph*), teleskop ini secara kontinu melakukan pengamatan spektrum bintang Be.
+So far, this telescope is still working properly thanks to our technicians who do a consistent maintenance. Photographic detector systems were used in this telescope until 1980s. Since the early 1990s, digital detector technology (using astronomical CCDs) began to be used at Bosscha Observatory to improve detector sensitivity. In addition, telescope instrumentation also continues to be modernized. This telescope is a refractor (it is using a lenses) and it consists of 2 main telescopes and 1 finderscope. The diameter of the main telescope is 0.6 m with a focal length of almost 11 m. Finderscope has a smaller diameter of 0.4 m. The field of view of the finderscope is 1.5 degrees or about 3 times the diameter of the full Moon. This wide field of view makes it easy to identify the target star to avoid mis-detection by comparing it with sky map or sky chart of this particular sky region. This telescope can observe stars 100000 times dimmer than stars that can be seen by the naked eye. This telescope has been used for a variety of astronomical studies, including for astrometric observations to obtain information on the position of celestial bodies accurately in the order of a tenth of a arcseconds, to construct a visual double-star orbit. Up until now, there are about 10000 visual double-star observation data obtained using this telescope. In addition, this telescope is also being used for observing the proper-motion of stars in star clusters. This telescope is used for measurements of stellar parallax to determine the distance of stars. CCD imaging is also used for observing comets and planets, e.g. Mars, Jupiter and Saturn. We also did a spectroscopic study of Be Star by attaching BCS (Bosscha Compact Spectrograph) onto this telescope.
 
 ## Bosscha Robotic Telescope (BRT)
 
@@ -49,156 +49,149 @@ Tahun 2008, teleskop ini genap berusia 80 tahun. Sampai sejauh ini, teleskop ini
 
   | 
 ------ | ------
-Tipe Teleskop |  Corrected Dall – Kirkham
-Tabung Utama | Planewave CDK 14
-Diameter | 14 inci (0,36 m)
-Panjang Fokus | 2592 mm
-Rasio fokal | f/7,2
-Detektor | Kamera CCD FLI PL 11002
+Telescope type |  Corrected Dall – Kirkham
+Optical Tube Assembly | Planewave CDK 14
+Diameter | 14 inch (0.36 m)
+Focal length | 2592 mm
+Focal ratio | f/7.2
+Detector | CCD FLI PL 11002
 
-Teleskop ini merupakan teleskop paling baru di Observatorium Bosscha. Mengusung desain Astograph CDK (Corrected Dall-Kirkham), teleskop ini mampu menghasilkan citra datar yang melingkupi area sebesar 70 mm yang terbebas dari kesalahan astigmatisma dan off-axis. Dengan desain “truss” berbahan serat karbon teleskop ini hanya memiliki bobot kurang dari 30 kg. Teleskop ini telah dilengkapi dengan sistem fokus dan sistem pengatur temperatur otomatis. Dilengkapi dengan mounting kelas profesional Astophysics 1600GTO teleskop ini mampu melakukan gerak dan menentukan posisi dengan akurasi yang sangat tinggi.
+This is one of new telescopes in Bosscha Observatory. This telescope could produce distortion-free area around 70 mm thanks to its design (i.e. Corrected Dall-Kirkham). With carbon-fiber truss, this telescope is relatively lightweight (less than 30 kg). This telescope system also equipped with automatic focus system and temperature regulation system to avoid dew in its main mirror. Accompanied by pro-class Astrophysics 1600 GTO mounting, we could point to and track celestial bodies with high accuracy. 
 
-Secara umum teleskop ini digunakan untuk penelitian, survei, dan deteksi planet di bintang lain. Selain itu juga acap kali digunakan untuk penelitian asteroid berjarak dekat dengan bumi. Studi lain yang juga menggunakan teleskop ini adalah penelitian dan pengamatan berkala bintang variabel.
+We mostly use this telescope for exoplanet study, and occassionally is being use for detecting NEA (Near Earth Asteroid). We also use this telescope to observe variable stars. We manage to make this telescope robotic i.e. programmable to minimize human interaction and could adapt to sky condition. We also could operate this telescope remotely by using internet network.
 
-Teleskop yang terpasang di gedung surya ini dapat berjalan sepenuhnya secara otomatis dan beradaptasi terhadap kondisi langit dan lingkungan. Teleskop robot ini juga sepenuhnya dapat dikendalikan dari jarak jauh dengan menggunakan hubungan internet.
-
-## Teleskop STEVia
+## STEVia Telescope
 
 ***
 
 {{<foldergallery src="stevia" >}}
 
- | Teleskop Utama | Teleskop Pemandu
+Par.| Main Telescope | Guider Scope
 --- | --------------- | ---------------
-Tipe Teleskop | Reflektor Schmidt – Cassegrain | Refraktor
-Diameter | 279 mm (0,279 m)| 66 mm
-Panjang fokus | 1760 mm | 388 mm
-Rasio fokal | f/6,3 | f/5,8
-Detektor | Kamera CCD SBIG ST – 8 XME | Kamera CMOS ZWO ASI 120MM
-Filter | BVRI (Pita Sempit) dan LRGB (Pita Lebar) | -
-Luas Medan Pandang | 26,8 x 17,9 menit busur | 43 x 32,3 menit busur
+Telescope type | Schmidt – Cassegrain Reflector| Refractor
+Diameter | 279 mm (0.279 m)| 66 mm
+Focal length | 1760 mm | 388 mm
+Focal ratio | f/6.3 | f/5.8
+Detector | CCD SBIG ST – 8 XME | CMOS ZWO ASI 120MM
+Filter | BVRI (narrow band) and LRGB (broad band) | -
+Field of View | 26.8 $\times$ 17.9 arcmin | 43 $\times$ 32.3 arcmin
 
-Teleskop STEVia (*Survey Telescope for Exoplanet and Variable star*) adalah sistem teleskop baru di Observatorium Bosscha yang dibangun pada tahun 2013. STEVia menempati bangunan yang sebelumnya dihuni oleh teleskop Unitron. Teleskop ini menggunakan sistem kendali terkomputerisasi dan dapat dikendalikan dari jarak jauh dengan jaringan internet.
+STEVia telescope (*Survey Telescope for Exoplanet and Variable star*) is telescope system at Bosscha Observatory which was assembled in 2013. The building where STEVia reside is a historic building, once occupied by legendary Unitron telescope. This telescope system is computerized and could be operated remotely by using internet network.
 
-STEVia merupakan tipe teleskop reflektor Schmidt-Cassegrain dengan diameter cermin utama 27,9 cm (0,279 m) dan panjang fokus 1,76 meter. STEVia dilengkapi dengan teleskop (guider) yang berfungsi untuk menjaga kestabilan gerakan teleskop utama sehingga mampu mengikuti objek langit dalam waktu lama.
+STEVia is equipped with guider scope to ensure stable tracking of celestial bodies, especially when take data/image with long exposure time. 
 
-Tugas utama STEVia adalah melakukan pengamatan survei pada gugus bintang terbuka untuk mencari eksoplanet dan bintang variabel baru. STEVia juga digunakan dalam pengamatan objek dan peristiwa langit yang berlangsung singkat, seperti supernova dan okultasi bintang
+Main purpose of this telescope is star cluster survey to find new exoplanet and variable stars. This telescope also being use for impromptu observation e.g. supernova and occultation phenomena.
 
-## Teleskop GAO-ITB RTS
+## GAO-ITB RTS (Remote Telescope System)
 ***
 {{<foldergallery src="gao">}}
 
  | 
 -------- | -----------
-Tipe Teleskop | Reflektor Schmidt - Cassegrain
-Diameter | 279 mm (0,279 m)
-Panjang fokus | 2790 mm
-Detektor | SBIG ST - 8 XME
-Spektrograf | NEO - R1000
+Telescope type | Schmidt - Cassegrain reflector
+Diameter | 279 mm (0.279 m)
+Focal length | 2790 mm
+Detector | SBIG ST - 8 XME
+Spectrograph | NEO - R1000
 
-Reflektor GAO-ITB RTS (dengan RTS = *Remote Telescope System*) merupakan teleskop generasi baru di Observatorium Bosscha yang dipasang tahun 2005 dan sepenuhnya digerakkan dengan kontrol komputer. Awalnya, teleskop yang dipasang berjenis Schmidt-Cassegrain bermerek Celestron dengan diameter cermin 8 inchi (sekitar 0,2 m). Teleskop ini berada dalam ruangan dengan atap geser.
+GAO-ITB RTS (RTS = *Remote Telescope System*) is established in 2005, and is one of remotely-capable and computerize telescope at Bosscha Observatory. This telescope is a result of joint-research collaboration between ITB and GAO (Gunma Astronomical Observatory) Japan. In several occassion, this telescope is remotely-controlled by our colleagues in Japan to observe star lies on Southern Hemisphere, mostly for educational purposes.
 
-Menilik namanya, teleskop ini merupakan hasil kerjasama antara ITB dengan Gunma Astronomical Observatory (GAO), Jepang, dan telah beberapa kali digunakan sebagai teleskop *remote*, yaitu pengamatan dari dua tempat jauh (Lembang-Gunma). Teleskop ini dapat digerakkan dari Jepang, dan hasilnya disaksikan secara langsung oleh pengamat di Jepang, yang sebagian besar adalah pengunjung umum atau siswa dan guru. Demikian pula sebaliknya, teleskop di Gunma digerakkan dari Bosscha dan hasilnya disaksikan di Lembang, atau di kampus ITB, didukung oleh fasilitas teleconference.
+From 2015, the main scope was renewed with a slightly larger aperture (0.28 m in diameter) and switch the mounting, from takahashi Temma EM200 to Losmandy G11. This telesope also equipped with a new spectrograph as collaboration between ITB and Kyoto Sangyo University, Japan which intended to use as spectroscopic study of emision line of extended object such as comet, supernovae, and planetary nebulae.
 
-Mulai tahun 2015, sistem GAO-ITB RTS diperbarui dengan diameter teleskop yang lebih besar (~0,28 m) dan penggantian *mounting* teleskop, dari Takahashi Temma EM200 menjadi Losmandy G11. Selain itu, teleskop ini dilengkapi dengan spektrograf hasil kerjasama ITB dan Kyoto Sangyo University, Jepang, yang digunakan untuk pengamatan spektroskopi garis emisi komet dan supernova. 
-
-## Teleskop Surya
+## Surya Telescope
 ***
 
 {{<foldergallery src="surya" >}}
 
-Teleskop Surya atau Teleskop Matahari ini merupakan set teleskop dijital, yang terdiri dari 3 buah telekop Coronado dengan 3 filter yang berbeda, serta sebuah teleskop proyeksi citra Matahari yang sepenuhnya dibuat sendiri. Fasilitas ini dapat terealisasi berkat sumbangan dari Kementerian Pendidikan, Sains, dan Kebudayaan, Negeri Belanda, Leids Kerkhoven-Bosscha Fonds, Departemen Pendidikan Nasional, serta Kementerian Negara Riset dan Teknologi. Fasilitas baru ini dapat digunakan untuk penelitian, pendidikan, maupun untuk pengabdian kepada masyarakat. Dari sisi layanan publik, fasilitas ini akan menjadi bagian penting dari pendidikan informal yang dapat diberikan oleh Observatorium Bosscha kepada publik. Semua ini merupakan wujud dari upaya Observatorium Bosscha memodernisasi dirinya sambil tetap menjaga sejarahnya. Fasilitas teleskop surya ini berdiri pada lahan bekas teleskop transit yang sudah tidak digunakan lagi, dan pernah digunakan sebagai titik pengamatan topografi. Bekas titik tersebut masih dipertahankan di dalam interior gedung teleskop. Gedung ini dirancang oleh Dr. Wijaya Martokusumo dari SAPPK-ITB. 
+The Surya Telescope or Solar Telescope is a digital telescope system which consists of 3 Coronado telekop with 3 different filters, equipped with a fully self-made Sun image projection telescope. This facility could be established thanks to donations from the Ministry of Education, Science, and Culture, the Netherlands; Leids Kerkhoven-Bosscha Fonds; and the Ministry of National Education, and the State Ministry of Research and Technology. This new facility can be used for research, education, and for community service. In terms of public services, this facility will be an important part of informal education that can be provided by the Bosscha Observatory to the public. All of this is a form of the Bosscha Observatory efforts to modernize itself while still maintaining its history. This solar telescope facility stands on land of a former transit telescope that is no longer in use, and was once used as a topographic observation point. This building was designed by Dr. Wijaya Martokusumo from SAPPK-ITB.
 
-Berbagai komponen teleskop dibuat sendiri kecuali teleskop Coronado yang merupakan teleskop didesain khusus untuk keperluan pengamatan Matahari. Fasilitas ini terdiri dari dua buah sistem teleskop, yang pertama merupakan teleskop dijital bekerja pada 3 panjang gelombang, yaitu H-alpha, Kalsium II, dan cahaya putih yang ditujukan untuk mengamati bintik matahari. Teleskop kedua adalah sebuah *coleostat* yang ditujukan untuk membuat proyeksi citra dan spektrum matahari secara analog. Dengan demikian keduanya dapat berfungsi sebagai teleskop tayang-langsung (*real-time*), dan dapat dilihat melalui jaringan internet. Dengan sistem ini, fasilitas ini dapat berfungsi sebagai kolektor data ilmiah maupun sebagai sarana pendidikan publik yang cukup efektif. Variasi kenampakan matahari dapat dimonitor dan publik diharapkan dapat mengesani fenomena cuaca antariksa. 
+This facility consists of two telescope systems, the first of which is a digital telescope working at 3 wavelengths: H-$\alpha$, Calcium II, and white light aimed at observing sunspots. The second telescope is a coleostat aimed at making analog projections and solar spectra. Thus both can function as real-time telescopes, and can be seen through the internet network. With this system, this facility can collect scientific data as well as public education. Variations in the appearance of the sun can be monitored and the public is expected to perceive the phenomenon of space weather.
 
-Fasilitas teleskop Surya ini juga dilengkapi dengan poster-poster berisi informasi tentang matahari serta perangkat lunak World Wide Telescope yang disumbangkan oleh Microsoft Indonesia kepada Observatorium Bosscha.
+The Solar telescope facility is also equipped with posters containing information about the Sun and World Wide Telescope software that was donated by Microsoft Indonesia to the Bosscha Observatory.
 
-## Teleskop Portable
+## Portable Telescope
 ***
 {{<foldergallery src="portable">}}
 
-Dari namanya, teleskop-teleskop ini didisain untuk pemakaian yang _mobile_ atau berpindah-pindah. Diameter dari teleskopnya berkisar dari 66 mm sampai 200 mm atau 0,2 m. Teleskop-teleskop ini sering digunakan untuk kegiatan praktikum mahasiswa Astronomi, kerja praktik, maupun kegiatan layanan publik, terutama untuk malam umum. Untuk pemakaian semi-permanen, tersedia dua *monopod* yang bisa digunakan.
+This telescopes are intended to use as mobile system. They have various diameters range from 66 mm to 0.2 m. Students usually use this telescope for their laboratory works, internship, or for public services. They are two monopod that could be use with the telescope as semi-permanent system.
 
-## Teleskop Bamberg
+## Bamberg Telescope
 ***
 
 {{<foldergallery src="bamberg">}}
 
 | | |
 |----------|--------------|
-|Diameter lensa | 37 cm|
-|Panjang Fokus | 700 cm|
-|Fokus Rasio | f/18,9|
-|Alat Tambahan | filter matahari|
+|Diameter | 37 cm|
+|Focal length | 700 cm|
+|Focal ratio | f/18.9|
+|Filter | Solar filter|
 
+The Bamberg Telescope is one of refractor telescopes at the Bosscha Observatory, with the diameter of 0.37 m and a focal length of 7 m. This telescope is reside in a half-cylinder roofed building with a sliding roof. Because of the shape of the building, the telescope is only limited to observing celestial bodies with a zenith distance of 60$^\circ$, or for celestial objects higher than 30$^\circ$ and azimuth in the East-South-West sector. For celestial objects in the northern sky or the azimuth East-North-West sector is practically inaccessible by this telescope. This telescope was installed early in 1929 and its tracking system is feed by a gravity pendulum system which automatically regulates the speed of the telescope moving westward following the stars in the field of view of the telescope in accordance with the speed of rotation of the earth. This telescope has also been equipped with a modern detector in the form of a CCD camera.
 
-Teleskop Bamberg termasuk jenis teleskop refraktor yang ada di Observatorium Bosscha, dengan diameter lensa 0,37 m dan panjang fokus 7 m. Teleskop ini berada pada sebuah gedung beratap setengah silinder dengan atap geser yang dapat bergerak maju-mundur untuk membuka atau menutup. Karena bentuk bangunannya, jangkauan teleskop ini hanya terbatas untuk pengamatan benda langit dengan jarak zenit 60$^\circ$, atau untuk benda langit yang lebih tinggi dari 30$^\circ$ dan azimuth dalam sektor Timur-Selatan-Barat. Untuk obyek langit yang berada di langit utara atau azimuth sektor Timur-Utara-Barat praktis tak dapat dijangkau oleh teleskop ini. Teleskop ini selesai dipasang awal tahun 1929 dan digerakkan dengan sistem bandul gravitasi, yang secara otomatis mengatur kecepatan teleskop bergerak ke arah barat mengikuti bintang yang ada di medan teleskop sesuai dengan kecepatan rotasi bumi. Teleskop ini juga telah dilengkapi dengan detektor modern berupa kamera CCD.
+The Bamberg Telescope is used for observing the light curves of variable stars, as well as photometric eclipses of stars. This telescope is also used for observing the Sun and the surface of the Moon. The Bamberg Telescope is also often used for public education, for example on Public Nights. Visitors are usually fond to see Moon's craters, visual double stars, star clusters, planets and other celestial bodies directly through the eyepiece or ocular.
 
-Teleskop Bamberg digunakan untuk pengamatan kurva cahaya bintang-bintang variabel, serta fotometri gerhana bintang, misalnya pengamatan kurva cahaya bintang ganda $\delta$ Capricorni. Teleskop ini juga digunakan untuk pengamatan matahari dan permukaan bulan. Teleskop Bamberg juga sering digunakan untuk pendidikan publik, misalnya pada Malam Umum. Pengunjung biasanya disuguhi kawah bulan, bintang ganda visual, gugus bintang, planet-planet, dan benda langit lainnya secara langsung melalui okuler teleskop.
-
-## Teleskop GOTO
+## GOTO Telescope
 ***
 | | |
 |--------|----------|
-|Diameter cermin | 45 cm |
-|Panjang Fokus | 540 cm|
-|Fokus Rasio | f/12|
-|Skala bayangan | 38,2"/mm |
-|<font color="red">Status</font> | <font color="red">dalam perbaikan</font>|
+|Diameter | 45 cm |
+|Focal length | 540 cm|
+|Focal ratio| f/12|
+|Plate scale | 38.2"/mm |
+|<font color="red">Status</font> | <font color="red">under maintenance</font>|
 
-Teleskop GOTO berjenis reflektor yaitu menggunakan cermin sebagai pengumpul cahaya. Tepatnya, teropong ini berjenis reflektor Cassegrain dengan diameter cermin utama 45 cm. Cermin utama yang berbentuk parabola memiliki panjang fokus 1,8 m dan cermin sekunder yang berbentuk hiperbola memiliki panjang fokus 5,4 m. Teleskop ini merupakan bantuan dari kementrian luar negeri Jepang melalui program <font color='red'>ODA (Overseas Development Agency), Ministry of Foreign Affairs</font>, pada tahun 1989. Teleskop ini merupakan teleskop pertama di Observatorium Bosscha yang sepenuhnya digerakkan dengan kontrol komputer dan telah dilengkapi dengan kamera CCD dan instrumen lain. Sistem kontrol teleskop ini pernah mengalami kerusakan dan kini telah sepenuhnya diganti dengan sistem kontrol yang compatible dengan PC biasa.
+GOTO telescope is using mirror as a collector of light. We call this design a reflector telescope. This telescope has Cassegrain design with a mirror diameter of 45 cm. The main mirror which has a parabolic shape has a focal length of 1.8 m and the secondary mirror that has a hyperbole shape has a focal length of 5.4 m. This telescope was aided by the Japanese Ministry of Foreign Affairs through the ODA (Overseas Development Agency) program, Ministry of Foreign Affairs, back in 1989. This telescope was the first telescope at Bosscha Observatory which was fully driven by computer control and was equipped with CCD cameras and other instruments. This telescope control system was damaged due to lightning and now been completely replaced with a control system that is compatible with ordinary PCs.
 
-Teleskop ini digunakan terutama untuk pengamatan bintang-bintang variabel, pengamatan kurva cahaya planet luar-surya, pengamatan asteroid, spektroskopi bintang, dan pencitraan planet.
+This telescope is used mainly for observing variable stars, exoplanet, observing asteroids, star spectroscopy, and planetary imaging.
 
-## Teleskop Schmidt Bimasakti
+## Schmidt Bimasakti Telescope
 ***
 
 | | |
 |-------------|-------------|
-|Diameter cermin | 71 cm|
-|Panjang Fokus | 127 cm|
-|Fokus Rasio | f/1,8|
-|Alat Tambahan | lensa korektor, prisma pembias, wedge sensitometer|
-|<font color='red'>Status</font> | <font color='red'>dalam perbaikan</font> |
+|Diameter | 71 cm|
+|Focal length | 127 cm|
+|Focal ratio | f/1.8|
+|Additional eq. | wedge sensitometer|
+|<font color='red'>Status</font> | <font color='red'>under maintenance</font> |
 
-Teleskop Bima Sakti dipasang pada tahun 1960 dan merupakan sumbangan dari UNESCO kepada Observatorium Bosscha. Teleskop jenis ini termasuk jarang di dunia. Teleskop Schmidt Bima Sakti mempunyai sistem optik Schmidt sehingga sering disebut Kamera Schmidt. Teropong ini mempunyai diameter lensa koreksi 51 cm, diameter cermin 71 cm, dan panjang fokus 127 cm. Perbandingan antara panjang fokus terhadap diameter lensa koreksi atau dikenal dengan f-ratio relatif paling kecil di antara teleskop-teleskop besar di Observatorium Bosscha. Angka ini besarnya 2,5, sehingga memang mirip dengan f-ratio kamera biasa. Karena itu, teropong Bima Sakti ini juga dinamakan kamera langit cepat, sedangkan refraktor ganda Zeiss merupakan kamera yang lambat. Artinya, perlu waktu yang lebih lama untuk memotret obyek yang sama apabila menggunakan refraktor Zeiss.
+The Schmidt Telescope was installed in 1960 and was a donation from UNESCO to the Bosscha Observatory. This type of telescope is rare in the world. The Schmidt Bimasakti Telescope has a Schmidt optical system so it is often called the Schmidt Camera. This telescope has 51 cm corrector lens, 71 cm of main mirror, and 127 cm focal length. This telescope also has the smallest relative f-ratio among the large telescopes at Bosscha Observatory whic is f/2.5, so it is similar to an ordinary camera f-ratio. Therefore, this telescope is even called fast system, while the Zeiss Double Refractor is a slow system. it means that it takes longer exposure take an image of the same object when using a Zeiss refractor compared with Schmidt telescope.
 
-Teleskop ini memiliki medan pandang yang luas, kira-kira $5 \times 5$ derajat persegi, sehingga teropong sangat baik untuk keperluan survey. Teropong ini digunakan untuk pengamatan obyek langit dari panjang gelombang biru sampai inframerah dekat, dan juga dilengkapi dengan prisma obyektif dan prisma Racine. Teropong ini sangat peka sehingga sangat mudah terganggu oleh polusi cahaya.
-Teropong ini digunakan untuk pengamatan bintang emisi garis hidrogen, bintang-bintang kelas M, serta bintang-bintang Wolf-Rayet.
+This telescope has a wide field of view, approximately $5 \times 5$ square degrees, so this telescope are very good for survey purposes. We used this telescope for observing celestial objects from blue wavelengths to near infrared, equipped with objective prisms and Racine prisms. Because of its fast-nature system, this telescope is very sensitive could easily disturbed by light pollution. In the past, this telescope is used for observing hydrogen emission line stars, class M stars, and Wolf-Rayet stars.
 
-
-## Teleskop Radio Hidrogen 6 m 
+## Hidrogen Radio Telescope 6 m 
 ***
-<font color='red'>Status: tidak aktif</font>
+<font color='red'>Status: under maintenance</font>
 
 {{<foldergallery src="hidrogen">}}
 
-Teleskop radio berdiameter 6 m ini diberi nama Teleskop Radio Hidrogen (TRH). Teleskop ini digunakan dalam pengamatan emisi hidrogen netral pada frekuensi 1420,4 MHz (panjang gelombang 21 cm) yang nantinya juga akan dikembangkan menjadi salah satu teleskop interferometri radio di Observatorium Bosscha. 
+This telescope is called Teleskop Radio Hidrogen which has a diameter of 6 m. We use this telescope mainly for observing neutral hidrogen emission on frequency of 1420.4 MHz (it corrresponds to wavelength of 21 cm). This telescope will be developed into interferometry system and that will be the first of its kind in Bosscha Observatory.
 
-Uji pengamatan dengan teleskop ini telah dilakukan kurang lebih selama 6 bulan baik pengamatan spektral maupun kontinum.  Pengambilan data kontinum bidang galaksi untuk mengetahui Brightness Temperature ($T_\mathrm{b}$) terhadap pergeseran RA telah dilakukan sebagai bagian dari tugas akhir mahasiswa. Dalam cakupan wilayah dan waktu tertentu, pembuatan peta kontinum galaksi telah dilakukan (detil lebih lanjut bisa dilihat pada pekerjaan Mumtahana 2012).
+There are several tests conducted by both students and researcher from ITB for more that 6 months. Data acquisition of galactic plane continuum to obtain Brightness Temperature ($T_\mathrm{b}$) as function of Right Ascension (RA) drift was done as part of students' final project. Please see work by Mumtahana (2012) for further details.
 
-## Teleskop Radio 2,3 m 
+## Radio Telescope 2.3 m 
 ***
-<font color='red'>Status: dalam perbaikan</font>
+<font color='red'>Status: under maintenance</font>
 
 {{<foldergallery src="radio">}}
 
-Teleskop radio Bosscha 2,3 m adalah adalah instrumen radio jenis <font color='red'>SRT (Small Radio Telescope)</font> yang didesain oleh Observatorium MIT-Haystack dan dibuat oleh Cassi Corporation. Teleskop ini bekerja pada panjang gelombang 21 cm atau dalam rentang frekuensi 1400-1440 MHz. Dalam rentang frekluensi tersebut terdapat transisi garis hidrogen netral, sehingga teleskop ini sangat sesuai untuk pengamatan hidrogen netral, misalnya dalam galaksi kita, Bima Sakti. Selain itu, teleskop ini dapat digunakan untuk mengamati obyek-obyek jauh seperti ekstragalaksi dan kuasar. Matahari juga merupakan obyek yang menarik untuk ditelaah dalam panjang gelombang radio ini. Obyek eksotik, seperti pulsar, juga akan menjadi taget pengamatan dengan teleskop radio ini.
+The 2.3 m Bosscha radio telescope is an SRT (Small Radio Telescope) type of radio instrument designed by the MIT-Haystack Observatory and made by Cassi Corporation. This telescope works at a wavelength of 21 cm or in the frequency range of 1400-1440 MHz. Within that frequency range there is a neutral hydrogen line transition, so this telescope is very suitable for neutral hydrogen observations, for example in our galaxy, the Milky Way. In addition, this telescope can be used to observe distant objects such as extragalaxies and quasars. The Sun is also an interesting object to study in this radio wavelength. Exotic objects, such as pulsars, will also be the target of observation with this radio telescope.
 
-Teleskop ini dapat digunakan untuk pengamatan dalam mode spektral dengan resolusi 7,8 kHz untuk bandwidth 1,2 MHz, atau dengan resolusi sangat tinggi 1,8 kHz namun dengan bandwidth yang jauh lebih pendek. Mapping juga dapat dilakukan, namun dengan resolusi beam hanya sekitar 7 derajat. Pengamatan dalam mode kontinum memberikan bandwidth selebar 40 MHz dengan bin sebesar 1 MHz. Teleskop ini dipasang pada puncak bekas menara meteorologi di Observatorium Bosscha untuk mendapatkan coverage langit yang maksimal (tanpa terhalang pepohonan). Ruang kontrol dibuat di bawahnya. Teleskop ini, yang mendapatkan *first light* pada bulan Desember 2008, menginisiasi pengembangan astronomi radio di Indonesia dan akan terus dikembangkan menjadi interferometer radio multi-elemen.
+This telescope can be used for observation in spectral mode with a resolution of 7.8 kHz for 1.2 MHz bandwidth, or with a very high resolution of 1.8 kHz but with much shorter bandwidth. Mapping can also be done, but with a beam resolution of only about 7 degrees. Observation in continuum mode gives a bandwidth as wide as 40 MHz with a bin of 1 MHz. This telescope is installed at the top of the former meteorological tower at Bosscha Observatory to get maximum sky coverage (without being blocked by trees). A control room is located below it. This telescope got its first light in December 2008 and is initiated the development of radio astronomy in Indonesia and will continue to be developed into a multi-element radio interferometer.
 
-## Teleskop Radio JOVE
+## JOVE Radio Telescope
 ***
 
 | | |
 |------------|----------------|
-|Frekuensi | 20,1 MHz|
-|Jenis Antena | Dipole|
-|Panjang | $\sim$ 7 m|
-|Alat Tambahan | Receiver|
-|Fungsi Utama | Untuk Pengamatan *Solar Burst* dan Jupiter|
-|<font color='red'>Status</font> | <font color='red'>tidak aktif</font>|
+|Frequency | 20.1 MHz|
+|Antenna type | Dipole|
+|Length | $\sim$ 7 m|
+|Additional instruments | Receiver|
+|Main purpose | *Solar Burst* and Jupiter observation|
+|<font color='red'>Status</font> | <font color='red'>under maintenance</font>|
 
-Teleskop radio JOVE adalah teleskop radio hasil rancangan <font color='red'>NASA Radio JOVE Project</font> yang ditujukan untuk mengamati semburan radio dari Jupiter (*Jupiter noise storm*) serta semburan matahari Type III pada frekuensi 20,1 MHz. Teleskop ini menggunakan antena array berupa dual-dipole. Receiver dibuat bekerjasama dengan Laboratorium Telekomunikasi Radio dan Gelombang Mikro, STEI, ITB. Sebanyak dua receiver telah selesai dikerjakan. Sebuah interferometer JOVE saat ini sedang dalam tahap penyelesaian di Observatorium Bosscha.
+The JOVE radio telescope is a radio telescope designed by NASA JOVE Radio Project that is intended to observe radio bursts from Jupiter (Jupiter noise storm) and Type III solar bursts at a frequency of 20.1 MHz. This telescope uses a dual-dipole array antenna. The receiver was made in collaboration with the Radio and Microwave Telecommunications Laboratory, STEI, ITB. A total of two receivers have been made. A JOVE interferometer is currently underway at the Bosscha Observatory.
 
-Dengan teleskop radio ini, Observatorium Bosscha dapat turut mengikuti jaringan pengamatan semburan Jupiter dan Matahari di dunia. Khusus untuk pengamatan Matahari, teleskop ini menjadi pendamping pengamatan radio untuk pengamatan optik dari Teropong Surya di Observatorium Bosscha.
+With this radio telescope, Bosscha Observatory can participate in observing the Jupiter and Sun bursts in the world. Specifically for solar observations, this telescope is a complement for optical observations from Solar Telescope at Bosscha Observatory.

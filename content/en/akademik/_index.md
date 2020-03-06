@@ -1,5 +1,5 @@
 +++
-title = "Layanan Akademik"
+title = "Academic Services"
 
 date = 2019-09-24T00:00:00
 # lastmod = 2018-09-09T00:00:00
@@ -10,28 +10,27 @@ type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
 [menu.akademik]
-  name = "Ragam Layanan"
+  name = "Services"
   weight = 1
 +++
 
-Sebagai pengemban tugas pendidikan, Observatorium Bosscha kerap melayani beberapa kegiatan akademik sebagai berikut.
+As one of academic institution under university, Bosscha Observatory often handle various academic activities as follows.
 
-## Tugas Akhir Mahasiswa
+## Final Project/Thesis
 
-Sebagai bagian dari Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA) ITB, Observatorium Bosscha juga berperan dalam membimbing mahasiswa tingkat akhir, baik Strata 1 (S1/*bachelor*) dan Strata 2 (S2/*master*), yang melakukan pengerjaan tugas akhir dan tesis, terutama yang terkait dengan pengamatan dan pengolahan data pengamatan. 
+Bosscha Observatory is part of Faculty of Mathematics and Natural Sciences (FMIPA) ITB, often supervise a final projects or thesis of undergrad and master students, not only from ITB but also from various universities around Indonesia. These projects usually related with astronomy observation and data analysis.  
 
-## Praktikum 
+## Laboratory Activities
 
-Observatorium Bosscha juga menjadi tempat praktikum mahasiswa yang mengambil mata kuliah Laboratorium Astronomi. Para mahasiswa akan dibimbing oleh staf peneliti Observatorium Bosscha terkait prosedur pengamatan, akuisisi data, serta pengolahan datanya.
+Bosscha Observatory is also a place for laboratory activities of students who take the Astronomy courses, especially when related with the use of instruments and data analysis. The students will be guided by Bosscha Observatory research staff about the observation procedures, data acquisition, and data processing.
 
-## Kerja Praktik
+## Internship
 
-Observatorium Bosscha sebagai institusi penelitian dan pendidikan juga melayani kerja praktik, baik mahasiswa Astronomi ITB, non-Astronomi ITB, serta universitas lainnya. Topik yang dikerjakan bervariasi: dari studi literatur, instrumentasi, studi lempeng dan geologi, studi arsitektur, bahkan bidang Biologi.
+Bosscha Observatory as a research and education institution also welcome students, both from ITB or other universities, who want to experience working in observatory. The topics varies from literature studies, Instrumentation, Photographic Plate Restoration studies, Geology, Architectural studies, and even Biology.
 
-## Kolokium
+## Colloquium
 
-Menurut Kamus Besar Bahasa Indonesia (KBBI):
+ > **Colloquium/col&middot;lo&middot;qui&middot;um** (Noun) an academic seminar or conference
 
- > **kolokium/ko·lo·ki·um/** (kata benda) 1) pertemuan keahlian; seminar; 2) pendidikan kegiatan belajar (pada tataran pendidikan sarjana) yang dilakukan dalam bentuk seminar untuk membahas proyek penelitian bertaraf lanjutan
 
-Observatorium Bosscha mengadakan kolokium dalam berbagai disiplin: *programming*, riset Astronomi, . Kolokium ini dilakukan oleh pembicara tamu dari dalam dan luar negeri maupun dari peneliti Observatorium Bosscha.
+Bosscha Observatory conducts colloquium in various disciplines: programming , Astronomy research, etc. The colloquium was conducted by guest speakers from Indonesia and abroad, as well as from Bosscha Observatory researchers themselves.

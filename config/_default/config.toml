@@ -4,9 +4,6 @@
 # This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
-DefaultContentLanguage = "id"
-# defaultContentLanguageInSubdir= true
-
 title = "Observatorium Bosscha"
 
 # Title of your site
@@ -54,7 +51,7 @@ enableGitInfo = true
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "id"
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
 removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
 
 paginate = 10  # Number of items per page in paginated lists.

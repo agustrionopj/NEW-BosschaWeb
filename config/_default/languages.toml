@@ -8,6 +8,7 @@
   title = "Bosscha Observatory"
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   copyright = "&copy; {year} Bosscha Observatory"
+  office_hours = ["Monday - Friday 09:00 - 15:00 Western Indonesian Time (WIB)"]
 # [en.params]
 #  languageName = "EN"
  

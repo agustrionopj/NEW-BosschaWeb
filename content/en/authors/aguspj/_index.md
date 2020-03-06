@@ -87,4 +87,4 @@ user_groups = ["Researcher"]
 
 +++
 
-#### [<i class="fas fa-angle-left"></i> Kembali]({{< relref "/#people" >}})
+#### [<i class="fas fa-angle-left"></i> Back]({{< relref "/#people" >}})
