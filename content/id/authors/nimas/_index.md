@@ -30,7 +30,7 @@ email = ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["_Outreach_"]
+user_groups = [""]
 
 # List qualifications (such as academic degrees)
 #[[education.courses]]

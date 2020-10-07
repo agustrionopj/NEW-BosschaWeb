@@ -1,5 +1,5 @@
 +++
-title = "Gambar Pertama Lubang Hitam telah dirilis"
+title = "The First Image of a Black Hole Has Been Released"
 subtitle = ""
 
 date = 2019-04-10T00:00:00
@@ -9,7 +9,7 @@ draft = false
 authors = ["admin"]
 
 tags = ["News"]
-summary = "Press release tim Event Horizon Telescope (EHT) perihal foto lubang hitam. Foto yang dirilis adalah Lubang Hitam Supermasif di galaksi M87 (atau disebut juga M87*)"
+summary = ""
 
 featured = true
 
@@ -25,7 +25,7 @@ featured = true
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Foto Lubang Hitam Supermasif (SMBH) M87* yang dipotret oleh tim EHT"
+  caption = "Supermassive Black Hile (SMBH) M87* photographed by the EHT team."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -36,14 +36,20 @@ featured = true
 
 +++
 
-Sejauh ini, ilustrasi yang beredar mengenai lubang hitam baru didasarkan pada kajian teoritis. Namun, hal ini akan berubah seiring akan dirilisnya foto observasi pertama lubang hitam, dalam hal ini adalah Lubang Hitam Supermasif yang ada di pusat galaksi kita, Bima Sakti. Sebuah jejaring teleskop radio yang bernama Event Horizon Telescope terdiri atas 8 teleskop dan tersebar mencakup dua hemisfer Bumi, membuat para astronom mampu memotret pusat galaksi kita dengan resolusi sangat tinggi, yang memungkinkan para astronom untuk memotret lubang hitam secara langsung.
+Up until recently, illustrations of a black hole were based on theoretical studies. But this
+will change along with the release of the first observational image of a black hole, which in
+this case is the supermassive black hole that resides in the heart of our Milky Way galaxy.
+A large telescope array collaboration project named The Event Horizon Telescope that
+consists of 8 radio telescopes that spread out to cover both of Earth’s hemispheres,
+enabling astronomers to capture very high-resolution images of our galaxy’s center which
+allow them to photograph the black hole directly. 
 
-Press release foto lubang hitam ini rencananya akan diadakan tanggal 10 April 2019 pukul 20:00 WIB.
+The press release of this first black hole photo is set to be held on April 10th of 2019, at 20:00 WIB (UT+7).
 
-Silakan baca tautan <a href="https://www.sciencenews.org/article/event-horizon-telescope-first-image-black-hole-questions" target="_blank">berikut</a> untuk detail lebih lanjut.
+Please read this  <a href="https://www.sciencenews.org/article/event-horizon-telescope-first-image-black-hole-questions" target="_blank">link</a> for further details.
 
-Tautan *press conference* bisa dilihat pada laman youtube berikut.
+Link to the press conference can be seen in the following Youtube channel.
 
 {{< youtube lnJi0Jy692w >}}
 
-**update**: Tulisan Bu Premana mengenai lubang hitam ini bisa dilihat pada tautan <a href="http://theconversation.com/bersejarah-tim-astronom-temukan-gambar-pertama-lubang-hitam-nya-einstein-115271" target="_blank">berikut</a>
+**Update**: Dr. Premana’s writing about this black hole can be viewed through this <a href="http://theconversation.com/bersejarah-tim-astronom-temukan-gambar-pertama-lubang-hitam-nya-einstein-115271" target="_blank">link.</a>

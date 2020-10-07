@@ -1,0 +1,71 @@
+{{/* Get album folder or default to `gallery/`. */}}
+{{ $album := "" }}
+{{ with .Get "album" }}{{ $album = . }}{{else}}{{ $album = "gallery" }}{{end}}
+
+{{/* Set image path and page bundle that images are associated with. */}}
+{{ $album_path := "" }}
+{{ $resource_page := "" }}
+{{ if eq .Page.Parent.Type "widget_page" }}
+{{ $album_path = printf "%s/%s/*" (path.Base (path.Split .Page.Path).Dir) $album }}
+{{ $resource_page = $.Page.Parent }}
+{{ else }}
+{{ $album_path = printf "%s/*" $album }}
+{{ $resource_page = $.Page }}
+{{ end }}
+
+{{/* Attempt to automatically load gallery images from page bundle */}}
+{{ $images := ($resource_page.Resources.ByType "image").Match ($album_path)  }}
+{{$images}}
+{{ with $images }}
+{{ range $images }}
+{{ $image := .Resize "x190" }}
+{{ end }}
+{{ end }}
+
+<div class="section" id="carousel">
+    <div class="container">
+        {{ with.Get "title" }}
+        <div class="title">
+            <h4>{{ . }}</h4>
+        </div>
+        {{ end }}
+        <div class="row justify-content-center">
+            <div class="col">
+                <div id="carouselIndicators" class="carousel slide w-55 ml-auto mr-auto" data-ride="carousel"
+                    data-interval=1500>
+                    <ol class="carousel-indicators">
+                        {{ range $key, $value := $images }}
+                        {{ $active := "" }}
+                        {{ if eq $key 0 }}
+                        {{ $active = "active" }}
+                        {{ end }}
+                        <li data-target="#carouselIndicators" data-slide-to="{{ $key }}" class="{{ $active }}"></li>
+                        {{ end }}
+                    </ol>
+                    <div class="carousel-inner" role="listbox">
+                        {{ range $key, $value := $images }}
+                        {{ $active := "" }}
+                        {{ if eq $key 0 }}
+                        {{ $active = "active" }}
+                        {{ end }}
+                        <div class="carousel-item{{ $active }}">
+                            <a href="{{ .RelPermalink }}" data-fancybox="apapun">
+                                <img class="d-block" src="{{ .RelPermalink }}" alt="{{ .Name }}">
+                            </a>
+                            <div class="carousel-caption d-none d-md-block">
+                                <h5>{{ .Title }} </h5>
+                            </div>
+                        </div>
+                        {{ end }}
+                    </div>
+                    <a class="carousel-control-prev" href="#carouselIndicators" role="button" data-slide="prev">
+                        <i class="fa fa-angle-left" aria-hidden="true"></i>
+                    </a>
+                    <a class="carousel-control-next" href="#carouselIndicators" role="button" data-slide="next">
+                        <i class="fa fa-angle-right" aria-hidden="true"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

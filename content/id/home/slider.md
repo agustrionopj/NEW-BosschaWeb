@@ -69,7 +69,7 @@ height = "400px"
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   
   cta_label = "Detail"
-  cta_url = "/layanan/astrocal"
+  cta_url = "/id/layanan/astrocal"
   cta_icon_pack = "fas"
   cta_icon = "calendar"
   # cta_label = "Get Academic"
@@ -88,7 +88,7 @@ height = "400px"
   overlay_filter = 0.6  # Darken the image. Value in range 0-1.
 
   cta_label = "Detail"
-  cta_url = "/penelitian/"
+  cta_url = "/id/penelitian/"
   cta_icon_pack = "fas"
   cta_icon = "user-astronaut"
 
@@ -102,7 +102,7 @@ height = "400px"
   overlay_filter = 0.6  # Darken the image. Value in range 0-1.
 
   cta_label = "Detail"
-  cta_url = "/akademik/"
+  cta_url = "/id/akademik/"
   cta_icon_pack = "fas"
   cta_icon = "book-open"
 
@@ -116,7 +116,7 @@ height = "400px"
   overlay_filter = 0.6  # Darken the image. Value in range 0-1.
 
   cta_label = "Detail"
-  cta_url = "/layanan/"
+  cta_url = "#"
   cta_icon_pack = "fas"
   cta_icon = "users"
 

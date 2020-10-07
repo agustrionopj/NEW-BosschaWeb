@@ -116,7 +116,7 @@ height = "400px"
   overlay_filter = 0.6  # Darken the image. Value in range 0-1.
 
   cta_label = "Details"
-  cta_url = "/en/layanan/"
+  cta_url = "#"
   cta_icon_pack = "fas"
   cta_icon = "users"
 

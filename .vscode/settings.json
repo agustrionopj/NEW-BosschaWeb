@@ -1,3 +1,5 @@
 {
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "editor.fontFamily": "Lato, 'Courier New', monospace",
+    "editor.fontSize": 16
 }

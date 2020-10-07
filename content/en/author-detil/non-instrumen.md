@@ -1,14 +1,14 @@
 ---
-title: Support Facility
+title: Support Facilities
 date: 2019-09-24T00:00:00.000Z
 lastmod: 2020-01-31T14:00:00.000Z
 draft: false
 toc: true
 type: docs
-linktitle: Support Facility
+linktitle: Support Facilities
 menu:
   author-detil:
-    parent: Facility
+    parent: Facilities
     weight: 3
 
 weight: 3

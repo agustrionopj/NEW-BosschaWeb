@@ -1,5 +1,5 @@
 +++
-title = "Pelatihan Dasar Pengamatan dan Olah Data Hilal"
+title = "Elementary Training on Hilal Observation and Data Processing"
 subtitle = ""
 
 date = 2018-10-15T00:00:00
@@ -25,7 +25,7 @@ featured = true
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Sesi foto bersama seluruh peserta"
+  caption = "Photo session with all participants"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -36,16 +36,16 @@ featured = true
 
 +++
 
-Pada tanggal 13 – 14 Oktober 2018, Observatorium Bosscha mengadakan program pelatihan dasar pengamatan dan olah data hilal, yang ditujukan untuk civitas akademika Astronomi ITB. Program ini bertujuan untuk pengenalan dasar tentang hilal, prosedur pengamatan dan olah citra yang baik dan benar, dimulai dari konsep dasar di balik operasional teleskop, tahap persiapan, tahap pengamatan, sampai dengan tahap olah datanya.  Peserta pelatihan berjumlah 15 orang, yang terdiri dari mahasiswa tingkat strata 1 (S1) dan strata 2 (S2).
+On 13 and 14 October 2018 Bosscha Observatory organized the Elementary Training on Hilal Observation and Data Processing for the academics from the Institut Teknologi Bandung (ITB). This program aimed to introduce basic aspects about hilal observation and image processing procedure. It highlighted basic concepts of telescope operation, preparation for observation, and image processing from the observational results. There were 15 participants from undergraduate and graduate students of the Astronomy Department of ITB.
 
-Setelah sesi pembukaan singkat di Wisma Kerkhoven, tempat acara ini diadakan, hari pertama pelatihan diawali dengan pengenalan kembali materi Astronomi Posisi oleh Agus Triono P.J. Materi ini merupakan dasar bagaimana sebuah teleskop bekerja, sehingga diharapkan peserta bisa memahami cara kerja teleskop dengan lebih baik. Setelah break ishoma siang, materi tentang hilal dan teleskop disampaikan oleh Muhammad Yusuf. Dalam materi ini, disampaikan pula tips dan trik melakukan kalibrasi serta *alignment* teleskop supaya kerja teleskop menjadi lebih optimal.
+After a brief opening in Wisma Kerkhoven, the workshop was started with the introduction on practical astronomy by Agus Triono PJ. This lecture essentially explained how telescopes work, so participants can understand how to operate it properly. After break, the day then continued with hilal and telescope session, delivered by Muhammad Yusuf. Yusuf explained tips and tricks to calibrate and align the telescope to optimize its operation. 
 
-Malam harinya, peserta diajak untuk praktik langsung untuk melakukan *alignment* sumbu polar teleskop serta melakukan familiarisasi sistem kerja teleskop bagi peserta yang baru pertama kali mengoperasikan teleskop. Sayangnya, cuaca kurang begitu bersahabat sehingga praktik malam ini diakhiri pada sekitar pukul 23:45 WIB. Meskipun demikian, sebagian peserta melakukan proses *alignment* pada pukul 03:00 WIB dengan kondisi langit yang lebih baik daripada sebelumnya.
+Later in the night session, all participants were invited to align the telescope's polar axis by themselves and let them familiarize with it. Unfortunately due to bad weather, this session ended early at 23:45 WIB (UT+7). Nevertheless, some participants continued the polar alignment at 03:00 WIB the next day with better sky condition.
 
-Esok paginya, setelah melakukan sarapan pagi, peserta kembali melakukan praktik lapangan, dengan melakukan *alignment* dan berusaha menangkap kenampakan dari obyek – obyek terang seperti Matahari, Merkurius, Venus, maupun bintang – bintang terang. Namun, awan tebal kembali berdatangan dan menutupi sebagian besar area langit, sehingga praktik lapangan diakhiri pada pukul 10:30 WIB dan dilanjutkan dengan materi olah data di dalam ruangan.
+The next morning after breakfast, participants continued their telescope alignment practice and tried to point it to bright objects like Sun, Mercury, Venus, and other bright stars. But unfortunately, the heavy clouds covered nearly the whole sky. The session finally ended at 10:30 WIB and then continued with the data processing workshop inside Wisma Kerkhoven.
 
-Peserta kembali disibukkan dengan data hilal hasil pengamatan tim Observatorium Bosscha, dan berusaha menampilkan hasil terbaiknya supaya hilal yang terekam bisa jelas terlihat. Sesi olah data ini ditutup dengan diskusi ringan mengenai harapan dan visi peserta tentang apa yang akan dilakukan ke depannya berbekal ilmu yang diperoleh pada pelatihan kali ini. Pada kesempatan ini pula Ibu Premana W. Premadi,  PhD.  selaku kepala Observatorium Bosscha berkenan hadir dan menyapa para peserta serta berfoto bersama.
+Participants processed the hilal observation results originated from our team and tried to present their best outcome of hilal portrait. The session closed after small discussion with all participants about their impression, vision, and hope in the future about their new knowledge and experience gained during the workshop. Dr. Premana W. Premadi, the Director of Bosscha Observatory, also attended and greeted all the participants. 
 
-Besar sekali harapan bahwa ilmu yang telah disampaikan bisa disebarluaskan, sehingga akan lebih banyak lagi orang – orang yang mampu melakukan pengamatan Astronomi pada umumnya, dan pengamatan hilal khususnya, dengan prosedur yang baik dan benar, sehingga hasil yang diperolehpun bisa lebih reliable dan bisa dipertanggungjawabkan secara saintifik.
+It’s within our expectation that many knowledge and experiences during the workshop can be disseminated widely, so more people can perform astronomy observation especially hilal observation with the right procedure so they can make reliable and scientific results from it.
 
-Sampai bertemu kembali pada pelatihan – pelatihan selanjutnya. *Clear skies*!
+Until the next workshop. Clear skies! 

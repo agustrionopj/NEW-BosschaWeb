@@ -1,6 +1,6 @@
 ---
 title: "Discovery of an unusually compact lensed Lyman Break Galaxy from the Hyper Suprime-Cam Survey"
-date: 2019-08-01
+date: 2020-02-28
 publishDate: 2020-02-28T01:59:01.019355Z
 authors: ["Anton T. Jaelani", "Anupreeta More", "Alessandro Sonnenfeld", "Masamune Oguri", "Cristian E. Rusu", "Kenneth C. Wong", "James H. H. Chan", "Sherry H. Suyu", "Issha Kayo", "Chien-Hsiu Lee", "Kaiki T. Inoue"]
 publication_types: ["2"]
@@ -8,5 +8,6 @@ abstract: "We report the serendipitous discovery of HSC J0904$-$0102, a quadrupl
 featured: false
 publication: ""
 url_pdf: "https://arxiv.org/abs/1909.00120v2"
+doi: "10.1093/mnras/staa583"
 ---
 

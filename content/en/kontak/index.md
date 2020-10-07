@@ -35,7 +35,7 @@ Jawa Barat, Indonesia
 **Phone (<u>NOT</u> for Visit admission/inquiry)** | `+62 22 278 6027`
 
 {{%alert note%}}
-Information inquiry by phone/fax will be responded only in workdays: **Monday--Friday 09:00 to 15:00 Western Indonesian Time (WIB)**.
+Information inquiry by phone/fax will be responded only on workdays: **Monday--Friday 09:00 to 15:00 Western Indonesian Time (WIB)**.
 {{%/alert%}}
 
 <!-- * Kunjungan publik  : `+62 22 278 6001` -->

@@ -1,13 +1,13 @@
 ---
-title: "Survey of Gravitationally-lensed Objects in HSC Imaging (SuGOHI). V. Group-to-cluster scale lens search from the HSC-SSP Survey"
-date: 2020-02-01
-publishDate: 2020-02-12T03:04:30.442352Z
-authors: ["Anton T. Jaelani", "Anupreeta More", "Masamune Oguri", "Alessandro Sonnenfeld", "Sherry H. Suyu", "Cristian E. Rusu", "Kenneth C. Wong", "James H. H. Chan", "Issha Kayo", "Chien-Hsiu Lee", "Dani C.-Y. Chao", "Jean Coupon", "Kaiki T. Inoue", "Toshifumi Futamase"]
+title: "Survey of Gravitationally lensed Objects in HSC Imaging (SuGOHI) - VII. Discovery and Confirmation of Three Strongly Lensed Quasars"
+date: 2020-06-01
+publishDate: 2020-09-01T03:32:17.471363Z
+authors: ["Anton T. Jaelani", "Cristian E. Rusu", "Issha Kayo", "Anupreeta More", "Alessandro Sonnenfeld", "John D. Silverman", "Malte Schramm", "Timo Anguita", "Naohisa Inada", "Daichi Kondo", "Paul L. Schechter", "Khee-Gan Lee", "Masamune Oguri", "James H. H. Chan", "Kenneth C. Wong", "Kaiki T. Inoue"]
 publication_types: ["2"]
-abstract: "We report the largest sample of candidate strong gravitational lenses belonging to the Survey of Gravitationally-lensed Objects in HSC Imaging for group-to-cluster scale (SuGOHI-c) systems. These candidates are compiled from the S18A data release of the Hyper Suprime-Cam Subaru Strategic Program (HSC-SSP) Survey. We visually inspect $\\sim39,500$ galaxy clusters, selected from several catalogs, overlapping with the Wide, Deep, and UltraDeep fields, spanning the cluster redshift range $0.05 < z_{cl} < 1.38$. We discover 641 candidate lens systems, of which 537 are new. From the full sample, 47 are almost certainly bonafide lenses, 181 of them are highly probable lenses and 413 are possible lens systems. Additionally, we present 131 lens candidates at galaxy-scale serendipitously discovered during the inspection. We obtained spectroscopic follow-up of 10 candidates using the X-shooter. With this follow-up, we confirm 8 systems as strong gravitational lenses. Out of the remaining two, the lensed sources of one of them was too faint to detect any emission, and the source in the second system has redshift close to the lens but other additional arcs in this system are yet to be tested spectroscopically. Since the HSC-SSP is an ongoing survey, we expect to find $\\sim600$ definite or probable lenses using this procedure and more if combined with other lens finding methods."
+abstract: "We present spectroscopic confirmation of three new two-image gravitationally lensed quasars, compiled from existing strong lens and X-ray catalogs. Images of HSC J091843.27-022007.5 show a red galaxy with two blue point sources at either side, separated by 2.26 arcsec. This system has a source and a lens redshifts $z\\_s = 0.804$ and $z\\_l = 0.459$, respectively, as obtained by our follow-up spectroscopic data. CXCO J100201.50+020330.0 shows two point sources separated by 0.85 arcsec on either side of an early-type galaxy. The follow-up spectroscopic data confirm the fainter quasar has the same redshift with the brighter quasar from the SDSS fiber spectrum at $z\\_s = 2.016$. The deflecting foreground galaxy is a typical early-type galaxy at a redshift of $z\\_l = 0.439$. SDSS J135944.21+012809.8 has two point sources with quasar spectra at the same redshift $z\\_s = 1.096$, separated by 1.05 arcsec, and fits to the HSC images confirm the presence of a galaxy between these. These discoveries demonstrate the power of the Hyper Suprime-Cam Subaru Strategic Program (HSC-SSP)'s deep imaging and wide sky coverage. Combined with existing X-ray source catalogues and follow-up spectroscopy, the HSC-SSP provides us unique opportunities to find multiple-image quasars lensed by a foreground galaxy."
 featured: false
-publication: "*arXiv:2002.01611 [astro-ph]*"
+publication: "*arXiv:2006.16584 [astro-ph]*"
 tags: ["Astrophysics - Astrophysics of Galaxies"]
-url_pdf: "http://arxiv.org/abs/2002.01611"
+url_pdf: "http://arxiv.org/abs/2006.16584"
 ---
 

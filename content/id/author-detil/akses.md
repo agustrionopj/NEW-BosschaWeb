@@ -49,7 +49,7 @@ Ada beberapa alternatif transportasi untuk menuju ke Observatorium Bosscha.
 | Setiabudi - Gerbang bawah | $\pm$ 45 menit |
 | Gerbang bawah - Observatorium | $\pm$ 20 menit (jalan kaki) |
 
-Dari <font color='red'>Jl. Setiabudi</font> Bandung, silahkan ambil jalan ke <font color='red'>arah lembang</font>. Dalam perjalanan akan <font color='red'>melewati Universitas Pendidikan Indonesia (UPI Bandung)</font> dan <font color='red'>terminal `Ledeng`</font>. Setelah sampai <font color='red'>terminal `Ledeng`</font>, teruskan perjalanan ke <font color='red'>arah Lembang</font>. Ikuti jalan sampai <font color='red'>Pusdik Korps Wanita Angkatan Darat</font>. Setelah kurang lebih 400 meter, akan sampai <font color='red'>gerbang bawah Observatorium Bosscha</font> yang berada di kanan jalan. Kendaraan besar seperti Bus diparkir di depan gerbang ini. Perjalanan dilanjutkan dengan <font color='red'>jalan kaki</font> sekitar 800 meter, melewati gerbang atas, dan sampai di Observatorium.
+Dari <font color='red'>Jl. Setiabudi</font> Bandung, silahkan ambil jalan ke <font color='red'>arah lembang</font>. Dalam perjalanan akan <font color='red'>melewati Universitas Pendidikan Indonesia (UPI Bandung)</font> dan <font color='red'>terminal Ledeng</font>. Setelah sampai <font color='red'>terminal Ledeng</font>, teruskan perjalanan ke <font color='red'>arah Lembang</font>. Ikuti jalan sampai <font color='red'>Pusdik Korps Wanita Angkatan Darat</font>. Setelah kurang lebih 400 meter, akan sampai <font color='red'>gerbang bawah Observatorium Bosscha</font> yang berada di kanan jalan. Kendaraan besar seperti Bus diparkir di depan gerbang ini. Perjalanan dilanjutkan dengan <font color='red'>jalan kaki</font> sekitar 800 meter, melewati gerbang atas, dan sampai di Observatorium.
 
 ## Kendaraan Umum
 
@@ -58,11 +58,11 @@ Dari <font color='red'>Jl. Setiabudi</font> Bandung, silahkan ambil jalan ke <fo
 |       |       |
 | ------- | ------- |
 | St. Hall - Gerbang bawah | $\pm$ 2 jam |
-| Terminal `Cicaheum` - Gerbang bawah | $\pm$ 2,5 jam |
-| Terminal `Leuwi Panjang` - Gerbang bawah | $\pm$ 3,5 jam |
+| Terminal Cicaheum - Gerbang bawah | $\pm$ 2,5 jam |
+| Terminal Leuwi Panjang - Gerbang bawah | $\pm$ 3,5 jam |
 * Dari <font color='red'>Stasiun Hall Bandung</font> <br>
 Naik <font color='red'>Angkutan Kota St. Hall – Lembang</font>, turun di gerbang bawah Observatorium.
 * Dari <font color='red'>Terminal Bus Cicaheum</font> <br>
 Naik <font color='red'>Angkutan Kota Cicaheum – Ledeng</font>, turun di <font color='red'>terminal Ledeng</font>, dilanjutkan naik <font color='red'>St. Hall – Lembang</font>, turun di gerbang bawah Observatorium.
 * Dari <font color='red'>Terminal Leuwi Panjang</font> <br>
-Naik <font color='red'>Bus Damri arah `Ledeng`</font>. Dari `Ledeng` naik <font color='red'>St. Hall – Lembang</font>, turun di gerbang bawah Observatorium.
+Naik <font color='red'>Bus Damri arah Ledeng</font>. Dari Ledeng naik <font color='red'>St. Hall – Lembang</font>, turun di gerbang bawah Observatorium.

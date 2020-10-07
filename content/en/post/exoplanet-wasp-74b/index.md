@@ -1,5 +1,5 @@
 +++
-title = "Pengamatan Transit Eksoplanet WASP-74b"
+title = "Exoplanet WASP-74b Transit Observation"
 subtitle = ""
 
 # Add a summary to display on homepage (optional).
@@ -38,50 +38,50 @@ categories = []
   focal_point = "Center"
 +++
 
-Eksoplanet adalah planet yang mengorbit bintang lain selain Matahari. Hingga saat ini, lebih dari 3400 eksoplanet ditemukan dan sudah terkonfirmasi. Terdapat beberapa metode untuk mendeteksi adanya planet di bintang lain. Metode yang paling banyak/mudah dilakukan adalah metode transit. Transit eksoplanet merupakan peristiwa lewatnya planet di depan bintang sehingga cahaya bintang sedikit meredup (mirip gerhana atau transit planet Venus). Peredupan ini yang kemudian dapat dideteksi dan menjadi indikator adanya planet.
+An exoplanet is a term used for a planet that orbits a star apart from our Sun. Up until now, more than 3400 exoplanets have been found and confirmed. There are a lot of methods to detect the existence of a planet in another star. The easiest and most used method is (astronomical) transit. Exoplanet transit is a phenomenon when an exoplanet passes directly between a star and the observer, resulting in a dimming of the star’s light (just like an eclipse or Venus/Mercury transit). This dimming, then, can be detected as an indicator of the existence of an exoplanet. 
 
-{{< figure src="ilustrasi_transit.png" title="Ilustrasi transit eksoplanet (kredit: www.nasa.gov)" >}}
+{{< figure src="ilustrasi_transit.png" title="Illustration of an exoplanet transit (credit: www.nasa.gov)" >}}
 
-Salah satu kegiatan yang dilakukan di Observatorium Bosscha adalah mencari eksoplanet baru dan juga melakukan konfirmasi adanya eksoplanet. Kali ini akan dipaparkan salah satu hasil pengamatan transit eksoplanet WASP-74 b di Observatorium Bosscha. Pengamatan eksoplanet WASP-74 b dilakukan menggunakan teleskop Planewave CDK 14″ (~36 cm) f/7.2  dan detektor (CCD) FLI Proline 11002.
+One of the things that we do, here on Bosscha Observatory, is looking for a new exoplanet and also confirming the existence of (already found) exoplanets. We presented an observation result of WASP-74b exoplanet transit from our site. This exoplanet was observed with the Planewave CDK 14” (f/7.2) and CCD detector FLI Proline 11002. 
 
-Planet WASP-74 b merupakan eksoplanet yang mengorbit bintang dengan magnitudo 9.7, sehingga merupakan salah satu sistem keplanetan luar surya paling terang yang dapat diamati di belahan langit selatan. Planet ini ditemukan menggunakan metode transit oleh tim WASP, dan telah dikonfirmasi dengan pengukuran kecepatan radial. Penemuan eksoplanet ini dipaparkan di makalah Coel Hellier (2014). Planet WASP-74 b memiliki massa 0.95 massa Jupiter dan radius 1.56 radius Jupiter, mengorbit dengan periode 2.1378 hari di bintang kelas F9 dengan massa 1.48 dan radius 1.64 Matahari.
+WASP-74b is an exoplanet that orbits around a star with 9.7 magnitude, which makes this system the brightest planetary system ever observed in the southern hemisphere. This (exo-)planet was found using the transit method by the WASP team and confirmed with further radial velocity measurement. The discovery of this exoplanet is explained well by Coel Hellier (2014). Planet WASP-74b has a mass of 0.95 times Jupiter’s and a radius of 1.56 Jupiter's, orbiting a F9 class star with a mass of 1.48 times Sun’s and a radius of 1.64 times Sun’s, with a period of 2.1378 days.
 
-Kurva cahaya ketika terjadi transit seperti ditunjukkan pada plot di bawah ini diperoleh setelah dilakukan reduksi data fotometri. Dari dua kurva cahaya transit (selang 2 hari) yang diperoleh, hanya satu yang ditampilkan (hasil pada tanggal 28 Juli 2016).
+Light curves during transit as shown in the plot below are obtained after photometric data reduction. Of the two transit light curves (interval of 2 days) obtained, only one is displayed (results on 28 July 2016).
 
-{{< figure src="lightcurve_wasp-74b.png" title="Kurva cahaya WASP-74b" >}}
+{{< figure src="lightcurve_wasp-74b.png" title="Light curve of WASP-74b" >}}
 
-Terlihat perubahan kecerlangan bintang, menurun kemudian naik kembali, mengindikasikan adanya objek yang menghalangi cahaya bintang tersebut, dalam hal ini planet WASP-74 b yang sedang lewat di depan bintang. Data transit ini kemudian dapat diolah untuk mendapatkan parameter fisis planet. Parameter yang paling penting adalah perbandingan antara radius planet dengan radius bintang.
+The visible changes in the brightness of the star, its drop and rebound, indicate the existence of objects that block the starlight, in this case, the planet WASP-74b that is passing in front of the star. This transit data then can be processed to obtain physical parameters of the planet. The most important parameter is the ratio between the radius of the planet and the radius of the star.
 
-Walaupun kurva cahaya terlihat cukup datar, tetapi masih mungkin adanya kontaminasi (*noise*) yang bisa berasal dari instrumen, bintangnya sendiri (misal aktivitas bintang), atau massa udara (*airmass*). *Red noise* ini dapat dihilangkan apabila kita mengetahui sumber *noise*-nya dengan baik. Setelah menghilangkan *noise* terkorelasi tersebut (disebut proses *de-trending* di kalangan pengamat eksoplanet),  *fitting* baru dapat dilakukan untuk memperoleh parameter fisis planet. Pada kenyataannya sangat sulit untuk menghilangkan noise ini secara langsung. Untuk menyederhanakan kasus, proses *de-trending* dan *fitting* dilakukan bersama dengan menyederhanakan model kurva cahaya terkorelasi (berlaku untuk data transit pendek). Bentuk kurva cahaya bintang sesaat sebelum hingga sesaat sesudah transit dimodelkan dengan bentuk melengkung (persamaan kuadrat) lalu ditambahkan peredupan akibat transit planet ($F_\mathrm{ratio}$).
+Although the light curve looks pretty flat, it is still possible to have data contamination (noise) that can come from the instrument, the star itself (e.g. star activity), or the air mass in our atmosphere. Red noise like those can be eliminated if we know the source of the noise. After removing the correlated noise (known as the detrending process among exoplanet observers), a new fitting can be performed to obtain the physical parameters of the planet. In fact, it is very difficult to directly eliminate this noise. To simplify the case, the de-trending and fitting process is carried out together by simplifying the correlated light curve model (which is applicable for short transit data). The shape of the light curve from shortly before until shortly after transit is modelled with a curved shape (quadratic equation) and then dimming effect due to the transit of the planet ($F_\mathrm{ratio}$) is added.
 
 $$
   \Delta m = A - 2.5 \log (F_\mathrm{ratio}) + B(t - \bar{t}) + C(t - \bar{t})^2
 $$
 
-Cara ini dilakukan juga pada <a href="http://var2.astro.cz/EN/" target="_blank"> web penampungan data pengamatan transit eksoplanet republik Czech </a>. Bedanya, pada pekerjaan ini, *fitting* dilakukan dengan pendekatan Bayesian (i.e. metode <font color='red'>Markov Chain Monte Carlo</font> atau <font color='red'>MCMC</font>). Model transit ($F_\mathrm{ratio}$) yang digunakan menggunakan persamaan Mandel & Agol (2002); *quadratic limb darkening*, dengan koefisien *limb darkening* (penggelapan tepi) diparameterisasi mengikuti Kipping (2013) untuk memudahkan pengusulan *Prior*.
+This method is also carried out on <a href="http://var2.astro.cz/EN/" target="_blank"> the Czech Republic exoplanet transit observation data collection site </a>. The difference, in this work, the fitting was done with the Bayesian approach (i.e. <font color='red'>Markov Chain Monte Carlo</font> method or <font color='red'>MCMC</font>). For the transit model ($F_\mathrm{ratio}$), we applied the Mandel & Agol equation (2002); quadratic limb darkening, with the limb darkening coefficient parameterized following Kipping (2013) to facilitate advance prior.
 
-Hasil *fitting* ditunjukkan pada plot berikut.
+The results of the fitting are shown in the following plot,
 
-{{< figure src="featured.png" title="Hasil *fitting* kurva cahaya WASP-74b" >}}
+{{< figure src="featured.png" title="Light curve's fitting of WASP-74b" >}}
 
-dengan nilai parameter hasil *fitting* ditunjukkan pada tabel berikut (median + error 1-sigma diambil dari *quantile* 0.16 dan 0.84).
+with the parameter values of the fitting results are shown in the following table (median + 1-sigma error taken from quantile 0.16 and 0.84).
 
-{{< figure src="table1.png" width="400px" title="Hasil *fitting* data terhadap model (Mandel & Agol + *de-trending*)" >}}
+{{< figure src="table1.png" width="400px" title="Fitting results of data to the model (Mandel & Agol + de-trending)" >}}
 
-{{< figure src="table2.png" width="400px" title="Parameter lain yang diturunkan dari hasil *fitting*" >}}
+{{< figure src="table2.png" width="400px" title="Other parameters derived from the fitting results" >}}
 
 
 
-*Posterior density function* (PDF) akhir hasil MCMC setelah dilakukan cek konvergensi parameter serta proses “burning” dan “thining” dapat dilihat pada plot berikut.
+The final *Posterior Density Function* (PDF) of the MCMC results after checking the convergence of parameters along with the "burning" and "thinning" process can be seen in the following plot.
 
-{{< figure src="cornerplot.png" title="PDF dari proses MCMC kurva cahaya WASP-74b" >}}
+{{< figure src="cornerplot.png" title="PDF from WASP-74b’s light curve MCMC process" >}}
 
-Dengan pengamatan kurva cahaya seperti ini saja sebetulnya belum diperoleh kepastian adanya planet yang sedang transit. Bisa saja penurunan intensitas cahaya bintang (secara periodik) ini disebabkan hal fisis lain, misal apabila bintang ini adalah bintang ganda dekat yang orbitnya kebetulan mengalami sedikit sekali penggerhanaan (eclipsing binary) yang menghasilkan kurva cahaya menyerupai transit planet. Konfirmasi kebenaran adanya planet dapat dilakukan dengan pengamatan kecepatan radial (hal ini sudah dilakukan oleh tim WASP penemu planet ini) atau pengamatan transit diberbagai filter khusus. Pengamatan transit juga hanya dapat mengkonstrain/membatasi rasio antara radius planet dengan bintang, serta rasio semi mayor orbit planet dengan radius bintang (bintang terang ditutupi planet besar akan menghasilkan perubahan fluks cahaya yang sama dengan bintang redup ditutupi oleh planet kecil). Artinya, diperlukan data lain untuk mendapatkan dimensi planet sebenarnya; misal massa atau radius bintang dari pengamatan menggunakan metode lain.
+We actually cannot be certain with the existence of a planet in a transit from the observation of light curves alone. It could be a (periodical) decrease in starlight intensity due to other physical things, for example, if this star is a close double star whose orbit happens to experience very little digging (eclipsing binary) which produces a light curve similar to the transit of a planet. Confirmation of whether the decrease in starlight intensity is caused by a transit of a planet or not can be done by observing radial velocity (this has been done by the WASP team that discovered the planet) or by observing transit in various special filters. Transit observations can also only constrain or limit the ratio between the radius of the planet to the star, as well as the ratio of semi-major orbits of the planet to the radius of the star (bright stars covered by large planets will produce changes in the same light flux as faint stars covered by small planets). This means that other datasets are needed to get the actual planet dimensions; for example the mass or radius of a star from observations using other methods.
 
-Jika kita menggunakan data massa bintang sebesar $1.48 \pm 0.12$ massa Matahari, maka radius planet WASP-74 b dapat diturunkan dari data pengamatan ini, yaitu sebesar $1.53 \pm 0.1$ radius Jupiter. Hasil ini masih sesuai dengan perhitungan tim WASP, yaitu sebesar $1.56 \pm 0.06$ radius Jupiter.
+If we use stellar-mass data of $1.48 \pm 0.12$ solar masses, the radius of WASP-74b can be derived from this observational data, which is $1.53 \pm 0.1$ Jupiter's radius. These results are still in accordance with the calculations of the WASP team, which is equal to $1.56 \pm 0.06$ Jupiter radius.
 
-Pengamatan ini membuktikan bahwa dengan kondisi langit di Lembang yang sudah memburuk akibat polusi cahaya, pengamatan transit eksoplanet masih dapat dilakukan hingga orde delta magnitudo, $\Delta m = 0.01$ (untuk bintang induk dengan terang 9.7 mag). Di sisi lain, pengamatan kecepatan radial masih perlu dilakukan untuk mengonfirmasi keberadaan planet ini dengan pasti. Sayangnya, Observatorium Bosscha belum memiliki instrumen (spektrograf)  dengan resolusi tinggi yang dapat mendeteksi perubahan kecepatan radial hingga orde di bawah 100 m/s.
+These observations prove that with the deteriorating sky conditions in Lembang due to light pollution, observations of exoplanet transit can still be done with the order of delta magnitude, $\Delta m = 0.01$ (for parent stars with a brightness of 9.7 magnitude). On the other hand, observations of radial velocity still need to be done to confirm the existence of this planet. Unfortunately, Bosscha Observatory does not have a high-resolution instrument (spectrograph) yet that can detect changes in radial velocity down to order below 100 m/s.
 
-Hasil pengamatan dan analisis ini telah dipresentasikan di <font color='red'>International Conference on Mathematics and Natural Sciences (ICMNS)</font> yang diadakan di ITB pada tanggal 2-3 November 2016 lalu.
+These observations and analyses were presented at <font color='red'>the International Conference on Mathematics and Natural Sciences (ICMNS)</font> held at Institut Teknologi Bandung on November 2nd and 3rd, 2016.
 
-Pengamatan dan reduksi data dilakukan oleh Muhammad Yusuf (Research assistant, pemecah rekor pengamatan bulan sabit serta pengembang robotic telescope di Observatorium Bosscha), sedangkan analisis data dilakukan oleh Ridlo W. Wibowo (Research assistant, mahasiswa Program Doktor Astronomi ITB).
+Data observations and reduction were carried out by Muhammad Yusuf (Research assistant, young crescent moon record-breaker observation and robotic telescope developer at Bosscha Observatory), while the analysis was carried out by Ridlo W. Wibowo (Research assistant, doctoral student in astronomy at ITB). 

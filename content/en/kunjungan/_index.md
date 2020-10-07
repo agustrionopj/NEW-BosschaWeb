@@ -1,5 +1,5 @@
 ---
-title: Informasi Umum
+title: Guided Tour Programme and Schedule
 weight: 1
 date: 2019-07-09T00:00:00.000Z
 lastmod: 2018-09-09T00:00:00.000Z
@@ -8,86 +8,57 @@ toc: true
 type: docs
 menu:
   kunjungan:
-    name: Informasi Umum
+    name: Programme and Schedule
     weight: 1
 
 weight: 1
 ---
 
-Program kunjungan publik ini terbagi menjadi dua:
+Bosscha Observatory – FMIPA ITB warmly invites the general public to visit the oldest and still biggest astronomical observatory in Indonesia, by participating on our public visit programmes.
 
-### [Kunjungan Siang]({{< relref "siang">}})
+To attend one of our tour sessions, visitors must book their ticket by following the visitors' registration process. You can find the booking procedure and admission fees [here]({{< ref "/kunjungan/daftar.md">}}).
 
-Di program ini, pengunjung dapat <font color='red'>melihat cara kerja teleskop Zeiss</font> (**tidak meneropong**) dan <font color='red'>mendapat informasi astronomi di ruang multimedia</font>. Pengunjung harus mendaftar terlebih dahulu dengan biaya Rp. 15.000/orang. Untuk lebih jelasnya, lihat cara [pendaftaran dan pembayaran]({{< ref "/kunjungan/daftar.md">}}).
+Before you register, please match your estimated visit date with our programme schedule in the {{% staticref "img/kalender_kunjungan2020.png" "newtab"%}}following calendar{{% /staticref %}} (updated in April 2020). Bosscha Observatory closed every Sunday, Monday, national holidays, during the month of Ramadan until Ied al-Fitr holidays, and New Year holidays.
 
-{{% alert note %}}
-- Cek jadwal kunjungan siang pada tautan [berikut]({{< ref "/kunjungan/siang.md" >}}).
-- Kalender kunjungan tahun 2020 selengkapnya bisa dilihat dan diunduh pada tautan {{% staticref "img/kalender_kunjungan2020.png" "newtab"%}}berikut{{% /staticref %}}.
-{{% /alert %}}
+Driving direction and public transportation alternatives to the observatory can be found [here]({{< ref "/kunjungan/aturan.md">}}). For the sake of convenience to all of our visitors as well as our staffs and astronomers, we expect every visitors to observe those rules during the tour session.
 
+Our guided tour programme will be delivered entirely in the Indonesian language, with some visual aid might be available in both Indonesian and English. While it depends on the staff availability on that day, you can request to be personally assisted with our guide in English as long as you reserve the tour early (at least 1 month in advance).
 
-### [Kunjungan Malam]({{< relref "malam">}})
+### Guided Day Tours
+The guided day tours last around 1.5 hours, with activities such as
+-	Popular astronomy presentation by one of our astronomer at Multimedia Hall,
+-	Witnessing how we operate our largest and oldest telescope, the 60-cm Zeiss double refractor telescope, and
+-	Observe the Sun together with our portable telescopes (depends on the weather).
 
-Di program ini, **jika langit cerah (tidak mendung/hujan/berkabut)** pengunjung dapat:
+The guided day tours are divided into 2 types, with different schedules and intended participants. All the time mentioned below are in Western Indonesia Time (UTC+7).
+- Weekday tours (Tuesday – Friday) for schools/institutional groups.
+  - Tour sessions on Tue. - Thu. start at **9 am**, **11 am**, and **1 pm**.
+  - Tour sessions on Friday start at **9 am** and **1.30 pm**.
+  - The number of participant for each session is limited between **25** and **200 people**.
 
-* melihat cara kerja teleskop Zeiss (tidak meneropong), 
-* mendapat informasi astronomi di ruang multimedia dan 
-* meneropong langsung dengan teleskop portable dan teleskop Bamberg. 
+- Weekday tours (Saturday) for individuals and families.
+  - Tour sessions start at **9.30 am**, **10.45 am**, **12 pm**, and **13.15 pm**.
+  - The number of participant for each session is limited to **100 people**.
 
-<font color='red'>Jika cuaca tidak mendukung, acara tetap berjalan tanpa peneropongan</font>. Gambaran kondisi cuaca bisa dilihat pada tautan <a href="https://bosscha.itb.ac.id/aws/" target="_blank">berikut</a>. Kapasitas maksimum per malam adalah 180 orang. Pengunjung harus mendaftar terlebih dahulu dengan biaya Rp. 20.000/orang. Untuk lebih jelasnya, lihat cara [pendaftaran dan pembayaran]({{< ref "/kunjungan/daftar.md">}}).
+### Guided Night Tours
+The guided night tours open every dry season (usually between April to October) with limited time and capacity (limited to **200 participants**). The tour starts at **5 pm** and lasts around 2 – 3 hours. Both groups and individual visitors can join this tour programme, with activities provided such as
+- Themed astronomy presentation at Multimedia Hall (with different topics for each week),
+- Witnessing how we operate our largest and oldest telescope, the 60-cm Zeiss double refractor telescope, and
+- Observe the Moon, planets, and stars together with our 37-cm Bamberg telescope and portable telescopes (depends on the weather).
 
-{{% alert note %}}
-- Cek jadwal kunjungan malam pada tautan [berikut]({{< ref "/kunjungan/malam.md" >}}).
-- Kalender kunjungan tahun 2020 selengkapnya bisa dilihat dan diunduh pada tautan {{% staticref "img/kalender_kunjungan2020.png" "newtab"%}}berikut{{% /staticref %}}.
-{{% /alert %}}
+For this year, we are opening 22 guided night tour schedule, all on Friday or Saturday night. Below are the night tour dates. Please contact our visitor registration office for information about the current availability on each date.
 
-{{% alert note %}}
-Observatorium Bosscha tutup pada:
+Month | Date
+------- | -----
+June | 26, 27
+July | 3, 4, 24, 25
+August | 7, 8, 28, 29
+September | 4, 5, 25, 26
+October | 2, 3, 23, 24, 30, 31
 
- * Hari Minggu, Senin, dan hari libur nasional
- * Selama bulan puasa dan libur idul fitri (tunggu detail lebih lanjut)
- * Pergantian tahun
-{{% /alert %}}
+Below are the observatory maps for public visitors and documentations on our tour activities.
 
-{{% alert warning %}}
- Observatorium Bosscha **tidak** menarik biaya tambahan **apapun** selain yang tercantum dalam website ini. Pendaftaran kunjungan dan transaksi keuangan **hanya** dilakukan di kantor pendaftaran kunjungan. Calon pengunjung diharapkan membaca seluruh informasi dengan teliti dan seksama.
-{{% /alert %}}
+{{<figure library="true" src="Peta_EN-online.png" lightbox="true">}}
 
-Akses menuju Observatorium Bosscha bisa dilihat pada peta di bawah ini. Perkiraan durasi perjalanan ke Observatorium Bosscha bisa dilihat pada tautan [berikut]({{< relref "author-detil/akses">}}).
-
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    .google-maps {
-        position: relative;
-        padding-bottom: 75%; // This is the aspect ratio
-        height: 0;
-        overflow: hidden;
-    }
-    .google-maps iframe {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100% !important;
-        height: 100% !important;
-    }
-  </style>
-</head>
-<body>
-  <div class="google-maps">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2648.8006423979327!2d107.61502643560667!3d-6.823567762410957!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e11292b0db83%3A0xc0f73eee035e3ffd!2sBosscha!5e0!3m2!1sen!2sid!4v1552088642696" width="750" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
-  </div>
-</body>
-</html>
-
-<br>
-
-Berikut adalah denah Observatorium Bosscha.
-
-{{<figure library="true" src="peta.png" lightbox="true">}}
-
-
-Suasana kunjungan publik Observatorium Bosscha bisa dilihat pada galeri berikut.
 ***
 {{<foldergallery src="kunjungan">}}

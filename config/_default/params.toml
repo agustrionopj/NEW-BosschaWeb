@@ -18,7 +18,7 @@ day_night = false
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font = ""
+font = "custompj"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
@@ -82,7 +82,9 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "kunjungan [at] as.itb.ac.id"
-phone = "+62 22 278 6001"
+# phone = "+62 22 278 6001"
+phone = "- (dimatikan selama masa pandemi)"
+
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -97,7 +99,7 @@ address = {street = "Jl. Peneropongan Bintang", city = "Lembang", region = "Band
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Senin - Jumat pukul 09:00 WIB s.d. 15:00 WIB"]
+office_hours = ["Senin - Jumat, pukul 09:00 WIB s.d. 15:00 WIB"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "https://calendly.com"

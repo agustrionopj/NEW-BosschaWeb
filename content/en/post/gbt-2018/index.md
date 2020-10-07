@@ -1,5 +1,5 @@
 +++
-title = "Pengamatan Gerhana Bulan Total 28 Juli 2018"
+title = "Observation of The Total Lunar Eclipse on July 28th, 2018"
 subtitle = ""
 
 date = 2018-07-28T00:00:00
@@ -36,10 +36,13 @@ featured = false
 
 +++
 
-Menyambut datangnya Gerhana Bulan Total 28 Juli 2018, tim Observatorium Bosscha melakukan serangkaian kegiatan, baik itu penelitian maupun astrofotografi. Pada laman ini disajikan timelapse foto Bulan yang memperlihatkan proses terjadinya Gerhana Bulan Total dari fase ke fase.
+To commemorate the Total Lunar Eclipse on July 28th of 2018, Bosscha Observatory team
+conducted a series of observation activities, both to research and astrophotography
+agenda. In this article, timelapse photos of the Moon are presented to show the process of
+the total lunar eclipse through each phase.
 
 {{<youtube Gabb7doB71g>}}
 
-Berikut adalah gambar diam resolusi tinggi dari peristiwa Gerhana Bulan Total 28 Juli 2018, dimulai dari tahap sebelum gerhana sampai setelah gerhana. Klik pada masing-masing gambar untuk memperbesar gambar.
+Below are high-resolution still images of the Total Lunar Eclipse on July 28th of 2018, started from the stage before the eclipse until it finished. Click on each image to enlarge them.
 
 {{<customgallery album="gallery">}}

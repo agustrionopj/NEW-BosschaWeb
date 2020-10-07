@@ -87,6 +87,6 @@ user_groups = ["Peneliti"]
 
 +++
 
-Pria yang kerap dipanggil `PJ` ini sedang mengerjakan topik penelitian bintang variabel dan okultasi. Waktu senggangnya dihabiskan dengan bermain piano, fotografi, dan _coding_. Detail lebih lanjut bisa dilihat di <a href="https://agustrionopj.github.io/" target="_blank">sini</a>.
+Pria yang kerap dipanggil `PJ` ini sedang mengerjakan topik penelitian bintang variabel dan okultasi. Waktu senggangnya dihabiskan dengan bermain piano, fotografi, dan _coding_. Detail lebih lanjut bisa dilihat di <a href="https://agustrionopj.gitlab.io/" target="_blank">sini</a>.
 
 #### [<i class="fas fa-angle-left"></i> Kembali]({{< relref "/#people" >}})

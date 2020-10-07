@@ -9,7 +9,7 @@ authors = ["rezky"]
 superuser = true
 
 # Role/position
-role = "Astronomy Communicator"
+role = "Komunikator Astronomi"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -30,7 +30,7 @@ email = ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["_Outreach_"]
+user_groups = ["Pendidikan & Penjangkauan Publik"]
 
 # List qualifications (such as academic degrees)
 #[[education.courses]]

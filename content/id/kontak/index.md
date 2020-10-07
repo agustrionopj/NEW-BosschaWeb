@@ -33,6 +33,7 @@ Jawa Barat, Indonesia
  | 
 --- | ---
 **Kontak Non - Kunjungan** | `+62 22 278 6027`
+<!-- **Kontak Tim Pendidikan & Penjangkauan Publik** | `+62-xxx-xxx` -->
 
 {{%alert note%}}
 Permintaan informasi/pendaftaran lewat telepon/fax hanya dilayani pada jam dan hari kerja: **Senin--Jumat pukul 09:00 s.d. 15:00 WIB**.
@@ -52,3 +53,4 @@ Ganti '[at]' dengan lambang '@' saat anda mengirimkan e-mail.
 **Kunjungan publik**  | `kunjungan[at]as.itb.ac.id`
 **Riset/Administrasi**   | `bosscha[at]as.itb.ac.id`
 **Perpustakaan**              | `ely[at]as.itb.ac.id`
+<!-- **Tim Pendidikan & Penjangkauan Publik** | `tes@email.com` -->

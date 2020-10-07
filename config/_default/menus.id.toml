@@ -9,109 +9,176 @@
   weight = 5
 
 [[main]]
-  name = "Profil"
+  name = "Tentang Kami"
+  identifier = "about"
   url = "#about"
   weight = 10
 
+# ------------------------------------------------
+# PROFIL
+# ------------------------------------------------
+
+[[main]]
+  name = "Profil"
+  parent = "about"
+  url = "#about"
+  weight = 11
+
+[[main]]
+  name = "Staf"
+  parent = "about"
+  url = "#people"
+  weight = 12
+
+[[main]]
+  name = "Sejarah"
+  parent = "about"
+  url = "/author-detil/"
+  weight = 13
+
+[[main]]
+  name = "Fasilitas"
+  parent = "about"
+  url = "/author-detil/instrumen/"
+  weight = 14
+
 [[main]]
   name = "Berita"
-  url = "#posts"
+  parent = "about"
+  url = "/post/"
   weight = 15
 
-[[main]]
-  name = "Kunjungan"
-  identifier = "kunjungan"
-  url = "/kunjungan/"
-  weight = 20
+# ------------------------------------------------
+# PENELITIAN & PENDIDIKAN
+# ------------------------------------------------
 
 [[main]]
-  name = "Informasi Umum"
-  parent = "kunjungan"
-  url = "/kunjungan/"
-  weight = 21
-
-[[main]]
-  name = "Aturan"
-  parent = "kunjungan"
-  url = "/kunjungan/aturan/"
-  weight = 22
-
-[[main]]
-  name = "Pendaftaran"
-  parent = "kunjungan"
-  url = "/kunjungan/daftar/"
-  weight = 23
-
-[[main]]
-  name = "Jadwal"
-  parent = "kunjungan"
-  url = "/kunjungan/siang/"
-  weight = 24
-
-[[main]]
-  name = "Penelitian"
+  name = "Penelitian & Pendidikan"
   identifier = "penelitian"
   url = "/penelitian/"
-  weight = 25
-
-[[main]]
-  name = "Kondisi Cuaca"
-  parent = "penelitian"
-  url = "https://bosscha.itb.ac.id/aws/"
-  weight = 26
+  weight = 20
 
 [[main]]
   name = "Topik"
   parent = "penelitian"
   url = "/penelitian/"
-  weight = 27
+  weight = 21
 
 [[main]]
   name = "Publikasi"
   parent = "penelitian"
-  url = "#publications"
-  weight = 28
+  url = "/id/publication/"
+  weight = 22
+[[main]]
+  name = "Layanan Magang"
+  parent = "penelitian"
+  url = "/id/akademik/"
+  weight = 23
 
 [[main]]
-  name = "Akademik"
-  url = "/akademik/"
+  name = "Proposal"
+  parent = "penelitian"
+  url = "#"
+  weight = 24
+
+# [[main]]
+#   name = "Akademik"
+#   url = "/akademik/"
+#   weight = 30
+
+# --------------------------------------------------------------
+# KUNJUNGAN
+# --------------------------------------------------------------
+[[main]]
+  name = "Kunjungan"
+  identifier = "kunjungan"
+  url = "/kunjungan/"
   weight = 30
 
+[[main]]
+  name = "Program & Jadwal"
+  parent = "kunjungan"
+  url = "/kunjungan/"
+  weight = 31
+
+[[main]]
+  name = "Tips & Aturan Berkunjung"
+  parent = "kunjungan"
+  url = "/kunjungan/aturan/"
+  weight = 32
+
+[[main]]
+  name = "Pendaftaran"
+  parent = "kunjungan"
+  url = "/kunjungan/daftar/"
+  weight = 33
+
+# [[main]]
+#   name = "Jadwal"
+#   parent = "kunjungan"
+#   url = "/kunjungan/siang/"
+#   weight = 24
+
+
+# --------------------------------------------------------------
+# LAYANAN PUBLIK
+# --------------------------------------------------------------
 [[main]]
   name = "Layanan"
   identifier = "layanan"
   url = "/layanan/"
-  weight = 35
+  weight = 40
+
+# [[main]]
+#   name = "Portal Edukasi"
+#   parent = "layanan"
+#   url = "#"
+#   weight = 41
 
 [[main]]
   name = "Kalender Astronomi"
   parent = "layanan"
   url = "/layanan/astrocal/"
-  weight = 36
+  weight = 42
 
 [[main]]
   name = "Press-release"
   parent = "layanan"
   url = "/layanan/pressrelease"
-  weight = 37
+  weight = 43
 
 # [[main]]
-#   name = "Tes"
-#   parent = "layanan"
-#   url = "/layanan/test/"
-#   weight = 38
-
-[[main]]
-  name = "Tautan"
-  url = "#projects"
-  weight = 40
+#   name = "Tautan"
+#   url = "#projects"
+#   weight = 40
 
 [[main]]
   name = "Galeri"
-  url = "/gallery/"
-  # url = "/galeri-2/"
-  weight = 45
+  parent = "layanan"
+  # url = "/gallery/"
+  url = "/gallery-test2/"
+  weight = 44
 
+# [[main]]
+#   name = "Perpustakaan"
+#   parent = "layanan"
+#   url = "#"
+#   weight = 45
+
+[[main]]
+  name = "Kondisi Cuaca"
+  parent = "layanan"
+  url = "https://bosscha.itb.ac.id/aws/"
+  weight = 46
+
+[[main]]
+  name = "Pengamatan Virtual Langit Malam 2020"
+  parent = "layanan"
+  url = "/layanan/pvlm"
+  weight = 47
+# ------------------------------------------------------------------------------------
+# KONTAK
+# ------------------------------------------------------------------------------------
 [[main]]
   name = "Kontak"
   url = "/kontak/"

@@ -13,9 +13,9 @@ subtitle = ""
 [content]
 	# Choose which groups/teams of users to display.
   	# Edit `user_groups` in each user's profile to add them to one or more of these groups.
-	user_groups = ["Direktur",
+	user_groups = ["Kepala",
 	               "Peneliti",
-	               "_Outreach_",
+	               "Pendidikan & Penjangkauan Publik",
 	               ]
 
 #cta_label = "Back"
@@ -57,5 +57,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-#### [<i class="fas fa-angle-left"></i> Kembali](/author-detil/)
+<!-- #### [<i class="fas fa-angle-left"></i> Kembali](/id/author-detil/) -->
 
+#### [<i class="fas fa-angle-left"></i> Kembali](#about)

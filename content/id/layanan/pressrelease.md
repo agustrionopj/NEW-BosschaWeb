@@ -7,9 +7,13 @@ type = "docs"
 linktitle = "press release"
 
 [menu.layanan]
-    parent = "Material"
+    parent = "File Elektronik"
     weight = 1
 +++
+* {{% staticref "files/ObsBosscha-Press-Release-Dzulhijjah-2020.pdf" "newtab" %}} Press Release Hilal Dzulhijjah 1441 H/2020 M {{% /staticref %}}
+* {{% staticref "files/ObsBosscha-Press-Release-Syawal-2020.pdf" "newtab" %}} Press Release Hilal Syawal 1441 H/2020 M {{% /staticref %}}
+* {{% staticref "files/ObsBosscha-Press-Release-Ramadan-2020.pdf" "newtab" %}} Press Release Hilal Ramadan 1441 H/2020 M {{% /staticref %}}
+* {{% staticref "files/press-release-OB-tutup-13Maret2020.pdf" "newtab" %}} Press Release Observatorium Bosscha Tutup terkait COVID-19 {{% /staticref %}} 
 * {{% staticref "files/press-release-muharram-2019.pdf" "newtab" %}} Press Release Hilal Muharram 1441 H/2019 M {{% /staticref %}}
 * {{% staticref "files/press-release-syawal-2019.pdf" "newtab" %}} Press Release Hilal Syawal 1440 H/2019 M {{% /staticref %}}
 * {{% staticref "files/press-release-ramadhan-2019.pdf" "newtab" %}} Press Release Hilal Ramadhan 1440 H/2019 M {{% /staticref %}}

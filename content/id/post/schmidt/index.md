@@ -80,6 +80,6 @@ Artikel ditulis oleh Evan I. Akbar
 
 - Van Dien, E., 1995, The Bosscha Observatory Schmidt telescope, Astronomical Society of the Pasific Conference Series, 84, 15
 
-[^1]: G.P. Kuiper adalah astronom pencetus teori sabuk Kuiper, yakni kumpulan benda kecil seperti asteroid yang berada jauh di luar orbit planet di tata surya.
+[^1]: G.P. Kuiper is the astronomer who originated the Kuiper belt theory, which is a collection of small objects such as asteroids that are far outside the orbits of planets in the solar system.
 
 [^2]: J.H. Oort adalah astronom pencetus teori awan Oort, yakni kumpulan material sisa pembentukan tata surya yang kini tersebar di tepi tata surya.

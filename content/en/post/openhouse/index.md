@@ -1,5 +1,5 @@
 +++
-title = "Open House Observatorium Bosscha 13 Juli 2019"
+title = "Bosscha Observatory Open House on July 13th, 2019"
 subtitle = ""
 
 # Add a summary to display on homepage (optional).
@@ -38,17 +38,17 @@ categories = ["layanan", "publik"]
   focal_point = ""
 +++
 
-Sabtu pagi, hari yang sangat cerah, dan Observatorium Bosscha tetap melaksanakan aktivitasnya seperti biasa: menerima kunjungan publik keluarga. Namun, ada yang berbeda hari itu. Tampak dua tenda terpasang seolah akan ada hajatan besar, dan terdapat kesibukan yang lebih dari biasanya, ditandai dengan lalu lalangnya kawan-kawan muda mahasiswa Astronomi ITB. Ya, pada Sabtu itu, tepatnya tanggal 13 Juli 2019, Observatorium Bosscha sedang bersiap menerima tamu-tamu undangan maupun publik yang akan menghadiri acara Open House Observatorium Bosscha. 
+It’s Saturday morning, a very sunny day, and Bosscha Observatory continued to carry out its activities as usual: accepting public visits. However, something was different that day. There were two tents installed as if there would be a big celebration, and there was more excitement than usual, marked by the loitering of our young fellow, astronomy students of ITB. On Saturday, July 13th of 2019, Bosscha Observatory was preparing to receive invited guests and the public who would attend our Open House event.
 
-Kegiatan Open House merupakan kegiatan rutin tahunan yang membuka kesempatan kepada masyarakat yang ingin berkunjung dan mengikuti beragam aktivitas yang disediakan oleh observatorium.  Open House kali ini mengangkat tema Perayaan 50 Tahun Pendaratan Manusia di Bulan. Tahun 2019 memang cukup istimewa bagi komunitas astronomi di bunia, karena ada begitu banyak perhelatan astronomi yang digalakkan oleh IAU untuk dilaksanakan secara global. Salah satu agenda yang diusung IAU adalah <font color='red'>On the Moon Again</font>, sebuah gerakan global yang mengajak seluruh masyarakat dunia bersama-sama mengamati Bulan pada tanggal 12 dan 13 Juli. 
+Open House is an annual occasion that opens up opportunities for people who want to visit and participate in various activities provided by the observatory. This time, the Open House took the theme of “Celebration of the 50th Anniversary of the Human Landing on the Moon”. The year 2019 is indeed quite special for the astronomy community in the world because there are so many astronomical events that are promoted by the IAU to be held globally. One of the themes carried by the IAU is <font color='red'>On the Moon Again</font>, a global movement that invites the entire world community to observe the Moon on July 12th and 13th.
 
-Perayaan pendaratan di Bulan ini secara spesifik diangkat utuk memperkenalkan kepada masyarakat Indonesia, terutama anak-anak muda tentang satu pencapaian besar sains dan umat manusia dalam eksplorasi alam semesta. Serangkaian acara telah disiapkan mulai ceramah populer yang diisi oleh dosen Program Studi Astronomi ITB, Evan I. Akbar, M.Si., dan Ferry M. Simatupang, M.Si.,  yang khusus menceritakan seluk beluk misi pengiriman manusia ke Bulan. Dibangun dari mimpi, ambisi, kerja keras, hingga akhirnya sukses menginjakan kaki dan kembali dengan selamat ke Bumi, misi pendaratan di Bulan memberikan pesan mendalam, tidak hanya sebagai refleksi keberhasilan usaha bersama sains dan ilmu terapan, tapi misi kemanusiaan dan perdamaian dunia. 
+The Moon landing celebration was specifically targeted to Indonesian general public, primarily the younger generation, about the great achievement of science and humanity in the exploration of our universe. A series of programmes have been arranged, with the highlight was public lectures from ITB's astronomy lecturers, Evan I. Akbar, M.Sc., and Ferry M. Simatupang, M.Sc., who discussed the ins and outs of the mission of sending humans to the Moon. Built from dreams, success, hard work, until finally managed to set foot and return safely to Earth, the Moon landing gave a broad and deep message, not only as a mirror that supports the joint efforts of science and applied science but also the humanitarian mission and world peace.
 
-Para pengunjung yang merupakan tamu undangan komunitas di lingkungan sekitar observatorium dan masyarakat umum  juga disuguhi poster-poster bertemakan Bulan dan Astronomi, tentang misi Apollo 11 dan bagaimana mekanisme roket Saturn V membawa para astronot pergi dan kembali ke Bumi. Pengunjung juga dapat melihat dan menyentuh model cetak 3D roket Saturn V. Ada juga pojok khusus ‘Tanya Astronom’, di mana masyarakat yang ingin tahu lebih banyak tentang astronomi dapat bertanya dan berdiskusi lebih dalam dengan para astronom. 
+Posters with the theme of the Moon and Astronomy (about the Apollo 11 mission and how the Saturn V rocket mechanism took the astronauts away and returned to Earth) were also presented to the visitors, who were the invited guests of the community from around the local neighbourhood and the general public. Visitors can also see and touch the 3D print model of the Saturn V rocket. In addition, there was a special corner called 'Ask the Astronomers', where people who want to know more about astronomy can ask questions and discuss more deeply with one of our astronomers.
 
 {{<figure src="seeposter.jpg" width="100%">}}
 
-Di area lain telah disiapkan oleh UNAWE Indonesia, permainan ular tangga astronomi, bermain _puzzle_ Bulan dan mewarnai di pojok 'Kids Corner' yang diselingi dengan _storytelling_ oleh Ajeng Handini, menceritakan tentang cerita rakyat di beberapa kebudayaan di dunia yang melibatkan Bulan. 
+In another spot, some events were prepared by UNAWE Indonesia, for example their astronomical-themed snake ladder, Moon puzzle, and colouring activities in the Kids Corner interspersed with storytelling by Ajeng Handini, who tells about folklore in several cultures around the world that involves the Moon. 
 
 {{<figure src="puzzle.png">}}
 
@@ -56,18 +56,19 @@ Di area lain telah disiapkan oleh UNAWE Indonesia, permainan ular tangga astrono
 
 {{<figure src="mewarnai.jpg" width="100%">}}
 
-Saat hari mulai gelap, pengunjung diarahkan ke teropong-teropong yang sudah dipersiapkan semenjak sore harinya. Teropong-teropong ini diarahkan ke Bulan dan planet Jupiter. Pengunjung nampak sangat antusias meskipun berkejaran dengan awan mendung yang berulang kali menghalangi pandangan mereka dari balik teropong. Menjelang pukul 19:30 WIB langit kembali stabil dan pengunjung pun puas menikmati suguhan langit malam itu. 
+As the sky gets dark, visitors are directed to the telescopes that have been prepared since the afternoon before. These telescopes were aimed at the Moon and Jupiter. The visitors seemed very enthusiastic despite being distracted by the cloudy sky which repeatedly blocked their view from behind the telescope. By 19:30 WIB (UT+7), the sky was clear again and visitors were satisfied as they savoured the night sky.
+
 
 {{<figure src="lihatteleskop.jpg" width="100%">}}
 
-> "Wah, bulannya bolong-bolong!" celetuk seorang bocah di teleskop Bamberg
+> "Wow, there are a lot of holes on the Moon!" one child shouted at Bamberg telescope.
 
-> "Bulannya kaya bakso urat ya" kata seorang Ibu sembari berdecak kagum.
+> "Oh my, the Moon is like a meatball" a woman said in awe.
 
-Tidak terasa, waktu sudah menunjukkan pukul 21:00 WIB dan acara malam itu pun selesai. Senyum lega dan bahagia terpancar dari segenap petugas yang terlibat dalam penerimaan Open House. Semoga acara ini mampu menginspirasi dan membangkitkan gairah publik terhadap fenomena langit khususnya, dan sains secara umum.
+Time has passed, and without realizing it was already 21:00 WIB. The event was declared over. A smile of relief and happiness emanated from all the staff involved in the Open House. We hope this event can inspire and arouse the public's passion for the celestial phenomenon in particular, and science in general.
 
-Galeri foto kegiatan selengkapnya bisa dilihat di bawah ini.
+A full photo gallery of our Open House activities can be seen below.
 
-Foto: Muhammad Yusuf
+Photos were taken by Muhammad Yusuf.
 
 {{<customgallery album="openhouse">}}

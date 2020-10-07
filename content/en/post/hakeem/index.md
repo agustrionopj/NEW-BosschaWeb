@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Kunjungan Dr. Hakeem Oluseyi, 'Stargazer at Heart'"
+title: "A Visit from Dr. Hakeem Oluseyi, 'Stargazer at Heart'"
 subtitle: ""
 summary: ""
 authors: []
@@ -28,14 +28,14 @@ image:
 projects: []
 ---
 
-Pada hari Rabu, 2 Oktober 2019 yang lalu, Observatorium Bosscha mendapatkan kehormatan dikunjungi Dr. Hakeem Oluseyi dari Amerika Serikat. Dr. Oluseyi adalah profesor riset terkemuka di bidang aerospace, fisika, dan space science di Universitas George Mason. Sebelum posisinya saat ini, ia mengajar di Institut Teknologi Florida dan ditugaskan di NASA sebagai Manajer Pendidikan Sains Ruang Angkasa untuk Misi Sains mereka. Dia juga seorang komunikator yang produktif di bidang sains maju melalui acara televisi dan menjadi pembicara TedX.
+On Wednesday, October 2nd, 2019, Bosscha Observatory was honored to be visited by Dr. Hakeem Oluseyi from the United States. Dr. Oluseyi is a leading research professor in the fields of aerospace, physics, and space science at George Mason University. Prior to his current position, he taught at the Florida Institute of Technology and was assigned to NASA as the Manager of Space Science Education for their Science Missions. He is also a productive communicator in the field of advanced science through television shows and a TedX speaker.
 
-Para astronom di Bosscha berkesempatan berbincang dengan beliau tentang banyak hal, terutama bagaimana kondisi pendidikan sains di Indonesia dan topik-topik sains yang masih hangat menjadi perhatian publik. Dr. Oluseyi banyak menyampaikan pengalaman pribadinya dalam menyampaikan sains kepada publik dan memberikan banyak nasihat bagaimana mengkomunikasikan sains dengan menyenangkan dan efektif, beberapa diantaranya melalui musik rap dan tarian, seperti yang dilakukan oleh beliau. Tertarik bagaimana Dr Oluseyi menyampaikan sains? Teman-teman bisa menyaksikan beliau di program dokumenter "How the Universe Works" produksi Discovey Channel salah satunya.
+Astronomers from Bosscha Observatory had the opportunity to talk with him about many things, especially the condition of science education in Indonesia and trending science topics within the general public. Dr. Oluseyi shared many personal experiences in conveying science to the public and gave lots of advice on how to communicate science in a fun and effective way, some of it through rap music and dance, as he did. Are you interested in how Dr. Oluseyi delivered science? You can watch him in many documentary programmes like "How the Universe Works", which produced by Discovery Channel.
 
-Berita tentang kolokium Astronomi yang diberikan Dr. Oluseyi di Institut Teknologi Bandung (ITB) bisa dilihat pada tautan <a href="https://www.itb.ac.id/news/read/57295/home/kolokium-bersama-dr-hakeem-oluseyi-hacking-the-stars-and-dark-matter" target="_blank">berikut</a>.
+Further news about the colloquium given by Dr. Oluseyi at Institut Teknologi Bandung (ITB) can be seen through the following <a href="https://www.itb.ac.id/news/read/57295/home/kolokium-bersama-dr-hakeem-oluseyi-hacking-the-stars-and-dark-matter" target="_blank">link</a>.
 
-Galeri foto kunjungan Dr. Hakeem Oluseyi di Observatorium Bosscha<br> 
-(credit: M. Yusuf)
+Photo gallery of Dr. Hakeem Oluseyi at Bosscha Observatory (credit: M. Yusuf)
+
 ***
 
 {{<customgallery album="hakeem">}}

@@ -1,5 +1,5 @@
 +++
-title = "PRESS RELEASE Pengamatan Hilal Jelang Ramadhan 1440 H/2019 M"
+title = "PRESS RELEASE Hilal Observation of Ramadan 1440H / 2019"
 subtitle = ""
 
 # Add a summary to display on homepage (optional).
@@ -38,28 +38,27 @@ categories = ["layanan", "penelitian"]
   focal_point = "Smart"
 +++
 
-Sebagai institusi pendidikan dan penelitian di bidang astronomi, Observatorium Bosscha melaksanakan kegiatan pengamatan bulan sabit muda pada hampir setiap bulan. Pengamatan pada tanggal 5 Mei 2019 merupakan pengamatan bulan sabit penanda beralihnya bulan Syaban ke bulan Ramadhan 1440 H.
+As an astronomical education and research institution, Bosscha Observatory held monthly hilal (young crescent Moon) observations. The observation that was done on May 5th, 2019, marked the transition from Shaban to Ramadan 1440H in the Hijri (Islamic) calendar system.
 
-### Pengamatan dilaksanakan di Lembang dan Kupang 
-Tim Observatorium Bosscha melaksanakan pengamatan hilal di Observatorium Bosscha, Lembang dan di Kupang, Nusa Tenggara Timur pada 5 Mei 2019. Kegiatan pengamatan di dua tempat tersebut dimulai dari pagi hari hingga bulan terbenam di ufuk Barat. 
+### Observations Were Done in Lembang and Kupang
 
-Kegiatan pengamatan bulan sabit oleh Observatorium Bosscha ditujukan untuk meneliti ambang visibilitas (kenampakan) bulan sebagai fungsi dari elongasi dan ketebalan sabit bulan, dan juga dalam rangka rukyatul hilal bulan Ramadhan 1440 H. Rukyatul hilal dilakukan pada sore hari dan deteksi sabit bulan dilakukan setelah Matahari terbenam. Sabit yang tampak setelah Matahari terbenam ini disebut sebagai hilal.
+The team from Bosscha Observatory conducted hilal observation at Bosscha Observatory in Lembang and at Kupang, East Nusa Tenggara on May 5, 2019. The observation in each site started in the morning until the Moon set on the western horizon. The observation of the young crescent Moon by Bosscha Observatory was aimed at examining the  visibility threshold as a function of elongation and thickness of the crescent, and also in the context of rukyatul hilal for Ramadan 1440H. Rukyatul hilal was done in the afternoon and the detection of the crescent was done after sunset. The young crescent that was visible after sunset was called
+hilal.
 
-Observatorium Bosscha setiap tahunnya menjadi salah satu tujuan lokasi rukyatul hilal Ramadhan dan Syawal oleh perukyat dari Kantor Kementerian Agama daerah setempat dan beberapa organisasi massa Islam. Kegiatan pengamatan di Kupang kali ini merupakan lanjutan kerja sama Observatorium Bosscha dengan Kementerian Agama Republik Indonesia Subdit Hisab Rukyat dan Syariah Direktorat Urusan Agama Islam dan Pembinaan Ditjen Bimas Islam, dan didukung oleh tim dari Universitas Nusa Cendana (UNDANA) dan pegiat pendidikan astronomi di Kupang dengan support instrumen dari Lembaga Penerbangan dan Antariksa Nasional (LAPAN). Pengamatan dilakukan di kampus Universitas Nusa Cendana (UNDANA), tepatnya di rooftop Asrama Rusunawa PPG UNDANA. 
+Bosscha Observatory had become one of the sites to conduct rukyatul hilal of Ramadan and Shawwal by the regional office of The Ministry of Religious Affairs with some Islamic organizations for every year. The observation in Kupang was a continuation of the collaboration between Bosscha Observatory and the Hisab Rukyat and Sharia Subdivision of the Directorate for Islamic Affairs and Sharia Guidances of The Directorate General for Islamic Community Counsel of The Ministry of Religious Affairs of the Republic of Indonesia and supported by the team of Nusa Cendana University (UNDANA) and astronomy education enthusiasts in Kupang, with instruments provided by the National Institute of Aeronautics and Space (LAPAN). The observation was done at the rooftop of the PPG UNDANA dormitory.
 
-Pengamatan di Observatorium Bosscha dan di Kupang menggunakan teleskop berukuran 106 mm berjenis refraktor dan detektor kamera berbasis CCD, yang dilanjutkan dengan proses pengolahan citra. Observatorium Bosscha juga menyediakan satu perangkat teleskop dilengkapi lensa okuler untuk digunakan langsung oleh masyarakat yang ingin melihat. 
+Observations in Bosscha Observatory and Kupang used refractor telescopes with a size of 106 mm and CCD-based camera detectors, which then followed with image processing. Bosscha Observatory also provided a telescope set with an ocular lens to be used by the public who wanted to see.
 
-### Penentuan awal Ramadhan dan Syawal
-Di Indonesia, pihak yang berwenang menentukan awal Ramadhan dan Syawal adalah pemerintah Republik Indonesia melalui proses sidang itsbat.
-Tugas Observatorium Bosscha adalah menyampaikan hasil perhitungan, pengamatan, dan penelitian tentang hilal kepada unit pemerintah yang berwenang jika diperlukan sebagai masukan untuk sidang itsbat. Masyarakat dapat mengakses data dan hasil pengamatan hilal di website Observatorium Bosscha https://bosscha.itb.ac.id.
+### The Determination of The Start of Ramadan and Shawwal
+In Indonesia, the authority to determine the beginning of Ramadan and Shawwal is carried by the Government of the Republic of Indonesia, through the process of itsbat assembly. The mission of the Bosscha Observatory is to present the results of calculations, observations, and research on the hilal to the relevant government units if needed as inputs for the itsbat assembly. General public can access the hilal data and observations on the Bosscha Observatory website, https://bosscha.itb.ac.id.
 
 {{< figure src="/img/hilal-ramadhan-2019/data1.png" >}}
 {{< figure src="/img/hilal-ramadhan-2019/data2.png" >}}
 
-File *press release* dapat diunduh pada tautan {{% staticref "files/press-release-ramadhan-2019.pdf" "newtab" %}}berikut{{% /staticref %}}.
+Press release file can be downloaded through the following {{% staticref "files/press-release-ramadhan-2019.pdf" "newtab" %}}link{{% /staticref %}}.
 
 {{% alert note %}}
-Narahubung: Yatny Yulianty
+Contact person: Yatny Yulianty
 
 - <i class='fas fa-phone'></i> `0856 5900 2915`
 - <i class='fas fa-envelope'></i> `yulianty[at]as.itb.ac.id`
@@ -69,17 +68,15 @@ Narahubung: Yatny Yulianty
 <br>
 <br>
 
-Untuk informasi lebih lanjut dan aktual, silakan cek beberapa tautan berikut:
-
-Simulasi kenampakan hilal saat Matahari terbenam di Observatorium Bosscha bisa dilihat pada video animasi berikut.
+Below is a video simulation of Hilal as observed from Bosscha Observatory.
 
 {{< youtube r_oB15wzArs >}}
 
-Hasil pengamatan di Observatorium Bosscha dan Kupang bisa dilihat di bawah ini (gambar akan diperbarui berkala).
+The results of our observation could be seen below (will be updated frequently).
 
-{{< figure src="/img/hilal-ramadhan-2019/bosscha.png" title="Hasil pengamatan dari Observatorium Bosscha. Langit barat diselimuti awan. **(gambar pukul 16:51 WIB)**">}}
+{{< figure src="/img/hilal-ramadhan-2019/bosscha.png" title="Results from Bosscha Observatory, thick cloud covered almost all the sky. **(picture taken at 16:51 WIB)**">}}
 <!-- {{< figure src="/img/hilal-ramadhan-2019/kupang.jpg" title="Hasil pengamatan dari Kupang">}} -->
 {{< youtube 4EMrOhBZMSo >}}
 <p align="center">
-*Video streaming* dari Kupang, Nusa Tenggara Timur (`LIVE`).
+Video streaming from Kupang, East Nusa Tenggara. (<font color='red'>LIVE</font>).
 </p>

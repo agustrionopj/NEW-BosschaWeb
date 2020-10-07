@@ -1,5 +1,5 @@
 ---
-title: Berita
+title: News
 
 # View.
 #   1 = List

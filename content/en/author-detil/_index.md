@@ -39,7 +39,7 @@ In addition to carrying out his duties in research and education, Bosscha Observ
 In 2004, the Bosscha Observatory was declared as a Cultural Heritage Property by the Government. Therefore, the existence of the Bosscha Observatory is protected by <font color='red'>Government Legislation Number 2/1992</font> concerning Cultural Heritage Objects. Furthermore, in 2008, the Government established the Bosscha Observatory as one of the National Vital Objects that had to be secured.
 
 * * *
-## List of Directors of Bosscha Observatory
+## List of The Head of Bosscha Observatory
 
 
 | Year of duty | Name  |

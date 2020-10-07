@@ -9,7 +9,7 @@ linktitle: Instruments
 identifier: instrumen
 menu:
   author-detil:
-    parent: Facility
+    parent: Facilities
     weight: 2
 
 weight: 2

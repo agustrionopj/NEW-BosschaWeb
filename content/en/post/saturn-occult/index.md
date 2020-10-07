@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Okultasi Saturnus oleh Bulan tanggal 8 September 2019"
+title: "The Lunar Occultation of Saturn on September 8th, 2019"
 subtitle: ""
 summary: ""
 authors: []
@@ -28,11 +28,11 @@ image:
 projects: []
 ---
 
-Pada tanggal 8 September 2019 yang lalu, tim pengamat Observatorium Bosscha yaitu Agus Triono P. J.  dan Irfan Imaduddin berkesempatan mengabadikan peristiwa tertutupnya planet Saturnus oleh Bulan (disebut juga sebagai peristiwa Okultasi Bulan/_Lunar Occultation_). Cuaca malam itu berawan tebal dan cenderung mendung sehingga menyulitkan para pengamat dalam upayanya merekam peristiwa ini. 
+On September 8, 2019, our astronomers Agus Triono P. J. and Irfan Imaduddin had the opportunity to capture the rare phenomenon of the Saturn eclipsed by the Moon (also known as the Lunar Occultation). The weather was thick and cloudy that night, making it difficult for observers to record this event.
 
-Sesekali, Saturnus dan Bulan menyembul di balik awan, dan kesempatan inilah yang tidak disia-siakan oleh para pengamat. Dengan berbekal teleskop Meade 10 inch yang dikombinasikan dengan kamera ZWO ASI 120MM yang terpasang sebagai _slit viewer_ spektrograf LHIRESIII, akhirnya peristiwa ini berhasil direkam. Jika diamati dari Observatorium Bosscha, peristiwa hilangnya Saturnus di balik bulan (atau _disappearance_) terjadi pada pukul 21:24 WIB dan munculnya kembali Saturnus dari balik Bulan (atau _reappearance_) terjadi pada pukul 21:53 WIB.
+Sometimes, Saturn and Moon popped up behind the clouds, and this opportunity was not wasted by our observers. Equipped with a 10-inch Meade telescope combined with a ZWO ASI 120MM which was installed as a slit viewer for LHIRES III spectrograph, this event was successfully recorded. When it was observed from the Bosscha Observatory, the disappearance of Saturn behind the Moon occurred at 21:24 WIB (UT+7) and reappeared at 21:53 WIB.
+Please enjoy the following observation result by the astronomers from Bosscha Observatory.
 
-Silakan menikmati hasil pengamatan tim pengamat Observatorium Bosscha berikut ini.
 
 <!-- {{< video src="saturn-occultation-2.mp4" controls="yes" >}} -->
 {{<youtube vazZI3r3JMw>}}

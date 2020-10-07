@@ -136,14 +136,19 @@
 }
 
 .hero-title {
-  font-size: 2.7rem;
+  font-size: 1.85rem;
   margin-top: 0;
   line-height: 1;
+  // padding: 25px 0;
 }
 
 .hero-lead {
   max-width: 768px;
-  font-size: 1.35rem;
+  font-size: 0.9rem;
+  // text-align: justify;
+  // padding: 0 25px;
+  // justify-content: center;
+  // align-items: center;
 }
 
 .wg-hero.dark .hero-title,

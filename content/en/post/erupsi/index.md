@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Informasi Seputar Erupsi Gunung Tangkuban Parahu"
+title: "Information Regarding The Eruption of Mount Tangkuban Parahu"
 subtitle: ""
 summary: ""
 authors: []
@@ -28,6 +28,9 @@ image:
 projects: []
 ---
 
-Terkait dengan berita erupsi gunung Tangkuban Parahu, diharapkan kepada para pengunjung maupun calon pengunjung Observatorium Bosscha untuk sejenak <font color='red'>membaca dan mengecek segala berita yang beredar di media massa maupun media sosial serta membandingkannya dengan rilis resmi dari Pusat Vulkanologi dan Mitigasi Bencana Geologi</font> pada tautan <a href="http://www.vsi.esdm.go.id/index.php/gunungapi/aktivitas-gunungapi" target=_blank>berikut</a>.
+As we closely follow the news about the eruption of Mount Tangkuban Parahu, we are expecting all
+potential visitors of Bosscha Observatory <font color='red'>to read and check all news that circulated on social media
+and fact-check it with the official announcements from the Center of Volcanology and Geological
+Disaster Mitigation (Pusat Vulkanologi dan Mitigasi Bencana Geologi, PVMBG)</font> on the following <a href="http://www.vsi.esdm.go.id/index.php/gunungapi/aktivitas-gunungapi" target=_blank>link</a>.
 
-Terima kasih.
+Thank you.

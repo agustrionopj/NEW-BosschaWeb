@@ -1,5 +1,5 @@
 +++
-title = "Gerhana Bulan Sebagian (GBS) 17 Juli 2019"
+title = "Partial Lunar Eclipse on July 17th, 2019"
 subtitle = ""
 
 # Add a summary to display on homepage (optional).
@@ -16,7 +16,7 @@ featured = true
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["gerhana"]
+tags = ["eclipse"]
 categories = []
 
 # Projects (optional).
@@ -38,27 +38,25 @@ categories = []
   focal_point = ""
 +++
 
-### Gerhana Bulan
+### Lunar Eclipse
+The Moon is the only natural satellite that revolves around the Earth. The Moon and Earth together revolve around the Sun as the center of the Solar System. On some occasions, the Earth’s position aligns between the Moon and the Sun. As a result, the sunlight that reaches the Moon is blocked by the Earth. In other words, the Moon enters Earth's shadow. This phenomenon is called the Lunar eclipse. The opposite of it, when the Moon blocks the sunlight that should reach the Earth, is called the Solar eclipse.
+Based on the section of Earth's shadow that was passed by the Moon, there are three types of Lunar eclipse: Total Lunar Eclipse, Partial Lunar Eclipse, and Penumbral Lunar Eclipse. When a Total Lunar Eclipse occurs, the Moon enters Earth's umbra (the main shadow of Earth). But when only some part of the Moon disk enters the Earth’s umbra and the other parts are in Earth's penumbra (the faint shadow of Earth), a Partial Lunar Eclipse occurs. A Penumbral Lunar Eclipse occurs when the entire Moon disk passes across the Earth's penumbra.
 
-Bulan merupakan satu-satunya satelit alami yang mengitari Bumi. Bumi dan Bulan kemudian secara bersama-sama mengorbit Matahari sebagai pusat Tata Surya. Pada keadaan tertentu, posisi Bumi berada di antara Bulan dan Matahari dalam keadaan segaris. Akibatnya cahaya Matahari yang sampai ke Bulan terhalangi oleh Bumi, atau dengan kata lain Bulan memasuki bayangan Bumi. Peristiwa ini disebut sebagai Gerhana Bulan. Pada waktu lainnya, Bulan menghalangi cahaya Matahari sampai ke Bumi. Hal ini disebut sebagai Gerhana Matahari. 
+Based on the astronomical calculation, there will be 5 eclipses occurring in 2019. These are Total Solar Eclipse on January 5th to 6th, Total Lunar Eclipse on January 21st, Total Solar Eclipse on July 2nd, Partial Lunar Eclipse on July 17th, and Annular Solar Eclipse on December 26th. Of those 5 eclipses, only 2 can be observed in Indonesia, Partial Lunar Eclipse on July 17th and Annular Solar Eclipse on December 26th.
 
-Terdapat tiga macam gerhana Bulan berdasarkan bagian bayangan Bumi yang dilintasi Bulan, yaitu Gerhana Bulan Total (GBT), Gerhana Bulan Sebagian (GBS), dan Gerhana Bulan Penumbra (GBP). Pada saat gerhana Bulan total, Bulan memasuki umbra (bayangan inti) Bumi. Namun ada kalanya hanya sebagian piringan bulan yang masuk ke dalam umbra Bumi dan sebagian lainnya berada pada penumbra (bayangan samar) yang dikenal sebagai Gerhana Bulan Sebagian (GBS). Pada saat Gerhana Bulan Penumbra (GBP), Bulan hanya melintasi bagian penumbra atau bayangan samar Bumi.
+### Partial Lunar Eclipse on 17 July 2019 
 
-Berdasarkan perhitungan astronomis, terdapat 5 gerhana yang terjadi pada tahun 2019, yaitu Gerhana Matahari Sebagian (GMS) pada tanggal  5-6 Januari 2019, Gerhana Bulan Total (GBT) 21 Januari 2019, Gerhana Matahari Total (GMT) 2 Juli 2019, Gerhana Bulan Sebagian (GBS) 17 Juli 2019, dan Gerhana Matahari Cincin (GMC) 26 Desember 2019. Dari kelima gerhana tersebut, hanya dua gerhana yang dapat diamati dari Indonesia. Dua gerhana tersebut adalah Gerhana Bulan Sebagian (GBS) 17 Juli 2019 yang akan berlangsung dini hari ini, dan Gerhana Matahari Cincin (GMC) 26 Desember 2019 mendatang.
+Partial Lunar Eclipse on 17 July 2019 can be seen almost in all regions of the Earth, namely in South America, Europe, Africa, Asia, and Australia. In Indonesia, it can be observed when the Moon is going to set.
 
-### Gerhana Bulan Sebagian 17 Juli 2019
+{{< figure src="map.png" title="The map of Partial Lunar Eclipse on 17 July 2019 (source: https://eclipse.gsfc.nasa.gov/LEdecade/LEdecade2011.html)">}}
 
-Gerhana Bulan Sebagian 17 Juli 2019 akan terlihat hampir di seluruh bagian Bumi, yaitu di Amerika bagian Selatan, Eropa, Afrika, Asia dan Australia. Wilayah Indonesia akan mengamati Gerhana Bulan Sebagian pada saat Bulan akan terbenam.
-
-{{< figure src="map.png" title="Peta Gerhana Bulan Sebagian 17 Juli 2019 (sumber: https://eclipse.gsfc.nasa.gov/LEdecade/LEdecade2011.html)">}}
-
-Gerhana Bulan kali ini berlangsung selama 5 jam 33 menit 43 detik. Untuk Wilayah Indonesia Bagian Barat, gerhana terjadi mulai pukul 01:42:06 WIB dan berakhir pukul 07:19:30 WIB, dimana gerhana sudah tidak dapat diamati karena Bulan sudah terbenam. Pada saat Gerhana Bulan Sebagian berlangsung, selama 2 jam 57 menit 56 detik, sekitar 60% permukaan Bulan akan berada dalam bayang-bayang Bumi. Berikut waktu terjadinya Gerhana Bulan Sebagian di Wilayah Indonesia.
+This lunar eclipse will last for 5 hours, 33 minutes, and 43 seconds. For the western part of Indonesia, the eclipse starts at 01:42:06 WIB (UT+7) and ends at 07:19:30 WIB, when the eclipse cannot be observed anymore since the Moon has already set. During the Partial Lunar Eclipse, for 2 hours 57 minutes 56 seconds, about 60% of the Moon surfaces will be inside the Earth's shadow. The time of the occurrence of the Partial Lunar Eclipse in Indonesia is listed below.
 
 {{< figure src="waktugerhana.png">}}
 
-{{< figure src="tahapan.png" title="Tahapan dan waktu terjadinya gerhana (sumber: https://eclipse.gsfc.nasa.gov/LEdecade/LEdecade2011.html)">}}
+{{< figure src="tahapan.png" title="Stages of the July 17th Partial Lunar Eclipse, complete with its supposed time (source: https://eclipse.gsfc.nasa.gov/LEdecade/LEdecade2011.html)">}}
 
-### Observatorium Bosscha Tidak Melaksanakan Pengamatan GBS untuk Publik
+### Bosscha Observatory did not Hold Public Observation of This Partial Lunar Eclipse
 
-Pada 17 Juli 2019, Observatorium Bosscha tidak membuka kunjungan publik untuk melakukan pengamatan Gerhana Bulan Sebagian. Gerhana Bulan Sebagian adalah fenomena astronomis yang dapat diamati langsung tanpa bantuan alat optik khusus selama langit cerah dan tidak berawan. Oleh karena itu, Observatorium Bosscha menghimbau masyarakat untuk bersama-sama mengamati Gerhana Bulan Sebagian dari tempat masing-masing.  Selamat mengamati Gerhana Bulan Sebagian, semoga langit cerah!
+On July 17th of 2019, Bosscha Observatory did not open public visits for the Partial Lunar Eclipse observation. The Partial Lunar Eclipse is an astronomical phenomenon that can be seen directly without any aid of special optical instrumentation as long as the sky is clear without clouds. Therefore, Bosscha Observatory encourages the public to observe it together from their respective places. We wish you happy observing, we hope the sky is clear! 
 

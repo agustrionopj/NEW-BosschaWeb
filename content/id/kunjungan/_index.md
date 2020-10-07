@@ -1,93 +1,67 @@
 ---
-title: Informasi Umum
+title: Program dan Jadwal Kunjungan
 weight: 1
 date: 2019-07-09T00:00:00.000Z
-lastmod: 2018-09-09T00:00:00.000Z
+lastmod: 2020-07-09T00:00:00.000Z
 draft: false
 toc: true
 type: docs
 menu:
   kunjungan:
-    name: Informasi Umum
+    name: Program dan Jadwal
     weight: 1
 
 weight: 1
 ---
 
-Program kunjungan publik ini terbagi menjadi dua:
+Observatorium Bosscha – FMIPA ITB menerima kunjungan publik sepanjang tahun, baik kelompok maupun individu, melalui 2 program yang kami tawarkan.
 
-### [Kunjungan Siang]({{< relref "siang">}})
+Setiap pengunjung wajib mendaftarkan diri dengan mengikuti prosedur resmi yang telah ditentukan. Proses dan biaya pendaftaran dapat diakses pada halaman [berikut]({{< ref "/kunjungan/daftar.md">}}).
 
-Di program ini, pengunjung dapat <font color='red'>melihat cara kerja teleskop Zeiss</font> (**tidak meneropong**) dan <font color='red'>mendapat informasi astronomi di ruang multimedia</font>. Pengunjung harus mendaftar terlebih dahulu dengan biaya Rp. 15.000/orang. Untuk lebih jelasnya, lihat cara [pendaftaran dan pembayaran]({{< ref "/kunjungan/daftar.md">}}).
+Sebelum mendaftarkan diri, pastikan tanggal kedatangan Anda sesuai dengan jadwal kunjungan publik yang tercantum pada {{% staticref "img/kalender_kunjungan2020.png" "newtab"%}}kalender berikut{{% /staticref %}} (versi April 2020). Observatorium Bosscha tutup pada hari Minggu, Senin, hari libur nasional, sepanjang bulan Ramadhan hingga libur Idul Fitri, dan masa libur tahun baru.
 
-{{% alert note %}}
-- Cek jadwal kunjungan siang pada tautan [berikut]({{< ref "/kunjungan/siang.md" >}}).
-- Kalender kunjungan tahun 2020 selengkapnya bisa dilihat dan diunduh pada tautan {{% staticref "img/kalender_kunjungan2020.png" "newtab"%}}berikut{{% /staticref %}}.
-{{% /alert %}}
+Petunjuk lokasi dan transportasi umum menuju observatorium dapat dilihat pada halaman [berikut]({{< ref "/kunjungan/aturan.md">}}). 
 
+Sebelum Anda berkunjung, mohon perhatikan peraturan dan tips penting selama berkunjung pada halaman [berikut]({{< ref "/kunjungan/aturan.md">}}). Setiap pengunjung yang terdaftar dianggap menyetujui dan siap menjalankan peraturan yang berlaku di Observatorium Bosscha.
 
-### [Kunjungan Malam]({{< relref "malam">}})
+Program kunjungan secara umum dibawakan dalam bahasa Indonesia, dengan melibatkan beberapa peraga berbahasa Indonesia dan Inggris.
 
-Di program ini, **jika langit cerah (tidak mendung/hujan/berkabut)** pengunjung dapat:
+### Kunjungan Siang
+Pada program kunjungan siang, pengunjung akan dipandu selama 1,5 – 2 jam untuk mengikuti aktivitas berikut.
+- Presentasi astronomi populer dari astronom kami di Ruang Multimedia,
+- Melihat demonstrasi penggunaan teleskop refraktor ganda Zeiss, dan
+- Mengamati Matahari menggunakan teleskop portabel (jika cuaca mendukung).
 
-* melihat cara kerja teleskop Zeiss (tidak meneropong), 
-* mendapat informasi astronomi di ruang multimedia dan 
-* meneropong langsung dengan teleskop portable dan teleskop Bamberg. 
+Program kunjungan siang terbagi ke dalam 2 jenis, dengan jadwal dan peserta yang berbeda.
+- Kunjungan siang weekday (Selasa – Jumat) untuk rombongan sekolah/institusi.
+  - Sesi kunjungan Selasa – Kamis dimulai pada **09:00**, **11:00**, dan **13:00 WIB**.
+  - Sesi kunjungan Jumat dimulai pada **09:00** dan **13:30 WIB**.
+  - Jumlah peserta tiap sesi minimal **25 orang** dan maksimal **200 orang**.
 
-<font color='red'>Jika cuaca tidak mendukung, acara tetap berjalan tanpa peneropongan</font>. Gambaran kondisi cuaca bisa dilihat pada tautan <a href="https://bosscha.itb.ac.id/aws/" target="_blank">berikut</a>. Kapasitas maksimum per malam adalah 180 orang. Pengunjung harus mendaftar terlebih dahulu dengan biaya Rp. 20.000/orang. Untuk lebih jelasnya, lihat cara [pendaftaran dan pembayaran]({{< ref "/kunjungan/daftar.md">}}).
-
-{{% alert note %}}
-- Cek jadwal kunjungan malam pada tautan [berikut]({{< ref "/kunjungan/malam.md" >}}).
-- Kalender kunjungan tahun 2020 selengkapnya bisa dilihat dan diunduh pada tautan {{% staticref "img/kalender_kunjungan2020.png" "newtab"%}}berikut{{% /staticref %}}.
-{{% /alert %}}
-
-{{% alert note %}}
-Observatorium Bosscha tutup pada:
-
- * Hari Minggu, Senin, dan hari libur nasional
- * Selama bulan puasa dan libur idul fitri (tunggu detail lebih lanjut)
- * Pergantian tahun
-{{% /alert %}}
-
-{{% alert warning %}}
- Observatorium Bosscha **tidak** menarik biaya tambahan **apapun** selain yang tercantum dalam website ini. Pendaftaran kunjungan dan transaksi keuangan **hanya** dilakukan di kantor pendaftaran kunjungan. Calon pengunjung diharapkan membaca seluruh informasi dengan teliti dan seksama.
-{{% /alert %}}
-
-Akses menuju Observatorium Bosscha bisa dilihat pada peta di bawah ini. Perkiraan durasi perjalanan ke Observatorium Bosscha bisa dilihat pada tautan [berikut]({{< relref "author-detil/akses">}}).
-
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    .google-maps {
-        position: relative;
-        padding-bottom: 75%; // This is the aspect ratio
-        height: 0;
-        overflow: hidden;
-    }
-    .google-maps iframe {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100% !important;
-        height: 100% !important;
-    }
-  </style>
-</head>
-<body>
-  <div class="google-maps">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2648.8006423979327!2d107.61502643560667!3d-6.823567762410957!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e11292b0db83%3A0xc0f73eee035e3ffd!2sBosscha!5e0!3m2!1sen!2sid!4v1552088642696" width="750" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
-  </div>
-</body>
-</html>
-
-<br>
-
-Berikut adalah denah Observatorium Bosscha.
-
-{{<figure library="true" src="peta.png" lightbox="true">}}
+- Kunjungan siang weekend (Sabtu) untuk pengunjung keluarga/individu.
+  - Sesi kunjungan Sabtu dimulai pada **09:30**, **10:45**, **12:00**, dan **13:15 WIB**.
+  - Jumlah peserta tiap sesi maksimal **100 orang**.
 
 
-Suasana kunjungan publik Observatorium Bosscha bisa dilihat pada galeri berikut.
+### Kunjungan Malam
+Program kunjungan malam dibuka setiap musim kering (umumnya antara April – Oktober) secara terbatas dan berlangsung pada **17:00 – 20:00 WIB**, dengan kapasitas maksimum sebanyak **200 orang**. Program ini dapat diikuti oleh rombongan sekolah dan keluarga/individu, dengan aktivitas yang ditawarkan sebagai berikut.
+- Presentasi astronomi tematik di Ruang Multimedia (dengan materi berbeda setiap minggu),
+- Melihat demonstrasi penggunaan teleskop refraktor ganda Zeiss, dan
+- Mengamati planet dan bintang menggunakan teleskop Bamberg dan portabel (jika cuaca mendukung).
+
+Kami membuka 22 jadwal kunjungan malam untuk tahun 2020, dengan pelaksanaan pada hari Jumat dan Sabtu. Berikut adalah tanggal-tanggal pelaksanaan kunjungan malam. Hubungi layanan pendaftaran kami untuk mendapatkan informasi mengenai sisa kuota pada tanggal tertentu.
+
+Bulan | Tanggal
+------- | -----
+Juni | 26, 27
+Juli | 3, 4, 24, 25
+Agustus | 7, 8, 28, 29
+September | 4, 5, 25, 26
+Oktober | 2, 3, 23, 24, 30, 31
+
+Berikut adalah denah area dan dokumentasi kunjungan publik di Observatorium Bosscha.
+
+{{<figure library="true" src="Peta_ID-online.png" lightbox="true">}}
+
 ***
 {{<foldergallery src="kunjungan">}}

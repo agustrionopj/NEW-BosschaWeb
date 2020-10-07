@@ -1,5 +1,5 @@
 +++
-title = "PRESS RELEASE Pengamatan Hilal Jelang Syawal 1440 H/2019 M"
+title = "Press Release: The Hilal Observation of Shawwal 1440H / 2019AD"
 subtitle = ""
 
 # Add a summary to display on homepage (optional).
@@ -38,28 +38,28 @@ categories = ["layanan", "penelitian"]
   focal_point = ""
 +++
 
-Sebagai institusi pendidikan dan penelitian di bidang Astronomi, Observatorium Bosscha melaksanakan kegiatan pengamatan bulan sabit muda hampir setiap bulannya. Pada awal bulan Juni 2019, kita akan memasuki peralihan dari Bulan Ramadhan ke Bulan Syawal 1440 H dalam sistem kalender Hijriyah. 
+As an astronomical education and research institution, Bosscha Observatory held monthly hilal (young crescent Moon) observations. In early June 2019, we will enter the transition from Ramadan to Shawwal 1440H in the Hijri (Islamic) calendar system.
 
-### Observatorium Bosscha Tidak Melaksanakan Pengamatan Hilal Syawal 1440H
+### Bosscha Observatory doesn’t carry out hilal observation for Shawwal 1440H 
 
-Peralihan bulan pada kalender Hijriyah akan ditandai dengan peristiwa ijtimak atau konjungsi. Dalam hal ini, konjungsi adalah peristiwa ketika Matahari dan Bulan berada pada satu garis ekliptika.
+The transition of the month in the Hijri calendar will be marked by ijtima or conjunction. In this case, conjunction is an event when the Sun and Moon are on one ecliptic line.
 
-Pada hari Senin 3 Juni 2019 (29 Ramadhan 2019), konjungsi Matahari-Bulan terjadi pada pukul 17:01:56 WIB dan Matahari terbenam pada pukul 17:40:01 WIB. Bulan sabit muda yang terbentuk setelah Matahari terbenam (hilal) memiliki perbedaan ketinggian dari Matahari sebesar $0^\circ 6' 13.9''$, elongasi sebesar $2^\circ 48' 24.7''$ dan usia Bulan sebesar 38 menit 4 detik. Hal tersebut mengakibatkan Bulan terbenam hampir bersamaan dengan terbenamnya Matahari.
+On Monday, June 3rd of 2019 (29 Ramadan 1440H), the Sun-Moon conjunction occurred at 17:01:56 WIB and the Sunset at 17:40:01 WIB. The young crescent formed after the sunset has an altitude difference from the Sun by $0^\circ 6' 13.9^{\prime\prime}$, elongation of $2^\circ 48' 24.7^{\prime\prime}$ and the age of the Moon is 38 minutes 4 seconds. This resulted in the Moon setting almost simultaneously with the setting of the Sun.
 
-Berdasarkan parameter tersebut, hilal dipastikan akan amat sulit diamati di Observatorium Bosscha sehingga Observatorium Bosscha memutuskan untuk tidak melakukan pengamatan hilal menjelang Bulan Syawal 1440 H.
+Based on these parameters, it is certain that the hilal will be very difficult to observe from Bosscha Observatory, so we decided not to observe the hilal ahead of Shawwal 1440 H. 
 
-### Penentuan awal Ramadhan dan Syawal
+### The Determination of Ramadan and Shawwal
 
-Di Indonesia, pihak yang berwenang menentukan awal Ramadhan dan Syawal adalah pemerintah Republik Indonesia melalui proses sidang itsbat.
+In Indonesia, the authority to determine the beginning of Ramadan and Shawwal is carried by the Government of the Republic of Indonesia, through the process of itsbat assembly.
 
-Tugas Observatorium Bosscha adalah menyampaikan hasil perhitungan, pengamatan, dan penelitian tentang hilal kepada unit pemerintah yang berwenang jika diperlukan sebagai masukan untuk sidang itsbat. Masyarakat dapat mengakses data dan hasil pengamatan hilal di website Observatorium Bosscha https://bosscha.itb.ac.id.
+The mission of the Bosscha Observatory is to present the results of calculations, observations, and research on the hilal to the relevant government units if needed as inputs for the itsbat assembly. General public can access the hilal data and observations on the Bosscha Observatory website https://bosscha.itb.ac.id.
 
 {{< figure src="/img/hilal-syawal-2019/data1.jpg" >}}
 {{< figure src="/img/hilal-syawal-2019/data2.jpg" >}}
 
-File *press release* dapat diunduh pada tautan {{% staticref "files/press-release-syawal-2019.pdf" "newtab" %}}berikut{{% /staticref %}}.
+This press release file could be downloaded at this {{% staticref "files/press-release-syawal-2019.pdf" "newtab" %}}link{{% /staticref %}}.
 
 {{% alert note %}}
-Narahubung: Premana W. Premadi <br> (Observatorium Bosscha, Lembang 40391) <br>
+Contact Person: Premana W. Premadi <br> (Bosscha Observatory, Lembang 40391) <br>
 <i class='fas fa-phone'></i> `(022 – 2786027)` 
 {{% /alert %}}

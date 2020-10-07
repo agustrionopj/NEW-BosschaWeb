@@ -28,33 +28,31 @@ image:
 projects: []
 ---
 
-Pada hari minggu, tim dari Observatorium Bosscha berada di Sasana Budaya Ganesha untuk melakukan suatu misi. Tim yang beranggotakan 13 mahasiswa Astronomi ITB ini siap untuk mengomunikasikan astronomi kepada publik terutama anak-anak di Festival Anak Bertanya (FAB) 2019 yang diselenggarakan pada Minggu, 28 Juli 2019.
+On Sunday, Bosscha Observatory went to Sasana Budaya Ganesha with a specific mission. The team, which included 13 astronomy students from ITB, was there to communicate astronomy to the public, especially to children, at Festival Anak Bertanya 2019 (FAB, or Festival for Children with Questions) held on Sunday, July 28th, 2019.
 
-Festival Anak Bertanya merupakan acara tahunan yang diselenggarakan oleh Perkumpulan Mitra Anak Bertanya dan Direktorat Olahraga dan Sabuga ITB dalam rangka memperingati Hari Anak Nasional. Yang berbeda dari Festival Anak Bertanya tahun ini adalah bekerja sama dengan Planet Sains sehingga menjadi Festival Anak Bertanya dan Festival Planet Sains. 
+FAB is an annual event organized by the Perkumpulan Mitra Anak Bertanya, Direktorat Olahraga, and Sabuga ITB to commemorate National Children's Day. This year, FAB collaborated with Planet Sains to organize both FAB and Festival Planet Sains.
 
-Bersama organisasi astronomi lainnya seperti Dunia Astronomi, LAPAN, dan Langit Selatan, Observatorium Bosscha menjadi pengisi salah satu stand interaktif di Festival Anak Bertanya. Observatorium bosscha mengangkat kembali tema 50 tahun pendaratan di bulan yang sebelumnya ada pada Open House Observatorium Bosscha di FAB kali ini.
+Together with other astronomical groups and organizations such as Dunia Astronomi, LAPAN, and Langit Selatan, Bosscha Observatory participated as an interactive exhibitor at the FAB. Bosscha Observatory brought back the 50th anniversary of the Moon landing theme, which was previously presented at our Open House on July 13th.
 
-{{<figure src="fab/IMG_0636.jpg" title="Anggota tim Observatorium Bosscha memberikan penjelasan tentang kunjungan publik kepada pengunjung FAB 2019">}}
+{{<figure src="fab/IMG_0636.jpg" title="One of our team members gave an explanation about our public visit programme to FAB 2019 visitors.">}}
 
+The visitors, children participants and their parents, were welcomed by posters about the Moon and light pollution. Our team also carried posters about our public visit programme, like the regular schedule, how to register, and what to expect and to do when visiting our observatory. 
 
+{{<figure src="fab/IMG_0613.jpg" title="Visitors playing with a Moon puzzle with one of our team members.">}}
 
-Pengunjung yang merupakan peserta dan orang tua peserta FAB disuguhi oleh poster-poster mengenai bulan dan polusi cahaya. Tim Observatorium Bosscha juga membawa poster yang berisi penjelasan kunjungan ke Observatorium Bosscha, kapan saja waktu berkunjung, bagaimana cara mendaftar kunjungan, serta apa saja yang didapat ketika berkunjung ke Observatorium Bosscha.
+Inside our stand, there were short videos about astronomy which is displayed through the projector. Besides videos and posters, there were two things that caught the attention of the participants, the first was the full Moon puzzle. The participants who successfully finished the puzzle were given souvenirs, like bookmarks.
 
-{{<figure src="fab/IMG_0613.jpg" title="Bermain *puzzle* Bulan bersama tim Observatorium Bosscha">}}
+{{<figure src="fab/IMG_0598.jpg" title="Visitors tried to see far objects through the telescope.">}}
 
-Di bagian tengah stand, terdapat video-video singkat mengenai astronomi yang ditampilkan melalui proyektor. Selain video dan poster, terdapat dua hal yang menarik perhatian peserta, yang pertama adalah *puzzle* bulan purnama. Peserta yang berhasil menyelesaikan *puzzle* bulan purnama diberikan penghargaan berupa pembatas buku (*bookmark*). Meskipun kesulitan, peserta tetap terlihat antusias dalam menyelesaikannya.
+The second was a small telescope which was located in front of the stand. This telescope was directed to one of the random objects available at Sabuga hall. The size of objects seen through a telescope was compared to the size of objects when seen with the naked eye. This comparison aimed to make participants understand that one of the functions of the telescope is to increase the size of the intended object.
 
-{{<figure src="fab/IMG_0598.jpg" title="Pengunjung mencoba melihat benda jauh melalui teleskop yang disediakan">}}
+When the day was getting late, and the clock showed the time at 17:00 WIB (UT+7), FAB 2019 was declared over. After that, our team took a group photo. Hopefully what the team does can ignite public curiosity, especially children about science and astronomy.
 
-Yang kedua adalah teleskop kecil yang diletakkan di bagian depan stand. Teleskop ini diarahkan ke salah satu objek yang ada di gedung Sabuga. Ukuran objek yang dilihat melalui teleskop dibandingkan dengan ukuran objek jika dilihat dengan mata telanjang. Perbandingan ini dilakukan supaya peserta mengerti bahwa salah satu fungsi teleskop adalah memperbesar ukuran objek yang dituju. 
+{{<figure src="fab/IMG_0677.jpg" title="Our team members at FAB 2019">}}
 
-Hari semakin sore, ketika waktu menunjukkan pukul 17:00 WIB, acara Festival Anak Bertanya pun selesai. Tak lupa tim Observatorium Bosscha melakukan foto bersama. Semoga apa yang dilakukan tim dapat memantik keingintahuan publik terutama anak-anak mengenai sains, khususnya astronomi.  
+Here is a gallery of 2019 FAB activities
 
-{{<figure src="fab/IMG_0677.jpg" title="Tim Obsevatorium Bosscha pada FAB 2019">}}
-
-Berikut adalah galeri kegiatan FAB 2019
-
-Kredit foto: Agus Triono P.J.
+Photo credit: Agus Triono P.J.
 
 ---
 

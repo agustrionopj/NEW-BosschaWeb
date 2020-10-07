@@ -1,5 +1,5 @@
 +++
-title = "90 Tahun Teleskop Refraktor Ganda Zeiss Observatorium Bosscha"
+title = "The 90th Anniversary of Bosscha Observatory’s Zeiss Double Refractor Telescope"
 subtitle = ""
 
 # Add a summary to display on homepage (optional).
@@ -38,15 +38,16 @@ categories = []
   focal_point = ""
 +++
 
-Pada tanggal 7 Juni 1928 Pimpinan (NISV), <font color='red'>K.A.R. Bosscha</font> secara resmi menyerahkan fasilitas pengamatan astronomi terbesar dan termodern di Asia berupa Teleskop Refractor Ganda buatan Zeiss kepada <font color='red'>Nederlandsch Indische Sterrenkundige Vereeniging</font> untuk dimanfaatkan bagi kepentingan pemajuan sains, terutama sains astronomi, dan untuk mengangkat peran ilmuwan di Nusantara. Penyerahan tersebut disaksikan oleh Gubernur Jenderal Pemerintah Hindia Belanda, <font color='red'>A.C.D. de Graeff</font>. Selanjutnya Direktur pertama Observatorium Bosscha, <font color='red'>Dr. J.G.E.G. Voute</font> menjalankan program pengamatan yang segera menempatkan kontribusi Observatorium Bosscha pada peta perkembangan sains astronomi dunia. Pengamatan bintang ganda adalah salah satu program yang mendapatkan prioritas atas sejalan dengan lajunya perkembangan pada ilmu fisika bintang saat itu.
+On June 7th, 1928, K.A.R. Bosscha as the head of Nederlandsch Indische Sterrenkundige Vereeniging (NISV) officially inaugurated the biggest and most modern astronomy observation facility in Asia at that time, which was a double refractor telescope made by Zeiss to be used for the scientific advancement, especially in the field of astronomy, and to elevate the role of scientist in the Indonesian archipelago. The handover was witnessed by A.C.D. de Graeff as the Governor General of the Dutch East Indies. Followed by that, the first Director of Bosscha Observatory, Dr. J.G.E.G. Voute ran the observation and research program that would establish the observatory’s contribution to the scientific community worldwide. Observation of double stars was one of the programs that was prioritized, considering the rapid development of stellar physics at that time.
 
-Pada dekade-dekade selanjutnya, Observatorium Bosscha mengalami berbagai peralihan status administratif. Sejak tahun 1951 Observatorium Bosscha menjadi bagian dari Institut Teknologi Bandung dan menjalankan amanah Tri Dharma Perguruan Tinggi. Dengan berbagai dukungan Observatorium Bosscha terus bekerja keras dalam menyumbangkan hasil pengamatan dan penelitian astronomi kepada pemajuan ilmu astronomi, menyelenggarakan pendidikan tertier astronomi di Indonesia, berinteraksi konstruktif dengan komunitas astronomi internasional, dan memberikan layanan pendidikan untuk masyarakat.
+In the next decades, Bosscha Observatory had a series of management changes. Since 1951, Bosscha Observatory has become a part of Institut Teknologi Bandung (ITB) and carried out the national higher educational principles (Tri Dharma Perguruan Tinggi). With various supports, Bosscha Observatory continues to contribute the results of many observations and astronomical researches for the development of astronomy, organize tertiary astronomy education in Indonesia, constructively interact with international communities, and provide educational service to the public.
 
-Agar Obsevatorium Bosscha dapat terus berfungsi secara optimal untuk memperoleh data astronomis berkualitas diperlukan kondisi langit yang bersih dan seminimal mungkin terganggu oleh polusi cahaya akibat cahaya lampu yang kurang tertata dengan baik. Seiring dengan perkembangan wilayah urban di sekeliling Lembang, sebagaimana dialami oleh banyak observatorium di dunia, polusi cahaya dan polusi udara telah menjadi tantangan terbesar untuk Observatorium Bosscha.
+For Bosscha Observatory to keep functioning optimally to gather high-quality astronomical data, clean and minimally light-polluted skies as an effect of poorly arranged lights are in need. Along with the growth of urban areas around Lembang, like those experienced by other observatories around the world, light and air pollution have become one of the biggest challenges for Bosscha
+Observatory. 
 
-Untuk memastikan keberlanjutan peran positif Observatorium Bosscha pada perkembangan sains di Indonesia maupun di dunia, maka Institut Teknologi Bandung mengundang upaya kerjasama dengan Pemerintah Propinsi Jawa Barat, instansi-instansi terkait, dan masyarakat untuk menjamin perlindungan terhadap kawasan Observatorium Bosscha dari dampak negatif perkembangan urban, dan untuk secara proaktif mengurangi polusi cahaya di kawasan cekungan Bandung melalui aturan-aturan tata cahaya yang akan disiapkan dan ditegakkan. Diharapkan akan adanya aturan yang menjadi pengejawantahan lanjut dari <font color='red'>Peraturan Presiden No. 45 Tahun 2018</font> tentang <font color='red'>Rencana Tata Ruang Kawasan Perkotaan Cekungan Bandung</font> yang secara eksplisit menyebutkan perlunya melindungi <font color='red'>Observatorium Bosscha sebagai kekayaan ilmu pengetahuan, budaya, dan fasilitas bersejarah</font>. Perlindungan dalam bentuk peraturan juga sebagai wujud apresiasi masyarakat, pemerintah, dan institusi terkait pada status Observatorium Bosscha sebagai <font color='red'>Cagar Budaya Nasional</font> yang disertifikasi oleh Menteri Pendidikan dan Kebudayaan pada 24 September 2018.
+To ensure the continuation of Bosscha Observatory’s role for science development in Indonesia and the world, ITB invites collaborative efforts with the Provincial Government of West Java, related institution, and general public to ensure protections for the observatory from negative impacts of urban growth and to proactively reduce light pollution in the Bandung area through laws of lighting systems that will be prepared and enforced. It is expected that there will be laws that will further embody the Indonesian Presidential Regulation No. 45 of 2018 concerning the Bandung Basin Urban Spatial Plan, which explicitly mentions the need to protect Bosscha Observatory as a resource of scientific, cultural, and historic facilities. Protection in the form of laws is also needed as a form of appreciation from the public, government, and institution regarding Bosscha Observatory’s position as a national cultural heritage that is certified by the Minister of Education and Cultural on September 24th, 2018. 
 
-Sebagai catatan penting, kualitas langit yang baik, bersih dari polusi udara dan polusi cahaya, diperlukan secara lebih luas untuk kualitas hidup umat manusia, keanekaragaman hayati, dan kesetimbangan ekosistem, yang merupakan bagian amat penting dari pembangunan berkelanjutan, terutama di Indonesia.
+Good sky quality, which is free from air and light pollution, is needed more for the quality of human life, biodiversity, and ecosystem balance, which are a very important part of sustainable development, especially in Indonesia.
 
 #### Contact Person: 
 
@@ -56,12 +57,12 @@ Premana W. Premadi, <br>
 <i class="fas fa-phone"></i> (022) 278-6027
 {{% /alert %}}
 
-File press release bisa diunduh pada tautan {{% staticref "files/pressrelease-90thn-zeiss.pdf" "newtab" %}}berikut{{% /staticref %}}.
- 
-Berikut adalah video kegiatan peringatan 90 Tahun Refraktor Ganda Zeiss Observatorium Bosscha yang bisa dilihat di Youtube.
+The press release file can be downloaded through the following {{% staticref "files/pressrelease-90thn-zeiss.pdf" "newtab" %}}link{{% /staticref %}}.
+
+Below is a video from the Commemoration of 90 Years of Bosscha Observatory’s Zeiss Double Refractor Telescope activity which is available on Youtube.
 
 {{<youtube BsE5HohU3a4>}}
 
-Foto-foto kegiatan bisa dilihat pada galeri berikut.
+Photos from the activity are available in the following gallery.
 
 {{<customgallery album="gallery">}}

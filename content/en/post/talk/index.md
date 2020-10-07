@@ -1,5 +1,5 @@
 +++
-title = "Pengumuman Kolokium"
+title = "Colloquium Announcement"
 subtitle = ""
 
 # Add a summary to display on homepage (optional).
@@ -39,7 +39,7 @@ categories = []
 +++
 |   |   |
 |---|---|
-|Judul| **_"Challenges in Finding Gravitational Lenses in Current and Future Large Scale Surveys"_**|
-|Pembicara| **Dr. Anton T. Jaelani**|
-|Waktu/Tempat| **29 Mei 2019 pukul 10:00 - 11:30 WIB/Ruang Baca Observatorium Bosscha**|
+|Title| **_"Challenges in Finding Gravitational Lenses in Current and Future Large Scale Surveys"_**|
+|Speaker| **Dr. Anton T. Jaelani**|
+|Time/Place| **May 29th 2019, 10:00 - 11:30 WIB (UT+7)/ at Ruang Baca Observatorium Bosscha**|
 

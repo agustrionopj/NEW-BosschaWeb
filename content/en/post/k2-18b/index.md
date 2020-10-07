@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Telah ditemukan eksoplanet dengan kandungan air untuk pertama kalinya!"
+title: "The First Exoplanet That Contains Water Has Been Found!"
 subtitle: ""
 summary: ""
 authors: []
@@ -16,7 +16,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Konsep artis K2-18b (hubblesite.org)"
+  caption: "Artist concept of  K2-18b (hubblesite.org)"
   focal_point: ""
   preview_only: false
 
@@ -27,32 +27,38 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Sebagian besar dari kita pasti pernah dipenuhi rasa ingin tahu tentang kehidupan lain selain di Bumi. Adakah kehidupan di planet-planet lain yang jauh? Bagaimana kita bisa menemukannya?
 
-Hingga hari ini astronom sudah menemukan kira-kira 4000-an planet yang mengobit bintang-bintang lain, planet-planet ini disebut planet ekstrasolar atau eksoplanet. Pada umumnya, sebagian besar planet tersebut bukan tempat yang ramah untuk kehidupan, umumnya memiliki atmosfer yang eksotik hingga temperatur yang ekstrim. Akankah ada kehidupan di planet-planet tersebut? Astronom mulai menjawab pertanyaan ini dengan mendeteksi keberadaan elemen yang paling penting bagi keberadaan kehidupan seperti yang kita ketahui, yaitu air.
-Untuk pertama kalinya, beberapa hari silam ilmuwan mengumumkan penemuan eksoplanet dengan kandungan uap air di atmosfernya. Penemuan ini dipublikasikan melalui dua jurnal terpisah oleh <font color='red'>Björn Benneke</font> dan tim dari <font color='red'>University of Montreal</font> serta <font color='red'>Angelo Tsiaras</font> dan tim dari <font color='red'>University College London</font>. Penemuan ini amat penting karena untuk pertama kalinya ditemukan molekul uap air di atmosfer sebuah eksoplanet yang sangat jauh dari Bumi.
+Most of us have certainly been filled with curiosity about life other than on Earth. Are there any other lives on distant planets? How can we find them? 
 
-Planet tersebut dikenal sebagai Planet K2-18b. Planet K2-18b mengorbit sebuah bintang Katai Merah (_Red Dwarf Star_) yang terletak di konstelasi Leo, berjarak kira-kira 110 tahun cahaya dari Bumi. Bintang Katai Merah merupakan bintang yang berukuran lebih kecil dari Matahari. Bintang K2-18 atau EPIC 201912552 sendiri hanya memiliki massa 0,35 Massa Matahari dengan temperatur hanya 3.183$^\circ$ C. Terdapat 2 planet massif yang mengorbit bintang ini, yaitu K2-18b dan K2-18c. 
+Until today, astronomers have found around 4,000 planets that orbit other stars. They’re called extrasolar planets or exoplanets for short. In general, a lot of those planets aren’t suitable to support life as they have exotic atmospheres and extreme temperatures. Will
+there be any life on them? Astronomers are starting to answer that question by detecting the presence of the most fundamental element that supports life like all we know, water. For the first time, scientists announced the discovery of the first exoplanet with water vapor in its atmosphere. The discovery was published in two separate journals by Björn Benneke and the team from University of Montreal and by Angelo Tsiaras and the team from University College London. This discovery is so important because for the first time ever water vapor molecules are found in the atmosphere of an exoplanet far from Earth.
 
-Planet K2-18b ditemukan pada tahun 2015 oleh Kepler Space Telescope yang memang bertugas menemukan eksoplanet. Planet K2-18b tidak seperti planet apapun di Tata Surya kita, planet ini lebih besar dan lebih berat daripada Bumi namun lebih kecil daripada Neptunus, massanya kira-kira 8 hingga 9 kali massa Bumi dan radiusnya kira-kira 2,5 kali radius Bumi
+That planet is known as Planet K2-18b. Planet K2-18b orbits a red dwarf star that lies in the Leo constellation, with distance approximately 110 light years from Earth. Red dwarf stars are stars smaller than the Sun. The star K2-18 or EPIC 201912552 itself is only 0.35 times the mass of the Sun with temperature reaching to only 3,183 $^\circ$C. There are 2 massive
+planets orbiting this star, namely K2-18b and K2-18c.
 
-### Hujan di Planet K2-18b
-Di tahun 2016 dan 2017, tim yang dipimpin oleh Benneke menggunakan Hubble Space Telescope meneliti atmosfer planet K2-18b ketika planet tersebut lewat di depan bintang induknya. Berdasarkan analisa spektrum dapat disimpulkan bahwa planet K2-18b memiliki atmosfer yang mengandung molekul uap air dan kemungkinan mendukung keberadaan air dalam fase cair sebagai syarat utama adanya kehidupan. Selain uap air, planet K2-18b juga diketahui mengandung hidrogen dan helium. Molekul lain seperti nitrogen dan methana juga kemungkinan ada namun belum dapat dideteksi. 
+Planet K2-18b was discovered in the year 2015 by the Kepler Space Telescope, which specifically used to find exoplanets. Planet K2-18b is not like any planets in our Solar System, it is larger and heavier than Earth but smaller than Neptune, its mass is approximately 8 to 9 times the mass of the Earth and its radius is around 2.5 times the radius of Earth.
 
-Observasi menggunakan gabungan Hubble, Spitzer dan Kepler memberi petunjuk bahwa awan mungkin dapat terbentuk di ketinggian tertentu di atmosfer planet K2-18b. Selain itu, tim Benneke menyebutkan, di ketinggian tersebut bisa jadi terdapat tekanan dan temperatur yang tepat untuk memungkinkan keberadaan air dalam fase cair. Selanjutnya hal ini memungkinkan butiran air dapat terkondensasi dan turun sebagai hujan, kemudian di ketinggian tertentu di atmosfer, butiran hujan tersebut kembali mengembun, dan secara simultan membentuk siklus hidrologi. Kemungkinan terjadinya hujan air di planet inilah yang membuat penemuan ini sangat menarik di kalangan ilmuwan.
+### Rain on Planet K2-18b
+In 2016 and 2017, a team led by Benneke used the Hubble Space Telescope to investigate planet K2-18b’s atmosphere when it passed in front of its host star. According to the spectrum analysis, it was concluded that planet K2-18b’s atmosphere contains water vapor molecules and may support the presence of liquid water as the main requirement of supporting life. Besides water vapor, planet K2-18b is also known to
+contain hydrogen and helium. Other molecules like nitrogen and methane are also thought to exist but are still undetectable.
 
-### Jadi, Apakah laik huni?
-Lebih dari tiga perempat planet yang ditemukan oleh Kepler Space Telescope digolongkan ke dalam dua kelas besar yaitu Super-Earth dan Mini-Neptune. Super-earth adalah planet yang berukuran hingga 2 kali ukuran Bumi dan mempunyai permukaan yang solid (bebatuan). Sementara Mini Neptune adalah planet dengan ukuran dua hingga empat kali ukuran Bumi dan memiliki selubung gas yang tebal yang tersusun atas Hidrogen dan Helium yang menutupi inti bebatuan.
+Observations using the combination of Hubble, Spitzer, and Kepler gave clues that clouds might form on certain altitudes in the planet’s atmosphere. Moreover, the team said there could be the right pressure and atmosphere on that altitude to allow liquid water to exist.
+Hereafter, this would allow water droplets to condense and fall as rain, and furthermore, the rain would condense and simultaneously create a hydrological cycle. The potential of rain water to exist made this discovery attract the attention of scientists.
 
-Terjadi perdebatan di kalangan astronom mengenai klassifikasi planet K2-18b. Namun, mayoritas astronom sepakat bahwa ketimbang Super-earth, planet K2-18b lebih layak digolongkan ke dalam mini-Neptune. Meskipun diketahui berada dalam Habitable Zone/Zona Laik Huni yang memungkinkan sebuah planet mendukung keberadaan air dalam fase cair, namun belum diketahui apakah planet ini memiliki permukaan yang solid/bebatuan seperti Bumi dimana kehidupan dapat berevolusi. Karena sebagian besar astronom menggolongkan planet ini ke dalam Mini-neptune, hal ini sebenarnya secara signifikan mengurangi kemungkinan adanya kehidupan.
+### So, Is It Habitable?
+More than three-quarters of the planets found by the Kepler Space Telescope are classified into two big classes: Super-Earths and Mini-Neptunes. Super-Earths are planets measuring up to 2 times the mass of the Earth and they have a solid surface. Meanwhile, Mini-Neptunes are planets with sizes of 2 to 4 times the size of the Earth and their rock
+cores are covered with thick gases consisting of hydrogen and helium.
 
-Sejatinya, uap air bukan hal yang langka di alam semesta. Namun menemukan air dalam fase cair membutuhkan tekanan dan temperatur yang tepat, ini yang membuat Bumi menjadi begituistimewa. Namun lagi-lagi, meskipun keberadaan uap air, bahkan keberadaan hujan adalah satu hal yang luar biasa, kehidupan yang kita ketahui membutuhkan permukaan planet yang solid seperti di Bumi untuk bisa berevolusi. 
-Selain itu, planet K2-18b diketahui hanya berjarak rata-rata 0.15 AU dari bintang induknya. Planet ini memiliki periode revolusi selama 33 hari dan menerima intensitas cahaya 1.28 kali lebih banyak dari yang diterima Bumi. Temperatur ekuilibriumnya adalah -2$^\circ$ C, suhu berkisar antara -73$^\circ$ C hingga 47$^\circ$ C. Meskipun tergolong hangat, Planet K2-18b kemungkinan tidak terlalu ramah untuk kehidupan akibat ekspos radiasi yang tinggi karena aktivitas bintang induknya yang tinggi. Terlebih lagi, planet ini diketahui terkunci dalam gravitasi bintang induknya, sehingga satu sisi planet yang sama selalu menghadap Bintang induk yang mengakibatkan adanya senja abadi. 
+There was a debate between scientists while classifying planet K2-18b. But the majority of them agreed that rather as a Super-Earth, planet K2-18b was more appropriate to be classified as a Mini-Neptune. Although it is known to reside in the Habitable Zone that allows a planet to support the existence of liquid water, it is not known whether the planet
+has a solid surface or not. Because most astronomers classify this planet as a Mini-Neptune, this reduces the possibility of life existence significantly. 
 
-Jadi, untuk kehidupan seperti di Bumi, planet K2-18b sepertinya tidak memenuhi kriteria. Namun mungkin saja planet ini memiliki bentuk kehidupan yang tidak kita ketahui di atmosfernya. Siapa tahu?
+Actually, water vapor is commonly found in the universe. But finding water in its liquid form needs the right pressure and temperature. This is what makes our Earth so special. But then, although the presence of water vapor and even rain is a magnificent thing, life as we know needs a solid surface like Earth’s to flourish. Besides, planet K2-18b is known to only have an average distance of 0.15 AU from its host star. This planet has a revolution period of 33 Earth days and receives 1.28 times more light than Earth. Its equilibrium temperature
+is -2 $^\circ$C and it ranges from -73 $^\circ$C to 47 $^\circ$C. Even though it is classified as warm, planet K2-18b might not be too friendly for life as a result of being exposed to high radiation from its highly active host star. Moreover, this planet is tidally locked in its star’s gravity, making one side of the planet to face the star forever and experiencing eternal dusk.
 
-Di masa depan, misi TESS (Transiting Extrasolar Survey Satellite) NASA diharapkan dapat mendeteksi ratusan super-earth ataupun mini-neptune lainnya. Generasi berikutnya dari teleskop ruang angkasa, seperti James Webb Space Telescope akan mampu mengidentifikasi karakteristik atmosfer eksoplanet dengan lebih detail, bahkan biosignature yang menjadi pertanda adanya kehidupan. Kita tunggu kejutan berikutnya!
+So, for life to flourish like Earth’s, planet K2-18b seems to not fulfill the criteria. But maybe this planet hosts another unknown life form in its atmosphere. Who knows. 
 
-### Referensi:
+In the future, NASA’s TESS (Transiting Extrasolar Survey Satellite) mission hopes to detect hundreds of other Super-Earths or Mini-Neptunes. The next generation of space telescopes, like James Webb Space Telescope, will be able to identify atmospheric characteristics of exoplanets in great detail, even their biosignatures that will provide signs of life. Let’s just wait for other surprises!
+
+### References:
 - Benneke et al. *Water vapor on the habitable-zone exoplanet K2-18b*. arXiv:1909.04642. Posted September 10, 2019.
 - Tsiaras et al. *Water vapour in the atmosphere of the habitable-zone eight-Earth-mass planet K2-18 b*. Nature Astronomy. Published online September 11, 2019. **doi:10.1038/s41550-019-0878-9**.

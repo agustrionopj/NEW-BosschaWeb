@@ -8,92 +8,228 @@
   url = "/"
   weight = 5
 
+# -----------------------------------------------------------------
+# profile
+# -----------------------------------------------------------------
 [[main]]
   name = "About"
+  identifier = "about"
   url = "#about"
   weight = 10
+[[main]]
+  name = "Profile"
+  parent = "about"
+  url = "#about"
+  weight = 11
 
 [[main]]
-  name = "News"
-  url = "#posts"
-  weight = 15
+  name = "Staff"
+  parent = "about"
+  url = "#people"
+  weight = 12
 
+[[main]]
+  name = "History"
+  parent = "about"
+  url = "/author-detil/"
+  weight = 13
+
+[[main]]
+  name = "Facility"
+  parent = "about"
+  url = "/author-detil/instrumen/"
+  weight = 14
+
+# [[main]]
+#   name = "News"
+#   url = "#posts"
+#   weight = 15
+# ------------------------------------------------
+# Research & Academic
+# ------------------------------------------------
+[[main]]
+  name = "Research & Academic"
+  identifier = "penelitian"
+  url = "/penelitian/"
+  weight = 20
+
+[[main]]
+  name = "Research Topic"
+  parent = "penelitian"
+  url = "/penelitian/"
+  weight = 21
+
+[[main]]
+  name = "Publication"
+  parent = "penelitian"
+  url = "/en/publication/"
+  weight = 22
+[[main]]
+  name = "Internship"
+  parent = "penelitian"
+  url = "/en/akademik/"
+  weight = 23
+
+[[main]]
+  name = "Research Proposal"
+  parent = "penelitian"
+  url = "#"
+  weight = 24
+
+# --------------------------------------------------------------
+# Public visit
+# --------------------------------------------------------------
 [[main]]
   name = "Visit"
   identifier = "kunjungan"
   url = "/kunjungan/"
-  weight = 20
-
-[[main]]
-  name = "General Info"
-  parent = "kunjungan"
-  url = "/kunjungan/"
-  weight = 21
-
-[[main]]
-  name = "Rules & Guidelines"
-  parent = "kunjungan"
-  url = "/kunjungan/aturan/"
-  weight = 22
-
-[[main]]
-  name = "Admission"
-  parent = "kunjungan"
-  url = "/kunjungan/daftar/"
-  weight = 23
-
-[[main]]
-  name = "Schedules"
-  parent = "kunjungan"
-  url = "/kunjungan/siang/"
-  weight = 24
-
-[[main]]
-  name = "Research"
-  identifier = "penelitian"
-  url = "/penelitian/"
-  weight = 25
-
-[[main]]
-  name = "Weather"
-  parent = "penelitian"
-  url = "https://bosscha.itb.ac.id/aws/"
-  weight = 26
-
-[[main]]
-  name = "Research Topics"
-  parent = "penelitian"
-  url = "/penelitian/"
-  weight = 27
-
-[[main]]
-  name = "Publications"
-  parent = "penelitian"
-  url = "#publications"
-  weight = 28
-
-[[main]]
-  name = "Academic"
-  url = "/akademik/"
   weight = 30
 
+[[main]]
+  name = "Programme & Schedule"
+  parent = "kunjungan"
+  url = "/kunjungan/"
+  weight = 31
+
+[[main]]
+  name = "Visiting Tips & Rules"
+  parent = "kunjungan"
+  url = "/kunjungan/aturan/"
+  weight = 32
+
+[[main]]
+  name = "Registration"
+  parent = "kunjungan"
+  url = "/kunjungan/daftar/"
+  weight = 33
+
+# --------------------------------------------------------------
+# Public Service
+# --------------------------------------------------------------
 [[main]]
   name = "Services"
   identifier = "layanan"
   url = "/layanan/"
-  weight = 35
+  weight = 40
+
+# [[main]]
+#   name = "Education & Outreach"
+#   parent = "layanan"
+#   url = "https://www.google.com/"
+#   weight = 41
 
 [[main]]
-  name = "Astro Calendar"
+  name = "Astronomy Calendar"
   parent = "layanan"
   url = "/layanan/astrocal/"
-  weight = 36
+  weight = 42
 
 [[main]]
-  name = "Press-releases"
+  name = "Press-release"
   parent = "layanan"
   url = "/layanan/pressrelease"
-  weight = 37
+  weight = 43
+
+[[main]]
+  name = "Gallery"
+  parent = "layanan"
+  url = "/gallery-test2/"
+  # url = "/galeri-2/"
+  weight = 44
+
+[[main]]
+  name = "Library"
+  parent = "layanan"
+  url = "#"
+  weight = 45
+
+[[main]]
+  name = "Weather Station"
+  parent = "layanan"
+  url = "https://bosscha.itb.ac.id/aws/"
+  weight = 46
+
+[[main]]
+  name = "Contact"
+  url = "/kontak/"
+  weight = 50
+
+# [[main]]
+#   name = "Visit"
+#   identifier = "kunjungan"
+#   url = "/kunjungan/"
+#   weight = 20
+
+# [[main]]
+#   name = "Programme & Schedule"
+#   parent = "kunjungan"
+#   url = "/kunjungan/"
+#   weight = 21
+
+# [[main]]
+#   name = "Visiting Tips & Rules"
+#   parent = "kunjungan"
+#   url = "/kunjungan/aturan/"
+#   weight = 23
+
+# [[main]]
+#   name = "Registration"
+#   parent = "kunjungan"
+#   url = "/kunjungan/daftar/"
+#   weight = 22
+
+# [[main]]
+#   name = "Schedules"
+#   parent = "kunjungan"
+#   url = "/kunjungan/siang/"
+#   weight = 24
+
+# [[main]]
+#   name = "Research"
+#   identifier = "penelitian"
+#   url = "/penelitian/"
+#   weight = 25
+
+# [[main]]
+#   name = "Weather"
+#   parent = "penelitian"
+#   url = "https://bosscha.itb.ac.id/aws/"
+#   weight = 26
+
+# [[main]]
+#   name = "Research Topics"
+#   parent = "penelitian"
+#   url = "/penelitian/"
+#   weight = 27
+
+# [[main]]
+#   name = "Publications"
+#   parent = "penelitian"
+#   url = "#publications"
+#   weight = 28
+
+# [[main]]
+#   name = "Academic"
+#   url = "/akademik/"
+#   weight = 30
+
+# [[main]]
+#   name = "Services"
+#   identifier = "layanan"
+#   url = "/layanan/"
+#   weight = 35
+
+# [[main]]
+#   name = "Astro Calendar"
+#   parent = "layanan"
+#   url = "/layanan/astrocal/"
+#   weight = 36
+
+# [[main]]
+#   name = "Press-releases"
+#   parent = "layanan"
+#   url = "/layanan/pressrelease"
+#   weight = 37
 
 # [[main]]
 #   name = "Tes"
@@ -101,21 +237,21 @@
 #   url = "/layanan/test/"
 #   weight = 38
 
-[[main]]
-  name = "Links"
-  url = "#projects"
-  weight = 40
+# [[main]]
+#   name = "Links"
+#   url = "#projects"
+#   weight = 40
 
-[[main]]
-  name = "Gallery"
-  url = "/gallery/"
-  # url = "/galeri-2/"
-  weight = 45
+# [[main]]
+#   name = "Gallery"
+#   url = "/gallery/"
+#   # url = "/galeri-2/"
+#   weight = 45
 
-[[main]]
-  name = "Contact"
-  url = "/kontak/"
-  weight = 50
+# [[main]]
+#   name = "Contact"
+#   url = "/kontak/"
+#   weight = 50
 
 # [[main]]
 #   name = "Publications"

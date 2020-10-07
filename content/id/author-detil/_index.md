@@ -38,9 +38,9 @@ Selain mengemban tugasnya dalam penelitian dan pendidikan, Observatorium Bosscha
 
 Tahun 2004, Observatorium Bosscha dinyatakan sebagai Benda Cagar Budaya oleh Pemerintah. Oleh karena itu, keberadaan Observatorium Bosscha dilindungi <font color="red">UU Nomor 2 / 1992</font> tentang Benda Cagar Budaya. Selanjutnya, tahun 2008, Pemerintah menetapkan Observatorium Bosscha sebagai salah satu <font color="red"> Objek Vital Nasional </font> yang harus diamankan.
 * * *
-## Direktur
+## Kepala Observatorium Bosscha
 
-Berikut adalah daftar direktur Observatorium Bosscha.
+Berikut adalah daftar kepala Observatorium Bosscha.
 
 | Tahun | Nama  |
 | ----- | ----- |
