@@ -40,10 +40,11 @@
   url = "/author-detil/instrumen/"
   weight = 14
 
-# [[main]]
-#   name = "News"
-#   url = "#posts"
-#   weight = 15
+[[main]]
+  name = "News"
+  parent = "about"
+  url = "/post/"
+  weight = 15
 # ------------------------------------------------
 # Research & Academic
 # ------------------------------------------------
@@ -70,11 +71,11 @@
   url = "/en/akademik/"
   weight = 23
 
-[[main]]
-  name = "Research Proposal"
-  parent = "penelitian"
-  url = "#"
-  weight = 24
+# [[main]]
+#   name = "Research Proposal"
+#   parent = "penelitian"
+#   url = "#"
+#   weight = 24
 
 # --------------------------------------------------------------
 # Public visit
@@ -137,11 +138,11 @@
   # url = "/galeri-2/"
   weight = 44
 
-[[main]]
-  name = "Library"
-  parent = "layanan"
-  url = "#"
-  weight = 45
+# [[main]]
+#   name = "Library"
+#   parent = "layanan"
+#   url = "#"
+#   weight = 45
 
 [[main]]
   name = "Weather Station"
@@ -149,6 +150,14 @@
   url = "https://bosscha.itb.ac.id/aws/"
   weight = 46
 
+ [[main]]
+  name = "Links"
+  parent = "layanan"
+  url = "tautan/"
+  weight = 48
+# ---------------------------------------
+#  KONTAK
+# ---------------------------------------
 [[main]]
   name = "Contact"
   url = "/kontak/"

@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Publications"
-subtitle = "[See all](/en/publication/)"
+subtitle = "Scientific articles published on various journals. [See all](/en/publication/)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

@@ -6,7 +6,7 @@ title = "UNL AstroEdu"
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Situs yang berisi materi pembelajaran yang menarik seputar Astronomi dan Fisika"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

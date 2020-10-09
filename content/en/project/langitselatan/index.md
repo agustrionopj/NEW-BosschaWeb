@@ -6,7 +6,7 @@ title = "Langit Selatan"
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Online media on Astronomy for public, given in Bahasa Indonesia"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

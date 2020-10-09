@@ -2,14 +2,14 @@
 # Hero widget.
 widget = "hero"  # Do not modify this line!
 headless = true
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 # title = "Pengamatan Hilal Ramadhan 1440 H/2019 M (LIVE)"
-title = "Berita Dukacita"
+title = "Updates regarding COVID-19"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "jorga.jpg"
+hero_media = "closed.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -18,7 +18,7 @@ hero_media = "jorga.jpg"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "gray"
+  color = "black"
   
   # Background gradient.
   # gradient_start = "#172380"
@@ -79,7 +79,20 @@ hero_media = "jorga.jpg"
      </div>
 </div> -->
 
-<font color='black'>Observatorium Bosscha mengucapkan turut berdukacita <br> atas meninggalnya guru kami</font> <br> <font color='yellow' size=6>Jorga Ibrahim D.Sc</font><br> <font color='black'>Semoga Beliau ditempatkan di tempat terbaik</font>
+<style>
+  pengumuman {
+    text-align: justify;
+  }
+</style>
+
+<pengumuman>
+<p style="color:yellow">Regarding recent information and updates of COVID-19 pandemic, especially in Greater Bandung region, we are sorry to inform you that Bosscha Observatory Public Services will remain closed <font color="white">until the end of 2020.</font></p>
+
+<p style="color:yellow">During this absent, our services will be done <font color="white">online </font> through our official social media channels</p>
+
+<p style="color:yellow">Further information about outreach services and programmes could be found on our website and social media.</p>
+</pengumuman>
+
 
 <!-- Informasi lebih lengkap tekan tombol di bawah ini: -->
 <!-- Tanggal / Jam: 13 Juli 2019 / 15:30 WIB -->

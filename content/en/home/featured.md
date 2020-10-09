@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "Highlights"
-subtitle = ""
+subtitle = "Latest news about Bosscha Observatory and Astronomy Study Program"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

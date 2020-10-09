@@ -2,14 +2,14 @@
 # Hero widget.
 widget = "hero"  # Do not modify this line!
 headless = true
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 # title = "Pengamatan Hilal Ramadhan 1440 H/2019 M (LIVE)"
 title = "Update terkait COVID-19"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "weareclosed.png"
+hero_media = "closed.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -81,11 +81,19 @@ hero_media = "weareclosed.png"
 
 <!-- <font color='black'>Observatorium Bosscha mengucapkan turut berdukacita <br> atas meninggalnya guru kami</font> <br> <font color='yellow' size=6>Jorga Ibrahim D.Sc</font><br> <font color='black'>Semoga Beliau ditempatkan di tempat terbaik</font> -->
 
+<style>
+  pengumuman {
+    text-align: justify;
+  }
+</style>
+
+<pengumuman>
 <p style="color:yellow">Sehubungan dengan  perkembangan terkini mengenai pandemi COVID-19, khususnya di wilayah Bandung Raya, kami sampaikan bahwa program kunjungan publik Observatorium Bosscha - FMIPA ITB masih ditutup <font color="white">hingga akhir tahun 2020.</font></p>
 
 <p style="color:yellow">Selama penutupan berlangsung, program edukasi publik akan dilakukan <font color="white">secara daring </font> melalui kanal digital resmi  Observatorium Bosscha. </p>
 
 <p style="color:yellow">Informasi lebih lanjut mengenai layanan dan program ini disampaikan melalui website dan media sosial resmi Observatorium Bosscha.</p>
+</pengumuman>
 
 <!-- Informasi lebih lengkap tekan tombol di bawah ini: -->
 <!-- Tanggal / Jam: 13 Juli 2019 / 15:30 WIB -->

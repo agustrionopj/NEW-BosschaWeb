@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Highlights"
-subtitle = ""
+title = "Sorotan"
+subtitle = "Berita terkini seputar Observatorium Bosscha dan Prodi Astronomi ITB."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Publikasi"
-subtitle = "[Lihat semua](/id/publication/)"
+subtitle = "Tulisan ilmiah yang dipublikasikan dalam berbagai jurnal. [Lihat semua](/id/publication/)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

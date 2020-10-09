@@ -75,11 +75,11 @@
   url = "/id/akademik/"
   weight = 23
 
-[[main]]
-  name = "Proposal"
-  parent = "penelitian"
-  url = "#"
-  weight = 24
+# [[main]]
+#   name = "Proposal"
+#   parent = "penelitian"
+#   url = "#"
+#   weight = 24
 
 # [[main]]
 #   name = "Akademik"
@@ -172,9 +172,9 @@
   weight = 46
 
 [[main]]
-  name = "Pengamatan Virtual Langit Malam 2020"
+  name = "Pengamatan Virtual Langit Malam"
   parent = "layanan"
-  url = "/layanan/pvlm"
+  url = "/layanan/pvlm-2020"
   weight = 47
 
  [[main]]

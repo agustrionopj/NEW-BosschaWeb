@@ -6,7 +6,7 @@ title = "Astronomy ITB"
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Official page of Astronomy Study Program, ITB"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
