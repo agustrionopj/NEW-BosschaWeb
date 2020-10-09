@@ -86,11 +86,11 @@ hero_media = "closed.png"
 </style>
 
 <pengumuman>
-<p style="color:yellow">Regarding recent information and updates of COVID-19 pandemic, especially in Greater Bandung region, we are sorry to inform you that Bosscha Observatory Public Services will remain closed <font color="white">until the end of 2020.</font></p>
+<p style="font-size:1rem;color:yellow">Regarding recent information and updates of COVID-19 pandemic, especially in Greater Bandung region, we are sorry to inform you that Bosscha Observatory Public Services will remain closed <font color="white">until the end of 2020.</font></p>
 
-<p style="color:yellow">During this absent, our services will be done <font color="white">online </font> through our official social media channels</p>
+<p style="font-size:1rem;color:yellow">During this absent, our services will be done <font color="white">online </font> through our official social media channels</p>
 
-<p style="color:yellow">Further information about outreach services and programmes could be found on our website and social media.</p>
+<p style="font-size:1rem;color:yellow">Further information about outreach services and programmes could be found on our website and social media.</p>
 </pengumuman>
 
 
