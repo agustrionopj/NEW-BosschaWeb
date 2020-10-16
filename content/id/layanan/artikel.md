@@ -1,7 +1,8 @@
 ---
 title: Repository Material
 linktitle: Artikel
-toc: true
+toc: false
+draft: true
 type: docs
 date: 2020-07-14T00:00:00
 

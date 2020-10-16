@@ -2,8 +2,8 @@
 title: Program Pengamatan Virtual Langit Malam 2020
 date: 2020-08-30T00:00:00.000Z
 lastmod: 2020-08-31T00:00:00.000Z
-draft: false
-toc: true
+draft: true
+toc: false
 # type: docs
 # menu:
 #   kunjungan:

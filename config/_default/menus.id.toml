@@ -168,7 +168,7 @@
 [[main]]
   name = "Kondisi Cuaca"
   parent = "layanan"
-  url = "https://bosscha.itb.ac.id/aws/"
+  url = "../aws/"
   weight = 46
 
 [[main]]
