@@ -8,7 +8,7 @@ identifier: 90tahunZeiss
 
 menu:
     gallery-test2:
-        parent: Kegiatan Bosscha
+        parent: Foto Kegiatan Bosscha
         weight: 4
 
 weight: 4

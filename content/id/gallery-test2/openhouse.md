@@ -8,7 +8,7 @@ identifier: openhouse
 
 menu:
     gallery-test2:
-        parent: Kegiatan Bosscha
+        parent: Foto Kegiatan Bosscha
         weight: 8
 
 weight: 8

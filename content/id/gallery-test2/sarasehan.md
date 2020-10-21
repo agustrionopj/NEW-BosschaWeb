@@ -8,7 +8,7 @@ identifier: sarasehan
 
 menu:
     gallery-test2:
-        parent: Kegiatan Bosscha
+        parent: Foto Kegiatan Bosscha
         weight: 7
 
 weight: 7

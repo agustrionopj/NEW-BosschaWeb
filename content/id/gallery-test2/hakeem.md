@@ -8,7 +8,7 @@ identifier: hakeem
 
 menu:
     gallery-test2:
-        parent: Kegiatan Bosscha
+        parent: Foto Kegiatan Bosscha
         weight: 6
 
 weight: 6

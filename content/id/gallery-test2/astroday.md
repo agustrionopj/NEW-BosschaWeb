@@ -8,7 +8,7 @@ identifier: astroday
 
 menu:
     gallery-test2:
-        parent: Kegiatan Bosscha
+        parent: Foto Kegiatan Bosscha
         weight: 5
 
 weight: 5

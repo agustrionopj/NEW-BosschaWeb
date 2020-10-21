@@ -8,7 +8,7 @@ linktitle: Kunjungan
 
 menu:
     gallery-test2:
-        parent: Kegiatan Bosscha
+        parent: Foto Kegiatan Bosscha
         weight: 2
 
 weight: 2
