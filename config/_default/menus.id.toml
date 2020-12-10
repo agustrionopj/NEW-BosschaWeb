@@ -75,11 +75,11 @@
   url = "/id/akademik/"
   weight = 23
 
-# [[main]]
-#   name = "Proposal"
-#   parent = "penelitian"
-#   url = "#"
-#   weight = 24
+[[main]]
+  name = "Pengamatan Matahari"
+  parent = "penelitian"
+  url = "#"
+  weight = 24
 
 # [[main]]
 #   name = "Akademik"
@@ -129,11 +129,11 @@
   url = "/layanan/"
   weight = 40
 
-# [[main]]
-#   name = "Portal Edukasi"
-#   parent = "layanan"
-#   url = "#"
-#   weight = 41
+[[main]]
+  name = "Material dan Modul"
+  parent = "layanan"
+  url = "/layanan/material/"
+  weight = 41
 
 [[main]]
   name = "Kalender Astronomi"

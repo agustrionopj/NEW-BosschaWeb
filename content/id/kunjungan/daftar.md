@@ -17,7 +17,7 @@ Setiap pengunjung yang akan berkunjung di Observatorium Bosscha wajib mendaftark
 
 {{% alert note %}}
 Pendaftaran dan layanan informasi kunjungan publik dapat dilakukan melalui 2 kanal resmi kami:
--  <i class="fas fa-phone"></i> `022-2786001` <br> (dilayani pada Senin – Jumat, 09:00 – 16:00 WIB)
+-  <i class="fas fa-phone"></i> `022-2786027` <br> (dilayani pada Senin – Jumat, 09:00 – 16:00 WIB)
 -  <i class="fas fa-envelope"></i> `kunjungan[at]as.itb.ac.id` <br> (Ganti ‘[at]’ pada email dengan lambang ‘@’ saat anda menuliskan alamat email)
 {{% /alert %}}
 
