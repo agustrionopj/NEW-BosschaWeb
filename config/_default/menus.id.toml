@@ -78,7 +78,7 @@
 [[main]]
   name = "Pengamatan Matahari"
   parent = "penelitian"
-  url = "#"
+  url = "/penelitian/matahari/"
   weight = 24
 
 # [[main]]
