@@ -88,7 +88,7 @@ hero_media = "closed.png"
 </style>
 
 <pengumuman>
-<p style="font-size:1rem;color:yellow">Sehubungan dengan  perkembangan terkini mengenai pandemi COVID-19, khususnya di wilayah Bandung Raya, kami sampaikan bahwa program kunjungan publik Observatorium Bosscha - FMIPA ITB masih ditutup <font color="white">hingga akhir tahun 2020.</font></p>
+<p style="font-size:1rem;color:yellow">Sehubungan dengan  perkembangan terkini mengenai pandemi COVID-19, khususnya di wilayah Bandung Raya, kami sampaikan bahwa program kunjungan publik Observatorium Bosscha - FMIPA ITB masih ditutup <font color="white">setidaknya hingga pertengahan tahun 2021.</font></p>
 
 <p style="font-size:1rem;color:yellow">Selama penutupan berlangsung, program edukasi publik akan dilakukan <font color="white">secara daring </font> melalui kanal digital resmi  Observatorium Bosscha. </p>
 
