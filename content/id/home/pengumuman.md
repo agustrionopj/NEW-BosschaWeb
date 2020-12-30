@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 # title = "Pengamatan Hilal Ramadhan 1440 H/2019 M (LIVE)"
-title = "Update terkait COVID-19"
+title = "Update terkait COVID-19 tahun 2021"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "closed.png"
@@ -88,11 +88,11 @@ hero_media = "closed.png"
 </style>
 
 <pengumuman>
-<p style="font-size:1rem;color:yellow">Sehubungan dengan  perkembangan terkini mengenai pandemi COVID-19, khususnya di wilayah Bandung Raya, kami sampaikan bahwa program kunjungan publik Observatorium Bosscha - FMIPA ITB masih ditutup <font color="white">setidaknya hingga pertengahan tahun 2021.</font></p>
+<p style="font-size:1rem;color:yellow">Dengan mempertimbangkan status pandemi  COVID-19 serta masih adanya peningkatan penyebaran virus tersebut di Indonesia, khususnya di kawasan Bandung Raya, serta memperhatikan surat edaran Menteri Pendidikan dan Kebudayaan RI No. 3 tahun 2020 dan himbauan dari Institut Teknologi Bandung, maka Observatorium Bosscha  <font color="white">memperpanjang penutupan kunjungan dan acara publik tatap muka hingga setidaknya 31 Juli 2021.</font></p>
 
-<p style="font-size:1rem;color:yellow">Selama penutupan berlangsung, program edukasi publik akan dilakukan <font color="white">secara daring </font> melalui kanal digital resmi  Observatorium Bosscha. </p>
+<p style="font-size:1rem;color:yellow">Selama penutupan berlangsung, program edukasi publik akan dilakukan <font color="white">secara daring </font> melalui kanal digital resmi  Observatorium Bosscha. Silakan kunjungi website dan media sosial resmi Observatorium Bosscha untuk informasi lebih lanjut.</p>
 
-<p style="font-size:1rem;color:yellow">Informasi lebih lanjut mengenai layanan dan program ini disampaikan melalui website dan media sosial resmi Observatorium Bosscha.</p>
+<p style="font-size:1rem;color:yellow">Press release terkait pengumuman ini bisa diunduh pada tautan {{%staticref "files/press-rilis-OB-tutup-1Januari2021.pdf" "newtab" %}} berikut.{{%/staticref%}}</p>
 </pengumuman>
 
 <!-- Informasi lebih lengkap tekan tombol di bawah ini: -->
