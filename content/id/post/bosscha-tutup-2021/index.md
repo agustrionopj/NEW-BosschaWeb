@@ -55,8 +55,8 @@ File press release dapat diunduh melalui tautan {{%staticref "files/press-rilis-
 Narahubung:
 Yatny Yulianty 
 
-- <i class='fas fa-phone'></i> `+6285659002915`
-- <i class='fas fa-envelope'></i> `yulianty@as.itb.ac.id`
+- <i class='fas fa-phone'></i>  `+6285659002915`
+- <i class='fas fa-envelope'></i>  `yulianty@as.itb.ac.id`
 
 {{% /alert %}}
 
