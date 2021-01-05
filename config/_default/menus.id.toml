@@ -75,11 +75,11 @@
   url = "/id/akademik/"
   weight = 23
 
-[[main]]
-  name = "Pengamatan Matahari"
-  parent = "penelitian"
-  url = "/penelitian/matahari/"
-  weight = 24
+# [[main]]
+#   name = "Pengamatan Matahari"
+#   parent = "penelitian"
+#   url = "/penelitian/matahari/"
+#   weight = 24
 
 # [[main]]
 #   name = "Akademik"
