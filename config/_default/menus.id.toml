@@ -82,6 +82,12 @@
 #   weight = 24
 
 # [[main]]
+#   name = "Kolokium"
+#   parent = "penelitian"
+#   url = "/penelitian/kolokium/"
+#   weight = 24
+
+# [[main]]
 #   name = "Akademik"
 #   url = "/akademik/"
 #   weight = 30
