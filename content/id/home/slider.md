@@ -54,8 +54,8 @@ height = "400px"
   # cta_icon = "graduation-cap"
 
 [[item]]
-  title = "Kalender Astronomi 2020"
-  content = "Lihat peristiwa Astronomi di tahun 2020"
+  title = "Kalender Astronomi 2021"
+  content = "Lihat peristiwa Astronomi di tahun 2021"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
