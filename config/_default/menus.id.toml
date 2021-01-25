@@ -178,7 +178,7 @@
   weight = 46
 
 [[main]]
-  name = "Pengamatan Virtual Langit Malam"
+  name = "Program dan Layanan Daring"
   parent = "layanan"
   url = "/layanan/pvlm-2020"
   weight = 47
