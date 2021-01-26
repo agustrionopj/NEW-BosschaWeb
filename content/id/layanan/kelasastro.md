@@ -8,9 +8,9 @@ type: docs
 menu:
   pvlm-2:
     name: Kelas Astronomi
-    weight: 7
+    weight: 1
 
-weight: 7
+weight: 1
 ---
 
 <h3 style="text-align: center;">Layanan Daring untuk Sekolah</h3>

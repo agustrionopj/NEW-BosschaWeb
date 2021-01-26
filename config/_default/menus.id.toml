@@ -180,7 +180,7 @@
 [[main]]
   name = "Program dan Layanan Daring"
   parent = "layanan"
-  url = "/layanan/pvlm-2020"
+  url = "/layanan/kelasastro"
   weight = 47
 
  [[main]]
