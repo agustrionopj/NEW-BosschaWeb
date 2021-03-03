@@ -3,7 +3,7 @@ date="2020-01-22"
 +++
 <!-- <h1 align="center">Kalender Astronomi 2020</h1> -->
 
-## <i class="far fa-calendar-alt"></i> Astronomy Calendar 2020
+## <i class="far fa-calendar-alt"></i> Astronomy Calendar
 
 ---
 <!-- - <button type="button" class="btn btn-primary">Bulan</button> and <button type="button" class="btn btn-primary">Minggu</button> tabs shows a calendar in monthly and weekly view, respectively. <button type="button" class="btn btn-primary">Agenda</button> tab shows listed astronomy events for the particular month. 
