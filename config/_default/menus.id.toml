@@ -161,7 +161,7 @@
 [[main]]
   name = "Galeri"
   parent = "layanan"
-  # url = "/gallery/"
+  # url = "/gallery-test3/"
   url = "/gallery-test2/"
   weight = 44
 
