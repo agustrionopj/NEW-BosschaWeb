@@ -2,13 +2,13 @@
 title = "Kumpulan Press Release"
 date = 2019-04-20T00:00:00
 toc = true
-type = "docs"
+#type = "docs"
 
 linktitle = "press release"
 
-[menu.layanan]
-    parent = "File Elektronik"
-    weight = 1
+#[menu.layanan]
+#    parent = "Astronomi Untuk Publik"
+#    weight = 2
 +++
 * {{% staticref "files/press-rilis-OB-tutup-1Januari2021.pdf" "newtab" %}} Press Release Bosscha Tutup terkait COVID-19 Tahun 2021 {{% /staticref %}}
 * {{% staticref "files/ObsBosscha-Press-Release-Dzulhijjah-2020.pdf" "newtab" %}} Press Release Hilal Dzulhijjah 1441 H/2020 M {{% /staticref %}}

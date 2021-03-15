@@ -6,8 +6,9 @@ draft: false
 toc: true
 type: docs
 menu:
-  pvlm-2:
-    name: Kelas Astronomi
+  program-daring:
+    parent: Program dan Layanan Daring
+    name: Kelas Daring Astronomi
     weight: 1
 
 weight: 1

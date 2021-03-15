@@ -4,10 +4,10 @@ date = 2020-11-27T00:00:00
 toc = true
 type = "docs"
 
-linktitle = "material"
+linktitle = "Modul dan Aktivitas Siswa"
 
 [menu.layanan]
-    parent = "File Elektronik"
+    parent = "Materi Edukasi Astronomi"
     weight = 1
 +++
 

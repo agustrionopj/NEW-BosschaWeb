@@ -96,8 +96,9 @@
 # KUNJUNGAN
 # --------------------------------------------------------------
 [[main]]
-  name = "Kunjungan"
+  name = "Kunjungan ke Observatorium"
   identifier = "kunjungan"
+  parent = "layanan"
   url = "/kunjungan/"
   weight = 30
 
@@ -130,28 +131,52 @@
 # LAYANAN PUBLIK
 # --------------------------------------------------------------
 [[main]]
-  name = "Layanan"
+  name = "Astronomi untuk Publik"
   identifier = "layanan"
   url = "/layanan/"
   weight = 40
 
 [[main]]
-  name = "Material dan Modul"
+  name = "Materi Edukasi Astronomi"
   parent = "layanan"
-  url = "/layanan/material/"
+  identifier = "edukasi astro"
+  url = "/layanan/belajarastro/"
+  weight = 40
+
+# [[main]]
+#   name = "Belajar Astronomi Yuk"
+#   parent = "edukasi astro"
+#   url = "/layanan/belajarastro/"
+#   weight = 41
+
+# [[main]]
+#   name = "Material dan Modul"
+#   parent = "edukasi astro"
+#   url = "/layanan/material/"
+#   weight = 42
+[[main]]
+  name = "Newsletter"
+  parent = "layanan"
+  url = "/layanan/newsletter/"
   weight = 41
+
+[[main]]
+  name = "Prakarsa Langit Gelap"
+  parent = "layanan"
+  url = "/layanan/prakarsalangitgelap/"
+  weight = 42
 
 [[main]]
   name = "Kalender Astronomi"
   parent = "layanan"
   url = "/layanan/astrocal/"
-  weight = 42
+  weight = 43
 
 [[main]]
-  name = "Press-release"
+  name = "Rilis Media"
   parent = "layanan"
   url = "/layanan/pressrelease"
-  weight = 43
+  weight = 45
 
 # [[main]]
 #   name = "Tautan"
@@ -181,9 +206,15 @@
   name = "Program dan Layanan Daring"
   parent = "layanan"
   url = "/layanan/kelasastro"
+  weight = 43
+
+[[main]]
+  name = "Kegiatan Lampau"
+  parent = "layanan"
+  url = "/layanan/pvlm-2020/"
   weight = 47
 
- [[main]]
+[[main]]
   name = "Tautan"
   parent = "layanan"
   url = "tautan/"
