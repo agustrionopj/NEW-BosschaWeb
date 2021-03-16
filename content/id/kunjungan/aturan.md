@@ -9,6 +9,7 @@ toc: true
 type: docs
 menu:
   kunjungan:
+    parent: Kunjungan ke Observatorium
     name: Tips dan Aturan Berkunjung
     weight: 2
 

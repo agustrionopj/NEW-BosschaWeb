@@ -8,6 +8,7 @@ toc: true
 type: docs
 menu:
   kunjungan:
+    parent: Kunjungan ke Observatorium
     name: Program dan Jadwal
     weight: 1
 

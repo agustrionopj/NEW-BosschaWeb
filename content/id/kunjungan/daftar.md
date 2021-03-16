@@ -7,6 +7,7 @@ toc: true
 type: docs
 menu:
   kunjungan:
+    parent: Kunjungan ke Observatorium
     name: Pendaftaran Kunjungan
     weight: 3
 
