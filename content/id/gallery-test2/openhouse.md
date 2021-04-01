@@ -7,8 +7,8 @@ linktitle: Openhouse Observatorium Bosscha
 identifier: openhouse
 
 menu:
-    gallery-test2:
-        parent: Foto Kegiatan Bosscha
+    media-2:
+        parent: Galeri
         weight: 8
 
 weight: 8

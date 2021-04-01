@@ -7,6 +7,7 @@ toc: true
 type: docs
 menu:
   author-detil:
+    parent: Tentang Kami
     name: Lokasi & Akses
     weight: 40
 

@@ -9,7 +9,7 @@ linktitle: Instrumen
 identifier: instrumen
 menu:
   author-detil:
-    parent: Fasilitas
+    parent: Tentang Kami
     weight: 2
 
 weight: 2

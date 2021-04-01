@@ -9,9 +9,10 @@ toc = true  # Show table of contents? true/false
 type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
-[menu.akademik]
-  name = "Ragam Layanan"
-  weight = 1
+[menu.penelitian]
+  parent = "Penelitian & Pendidikan"
+  name = "Layanan Magang"
+  weight = 3
 +++
 
 Sebagai pengemban tugas pendidikan, Observatorium Bosscha kerap melayani beberapa kegiatan akademik sebagai berikut.

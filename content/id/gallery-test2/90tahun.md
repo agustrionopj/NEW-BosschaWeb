@@ -7,8 +7,8 @@ linktitle: 90 Tahun Teleskop Zeiss
 identifier: 90tahunZeiss
 
 menu:
-    gallery-test2:
-        parent: Foto Kegiatan Bosscha
+    media-2:
+        parent: Galeri
         weight: 4
 
 weight: 4

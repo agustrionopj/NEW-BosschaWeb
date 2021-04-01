@@ -7,8 +7,8 @@ linktitle: Kunjungan Dr. Hakeem Oluseyi
 identifier: hakeem
 
 menu:
-    gallery-test2:
-        parent: Foto Kegiatan Bosscha
+    media-2:
+        parent: Galeri
         weight: 6
 
 weight: 6

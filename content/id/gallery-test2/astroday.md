@@ -7,8 +7,8 @@ linktitle: Astro day in Schools
 identifier: astroday
 
 menu:
-    gallery-test2:
-        parent: Foto Kegiatan Bosscha
+    media-2:
+        parent: Galeri
         weight: 5
 
 weight: 5

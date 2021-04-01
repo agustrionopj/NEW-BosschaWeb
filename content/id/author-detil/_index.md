@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Sejarah dan Perkembangan Terkini"
-linktitle: "Sejarah dan Perkembangan Terkini"
+title: "Profil dan Sejarah"
+linktitle: "Profil dan Sejarah"
 summary:
 date: 2020-01-30T12:33:42+07:00
 lastmod: 2020-01-30T12:33:42+07:00
@@ -17,7 +17,8 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   author-detil:
-    name: Sejarah & Masa Kini
+    parent: Tentang Kami
+    name: Profil dan Sejarah
     # parent: Fasilitas
     weight: 1
 

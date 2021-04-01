@@ -1,6 +1,12 @@
 ---
 title: Publikasi
 
+menu:
+  penelitian:
+    parent: Penelitian & Pendidikan
+    name: Publikasi
+    weight: 2
+    
 # View.
 #   1 = List
 #   2 = Compact

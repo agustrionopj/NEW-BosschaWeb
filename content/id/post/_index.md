@@ -1,5 +1,9 @@
 ---
 title: Berita
+# toc: true  # Show table of contents? true/false
+# type: docs  # Do not modify.
+
+weight: 1
 
 # View.
 #   1 = List
@@ -11,4 +15,12 @@ view: 2
 header:
   caption: ""
   image: ""
+
+menu:
+  media:
+    parent: Media
+    name: Berita
+    # parent: Fasilitas
+    weight: 3
+
 ---

@@ -7,11 +7,11 @@ identifier: kunjungan
 linktitle: Kunjungan
 
 menu:
-    gallery-test2:
-        parent: Foto Kegiatan Bosscha
-        weight: 2
+    media-2:
+        parent: Galeri
+        weight: 7
 
-weight: 2
+weight: 7
 ---
 
 {{<foldergallery src="visit">}}

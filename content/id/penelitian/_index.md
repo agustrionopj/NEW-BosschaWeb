@@ -10,6 +10,7 @@ type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
 [menu.penelitian]
+  parent = "Penelitian & Pendidikan"
   name = "Topik"
   weight = 1
 +++

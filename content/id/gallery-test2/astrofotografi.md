@@ -6,8 +6,7 @@ weight: 6
 
 menu:
     media-2:
-        identifier: galeri
-        parent: Galeri
+        parent: galeri
         name: Astrofotografi
         weight: 1
     

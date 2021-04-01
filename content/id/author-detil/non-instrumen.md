@@ -1,14 +1,14 @@
 ---
-title: Fasilitas Pendukung
+title: Fasilitas Penunjang
 date: 2019-09-24T00:00:00.000Z
 lastmod: 2020-01-31T14:00:00.000Z
 draft: false
 toc: true
 type: docs
-linktitle: Penunjang
+linktitle: Fasilitas Penunjang
 menu:
   author-detil:
-    parent: Fasilitas
+    parent: Tentang Kami
     weight: 3
 
 weight: 3

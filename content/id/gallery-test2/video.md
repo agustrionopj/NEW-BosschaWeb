@@ -1,14 +1,15 @@
 ---
 toc: true
 type: docs
-date: 2020-08-25T14:46:00+07:00
+date: 2020-04-01T00:46:00+07:00
 
 menu:
-    gallery-test2:
-        name: Video
-        weight: 1
+    media-2:
+        parent: Galeri
+        name: Video Kegiatan Bosscha
+        weight: 9
 
-weight: 1
+weight: 9
 ---
 
 #### Open House Observatorium Bosscha

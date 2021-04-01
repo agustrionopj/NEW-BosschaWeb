@@ -28,7 +28,7 @@ FMIPA Institut Teknologi Bandung <br>
 Jl. Peneropongan Bintang, Lembang, Bandung Barat 40391 <br>
 Jawa Barat, Indonesia
 
-### <i class="fas fa-phone"></i> Telepon/Fax
+### <i class="fas fa-phone"></i> Telepon
 
  | 
 --- | ---

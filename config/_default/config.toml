@@ -97,30 +97,30 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 # #########################################
 # Atur urutan menu di halaman 'Tentang Kami'
 # #########################################
-[[menu.author-detil]]
-  name = "Fasilitas"
-  weight = 30
-  identifier = "Fasilitas"
+# [[menu.author-detil]]
+#   name = "Fasilitas"
+#   weight = 30
+#   identifier = "Fasilitas"
 
-[[menu.staf]]
-  name = "Staf"
-  identifier = "staf"
+# [[menu.staf]]
+#   name = "Staf"
+#   identifier = "staf"
 
-[[menu.author-detil]]
-  name = "Staf"
-  url = "/../#people"
-  weight = 20
-  identifier = "staf"
+# [[menu.author-detil]]
+#   name = "Staf"
+#   url = "/../#people"
+#   weight = 20
+#   identifier = "staf"
 
-[[menu.publikasi]]
-  name = "Publikasi"
-  identifier = "publikasi"
+# [[menu.publikasi]]
+#   name = "Publikasi"
+#   identifier = "publikasi"
 
-[[menu.penelitian]]
-  name = "Publikasi"
-  url = "/../#publications"
-  weight = 20
-  identifier = "publikasi"
+# [[menu.penelitian]]
+#   name = "Publikasi"
+#   url = "/../#publications"
+#   weight = 20
+#   identifier = "publikasi"
 
 # [privacy]
 #   [privacy.googleAnalytics]
@@ -128,3 +128,12 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 #     disable = false
 #     respectDoNotTrack = true
 #     useSessionStorage = true
+
+# #########################################
+# Atur urutan menu di halaman 'Media'
+# #########################################
+# [[menu.media]]
+#   identifier = "galeri"
+#   name = "Galeri"
+#   parent = "Media"
+#   weight = -5

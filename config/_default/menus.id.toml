@@ -19,9 +19,9 @@
 # ------------------------------------------------
 
 [[main]]
-  name = "Profil"
+  name = "Profil dan Sejarah"
   parent = "about"
-  url = "#about"
+  url = "/author-detil/"
   weight = 11
 
 [[main]]
@@ -30,23 +30,23 @@
   url = "#people"
   weight = 12
 
+# [[main]]
+#   name = "Sejarah"
+#   parent = "about"
+#   url = "/author-detil/"
+#   weight = 13
+
 [[main]]
-  name = "Sejarah"
+  name = "Instrumen"
   parent = "about"
-  url = "/author-detil/"
+  url = "/author-detil/instrumen/"
   weight = 13
 
 [[main]]
-  name = "Fasilitas"
+  name = "Fasilitas Penunjang"
   parent = "about"
-  url = "/author-detil/instrumen/"
+  url = "/author-detil/non-instrumen/"
   weight = 14
-
-[[main]]
-  name = "Berita"
-  parent = "about"
-  url = "/post/"
-  weight = 15
 
 # ------------------------------------------------
 # PENELITIAN & PENDIDIKAN
@@ -126,22 +126,67 @@
 #   url = "/kunjungan/siang/"
 #   weight = 24
 
+# -------------------------------------------------------------
+# MEDIA
+# -------------------------------------------------------------
+[[main]]
+   name = "Media"
+  identifier = "media"
+  url = "#"
+  weight = 40
 
+[[main]]
+  name = "Rilis Media"
+  parent = "media"
+  url = "/media/"
+  weight = 41
+
+[[main]]
+  name = "Newsletter"
+  parent = "media"
+  url = "/media/newsletter/"
+  weight = 42
+
+[[main]]
+  name = "Berita"
+  parent = "media"
+  url = "/post/"
+  weight = 43
+
+[[main]]
+  name = "Kalender Astronomi"
+  parent = "media"
+  url = "/layanan/astrocal/"
+  weight = 44
+
+
+
+# [[main]]
+#   name = "Tautan"
+#   url = "#projects"
+#   weight = 40
+
+[[main]]
+  name = "Galeri"
+  parent = "media"
+  # url = "/gallery-test3/"
+  url = "/gallery-test2/"
+  weight = 45
 # --------------------------------------------------------------
-# LAYANAN PUBLIK
+# ASTRO UNTUK PUBLIK
 # --------------------------------------------------------------
 [[main]]
   name = "Astronomi untuk Publik"
   identifier = "layanan"
   url = "/layanan/"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Materi Edukasi Astronomi"
   parent = "layanan"
   identifier = "edukasi astro"
   url = "/layanan/belajarastro/"
-  weight = 40
+  weight = 51
 
 # [[main]]
 #   name = "Belajar Astronomi Yuk"
@@ -154,41 +199,12 @@
 #   parent = "edukasi astro"
 #   url = "/layanan/material/"
 #   weight = 42
-[[main]]
-  name = "Newsletter"
-  parent = "layanan"
-  url = "/layanan/newsletter/"
-  weight = 41
 
 [[main]]
   name = "Prakarsa Langit Gelap"
   parent = "layanan"
   url = "/layanan/prakarsalangitgelap/"
-  weight = 42
-
-[[main]]
-  name = "Kalender Astronomi"
-  parent = "layanan"
-  url = "/layanan/astrocal/"
-  weight = 43
-
-[[main]]
-  name = "Rilis Media"
-  parent = "layanan"
-  url = "/layanan/pressrelease"
-  weight = 45
-
-# [[main]]
-#   name = "Tautan"
-#   url = "#projects"
-#   weight = 40
-
-[[main]]
-  name = "Galeri"
-  parent = "layanan"
-  # url = "/gallery-test3/"
-  url = "/gallery-test2/"
-  weight = 44
+  weight = 52
 
 # [[main]]
 #   name = "Perpustakaan"
@@ -196,35 +212,38 @@
 #   url = "#"
 #   weight = 45
 
-[[main]]
-  name = "Kondisi Cuaca"
-  parent = "layanan"
-  url = "../aws/"
-  weight = 46
 
 [[main]]
   name = "Program dan Layanan Daring"
   parent = "layanan"
   url = "/layanan/kelasastro"
-  weight = 43
+  weight = 53
 
 [[main]]
   name = "Kegiatan Lampau"
   parent = "layanan"
   url = "/layanan/pvlm-2020/"
-  weight = 47
+  weight = 57
 
-[[main]]
-  name = "Tautan"
-  parent = "layanan"
-  url = "tautan/"
-  weight = 48
+# [[main]]
+#   name = "Tautan"
+#   parent = "layanan"
+#   url = "tautan/"
+#   weight = 48
 
 [[main]]
   name = "Tim Pendidikan & Penjangkauan Publik"
   parent = "layanan"
   url = "#"
-  weight = 49
+  weight = 59
+# ------------------------------------------------------------------------------------
+# Cuaca
+# ------------------------------------------------------------------------------------
+[[main]]
+  name = "Cuaca"
+  # parent = "layanan"
+  url = "../aws/"
+  weight = 56
 
 # ------------------------------------------------------------------------------------
 # KONTAK
@@ -232,7 +251,7 @@
 [[main]]
   name = "Kontak"
   url = "/kontak/"
-  weight = 50
+  weight = 60
 
 # [[main]]
 #   name = "Publications"
