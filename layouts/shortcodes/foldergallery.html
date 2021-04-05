@@ -55,9 +55,9 @@
 
 <body>
     <div class="gallery">
-        {{ $path := print "content\\id\\" .Page.File.Dir (.Get "src") }}
-        {{ $url  := print .Page.RelPermalink (.Get "src") }}
-        {{ range (readDir $path)  }}
+        {{ $path := print "content//id//" .Page.File.Dir (.Get "src") }}
+        {{ $url := print .Page.RelPermalink (.Get "src") }}
+        {{ range (readDir $path) }}
         {{ $src := print $url "/" .Name }}
         <a data-fancybox="gallery" href="{{ $src }}">
             <img src="{{ $src }}"> <br />

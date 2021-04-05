@@ -25,6 +25,7 @@ menu:
     
 ---
 
+* {{%staticref "files/ObsBosscha-Press-Release-Ramadhan-2021.pdf" "newtab"%}}Press Release Hilal Ramadhan 1442H/2021 M {{%/staticref%}}
 * {{% staticref "files/press-rilis-OB-tutup-1Januari2021.pdf" "newtab" %}} Press Release Bosscha Tutup terkait COVID-19 Tahun 2021 {{% /staticref %}}
 * {{% staticref "files/ObsBosscha-Press-Release-Dzulhijjah-2020.pdf" "newtab" %}} Press Release Hilal Dzulhijjah 1441 H/2020 M {{% /staticref %}}
 * {{% staticref "files/ObsBosscha-Press-Release-Syawal-2020.pdf" "newtab" %}} Press Release Hilal Syawal 1441 H/2020 M {{% /staticref %}}

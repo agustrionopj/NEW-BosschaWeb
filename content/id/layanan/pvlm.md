@@ -81,7 +81,7 @@ Pilih **_Watch this video on YouTube_** jika ada pesan kesalahan dalam memutar v
 
 <div class="row">
   <div class="column">
-    <b>Episode 01 - Langit Malam: dari rasi bintang ke alam semesta</b>
+    <b>Episode 01 - Kabar Terkini Astronomi</b>
   </div>
   <div class="column">
     <b>Episode 02 - TBD</b>
@@ -94,8 +94,9 @@ Pilih **_Watch this video on YouTube_** jika ada pesan kesalahan dalam memutar v
 <div class="row">
   <div class="column">
     {{<youtube >}}
-    <p style="font-size: .8em" class="showmore">Manusia telah mengamati langit malam sejak zaman dahulu kala. Keteraturan gerak benda-benda langit menginspirasi manusia dari berbagai sudut pandang, antara lain kebudayaan, kepercayaan, mata pencaharian, dan bahkan aktivitas sehari-hari. Mulai dari Bulan, Matahari, dan planet-planet dalam Tata Surya, hingga rasi-rasi bintang yang bergantian menghiasi langit malam. <span class="dots">$\ldots$</span><span class="more">Kita mengenali berbagai rasi bintang yang masih terus kita manfaatkan kemunculannya dan nikmati keindahannya. Rasi-rasi bintang diberi nama dan label mengikuti perpaduan antara kearifan berbagai peradaban kuno dengan aturan baru yang lebih sistematis yang disepakati oleh komunitas astronom dunia. Dalam skala jarak, rasi-rasi bintang tersebar dalam ruang kecil yang di seputar Tata Surya; relatif kecil dibandingkan dengan ukuran Galaksi Bima Sakti. Astronomi modern memanfaatkan rasi-rasi bintang itu sebagai petunjuk arah, sehingga tak jarang penamaan benda langit yang jauh mengikuti nama rasi bintang yang menjadi pengarah ke benda tersebut.  </span>
-      <button>Selengkapnya</button>
+    <p style="font-size: .8em" class="showmore">
+    <!-- Manusia telah mengamati langit malam sejak zaman dahulu kala. Keteraturan gerak benda-benda langit menginspirasi manusia dari berbagai sudut pandang, antara lain kebudayaan, kepercayaan, mata pencaharian, dan bahkan aktivitas sehari-hari. Mulai dari Bulan, Matahari, dan planet-planet dalam Tata Surya, hingga rasi-rasi bintang yang bergantian menghiasi langit malam. <span class="dots">$\ldots$</span><span class="more">Kita mengenali berbagai rasi bintang yang masih terus kita manfaatkan kemunculannya dan nikmati keindahannya. Rasi-rasi bintang diberi nama dan label mengikuti perpaduan antara kearifan berbagai peradaban kuno dengan aturan baru yang lebih sistematis yang disepakati oleh komunitas astronom dunia. Dalam skala jarak, rasi-rasi bintang tersebar dalam ruang kecil yang di seputar Tata Surya; relatif kecil dibandingkan dengan ukuran Galaksi Bima Sakti. Astronomi modern memanfaatkan rasi-rasi bintang itu sebagai petunjuk arah, sehingga tak jarang penamaan benda langit yang jauh mengikuti nama rasi bintang yang menjadi pengarah ke benda tersebut.  </span>
+      <button>Selengkapnya</button> -->
     </p>
   </div>
   <div class="column">
@@ -123,3 +124,12 @@ Pilih **_Watch this video on YouTube_** jika ada pesan kesalahan dalam memutar v
     <!-- <p style="font-size: .8em">Narasumber: <br> 1. Premana W. Premadi, Ph.D. <br>  2. Muhammad Yusuf, S.Si.</p> -->
   </div>
 </div>
+
+<script> 
+  document.querySelectorAll(".showmore").forEach(function (p) {
+   p.querySelector("button").addEventListener("click", function () {
+    p.classList.toggle("show");
+    this.textContent = p.classList.contains("show") ? "Persingkat" : "Selengkapnya";
+   });
+ }); 
+</script>

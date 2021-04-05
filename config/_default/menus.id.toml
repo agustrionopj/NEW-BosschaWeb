@@ -181,12 +181,12 @@
   url = "/layanan/"
   weight = 50
 
-[[main]]
-  name = "Materi Edukasi Astronomi"
-  parent = "layanan"
-  identifier = "edukasi astro"
-  url = "/layanan/belajarastro/"
-  weight = 51
+# [[main]]
+#   name = "Materi Edukasi Astronomi"
+#   parent = "layanan"
+#   identifier = "edukasi astro"
+#   url = "/layanan/belajarastro/"
+#   weight = 51
 
 # [[main]]
 #   name = "Belajar Astronomi Yuk"
@@ -200,11 +200,11 @@
 #   url = "/layanan/material/"
 #   weight = 42
 
-[[main]]
-  name = "Prakarsa Langit Gelap"
-  parent = "layanan"
-  url = "/layanan/prakarsalangitgelap/"
-  weight = 52
+# [[main]]
+#   name = "Prakarsa Langit Gelap"
+#   parent = "layanan"
+#   url = "/layanan/prakarsalangitgelap/"
+#   weight = 52
 
 # [[main]]
 #   name = "Perpustakaan"
@@ -231,11 +231,11 @@
 #   url = "tautan/"
 #   weight = 48
 
-[[main]]
-  name = "Tim Pendidikan & Penjangkauan Publik"
-  parent = "layanan"
-  url = "#"
-  weight = 59
+# [[main]]
+#   name = "Tim Pendidikan & Penjangkauan Publik"
+#   parent = "layanan"
+#   url = "#"
+#   weight = 59
 # ------------------------------------------------------------------------------------
 # Cuaca
 # ------------------------------------------------------------------------------------

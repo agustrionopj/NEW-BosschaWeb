@@ -89,13 +89,13 @@ menu:
 
 <div class="row">
   <div class="column">
-    <b>Edisi 01: April - Juni 2021</b>
+    <center><b>Edisi 01: April - Juni 2021</b></center>
   </div>
   <div class="column">
-    <b>Edisi 02: TBD</b>
+    <center><b>Edisi 02: TBD</b></center>
   </div>
   <div class="column">
-    <b>Edisi 03: TBD</b>
+    <center><b>Edisi 03: TBD</b></center>
   </div>
 </div>
 
@@ -103,7 +103,8 @@ menu:
   <div class="column">
     <img src="/img/cover-01.png"></img>
     <p style="font-size: .8em" class="showmore">
-    Unduh
+    Resolusi Tinggi (56 MB) {{% staticref "files/newsletter/NEBULA_E01.pdf" "newtab" %}}<button>Unduh</button>{{% /staticref %}} <br>
+    Resolusi Rendah (14MB) {{% staticref "files/newsletter/NEBULA_E01_low.pdf" "newtab" %}}<button>Unduh</button>{{% /staticref %}} 
     </p>
   </div>
   <div class="column">
