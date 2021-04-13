@@ -3,11 +3,11 @@
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 2  # Order that this section will appear.
+weight = 1  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = 2750
+interval = 2500
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
@@ -28,6 +28,33 @@ height = "400px"
 #  cta_url = "https://bosscha.itb.ac.id/gmc2019/"
 #  cta_icon_pack = "far"
 #  cta_icon = "circle"
+# [[item]]
+#  title = "**PVLM 2021 Ep. 1:** <br>  Kabar Terkini Astronomi"
+#  content = ""
+# align = "center"
+
+#  overlay_color = "#555"  # An HTML color value.
+#  overlay_img = "pvlm-polos.jpeg"  # Image path relative to your `static/img/` folder.
+#  overlay_filter = 0.6  # Darken the image. Value in range 0-1.
+
+#  cta_label = "Detail"
+# cta_url = "/id/layanan/pvlm/"
+#  cta_icon_pack = "fas"
+#  cta_icon = "sticky-note"
+
+[[item]]
+  title = "**Tayangan Langsung** <br> Pengamatan Hilal Ramadhan 1442 H <br> Observatorium Bosscha"
+  content = ""
+  align = "center"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "tv-polos.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.6  # Darken the image. Value in range 0-1.
+
+  cta_label = "Saksikan di sini"
+  cta_url = "https://www.youtube.com/watch?v=Ri40fCrjuBA"
+  cta_icon_pack = "fas"
+  cta_icon = "tv"
 
 [[item]]
   title = "**Selamat Datang**"
@@ -77,48 +104,47 @@ height = "400px"
   # cta_icon_pack = "fas"
   # cta_icon = "graduation-cap"
 
+#[[item]]
+#  title = "**Penelitian**"
+#  content = "Observasi, Pengembangan Instrumen & Sistem,  Publikasi"
+#  align = "center"
 
-[[item]]
-  title = "**Penelitian**"
-  content = "Observasi, Pengembangan Instrumen & Sistem,  Publikasi"
-  align = "center"
+#  overlay_color = "#555"  # An HTML color value.
+#  overlay_img = "headers/research.jpg"  # Image path relative to your `static/img/` folder.
+#  overlay_filter = 0.6  # Darken the image. Value in range 0-1.
 
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "headers/research.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.6  # Darken the image. Value in range 0-1.
+#  cta_label = "Detail"
+#  cta_url = "/id/penelitian/"
+#  cta_icon_pack = "fas"
+#  cta_icon = "user-astronaut"
 
-  cta_label = "Detail"
-  cta_url = "/id/penelitian/"
-  cta_icon_pack = "fas"
-  cta_icon = "user-astronaut"
+#[[item]]
+#  title = "**Pendidikan**"
+#  content = "Praktikum, Kerja Praktik, Kerjasama Non-Astronomi"
+#  align = "left"
 
-[[item]]
-  title = "**Pendidikan**"
-  content = "Praktikum, Kerja Praktik, Kerjasama Non-Astronomi"
-  align = "left"
+#  overlay_color = "#333"  # An HTML color value.
+#  overlay_img = "headers/akademik.jpg"  # Image path relative to your `static/img/` folder.
+#  overlay_filter = 0.6  # Darken the image. Value in range 0-1.
 
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = "headers/akademik.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.6  # Darken the image. Value in range 0-1.
+#  cta_label = "Detail"
+#  cta_url = "/id/akademik/"
+#  cta_icon_pack = "fas"
+#  cta_icon = "book-open"
 
-  cta_label = "Detail"
-  cta_url = "/id/akademik/"
-  cta_icon_pack = "fas"
-  cta_icon = "book-open"
+#[[item]]
+#  title = "**Layanan**"
+#  content = "Kunjungan Publik & Khusus, Pelatihan, Pengamatan Hilal"
+#  align = "right"
 
-[[item]]
-  title = "**Layanan**"
-  content = "Kunjungan Publik & Khusus, Pelatihan, Pengamatan Hilal"
-  align = "right"
+#  overlay_color = "#333"  # An HTML color value.
+#  overlay_img = "headers/kunjungan.jpg"  # Image path relative to your `static/img/` folder.
+#  overlay_filter = 0.6  # Darken the image. Value in range 0-1.
 
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = "headers/kunjungan.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.6  # Darken the image. Value in range 0-1.
-
-  cta_label = "Detail"
-  cta_url = "#"
-  cta_icon_pack = "fas"
-  cta_icon = "users"
+#  cta_label = "Detail"
+#  cta_url = "#"
+#  cta_icon_pack = "fas"
+#  cta_icon = "users"
 
 #[[item]]
 #  title = "Left"

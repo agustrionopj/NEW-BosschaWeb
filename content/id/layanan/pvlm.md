@@ -93,7 +93,8 @@ Selamat datang di halaman Pengamatan Virtual Langit Malam 2021. Mari bergabung b
 > **9 April 2021** <br>
 **Episode 1 - Kabar Terkini Astronomi** <br>
 **Narasumber: Premana W. Premadi, Muhammad Yusuf** <br><br>
-Astronomi sebagai cabang sains murni mendapat banyak bantuan dari teknologi dalam usaha memahami alam semesta. Meskipun begitu, tidak jarang lompatan teknologi terjadi karena dipicu oleh kebutuhan astronomi. Dua tahun belakangan ini kita melihat ada banyak peristiwa menarik terkait penemuan, peristiwa astronomi, dan usaha eksplorasi astronomi. Mengawali musim baru PVLM, pada episode perdana ini penonton akan diajak melihat capaian astronomi di tahun 2020 dan 2021. Kita kembali menengok apa yang terjadi dengan meredupnya bintang Betelgeuse, arti hadiah Nobel Fisika 2020 bagi Astrofisika, penemuan magnetar, babak baru eksplorasi Planet Mars, dan foto terbaru lubang hitam M87. Narasumber akan mengajak penonton menguak sains dan teknologi apa saja yang terlibat serta rencana dan harapan apa yang ada di depan termasuk peluangnya bagi astronomi Indonesia.
+Astronomi sebagai cabang sains murni mendapat banyak bantuan dari teknologi dalam usaha memahami alam semesta. Meskipun begitu, tidak jarang lompatan teknologi terjadi karena dipicu oleh kebutuhan astronomi. Dua tahun belakangan ini kita melihat ada banyak peristiwa menarik terkait penemuan, peristiwa astronomi, dan usaha eksplorasi astronomi. Mengawali musim baru PVLM, pada episode perdana ini penonton akan diajak melihat capaian astronomi di tahun 2020 dan 2021. Kita kembali menengok apa yang terjadi dengan meredupnya bintang Betelgeuse, arti hadiah Nobel Fisika 2020 bagi Astrofisika, penemuan magnetar, babak baru eksplorasi Planet Mars, dan foto terbaru lubang hitam M87. Narasumber akan mengajak penonton menguak sains dan teknologi apa saja yang terlibat serta rencana dan harapan apa yang ada di depan termasuk peluangnya bagi astronomi Indonesia.<br>
+<img src="/img/cover-pvlm.jpeg"></img>
 
 Pendaftaran dimulai pada <font color="red">Kamis, 8 April 2021, 17:00 WIB </font> 
 
@@ -123,7 +124,7 @@ Pilih **_Watch this video on YouTube_** jika ada pesan kesalahan dalam memutar v
 
 <div class="row">
   <div class="column">
-    {{<youtube >}}
+    {{<youtube F-jHmZRkxfU>}}
     <p style="font-size: .8em" class="showmore">
     Astronomi sebagai cabang sains murni mendapat banyak bantuan dari teknologi dalam usaha memahami alam semesta. Meskipun begitu, tidak jarang lompatan teknologi terjadi karena dipicu oleh kebutuhan astronomi. <span class="dots">$\ldots$</span><span class="more"> Dua tahun belakangan ini kita melihat ada banyak peristiwa menarik terkait penemuan, peristiwa astronomi, dan usaha eksplorasi astronomi.  Mengawali musim baru PVLM, pada episode perdana ini penonton akan diajak melihat capaian astronomi di tahun 2020 dan 2021. Kita kembali menengok apa yang terjadi dengan meredupnya bintang Betelgeuse, arti hadiah Nobel Fisika 2020 bagi Astrofisika, penemuan magnetar, babak baru eksplorasi Planet Mars, dan foto terbaru lubang hitam M87. Narasumber akan mengajak penonton menguak sains dan teknologi apa saja yang terlibat serta rencana dan harapan apa yang ada di depan termasuk peluangnya bagi astronomi Indonesia. </span>
       <button>Selengkapnya</button>
