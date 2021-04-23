@@ -29,7 +29,7 @@ weight: 3
 
 Observatorium Bosscha mengadakan serangkaian webinar, gelar wicara (<i>talk show</i>) dan <i>workshop</i> pendidikan terkait astronomi dan topik-topik hangat yang berelasi. Menampilkan pakar-pakar astronomi dan keilmuan yang relevan, program ini dapat diikuti oleh masyarakat umum dan komunitas pecinta astronomi secara gratis. Program bertajuk Temu Virtual ini akan diadakan dua bulan sekali melalui media temu daring Zoom meeting atau Slido dan disiarkan langsung melalui YouTube.
 
-> **10 April 2021** <br>
+<!-- > **10 April 2021** <br>
 **Temu Virtual 1 - Webinar dan Media Briefing Pengamatan Hilal Ramadhan 1442 H** <br>
 **Narasumber: 	Hendro Setyanto, Muhammad Yusuf, Premana W. Premadi** <br><br>
 Salah satu topik astronomi yang relevan dengan masyarakat adalah kenampakan bulan sabit dan kaitannya dengan penentuan awal bulan pada penanggalan Hijriah. Observatorium Bosscha akan mengadakan webinar bertajuk Pengamatan Hilal dan <i>media conference</i> terkait pengamatan hilal Ramadhan 1442 H. Acara ini dilakukan melalui Zoom <i>meeting</i> dan dapat diikuti oleh masyarakat umum dan wartawan secara gratis.
@@ -42,7 +42,7 @@ Silakan saksikan juga <i>live streaming</i> acara ini pada kanal YouTube Observa
 
 <a href="https://www.youtube.com/watch?v=Q22TBPiTgXk" target="_blank"><button class="tombol"><i>Live Streaming </i> Temu Virtual</button></a>
 
-<img src="/img/TV01_poster.jpg" width=500></img>
+<img src="/img/TV01_poster.jpg" width=500></img> -->
 
 ### Arsip Temu Virtual
 

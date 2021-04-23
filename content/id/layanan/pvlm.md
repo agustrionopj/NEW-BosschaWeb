@@ -90,7 +90,7 @@ weight: 2
 
 Selamat datang di halaman Pengamatan Virtual Langit Malam 2021. Mari bergabung bersama kami dalam menjelajahi langit malam, mengamati objek-objek langit melalui salah satu teleskop di Observatorium Bosscha dan mengupas topik-topik astronomi menarik. Episode-episode yang akan datang akan diumumkan di sini dan di media sosial sebelum kegiatan tersebut dilaksanakan. Anda juga dapat menonton kembali episode yang telah dilaksanakan pada kanal YouTube kami. Terima kasih telah menonton! Salam langit gelap, salam langit untuk semua.
 
-> **9 April 2021** <br>
+<!-- > **9 April 2021** <br>
 **Episode 1 - Kabar Terkini Astronomi** <br>
 **Narasumber: Premana W. Premadi, Muhammad Yusuf** <br><br>
 Astronomi sebagai cabang sains murni mendapat banyak bantuan dari teknologi dalam usaha memahami alam semesta. Meskipun begitu, tidak jarang lompatan teknologi terjadi karena dipicu oleh kebutuhan astronomi. Dua tahun belakangan ini kita melihat ada banyak peristiwa menarik terkait penemuan, peristiwa astronomi, dan usaha eksplorasi astronomi. Mengawali musim baru PVLM, pada episode perdana ini penonton akan diajak melihat capaian astronomi di tahun 2020 dan 2021. Kita kembali menengok apa yang terjadi dengan meredupnya bintang Betelgeuse, arti hadiah Nobel Fisika 2020 bagi Astrofisika, penemuan magnetar, babak baru eksplorasi Planet Mars, dan foto terbaru lubang hitam M87. Narasumber akan mengajak penonton menguak sains dan teknologi apa saja yang terlibat serta rencana dan harapan apa yang ada di depan termasuk peluangnya bagi astronomi Indonesia.<br>
@@ -98,7 +98,7 @@ Astronomi sebagai cabang sains murni mendapat banyak bantuan dari teknologi dala
 
 Pendaftaran dimulai pada <font color="red">Kamis, 8 April 2021, 17:00 WIB </font>
 
-<a href="https://bit.ly/pvlm2021" target="_blank"><button class="tombol">Daftar di sini</button></a>
+<a href="https://bit.ly/pvlm2021" target="_blank"><button class="tombol">Daftar di sini</button></a> -->
 
 Bagaimana menyaksikan PVLM 2021?
 - Dengan mendaftar Anda akan mendapatkan pemberitahuan melalui email berisikan informasi tautan kegiatan.
@@ -160,12 +160,12 @@ Pilih **_Watch this video on YouTube_** jika ada pesan kesalahan dalam memutar v
 
 ### Materi PVLM 2021
 
-  | | |
------- | ----- | ----- | ------
-**Episode** | **Pembicara** | **Judul** |
-01 |  Premana W. Premadi, Ph.D| *Kabar Terkini Astronomi*| {{% staticref "files/PVLM-01-Premadi.pdf" "newtab" %}} Unduh {{% /staticref %}}
-02 |  | |
-03 |  | |
+  | | | |
+------ | ----- | ----- | ------ | -------
+ **Episode** | **Pembicara** | **Judul** | | **Daftar Pertanyaan**
+ 01 |  Premana W. Premadi, Ph.D| *Kabar Terkini Astronomi*| {{% staticref "files/PVLM-01-Premadi.pdf" "newtab" %}} Unduh {{% /staticref %}} | [Lihat]({{< ref "/layanan/qna-01.md" >}}) 
+02 |  | | |
+03 |  | | |
 
 ### [Arsip PVLM 2020]({{< ref "/layanan/pvlm-2020.md">}})
 
