@@ -170,7 +170,7 @@
   name = "Galeri"
   parent = "media"
   # url = "/gallery-test3/"
-  url = "/gallery-test2/"
+  url = "/gallery/"
   weight = 45
 # --------------------------------------------------------------
 # ASTRO UNTUK PUBLIK

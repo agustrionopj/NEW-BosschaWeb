@@ -42,19 +42,19 @@ height = "400px"
 #  cta_icon_pack = "fas"
 #  cta_icon = "sticky-note"
 
-[[item]]
-  title = "**Tayangan Langsung** <br> Pengamatan Hilal Ramadhan 1442 H <br> Observatorium Bosscha"
-  content = ""
-  align = "center"
+#[[item]]
+#  title = "**Tayangan Langsung** <br> Pengamatan Hilal Ramadhan 1442 H <br> Observatorium Bosscha"
+#  content = ""
+#  align = "center"
 
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "tv-polos.jpeg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.6  # Darken the image. Value in range 0-1.
+#  overlay_color = "#555"  # An HTML color value.
+#  overlay_img = "tv-polos.jpeg"  # Image path relative to your `static/img/` folder.
+#  overlay_filter = 0.6  # Darken the image. Value in range 0-1.
 
-  cta_label = "Saksikan di sini"
-  cta_url = "https://www.youtube.com/watch?v=Ri40fCrjuBA"
-  cta_icon_pack = "fas"
-  cta_icon = "tv"
+#  cta_label = "Saksikan di sini"
+#  cta_url = "https://www.youtube.com/watch?v=Ri40fCrjuBA"
+#  cta_icon_pack = "fas"
+#  cta_icon = "tv"
 
 [[item]]
   title = "**Selamat Datang**"
@@ -70,7 +70,7 @@ height = "400px"
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  
+
   cta_label = "Tentang Kami"
   cta_url = "#about"
   cta_icon_pack = "fas"
@@ -94,7 +94,7 @@ height = "400px"
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  
+
   cta_label = "Detail"
   cta_url = "/id/layanan/astrocal"
   cta_icon_pack = "fas"

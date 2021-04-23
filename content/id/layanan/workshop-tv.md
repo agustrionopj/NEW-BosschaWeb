@@ -27,14 +27,14 @@ weight: 3
 }
 </style>
 
-Observatorium Bosscha mengadakan serangkaian webinar, gelar wicara (<i>talk show</i>) dan <i>workshop</i> pendidikan terkait astronomi dan topik-topik hangat yang berelasi. Menampilkan pakar-pakar astronomi dan keilmuan yang relevan, program ini dapat diikuti oleh masyarakat umum dan komunitas pecinta astronomi secara gratis. Program bertajuk Temu Virtual ini akan diadakan dua bulan sekali melalui media temu daring Zoom meeting atau Slido dan disiarkan langsung melalui YouTube. 
+Observatorium Bosscha mengadakan serangkaian webinar, gelar wicara (<i>talk show</i>) dan <i>workshop</i> pendidikan terkait astronomi dan topik-topik hangat yang berelasi. Menampilkan pakar-pakar astronomi dan keilmuan yang relevan, program ini dapat diikuti oleh masyarakat umum dan komunitas pecinta astronomi secara gratis. Program bertajuk Temu Virtual ini akan diadakan dua bulan sekali melalui media temu daring Zoom meeting atau Slido dan disiarkan langsung melalui YouTube.
 
 > **10 April 2021** <br>
 **Temu Virtual 1 - Webinar dan Media Briefing Pengamatan Hilal Ramadhan 1442 H** <br>
 **Narasumber: 	Hendro Setyanto, Muhammad Yusuf, Premana W. Premadi** <br><br>
-Salah satu topik astronomi yang relevan dengan masyarakat adalah kenampakan bulan sabit dan kaitannya dengan penentuan awal bulan pada penanggalan Hijriah. Observatorium Bosscha akan mengadakan webinar bertajuk Pengamatan Hilal dan <i>media conference</i> terkait pengamatan hilal Ramadhan 1442 H. Acara ini dilakukan melalui Zoom <i>meeting</i> dan dapat diikuti oleh masyarakat umum dan wartawan secara gratis. 
+Salah satu topik astronomi yang relevan dengan masyarakat adalah kenampakan bulan sabit dan kaitannya dengan penentuan awal bulan pada penanggalan Hijriah. Observatorium Bosscha akan mengadakan webinar bertajuk Pengamatan Hilal dan <i>media conference</i> terkait pengamatan hilal Ramadhan 1442 H. Acara ini dilakukan melalui Zoom <i>meeting</i> dan dapat diikuti oleh masyarakat umum dan wartawan secara gratis.
 
-Tertarik untuk ikut? 
+Tertarik untuk ikut?
 
 <a href="https://bit.ly/WebinarHilal" target="_blank"><button class="tombol">Daftar di sini</button></a>
 
@@ -136,7 +136,7 @@ Silakan saksikan juga <i>live streaming</i> acara ini pada kanal YouTube Observa
   <div class="column">
     {{<youtube Q22TBPiTgXk>}}
     <p style="font-size: .8em" class="showmore">
-    Salah satu topik astronomi yang relevan dengan masyarakat adalah kenampakan bulan sabit dan kaitannya dengan penentuan awal bulan pada penanggalan Hijriah. Observatorium Bosscha akan mengadakan webinar bertajuk Pengamatan Hilal dan <i>media conference</i> terkait pengamatan hilal Ramadhan 1442 H. <span class="dots">$\ldots$</span><span class="more"> Acara ini dilakukan melalui Zoom <i>meeting</i> dan dapat diikuti oleh masyarakat umum dan wartawan secara gratis.</span> 
+    Salah satu topik astronomi yang relevan dengan masyarakat adalah kenampakan bulan sabit dan kaitannya dengan penentuan awal bulan pada penanggalan Hijriah. Observatorium Bosscha akan mengadakan webinar bertajuk Pengamatan Hilal dan <i>media conference</i> terkait pengamatan hilal Ramadhan 1442 H. <span class="dots">$\ldots$</span><span class="more"> Acara ini dilakukan melalui Zoom <i>meeting</i> dan dapat diikuti oleh masyarakat umum dan wartawan secara gratis.</span>
      <button>Selengkapnya</button>
     </p>
   </div>
@@ -158,11 +158,19 @@ Silakan saksikan juga <i>live streaming</i> acara ini pada kanal YouTube Observa
   </div>
 </div>
 
-<script> 
+### Materi Temu Virtual
+
+  | | |
+------ | ----- | ----- | ------
+**Episode** | **Pembicara** | **Judul** |
+01 | Hendro Setyanto, M.Si <br><br>  Muhammad Yusuf, S.Si| *Hisab-Rukyat dalam Penetapan Awal Bulan Hijriyyah*<br><br>*Pengembangan Metode Pengamatan Hilal*  | {{% staticref "files/Hendro Setyanto - Awal Bulan.pdf" "newtab" %}} Unduh {{% /staticref %}}<br><br>{{% staticref "files/Pengembangan Metode Pengamatan Hilal.pdf" "newtab" %}} Unduh {{% /staticref %}}
+
+
+<script>
   document.querySelectorAll(".showmore").forEach(function (p) {
    p.querySelector("button").addEventListener("click", function () {
     p.classList.toggle("show");
     this.textContent = p.classList.contains("show") ? "Persingkat" : "Selengkapnya";
    });
- }); 
+ });
 </script>
