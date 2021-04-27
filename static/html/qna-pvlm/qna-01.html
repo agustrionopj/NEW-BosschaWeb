@@ -1,77 +1,105 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <title>Bootstrap Example</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+        <title>Bootstrap Example</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </head>
+
 <body>
 
-<div class="container">
-  <h2>Large Modal</h2>
-  <!-- Button to Open the Modal -->
-  <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">
-    Open modal
-  </button>
-<br><br>
-  <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal2">
-    Open modal 2
-  </button>
+        <div class="container">
 
-  <!-- The Modal -->
-  <div class="modal fade" id="myModal">
-    <div class="modal-dialog modal-lg">
-      <div class="modal-content">
+                <!-- Button to Open the Modal -->
+                <!-- <a data-toggle="modal" href="#qnaModal">Apakah bintang itu?</a> -->
+                <!-- <br><br> -->
+                <li>
+                        <a data-toggle="modal" data-target="#qnaModal" data-id="1" href="#">Apakah cahaya bintang yang
+                                kita
+                                lihat di
+                                langit malam
+                                berasal dari
+                                jutaan tahun yang lalu?</a>
+                </li>
+                <li>
+                        <a data-toggle="modal" data-target="#qnaModal" data-id="2" href="#">Apakah <i>black hole</i>
+                                dapat
+                                lenyap? </a>
+                </li>
 
-        <!-- Modal Header -->
-        <div class="modal-header">
-          <h4 class="modal-title">Modal Heading</h4>
-          <button type="button" class="close" data-dismiss="modal">&times;</button>
+
+                <!-- The Modal -->
+                <div class="modal fade" id="qnaModal">
+                        <div class="modal-dialog modal-dialog-lg">
+                                <div class="modal-content">
+
+                                        <!-- Modal Header -->
+                                        <div class="modal-header">
+                                                <h5 class="modal-title" id="modalTitle">Apakah cahaya bintang yang kita
+                                                        lihat di langit malam berasal dari
+                                                        jutaan tahun yang
+                                                        lalu?</h5>
+                                                <button type="button" class="close"
+                                                        data-dismiss="modal">&times;</button>
+                                        </div>
+
+                                        <!-- Modal body -->
+                                        <div class="modal-body" id="modalBody">
+                                                <p>
+                                                        Bintang yang kita lihat di langit merupakan bintang dalam
+                                                        kondisi lampau
+                                                        karena cahaya dari bintang perlu
+                                                        waktu untuk sampai ke Bumi. Sebagai informasi, bintang terdekat
+                                                        dari
+                                                        Matahari, yaitu Proxima Centauri perlu
+                                                        waktu 4,2 tahun supaya cahayanya sampai ke Bumi.
+                                                </p>
+                                        </div>
+
+                                        <!-- Modal footer -->
+                                        <div class="modal-footer">
+                                                <button type="button" class="btn btn-danger"
+                                                        data-dismiss="modal">Tutup</button>
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+
         </div>
 
-        <!-- Modal body -->
-        <div class="modal-body">
-          Modal body..
-        </div>
+        <script>
+                // -------------------------------------------------------------
+                // Script untuk menampilkan modal dinamis
+                // -------------------------------------------------------------
+                $("#qnaModal").on("show.bs.modal", function (event) {
+                        // link that triggered modal
+                        var list = $(event.relatedTarget)
 
-        <!-- Modal footer -->
-        <div class="modal-footer">
-          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        </div>
+                        // extract info from data
+                        var qNumber = list.data("id")
 
-      </div>
-    </div>
-  </div>
+                        // Updating the modal content using 
+                        // jQuery query selectors
+                        var modal = $(this)
 
-  <div class="modal fade" id="myModal2">
-    <div class="modal-dialog modal-lg">
-      <div class="modal-content">
+                        modal.find('.modal-title')
+                                .text('Q: Ini adalah pertanyaan nomer ' + qNumber)
 
-        <!-- Modal Header -->
-        <div class="modal-header">
-          <h4 class="modal-title">Modal Heading 2</h4>
-          <button type="button" class="close" data-dismiss="modal">&times;</button>
-        </div>
-
-        <!-- Modal body -->
-        <div class="modal-body">
-          Modal body..2
-        </div>
-
-        <!-- Modal footer -->
-        <div class="modal-footer">
-          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        </div>
-
-      </div>
-    </div>
-  </div>
-
-</div>
+                        modal.find('.modal-body p')
+                                .text('A: Ini merupakan jawaban pertanyaan nomer ' + qNumber)
+                })
+		// $(document).ready(function () {
+		//   $("#question").click(function () {
+		//     $("#qnaModal").modal();
+		//   });
+		// });
+        </script>
 
 </body>
+
 </html>

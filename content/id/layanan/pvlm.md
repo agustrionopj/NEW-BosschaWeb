@@ -6,10 +6,10 @@ draft: false
 toc: true
 type: docs
 menu:
-  program-daring:
-    parent: Program dan Layanan Daring
-    name: PVLM 2021
-    weight: 2
+        program-daring:
+                parent: Program dan Layanan Daring
+                name: PVLM 2021
+                weight: 2
 
 weight: 2
 ---
@@ -128,21 +128,10 @@ Pilih **_Watch this video on YouTube_** jika ada pesan kesalahan dalam memutar v
     <p style="font-size: .8em" class="showmore">
     Astronomi sebagai cabang sains murni mendapat banyak bantuan dari teknologi dalam usaha memahami alam semesta. Meskipun begitu, tidak jarang lompatan teknologi terjadi karena dipicu oleh kebutuhan astronomi. <span class="dots">$\ldots$</span><span class="more"> Dua tahun belakangan ini kita melihat ada banyak peristiwa menarik terkait penemuan, peristiwa astronomi, dan usaha eksplorasi astronomi.  Mengawali musim baru PVLM, pada episode perdana ini penonton akan diajak melihat capaian astronomi di tahun 2020 dan 2021. Kita kembali menengok apa yang terjadi dengan meredupnya bintang Betelgeuse, arti hadiah Nobel Fisika 2020 bagi Astrofisika, penemuan magnetar, babak baru eksplorasi Planet Mars, dan foto terbaru lubang hitam M87. Narasumber akan mengajak penonton menguak sains dan teknologi apa saja yang terlibat serta rencana dan harapan apa yang ada di depan termasuk peluangnya bagi astronomi Indonesia. </span>
       <button>Selengkapnya</button>
-    <!-- Manusia telah mengamati langit malam sejak zaman dahulu kala. Keteraturan gerak benda-benda langit menginspirasi manusia dari berbagai sudut pandang, antara lain kebudayaan, kepercayaan, mata pencaharian, dan bahkan aktivitas sehari-hari. Mulai dari Bulan, Matahari, dan planet-planet dalam Tata Surya, hingga rasi-rasi bintang yang bergantian menghiasi langit malam. <span class="dots">$\ldots$</span><span class="more">Kita mengenali berbagai rasi bintang yang masih terus kita manfaatkan kemunculannya dan nikmati keindahannya. Rasi-rasi bintang diberi nama dan label mengikuti perpaduan antara kearifan berbagai peradaban kuno dengan aturan baru yang lebih sistematis yang disepakati oleh komunitas astronom dunia. Dalam skala jarak, rasi-rasi bintang tersebar dalam ruang kecil yang di seputar Tata Surya; relatif kecil dibandingkan dengan ukuran Galaksi Bima Sakti. Astronomi modern memanfaatkan rasi-rasi bintang itu sebagai petunjuk arah, sehingga tak jarang penamaan benda langit yang jauh mengikuti nama rasi bintang yang menjadi pengarah ke benda tersebut.  </span>
-      <button>Selengkapnya</button> -->
-    </p>
   </div>
   <div class="column">
-     <!-- {{<youtube iQ7-aChXn7g >}}
-    <p style="font-size: .8em" class="showmore">Pada pertemuan ini pemirsa diajak untuk mendengar cerita tentang siklus hidup bintang, seperti apa daerah pembentuk bintang pada umumnya? <span class="dots">$\ldots$</span><span class="more">Tersusun atas apa? Bagaimana bintang lahir di nebula ini? Bagaimana proses kematian serta peran bintang dalam memperkaya unsur kimia di alam semesta? </span>
-      <button>Selengkapnya</button>
-    </p> -->
   </div>
   <div class="column">
-    <!-- {{<youtube 6i4EKFyrMQ0>}}
-    <p style="font-size: .8em" class="showmore"> Seperti manusia, masing-masing dari miliaran galaksi di alam semesta mengembangkan sifat uniknya sendiri selama masa hidup yang rumit. <span class="dots">$\ldots$</span><span class="more">Apa saja bentuk dan komponen galaksi, bagaimana galaksi terbentuk dan apa yang dapat galaksi ceritakan tentang alam semesta kita? </span>
-      <button>Selengkapnya</button>
-    </p> -->
   </div>
 </div>
 
@@ -151,10 +140,8 @@ Pilih **_Watch this video on YouTube_** jika ada pesan kesalahan dalam memutar v
     <p style="font-size: .8em">Narasumber: <br> 1. Premana W. Premadi, Ph.D. <br>  2. Muhammad Yusuf, S.Si.</p>
   </div>
   <div class="column">
-    <!-- <p style="font-size: .8em">Narasumber: <br> 1. Dr. Kiki Vierdayanti <br>  2. Muhammad Yusuf, S.Si.</p> -->
   </div>
   <div class="column">
-    <!-- <p style="font-size: .8em">Narasumber: <br> 1. Premana W. Premadi, Ph.D. <br>  2. Muhammad Yusuf, S.Si.</p> -->
   </div>
 </div>
 
