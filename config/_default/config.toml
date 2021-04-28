@@ -137,3 +137,5 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 #   name = "Galeri"
 #   parent = "Media"
 #   weight = -5
+
+debug = 100000

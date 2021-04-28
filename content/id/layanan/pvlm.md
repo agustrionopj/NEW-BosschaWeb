@@ -150,7 +150,7 @@ Pilih **_Watch this video on YouTube_** jika ada pesan kesalahan dalam memutar v
   | | | |
 ------ | ----- | ----- | ------ | -------
  **Episode** | **Pembicara** | **Judul** | | **Daftar Pertanyaan**
- 01 |  Premana W. Premadi, Ph.D| *Kabar Terkini Astronomi*| {{% staticref "files/PVLM-01-Premadi.pdf" "newtab" %}} Unduh {{% /staticref %}} | [Lihat]({{< ref "/layanan/qna-01.md" >}}) 
+ 01 |  Premana W. Premadi, Ph.D| *Kabar Terkini Astronomi*| {{% staticref "files/PVLM-01-Premadi.pdf" "newtab" %}} Unduh {{% /staticref %}} |  [Lihat]({{< ref "/layanan/qna-01.md" >}})
 02 |  | | |
 03 |  | | |
 

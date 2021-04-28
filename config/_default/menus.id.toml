@@ -194,11 +194,11 @@
 #   url = "/layanan/belajarastro/"
 #   weight = 41
 
-# [[main]]
-#   name = "Material dan Modul"
-#   parent = "edukasi astro"
-#   url = "/layanan/material/"
-#   weight = 42
+[[main]]
+  name = "Materi Edukasi Astronomi"
+  parent = "layanan"
+  url = "/layanan/material/"
+  weight = 51
 
 # [[main]]
 #   name = "Prakarsa Langit Gelap"

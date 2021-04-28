@@ -18,8 +18,9 @@
                 <!-- Button to Open the Modal -->
                 <!-- <a data-toggle="modal" href="#qnaModal">Apakah bintang itu?</a> -->
                 <!-- <br><br> -->
-                <li>
-                        <a data-toggle="modal" data-target="#qnaModal" data-id="1" href="#">Apakah cahaya bintang yang
+                <!-- <li>
+                        <a data-toggle="modal" data-target="#qnaModal" href="#" class="tautan">Apakah cahaya
+                                bintang yang
                                 kita
                                 lihat di
                                 langit malam
@@ -27,38 +28,36 @@
                                 jutaan tahun yang lalu?</a>
                 </li>
                 <li>
-                        <a data-toggle="modal" data-target="#qnaModal" data-id="2" href="#">Apakah <i>black hole</i>
+                        <a data-toggle="modal" data-target="#qnaModal" href="#" class="tautan">Apakah
+                                <i>black hole</i>
                                 dapat
                                 lenyap? </a>
                 </li>
-
+                <li>
+                        <a data-toggle="modal" data-target="#qnaModal" href="#" class="tautan">Bagaimana
+                                cara astronom memperkirakan waktu kapan suatu bintang akan mengalami supernova? </a>
+                </li> -->
+                <ul id="qna">
+                        <li>
+                                <a data-toggle="modal" data-target="#qnaModal" href="#" class="tautan"></a>
+                        </li>
+                </ul>
 
                 <!-- The Modal -->
                 <div class="modal fade" id="qnaModal">
-                        <div class="modal-dialog modal-dialog-lg">
+                        <div class="modal-dialog modal-dialog-lg modal-dialog-centered">
                                 <div class="modal-content">
 
                                         <!-- Modal Header -->
                                         <div class="modal-header">
-                                                <h5 class="modal-title" id="modalTitle">Apakah cahaya bintang yang kita
-                                                        lihat di langit malam berasal dari
-                                                        jutaan tahun yang
-                                                        lalu?</h5>
+                                                <h5 class="modal-title" id="modalTitle"></h5>
                                                 <button type="button" class="close"
                                                         data-dismiss="modal">&times;</button>
                                         </div>
 
                                         <!-- Modal body -->
                                         <div class="modal-body" id="modalBody">
-                                                <p>
-                                                        Bintang yang kita lihat di langit merupakan bintang dalam
-                                                        kondisi lampau
-                                                        karena cahaya dari bintang perlu
-                                                        waktu untuk sampai ke Bumi. Sebagai informasi, bintang terdekat
-                                                        dari
-                                                        Matahari, yaitu Proxima Centauri perlu
-                                                        waktu 4,2 tahun supaya cahayanya sampai ke Bumi.
-                                                </p>
+                                                <p></p>
                                         </div>
 
                                         <!-- Modal footer -->
@@ -69,35 +68,66 @@
                                 </div>
                         </div>
                 </div>
-
         </div>
 
         <script>
-                // -------------------------------------------------------------
-                // Script untuk menampilkan modal dinamis
-                // -------------------------------------------------------------
-                $("#qnaModal").on("show.bs.modal", function (event) {
-                        // link that triggered modal
-                        var list = $(event.relatedTarget)
+                $(document).ready(function () {
+                        $.getJSON('qna-pvlm01.json', function (data) {
+                                // clickedIndex = $(this).closest("li").index();
+                                // console.log(clickedIndex);
+                                var output = '';
+                                $.each(data.qna, function (key, value) {
+                                        output += '<li><a data-toggle="modal" data-target="#qnaModal" href="#" class="tautan">' + value.question + '</a></li>';
+                                });
+                                $('#qna').html(output);
+                                var infoModal = $('#qnaModal');
+                                $('.tautan').on('click', function () {
+                                        clickedIndex = $(this).closest("li").index(); // mengetahui index list yang di-klik
+                                        // console.log(clickedIndex);
+                                        $.ajax({
+                                                type: "GET",
+                                                url: 'qna-pvlm01.json',
+                                                dataType: 'json',
+                                                success: function (data) {
+                                                        $(data.qna).each(function (index, value) {
+                                                                if (index == clickedIndex) {
+                                                                        htmlQuestion = value.question;
+                                                                        htmlAnswer = value.answer;
+                                                                        infoModal.find('.modal-title').html("Q: " + htmlQuestion);
+                                                                        infoModal.find('.modal-body').html(htmlAnswer);
+                                                                        infoModal.modal('show');
+                                                                };
+                                                        });
+                                                }
+                                        });
+                                });
+                        });
+                });
 
-                        // extract info from data
-                        var qNumber = list.data("id")
-
-                        // Updating the modal content using 
-                        // jQuery query selectors
-                        var modal = $(this)
-
-                        modal.find('.modal-title')
-                                .text('Q: Ini adalah pertanyaan nomer ' + qNumber)
-
-                        modal.find('.modal-body p')
-                                .text('A: Ini merupakan jawaban pertanyaan nomer ' + qNumber)
-                })
-		// $(document).ready(function () {
-		//   $("#question").click(function () {
-		//     $("#qnaModal").modal();
-		//   });
-		// });
+                // (function ($) {
+                //         var infoModal = $('#qnaModal');
+                //         $('.tautan').on('click', function () {
+                //                 clickedIndex = $(this).closest("li").index(); // mengetahui index list yang di-klik
+                //                 // console.log(clickedIndex);
+                //                 $.ajax({
+                //                         type: "GET",
+                //                         url: 'qna-pvlm01.json',
+                //                         dataType: 'json',
+                //                         success: function (data) {
+                //                                 $(data.qna).each(function (index, value) {
+                //                                         if (index == clickedIndex) {
+                //                                                 htmlQuestion = value.question;
+                //                                                 htmlAnswer = value.answer;
+                //                                                 infoModal.find('.modal-title').html("Q: " + htmlQuestion);
+                //                                                 infoModal.find('.modal-body').html(htmlAnswer);
+                //                                                 infoModal.modal('show');
+                //                                         };
+                //                                 });
+                //                         }
+                //                 });
+                //                 // return false;
+                //         });
+                // })(jQuery);
         </script>
 
 </body>
