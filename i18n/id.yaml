@@ -3,7 +3,7 @@
 - id: table_of_contents
   translation: Daftar isi
 - id: on_this_page
-  translation: On this page
+  translation: Di halaman ini
 - id: back_to_top
   translation: Back to top
 - id: related
@@ -75,7 +75,7 @@
 - id: publication_type
   translation: Jenis
 - id: date
-  translation: Tanggal
+  translation: Tahun
 - id: last_updated
   translation: Terakhir diperbaharui
 - id: event
@@ -111,9 +111,9 @@
 - id: projects
   translation: Proyek
 - id: search
-  translation: Search
+  translation: Cari
 - id: search_placeholder
-  translation: Search...
+  translation: Cari...
 - id: search_results
   translation: results found
 - id: search_no_results

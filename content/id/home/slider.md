@@ -28,19 +28,19 @@ height = "400px"
 #  cta_url = "https://bosscha.itb.ac.id/gmc2019/"
 #  cta_icon_pack = "far"
 #  cta_icon = "circle"
-# [[item]]
-#  title = "**PVLM 2021 Ep. 1:** <br>  Kabar Terkini Astronomi"
-#  content = ""
-# align = "center"
+[[item]]
+        title = "**PVLM 2021 Ep. 2:** <br>  Gerhana Bulan Total 26 Mei 2021"
+        content = ""
+        align = "center"
 
-#  overlay_color = "#555"  # An HTML color value.
-#  overlay_img = "pvlm-polos.jpeg"  # Image path relative to your `static/img/` folder.
-#  overlay_filter = 0.6  # Darken the image. Value in range 0-1.
+        overlay_color = "#555"  # An HTML color value.
+        overlay_img = "pvlm-polos-bw.png"  # Image path relative to your `static/img/` folder.
+        overlay_filter = 0.6  # Darken the image. Value in range 0-1.
 
-#  cta_label = "Detail"
-# cta_url = "/id/layanan/pvlm/"
-#  cta_icon_pack = "fas"
-#  cta_icon = "sticky-note"
+        cta_label = "Detail"
+        cta_url = "/id/layanan/pvlm/"
+        cta_icon_pack = "fas"
+        cta_icon = "sticky-note"
 
 #[[item]]
 #  title = "**Tayangan Langsung** <br> Pengamatan Hilal Ramadhan 1442 H <br> Observatorium Bosscha"

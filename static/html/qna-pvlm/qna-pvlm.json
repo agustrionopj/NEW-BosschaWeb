@@ -1,0 +1,422 @@
+[
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "question": "Apakah cahaya bintang yang kita lihat di langit malam berasal dari jutaan tahun yang lalu?",
+        "answer": "Bintang yang kita lihat di langit merupakan bintang dalam kondisi lampau karena cahaya dari bintang perlu waktu untuk sampai ke Bumi. Sebagai informasi, bintang terdekat dari Matahari, yaitu Proxima Centauri perlu waktu 4.2 tahun supaya cahayanya sampai ke Bumi.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Objek kompak",
+        "question": "Apakah black hole dapat lenyap? ",
+        "answer": "Salah satu fisikawan terkenal, Stephen Hawking, mengatakan bahwa black hole juga bisa 'menguap' dan menghilang (yang disebut sebagai radiasi Hawking). Detail mekanisme peristiwa ini bisa dibaca pada pekerjaan Hawking terkait radiasi Hawking.",
+        "Checker": "MF"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "question": "Bagaimana cara astronom memperkirakan waktu kapan suatu bintang akan mengalami supernova?",
+        "answer": "Sebenarnya tidak ada yang tahu kapan sebuah bintang akan mengalami supernova (baik supernova akibat evolusi bintang, maupun karena bintang ganda). Sebelum cahaya visual supernova sampai ke Bumi, sinar gamma-nya sampai lebih dulu ke Bumi sehingga bisa dijadikan sebagai 'pertanda' bahwa sebuah supernova sudah terjadi.",
+        "Checker": "MF"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Objek kompak",
+        "question": "Jika Bumi terkena gelombang gravitasi akibat supernova ataupun penggabungan bintang neutron, apakah akan berpengaruh pada instrumen pengamatan di Bumi?",
+        "answer": "Karena kejadian penggabungan tersebut terjadi pada jarak yang sangat jauh dari Bumi, maka 'riaknya' atau efeknya sangat kecil sekali terhadap instrumen di Bumi. Itulah sebabnya untuk mendeteksi ini diperlukan instrumen khusus yang sangat sensitif terhadap 'riak' dalam ruang ini.",
+        "Checker": "MF"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "question": "Bagaimana cara mengukur daya terang dan umur bintang?",
+        "answer": "Untuk mengukur intensitas cahaya, diperlukan sebuah kamera khusus dengan teknologi CCD/CMOS, sedangkan usia bintang biasanya diketahui dengan simulasi komputer, berdasarkan pengetahuan tentang komposisi kimia sebuah bintang.",
+        "Checker": "MF"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "question": "Apakah sebuah nebula memengaruhi rasi bintang?",
+        "answer": "Nebula merupakan bahan dasar pembentukan bintang, atau tempat lahirnya bintang-bintang. Rasi bintang sebenarnya hanya pola yang tampak di langit, yang bintang-bintangnya belum tentu berdekatan secara fisik. Jadi, bisa dikatakan tidak ada pengaruh langsung antara nebula dengan rasi bintang.",
+        "Checker": "MF"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "question": "Apakah ada bintang yang berwarna hijau?",
+        "answer": "Warna hijau hanya menempati tempat yang sempit sekali dalam spektrum sebuah bintang, jadi dominasinya bisa dikatakan kalah dengan warna merah, kuning, dan biru. Singkatnya, bintang warna hijau tidak ada karena kalah dominasi dari warna lain dari spektrum bintang tersebut.",
+        "Checker": "MF"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "question": "Apabila suatu bintang mengalami supernova, apakah dampaknya bagi Bumi?",
+        "answer": "Selama bintangnya masih berjarak sangat jauh dari kita, tidak akan ada dampak untuk kita yang ada di Bumi. Betelgeuse adalah salah satu bintang yang lebih dekat ke kita dibandingkan bintang-bintang lainnya; jika ia meledak pun, dampak bagi kita hanyalah kita melihat Betelgeuse (atau supernova-nya) menjadi sangat terang di langit, bahkan bisa terlihat di siang hari dan hampir seterang Bulan purnama, selama beberapa minggu. ",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Objek kompak",
+        "question": "Apakah black holes di pusat-pusat galaksi memiliki sejarah dan proses pembentukan yang sama dengan black holes pada tahap akhir evolusi sebuah bintang masif?",
+        "answer": "Salah satu mekanisme yang mungkin bisa menghasilkan supermassive black holes atau SMBH adalah penggabungan dari beberapa back holes pada akhir evolusi bintang masif di sebuah gugus bintang yang cukup rapat. Singkatnya, proses terbentuk mereka berbeda, namun black holes di pusat galaksi terbentuk dari black holes hasil evolusi bintang-bintang masif. ",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "question": "Apakah mungkin ketika bintang telah mati, cahayanya masih bisa dilihat mengingat jaraknya yang sangat jauh?",
+        "answer": "Sangat mungkin, karena pada akhirnya kita harus menunggu informasi itu sampai pada kita. Kecepatan cahaya terbatas sehingga membutuhkan waktu baginya untuk menyampaikan informasi kepada kita yang ada di Bumi. ",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "question": "Mengapa Matahari tidak dapat mengalami supernova? ",
+        "answer": "Matahari tidak memiliki massa yang cukup untuk meledak menjadi sebuah supernova. ",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Objek kompak",
+        "question": "Jika Matahari menjadi katai putih, apakah selamanya akan begitu atau akan mengalami perubahan lagi?",
+        "answer": "Jika sudah menjadi katai putih, Matahari perlahan-lahan akan mendingin dan meredup menjadi sebuah objek yang dinamakan katai hitam. Jika tidak ada peristiwa seperti penggabungan dengan objek lain atau \"dilahap\" oleh sebuah black hole, katai hitam ini tidak akan menjadi apa-apa lagi. ",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "question": "Apakah semua bintang akan mengalami supernova?",
+        "answer": "Tidak semua bintang mengalami supernova. Supernova dialami oleh bintang-bintang bermassa lebih dari 15 kali massa Matahari.",
+        "Checker": "THP"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "question": "Apakah bintang maharaksasa merah Betelgeuse merupakan bintang tunggal?",
+        "answer": "Sejauh ini Betelgeuse diketahui merupakan bintang tunggal. Betelgeuse saat ini merupakan bintang yang sudah berada di tahap evolusi lanjut (baca: sudah tua). Salah satu ciri khas bintang berevolusi lanjut adalah tubuhnya mengembang. Betelgeuse juga sedang berada dalam fase variabel sehingga tubuhnya menyusut dan mengembang secara berkala.",
+        "Checker": "THP"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Objek kompak",
+        "question": "Apa penyebab sebuah black hole dapat lahir dan berkembang?",
+        "answer": "Black hole terbentuk sebagai sisa ledakan bintang yang bermassa sangat besar. Black hole dapat \"berkembang\" karena menyerap materi di sekitarnya. Black hole juga bisa menggalami penggabungan dengan black hole lain membentuk black hole dengan massa yang lebih besar.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "question": "Bagaimana bintang dapat meledak akibat bahan yang membentuknya?",
+        "answer": "Tak ubahnya siklus air di Bumi, awan dan debu antarbintang juga mengalami daur atau siklus yang serupa. Bintang terbentuk dari awan dan debu. Karena bintang berevolusi, suatu saat bintang tersebut akan meledak memuntahkan material (awan dan debu) yang lebih kaya ke seluruh penjuru alam semesta. Materi yang lebih kaya ini menjadi unsur pembentuk bintang-bintang generasi berikutnya, begitu seterusnya sebagai sebuah siklus.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "question": "Bagaimana cara membedakan bintang tunggal dengan bintang ganda?",
+        "answer": "Secara kasat mata, bintang tunggal dan bintang ganda sulit untuk dibedakan. Astronom dapat mengetahui hal tersebut menggunakan alat bantu seperti teleskop atau menggunakan teknik spektroskopi.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Objek kompak",
+        "question": "Jika ada black hole di galaksi kita, apakah ada white hole juga?",
+        "answer": "Ide dari keberadaan white hole berasal dari solusi untuk persamaan medan Einstein, hal serupa (solusi persamaan medan Einstein) juga merupakan ide awal keberadaan black hole. Meski begitu, berbeda dengan black hole, keberadaan white hole hingga saat ini belum terkonfirmasi melalui pengamatan.",
+        "Checker": "MF"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "question": "Adakah bintang yang memancarkan cahaya berwarna selain merah atau oranye?",
+        "answer": "Warna dari bintang bergantung pada temperaturnya. Bintang yang sangat panas memancarkan cahaya berwarna biru, sedangkan bintang yang lebih dingin memancarkan cahaya berwarna merah. Sebagai contoh, Spica (temperatur sekitar 25.000 Kelvin) memancarkan cahaya berwarna biru, sedangkan Betelgeuse (temperatur sekitar 3.500 Kelvin) memancarkan cahaya berwarna merah.",
+        "Checker": "NAN"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "question": "Apa yang membuat nebula memiliki warna yang berbeda-beda?",
+        "answer": "Ada dua penyebab nebula memiliki warna yang berbeda-beda. Pertama adalah akibat unsur penyusunnya. Sebagai contoh, nebula yang tersusun oleh hidrogen akan terlihat kemerahan sementara nebula yang memiliki oksigen terionisasi dua kali akan berwarna kehijauan. Penyebab kedua adalah perbedaan jenis nebula. Nebula emisi, yakni nebula dengan gas yang terpanaskan oleh bintang di sekitarnya, mayoritas berwarna kemerahan. Nebula refleksi yang bersifat memantulkan cahaya bintang di sekelilingnya berwarna kebiruan. Nebula gelap berwarna kehitaman karena bersifat tidak tembus cahaya.",
+        "Checker": "THP"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "question": "Apa itu supernova?",
+        "answer": "Supernova adalah ledakan bintang akibat inti yang telah kehabisan bahan bakar fusi nuklir dan runtuh oleh gravitasinya sendiri. Massa minimum bintang untuk mengalami supernova tipe II adalah 8 hingga 15 kali massa Matahari. Sisa dari peristiwa ini adalah bintang neutron dan lubang hitam yang pembentukannya sangat bergantung massa awal bintang yang meledak tersebut.",
+        "Checker": "THP"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "question": "Bagaimana proses lahirnya bintang ganda?",
+        "answer": "Bintang lahir secara bersamaan dari sebuah awan gas yang disebut dengan nebula. Karena jumlah bintang yang lahir bersama sangat banyak, simulasi yang dilakukan oleh astronom menunjukkan bahwa seharusnya, sebagian besar bintang yang lahir adalah bintang ganda. Bintang ganda adalah sesuatu yang wajar, sebaliknya bintang tunggal adalah kasus yang tidak umum. ",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "question": "Jika ada bintang di dekat Bumi yang meledak, berapa lama waktu yang dibutuhkan untuk ledakannya sampai ke Bumi?",
+        "answer": "Ledakan sebuah bintang menghasilkan cahaya, partikel energi tinggi, maupun gelombang gravitasi. Cahaya tentunya akan sampai ke Bumi cukup lama setelah ledakan karena kecepatannya terbatas, namun lain halnya dengan gelombang gravitasi. Gelombang gravitasi dapat dideteksi di Bumi spontan setelah ledakan terjadi.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "question": "Apa yang terjadi pada Sirius A ketika Sirius B meledak?",
+        "answer": "Ledakan Sirius B dapat menghancurkan dan/atau melontarkan Sirius A keluar dari sistem bintang ganda tersebut. ",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "question": "Apakah kilonova itu?",
+        "answer": "Kilonova merupakan peristiwa yang terjadi ketika dua buah bintang neutron atau lubang hitam mengalami penggabungan (merger). Ketika terjadi, kilonova menghasilkan radiasi sinar gamma yang sangat kuat walaupun tidak secerlang supernova. Seperti supernova, kilonova juga akan menghancurkan lingkungan sekitarnya sejauh yang dapat dicapai oleh radiasinya.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "question": "Mengapa Antares, Betelgeuse, dan VY Canis Majoris dapat meledak?",
+        "answer": "Antares, Betelgeuse, dan VY Canis Majoris adalah bintang-bintang bermassa besar. Ketika sudah tidak dapat melakukan reaksi fusi lagi, selubung luar bintang akan runtuh dan jatuh ke inti. Karena selubung luar ini memiliki massa yang cukup besar dan terdiri atas berbagai macam unsur, proses terbakarnya unsur-unsur ini ketika jatuh ke inti akan menimbulkan \"ledakan\" yang sering disebut sebagai supernova.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Objek kompak",
+        "question": "Apa topik penelitian paling terkini yang berkaitan dengan black hole?",
+        "answer": "Selain yang telah disebutkan, beberapa penelitian tentang black hole yang terbaru antara lain penelitian black hole tertua di alam semesta (primordial black hole) dan batas ukuran maksimum sebuah black hole.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "question": "Galaksi Bima Sakti diketahui berbentuk piringan, apakah saat ini bentuknya masih seperti itu? ",
+        "answer": "Galaksi Bima Sakti bertipe spiral, kalau dilihat dari pinggir/sejajar dengan galaksinya maka akan terlihat seperti piringan.",
+        "Checker": "MF"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "question": "Apakah yang dimaksud dengan \"ujung galaksi\" ?",
+        "answer": "\"Ujung galaksi\" sebenarnya adalah bagian tepi dari galaksi, yang berlawanan dengan arah pusatnya.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "question": "Apa pusat dari star cluster?",
+        "answer": "Star cluster merupakan kelompok dari puluhan hingga jutaan bintang yang terikat secara gravitasi dan awal pembentukannya. Terdapat dua jenis star cluster, yaitu globular cluster dan open cluster. Di pusat sebuah globular cluster, bisa terdapat 100 - 1000 bintang per parsek kubik. Sedangkan, open cluster memiliki pusat dengan kerapatan bintang yang lebih renggang.",
+        "Checker": "NAN"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Kosmologi",
+        "question": "Apakah densitas di alam semesta kecil (lebih banyak ruang kosong) atau besar (dipenuhi bintang, galaksi, nebula, dan debu)?",
+        "answer": "Jika kita melihat komposisi alam semesta saat ini, diyakini bahwa kurang lebih 70% didominasi oleh dark energy, atau energi ruang vakum (dan hanya kurang lebih 4% saja materi seperti yang kita lihat). Jadi alam semesta kita saat ini didominasi oleh vakum.",
+        "Checker": "MF"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Kosmologi",
+        "question": "Apakah medan gravitasi Bumi memengaruhi gelombang gravitasi luar angkasa?",
+        "answer": "Salah satu hal yang menarik tentang gelombang gravitasi adalah bahwasanya gelombang gravitasi tidak berinteraksi dengan hal-hal lain di alam semesta, artinya mereka dapat menjalar dari sumbernya tanpa halangan apapun, berbeda dengan foton gelombang elektromagnetik yang dapat menabrak foton lain, proton, elektron, dsb. Oleh karena itu gelombang gravitasi tidak akan terganggu oleh medan gravitasi Bumi. . ",
+        "Checker": "MF"
+    },
+    {
+        "Kategori": "Astronomi dalam Peradaban Manusia",
+        "Sub Kategori": "Eksplorasi Luar Angkasa",
+        "question": "Apakah benar kita akan hidup di Mars pada tahun 2045? ",
+        "answer": "Memang ada wacana untuk menjadikan Mars sebagai rumah ke-2 bagi manusia. Beberapa perusahaan seperti SpaceX dan BlueOrigin berusaha menjadi pelopor dalam hal ini, begitu pula dengan NASA.",
+        "Checker": "MF"
+    },
+    {
+        "Kategori": "Astronomi dalam Peradaban Manusia",
+        "Sub Kategori": "Eksplorasi Luar Angkasa",
+        "question": "Apakah gas dan debu di angkasa bisa diambil dan dijadikan sampel sebagai bahan penelitian?",
+        "answer": "Ada beberapa wahana yang memang bertujuan mengambil sampel, baik itu asteroid maupun debu/gas di ekor komet (silakan cek misi OSIRIS-Rex atau misi Stardust). Kalau untuk nebula, karena posisinya sangat jauh, belum ada misi manusia yang sampai ke sana.",
+        "Checker": "MF"
+    },
+    {
+        "Kategori": "Astronomi dalam Peradaban Manusia",
+        "Sub Kategori": "Eksplorasi Luar Angkasa",
+        "question": "Apakah sudah ada percobaan yang dilakukan di Mars supaya dapat dihuni oleh manusia?",
+        "answer": "Sejauh ini belum ada percobaan yang melibatkan manusia secara langsung di Mars. Percobaan untuk simulasi hidup di Mars tetap dilakukan di Bumi. Ada beberapa percobaan terkenal seperti MARS-500 oleh Rusia, dilakukan antara 2007-2011. Saat ini data-data terus dikumpulkan menggunakan robot-robot yang dikirim ke Mars.",
+        "Checker": "MF"
+    },
+    {
+        "Kategori": "Astronomi dalam Peradaban Manusia",
+        "Sub Kategori": "Eksplorasi Luar Angkasa",
+        "question": "Berapa banyak sampah antariksa yang mengorbit Bumi saat ini?",
+        "answer": "Cukup sulit untuk mengetahui jumlah pasti sampah antariksa yang mengorbit Bumi kita. Jumlah satelit buatan manusia sudah berada di kisaran ribuan, jadi setidaknya jumlah sampah antariksa juga pada kisaran yang kurang lebih sama.",
+        "Checker": "MF"
+    },
+    {
+        "Kategori": "Astronomi dalam Peradaban Manusia",
+        "Sub Kategori": "Eksplorasi Luar Angkasa",
+        "question": "Apakah jumlah satelit dan rover yang sudah tidak digunakan lagi dapat mengganggu kondisi angkasa sekarang dan penampakannya?",
+        "answer": "\r\nBisa, bahkan ini cukup menjadi masalah di sekitar Bumi. Satelit-satelit yang masih beroperasi bisa tertabrak dan rusak karena masih ada sampah antariksa yang mengorbit Bumi dengan kecepatan tinggi. Di Bulan sendiri kita meninggalkan sekitar 70 \"kendaraan\". Semakin sering kita eksplorasi ke planet dan benda langit di sekitar kita, maka semakin banyak juga sampah yang ditinggalkan. ",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Astronomi dalam Peradaban Manusia",
+        "Sub Kategori": "Eksplorasi Luar Angkasa",
+        "question": "Mengapa harus Jezero Crater yang dijadikan tempat untuk mengambil sampel?",
+        "answer": "Jezero Crater diperkirakan dahulunya merupakan sebuah danau dan air dari sungai-sungai di sekitarnya mengalir ke sana, bersama dengan mineral-mineralnya, ketika Mars masih mampu memiliki air. Alhasil, ada kemungkinan mikroba pernah hidup di sana. Jika benar demikian, jejak-jejak mikroba harusnya bisa ditemukan di sana. ",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Astronomi dalam Peradaban Manusia",
+        "Sub Kategori": "Eksplorasi Luar Angkasa",
+        "question": "Apa yang akan terjadi kepada sampel-sampel yang telah dikumpulkan oleh Rover Perseverance?",
+        "answer": "Sampel yang diambil oleh Rover Perseverance akan dikumpulkan di Mars untuk sementara waktu. Sampel-sampel tersebut akan dikirim ke Bumi menggunakan misi penerbangan ke Mars berikutnya pada masa depan.",
+        "Checker": "THP"
+    },
+    {
+        "Kategori": "Astronomi dalam Peradaban Manusia",
+        "Sub Kategori": "Eksplorasi Luar Angkasa",
+        "question": "\r\nApakah pengambilan sampel batuan yang oleh Perseverance akan benar-benar di ambil manusia langsung?",
+        "answer": "Wahana Perseverance akan mengumpulkan sampel batuan Mars dan menyimpannya ke dalam tabung-tabung untuk nantinya dikumpulkan oleh misi penjelajah Mars di masa depan dan dikirim ke Bumi, lalu di Bumi akan dilakukan analisa yang mendalam terhadap sampel tersebut. Oleh karena itu kemungkinan kontak antara manusia dan sampel tersebut dilakukan ketika sampelnya sudah tiba di Bumi.",
+        "Checker": "MF"
+    },
+    {
+        "Kategori": "Astronomi dalam Peradaban Manusia",
+        "Sub Kategori": "Eksplorasi Luar Angkasa",
+        "question": "Siapakah yang memotret citra black hole M87?",
+        "answer": "Citra M87 diambil oleh EHT (Event Horizon Telescope). EHT adalah kolaborasi internasional yang terdiri atas beberapa teleskop radio, yang memotret blackhole dengan teknik yang bernama VLBI (Very Long Baseline Interferometry), yaitu teknik mengamati satu objek dengan beberapa teleskop radio yang terpisah sangat jauh. Karena panjang gelombang radio memiliki panjang gelombang yang paling panjang dibandingkan dengan gelombang elektromagnetik lainnya, maka digunakanlah teknik interferometri ini untuk memperoleh resolusi citra yang tinggi dengan memanfaatkan \"baseline\" (jarak pisah spasial antarteleskop) sebagai diameter teleskop.",
+        "Checker": "SR"
+    },
+    {
+        "Kategori": "Astronomi dalam Peradaban Manusia",
+        "Sub Kategori": "Eksplorasi Luar Angkasa",
+        "question": "Apakah manusia dapat melihat citra lubang hitam yang lebih detail di masa depan?",
+        "answer": "Teknologi terus berkembang dari hari ke hari dan semakin lama detail objek langit yang dapat dilihat oleh manusia semakin baik, termasuk citra lubang hitam. Sebagai contoh, citra lubang hitam supermasif di pusat Galaksi M87 yang terbaru adalah gambar yang memadukan data tahun 2019 (citra lubang hitam pertama yang dapat diabadikan) dengan data terbaru yang memperlihatkan garis medan magnet di sekitar objek tersebut.",
+        "Checker": "THP"
+    },
+    {
+        "Kategori": "Astronomi dalam Peradaban Manusia",
+        "Sub Kategori": "Eksplorasi Luar Angkasa",
+        "question": "Apakah di Mars pernah ada air dan kehidupan?",
+        "answer": "Berdasarkan penelitian batuan meteorit yang berasal dari Mars, diperkirakan dulu terdapat air dalam bentuk cair di Mars walaupun bukan di permukaannya, melainkan sedikit di bawah permukaan. Seiring menipisnya atmosfer Mars, air ini menguap atau membeku menjadi es yang sekarang ada di kutub planet Mars. Sedangkan ada atau tidaknya kehidupan di planet Mars sedang dalam penelitian menggunakan rover Perseverance. ",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Astronomi dalam Peradaban Manusia",
+        "Sub Kategori": "Eksplorasi Luar Angkasa",
+        "question": "Berapa banyak negara yang pernah mencoba mendaratkan wahana antariksa di planet Mars?",
+        "answer": "Sejak tahun 1960 hingga saat ini, telah ada kurang lebih 8 negara yang mencoba untuk mendaratkan wahana antariksa di permukaan planet Mars, beberapa diantaranya adalah Uni Soviet, Amerika Serikat, dan Tiongkok.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Astronomi dalam Peradaban Manusia",
+        "Sub Kategori": "Etnoastronomi dan Rasi Bintang",
+        "question": "Bagaimana bisa orang-orang zaman dahulu menggambarkan rasi bintang padahal ada banyak sekali bintang di langit yang sulit dibedakan antara satu dengan yang lainnya?",
+        "answer": "Orang-orang zaman dahulu tidak memiliki banyak kegiatan hiburan di malam hari, tidak seperti zaman sekarang, semisal tayangan televisi ataupun internet. Salah satu yang sering mereka lakukan adalah mengamati langit malam. Oleh karenanya, mereka menjadi terbiasa melihat bintang di langit malam dan mengamati pola-pola di langit (rasi bintang) beserta perubahannya di langit dari waktu ke waktu. Rasi-rasi bintang biasanya diasosiasikan dengan berbagai objek atau sosok dalam kebudayaan ataupun kepercayaan setempat untuk membantu mereka dalam mengingat. Dengan demikian, mereka dapat membedakan bintang-bintang pada rasi yang berbeda dengan mudah.",
+        "Checker": "SR"
+    },
+    {
+        "Kategori": "Astronomi dalam Peradaban Manusia",
+        "Sub Kategori": "Etnoastronomi dan Rasi Bintang",
+        "question": "Bagaimana cara orang-orang zaman dahulu menamai bintang-bintang terang di langit, semisal Betelgeuse, Altair, ataupun Deneb? ",
+        "answer": "Nama-nama bintang terang di langit biasa dinamai berdasarkan asosiasinya dengan rasi bintangnya. Misal, \"Altair\", yang berasal dari kata \"Ath-Thayr\" yang berarti \"burung\" dalam bahasa Arab, karena terdapat pengaruh astronomi Islam pada abad pertengahan. Nama ini diambil karena Altair berada pada rasi Aquila yang digambarkan sebagai burung Elang. Ada pula \"Deneb\", yang berasal dari kata \"Dzanab\" (bahasa Arab) yang berarti \"ekor\" karena berada pada ekor rasi Cygnus, rasi Angsa. Dan masih banyak lagi nama-nama rasi yang dinamakan dengan cara yang sama.",
+        "Checker": "SR"
+    },
+    {
+        "Kategori": "Astronomi dalam Peradaban Manusia",
+        "Sub Kategori": "Etnoastronomi dan Rasi Bintang",
+        "question": "Mengapa kebanyakan nama rasi dan bintang berasal dari bahasa Yunani dan Arab?",
+        "answer": "Ilmuwan Yunani dan Arab merupakan salah satu yang paling awal mempelajari dan memetakan bintang. Dokumentasi bintang dan rasi dari dua peradaban tersebut merupakan salah satu yang paling lengkap, oleh karena itulah nama modern bintang dan rasi sebagian besar diadopsi dari bahasa Yunani dan Arab.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Astronomi dalam Peradaban Manusia",
+        "Sub Kategori": "Polusi Cahaya",
+        "question": "Apakah di Indonesia akan ada program pengurangan polusi cahaya agar dapat melihat objek-objek langit dengan jelas? ",
+        "answer": "Kampanye tentang polusi cahaya dalam taraf tertentu sudah digulirkan oleh Observatorium Bosscha, terutama di kawasan sekitar observatorium. Untuk skala yang lebih besar tentu saja memerlukan koordinasi dan kerjasama semua pihak, terutama pemerintah dalam menetapkan regulasi yang baik terkait polusi cahaya ini.",
+        "Checker": "MF"
+    },
+    {
+        "Kategori": "Astronomi dalam Peradaban Manusia",
+        "Sub Kategori": "Polusi Cahaya",
+        "question": "Apakah Nebula Orion dapat terlihat di daerah perkotaan dengan polusi cahaya tinggi?",
+        "answer": "Walaupun kita berada di kota besar, kita masih bisa melihat Nebula Orion. Namun, kita harus mencari lokasi lapang yang jauh dari lampu. Usahakan tidak ada lampu yang terlihat di arah pandang kita ketika melihat Nebula Orion. Lalu, usahakan juga untuk mencari waktu ketika aktivitas di sekitar kita sudah berkurang, misalnya ketika tengah malam. Jadi, perlu usaha lebih untuk bisa melihat benda langit di kota berpolusi cahaya.",
+        "Checker": "THP"
+    },
+    {
+        "Kategori": "Pengamatan Langit",
+        "Sub Kategori": "Observasi Kasat Mata",
+        "question": "Bagaimana cara para ilmwuan mengukur jarak benda-benda di alam semesta?",
+        "answer": "Teknik mengukur jarak dalam astronomi ada bermacam-macam. Untuk jarak-jarak 'dekat' bisa menggunakan paralaks trigonometri. Untuk jarak yang lebih jauh bisa menggunakan bintang variabel, Supernova tipe Ia (supernova pada bintang ganda), atau dengan hukum Hubble.",
+        "Checker": "MF"
+    },
+    {
+        "Kategori": "Pengamatan Langit",
+        "Sub Kategori": "Observasi Kasat Mata",
+        "question": "Rasi bintang apa saja yang bisa dilihat secara langsung tanpa teropong? ",
+        "answer": "Pada dasarnya semua rasi bintang dapat dilihat secara langsung tanpa alat bantu, karena mayoritas, secara historis, mereka \"dibuat\" oleh peradaban kuno sebelum diciptakannya teleskop. Bahkan rasi bintang digunakan sebagai penanda perubahan musim atau penanda arah. Untuk saat ini, kembali pada kualitas langit di tempat pengamatan, karena mungkin ada bintang-bintang yang lebih redup yang jadi tidak bisa dilihat secara langsung. Namun bintang-bintang terang yang membuat rasi-rasi bintang harusnya bisa dilihat menggunakan mata telanjang.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Pengamatan Langit",
+        "Sub Kategori": "Observasi Kasat Mata",
+        "question": "Mengapa terdapat perubahan bentuk pada gambar objek yang ditangkap pada panjang gelombang yang berbeda?",
+        "answer": "Pengamatan pada panjang gelombang yang berbeda dapat diartikan bahwa pengamatan yang dilakukan menyasar ke unsur yang berbeda di objek tersebut. Di dalam sebuah objek astronomis, unsur-unsur penyusunnya terdiri dari berbagai jenis atom yang berbeda (seperti hidrogen, oksigen, nitrogen, dll.), serta jumlah dan sebaran yang berbeda. Hal-hal tersebut menyebabkan penampakan suatu objek astronomis berubah pada panjang gelombang yang berbeda.",
+        "Checker": "MF"
+    },
+    {
+        "Kategori": "Pengamatan Langit",
+        "Sub Kategori": "Observasi Kasat Mata",
+        "question": "Apakah aplikasi astronomi seperti Stellarium, Star Tracker, dsb. itu betul-betul menampilkan kenampakan langit beserta objek-objeknya sesuai dengan lokasi kita?",
+        "answer": "Aplikasi Stellarium ataupun Star Tracker dapat digunakan untuk membantu kita dalam mengamati objek-objek di langit dengan menyesuaikan pengaturan lokasi dan waktu yang digunakan. Aplikasi semacam ini menggunakan data astronomis yang valid untuk mendeteksi melalui sistem sensor yang terdapat pada perangkat terkait objek-objek yang dapat teramati pada suatu arah langit dan waktu tertentu.",
+        "Checker": "SR"
+    },
+    {
+        "Kategori": "Pengamatan Langit",
+        "Sub Kategori": "Observasi Kasat Mata",
+        "question": "Apakah kita bisa menamai objek-objek antariksa?",
+        "answer": "Pada umumnya, objek-objek antariksa memiliki pola penamaannya tersendiri, seperti posisinya, waktu ditemukan, jenis objeknya, urutannya pada katalog dan sebagainya. IAU (International Astronomical Union), perkumpulan astronomi internasional, memiliki beberapa program yang berkaitan dengan menamai objek-objek antariksa sehingga memilik nama yang khas. Salah satunya \"NamingExoWorlds\", yaitu masyarakat di seluruh dunia diberikan kesempatan untuk menamai eksoplanet (planet-planet di luar Tata Surya) dan bintang induknya yang telah terkonfirmasi. Beberapa negara ikut serta dalam program ini, salah satunya Indonesia. Nama eksoplanet dengan istilah Indonesia yang telah diresmikan adalah \"Noifasui\" dan bintang induknya bernama \"Dofida\", yang diambil dari bahasa Nias.",
+        "Checker": "SR"
+    },
+    {
+        "Kategori": "Pengamatan Langit",
+        "Sub Kategori": "Observasi Kasat Mata",
+        "question": "Mengapa sulit melihat bintang ketika berawan?",
+        "answer": "Keberadaan awan membuat atmosfer tidak transparan dan menghalangi cahaya bintang untuk dapat kita lihat dari Bumi. Semakin tebal awan yang menutupi, semakin bintang tidak terlihat hingga akhirnya tidak terlihat sama sekali. ",
+        "Checker": "THP"
+    },
+    {
+        "Kategori": "Tata Surya",
+        "Sub Kategori": "Bintang",
+        "question": "Berapa jarak maksimum yang masih terdampak ledakan supernova? ",
+        "answer": "Menurut beberapa penelitian, ledakan supernova akan berdampak jika terjadi pada jarak kurang dari 50 hingga 100 tahun cahaya. Namun, agar lapisan ozon Bumi mengalami kerusakan akibat supernova, ledakan harus terjadi pada jarak kurang dari 50 tahun cahaya dari Bumi.",
+        "Checker": "NAN"
+    },
+    {
+        "Kategori": "Tata Surya",
+        "Sub Kategori": "Komet dan Meteor",
+        "question": "Apakah yang dimaksud dengan Awan Oort dan dampaknya bagi Tata Surya kita?",
+        "answer": "Awan Oort adalah daerah di bagian luar tata surya kita yang terdiri atas objek-objek kecil tata surya, mayoritas terbuat dari es, seperti komet. Awan Oort diprediksi menyelingkupi seluruh objek di tata surya seperti sebuah kulit bola. Dampaknya kita kedatangan komet-komet dengan periode panjang, karena Awan Oort adalah rumah bagi calon-calon komet yang akan masuk ke tata surya kita karena gangguan di sekitarnya dan jaraknya cukup jauh dari kita, sekitar 2.000-100.000x jarak Bumi-Matahari",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Tata Surya",
+        "Sub Kategori": "Planet dan Planet Kerdil",
+        "question": "Mengapa retakan di Mars jauh lebih besar daripada yang ada di Bumi?",
+        "answer": "Retakan di Mars bernama Valles Marineris. Retakan ini terbentuk akibat adanya patahan di lapisan kerak Mars. Ukurannya yang sangat besar disebabkan oleh erosi dan runtuhnya dinding retakan tersebut.",
+        "Checker": "THP"
+    },
+    {
+        "Kategori": "Tata Surya",
+        "Sub Kategori": "Planet dan Planet Kerdil",
+        "question": "Apakah keadaan di Mars menggambarkan Bumi di masa depan atau masa lalu?",
+        "answer": "Menurut hasil penelitian yang ada, disebutkan bahwa di masa lalu, planet Mars memiliki kandungan air dan disinyalir layak bagi kehidupan. Namun astronom belum mendapatkan gambaran apakah kehidupan tersebut sama seperti kehidupan di Bumi.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Tata Surya",
+        "Sub Kategori": "Planet dan Planet Kerdil",
+        "question": "Mengapa Mars dapat dijadikan sebagai objek terraforming?",
+        "answer": "Salah satu alasan mengapa Mars dapat dijadikan sebagai objek terraforming yaitu keberadaan air dalam bentuk es di Mars dan sejarah geologisnya menunjukkan bahwa Mars pernah memiliki atmosfer yang mirip dengan Bumi. Akan tetapi, dengan teknologi yang ada saat ini, masih kurang memungkinkan untuk melakukan terraforming di Mars.",
+        "Checker": "NAN"
+    }
+]
