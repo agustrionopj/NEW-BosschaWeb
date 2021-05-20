@@ -20,6 +20,7 @@
 
 [[main]]
   name = "Profil dan Sejarah"
+#   name = "PROFIL"
   parent = "about"
   url = "/author-detil/"
   weight = 11
@@ -54,6 +55,7 @@
 
 [[main]]
   name = "Penelitian & Pendidikan"
+#   name = "PENELITIAN & PENDIDIKAN"
   identifier = "penelitian"
   url = "/penelitian/"
   weight = 20
@@ -130,10 +132,11 @@
 # MEDIA
 # -------------------------------------------------------------
 [[main]]
-   name = "Media"
-  identifier = "media"
-  url = "#"
-  weight = 40
+        # name = "MEDIA"
+        name = "Media"
+        identifier = "media"
+        url = "#"
+        weight = 40
 
 [[main]]
   name = "Rilis Media"
@@ -176,6 +179,7 @@
 # ASTRO UNTUK PUBLIK
 # --------------------------------------------------------------
 [[main]]
+#   name = "ASTRONOMI UNTUK PUBLIK"
   name = "Astronomi untuk Publik"
   identifier = "layanan"
   url = "/layanan/"

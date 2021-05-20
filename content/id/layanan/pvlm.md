@@ -200,7 +200,7 @@ Pilih **_Watch this video on YouTube_** jika ada pesan kesalahan dalam memutar v
     <p style="font-size: .8em">Narasumber: <br> 1. Premana W. Premadi, Ph.D. <br>  2. Muhammad Yusuf, S.Si.</p>
   </div>
   <div class="column">
-        <p style="font-size: .8em">Narasumber: <br> 1. Premana W. Premadi, Ph.D. <br>  2. Muhammad Yusuf, S.Si. <br> 3. Andreas Christian Louk, M.Sc <br> 4. Zulkarnain </p>
+        <p style="font-size: .8em">Narasumber: <br> 1. Ferry M. Simatupang, M.Si <br>  2. Muhammad Yusuf, S.Si. <br> 3. Andreas Christian Louk, M.Sc <br> 4. Zulkarnain </p>
   </div>
   <div class="column">
   </div>
