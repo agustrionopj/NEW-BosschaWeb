@@ -15,19 +15,19 @@ height = "calc(100vh - 70px)"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
-#[[item]]
- #       title = "**PVLM 2021 Ep. 3:** <br>  Galaksi Bima Sakti dari Masa ke Masa"
- #       content = ""
- #       align = "center"
+[[item]]
+       title = "**Temu Virtual Ep. 2:** <br>  Kelas Astrofotografi bersama Observatorium Bosscha"
+       content = ""
+       align = "center"
 
- #       overlay_color = "#555"  # An HTML color value.
- #       overlay_img = "pvlm-polos-bw.png"  # Image path relative to your `static/img/` folder.
- #       overlay_filter = 0.6  # Darken the image. Value in range 0-1.
+       overlay_color = "#555"  # An HTML color value.
+       overlay_img = "pvlm-polos-bw.png"  # Image path relative to your `static/img/` folder.
+       overlay_filter = 0.6  # Darken the image. Value in range 0-1.
 
- #       cta_label = "Detail"
- #       cta_url = "/id/layanan/pvlm/"
- #       cta_icon_pack = "fas"
- #       cta_icon = "sticky-note"
+       cta_label = "Detail"
+       cta_url = "/id/layanan/workshop-tv/"
+       cta_icon_pack = "fas"
+       cta_icon = "sticky-note"
 
 #[[item]]
 #  title = "**Tayangan Langsung** <br> Pengamatan Hilal Ramadhan 1442 H <br> Observatorium Bosscha"
@@ -51,7 +51,8 @@ height = "calc(100vh - 70px)"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/m31.jpg"  # Image path relative to your `static/img/` folder.
+  # overlay_img = "headers/m31.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "pvlm-polos-bw.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -75,7 +76,8 @@ height = "calc(100vh - 70px)"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/m31.jpg"  # Image path relative to your `static/img/` folder.
+  # overlay_img = "headers/m31.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "pvlm-polos-bw.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).

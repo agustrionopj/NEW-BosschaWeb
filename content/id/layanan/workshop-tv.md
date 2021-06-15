@@ -14,35 +14,46 @@ menu:
 weight: 3
 ---
 
-<style>
-.tombol {
-  background-color: #417AF5; /* blue */
-  border: none;
-  color: white;
-  padding: 5px 15px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-}
-</style>
-
 Observatorium Bosscha mengadakan serangkaian webinar, gelar wicara (<i>talk show</i>) dan <i>workshop</i> pendidikan terkait astronomi dan topik-topik hangat yang berelasi. Menampilkan pakar-pakar astronomi dan keilmuan yang relevan, program ini dapat diikuti oleh masyarakat umum dan komunitas pecinta astronomi secara gratis. Program bertajuk Temu Virtual ini akan diadakan dua bulan sekali melalui media temu daring Zoom meeting atau Slido dan disiarkan langsung melalui YouTube.
 
-<!-- > **10 April 2021** <br>
-**Temu Virtual 1 - Webinar dan Media Briefing Pengamatan Hilal Ramadhan 1442 H** <br>
-**Narasumber: 	Hendro Setyanto, Muhammad Yusuf, Premana W. Premadi** <br><br>
-Salah satu topik astronomi yang relevan dengan masyarakat adalah kenampakan bulan sabit dan kaitannya dengan penentuan awal bulan pada penanggalan Hijriah. Observatorium Bosscha akan mengadakan webinar bertajuk Pengamatan Hilal dan <i>media conference</i> terkait pengamatan hilal Ramadhan 1442 H. Acara ini dilakukan melalui Zoom <i>meeting</i> dan dapat diikuti oleh masyarakat umum dan wartawan secara gratis.
+---
 
-Tertarik untuk ikut?
+**26 - 27 Juni 2021** <br>
+**Temu Virtual 2 - Kelas Astrofotografi bersama Observatorium Bosscha** <br>
+**Narasumber: Agus Triono P.J.** <br>
+<img src="/img/TV2_pos_fbtw.jpg"></img>
+Astrofotografi merupakan salah satu jenis fotografi yang kini cukup populer di kalangan fotografer, astronom amatir dan profesional, maupun masyarakat umum di Indonesia.  Semua orang menyenangi potret yang indah dan menarik termasuk tangkapan objek-objek astronomi. Menariknya, citra astrofotografi tidak hanya dinilai sebagai produk dengan daya jual visual dan seni yang tinggi, astrofotografi dapat digunakan sebagai media komunikasi sains yang kuat dan bermakna. 
 
-<a href="https://bit.ly/WebinarHilal" target="_blank"><button class="tombol">Daftar di sini</button></a>
+Ada banyak tipe astrofotografi, dari astrofotografi medan lebar seperti memotret Bima Sakti, sampai fotografi objek <i>deep-sky</i> yang menggunakan peralatan teleskop dan kamera super sensitif. Dengan semangat berbagi pengetahuan dan keindahan alam semesta, kelas astrofotografi ini kami adakan untuk semua yang ingin belajar bagaimana mengabadikan objek astronomi melalui kamera atau sekedar ingin mengetahui bagaimana gambar-gambar astronomi tersebut diperoleh dan dihasilkan. 
 
-Silakan saksikan juga <i>live streaming</i> acara ini pada kanal YouTube Observatorium Bosscha melalui tautan di bawah ini.
+Pada kelas yang akan berlangsung selama dua hari (masing-masih 3-4 jam pertemuan) melalui <i>Zoom meeting</i>, peserta akan:
+- Mendapatkan informasi bagaimana merencanakan, menyiapkan, dan melakukan kegiatan astrofotografi dari aspek teknis instrumen dan nonteknis (penggunaan peta langit, memilih objek) 
+- Mengetahui sumber citra astronomi dari arsip publik (terutama Hubble Legacy Archive) dan bagaimana mengaksesnya.
+- Belajar dan mempraktikkan teknik pengolahan (<i>post-processing</i>) data astrofotografi dari gambar Hubble Legacy Archive dan non-Hubble sehingga menghasilkan citra olahan yang bernilai visual tinggi.
 
-<a href="https://www.youtube.com/watch?v=Q22TBPiTgXk" target="_blank"><button class="tombol"><i>Live Streaming </i> Temu Virtual</button></a>
+Kegiatan ini ditujukan untuk masyarakat umum dengan atau tanpa latar belakang fotografi dan/atau astronomi dan **tanpa biaya**. Kelas akan berisikan pemaparan materi diikuti dengan praktik langsung olah citra oleh peserta. Untuk memaksimalkan proses pembelajaran dan interaksi, kelas ini kami buka dengan jumlah peserta yang terbatas. Tidak ada prasyarat bagi calon peserta selain melakukan pendaftaran pada form [berikut.]({{<ref "workshop-tv.md#pendaftaran">}})
 
-<img src="/img/TV01_poster.jpg" width=500></img> -->
+### Rancangan Kelas:
+##### Hari 1 (Sabtu, 26 Juni 2021, 09.00 - 13.00 WIB)
+* Pengantar astrofotografi
+* Bagaimana citra astrofotografi didapatkan: perencanaan, pemilihan dan penyetelan instrumen
+* Pengenalan <i>software</i> olah citra dan dasar-dasar pengolahan citra astrofotografi
+* Praktik: mengolah citra astrofotografi
+##### Hari 2 (Minggu, 27 Juni 2021, 09.00 - 12.00 WIB)
+* Hubble Legacy Archive: arsip publik citra astronomi 
+   * Bagaimana Teleskop Hubble mengambil potret astronomi
+   * Bagaimana mengakses dan mendapatkan citra Hubble Legacy Archive 
+* Praktik: mengolah citra astrofotografi dari Hubble Legacy Archive
+* <i>Review</i> dan diskusi
+
+Untuk kebutuhan praktik, peserta akan diminta untuk menginstalasi <i>software</i> Deep Sky Stacker (DSS) dan Adobe Photoshop sebagai tool pengolahan citra yang akan digunakan pada kelas ini. Selain itu, peserta juga akan mengunduh citra mentah objek astronomi yang akan digunakan sebagai bahan praktik olah citra. 
+
+Bagi Anda yang diterima sebagai peserta, konfirmasi akan dikirimkan melalui email, beserta informasi lengkap dan tautan unduh material. Pastikan email yang anda masukan dalam form pendaftaran sudah benar dan dapat dihubungi. Kami akan melakukan konfirmasi kehadiran Anda pada 21 dan 22 Juni 2021.
+. 
+### Pendaftaran {#pendaftaran}
+Anda dapat mendaftarkan diri pada 17 - 19 Juni 2021. Konfirmasi penerimaan peserta akan dilakukan via email masing-masing pada 21 - 22 Juni 2021. Pastikan email yang Anda daftarkan aktif dan dapat dihubungi untuk tahap konfirmasi tersebut.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeCMjKGE5gvs66sk_eC6emC55Ff30h75BK2kuCbv3SzKBhyAg/viewform?embedded=true" width="640" height="788" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ### Arsip Temu Virtual
 
@@ -165,6 +176,18 @@ Silakan saksikan juga <i>live streaming</i> acara ini pada kanal YouTube Observa
 **Episode** | **Pembicara** | **Judul** |
 01 | Hendro Setyanto, M.Si <br><br>  Muhammad Yusuf, S.Si| *Hisab-Rukyat dalam Penetapan Awal Bulan Hijriyyah*<br><br>*Pengembangan Metode Pengamatan Hilal*  | {{% staticref "files/Hendro Setyanto - Awal Bulan.pdf" "newtab" %}} Unduh {{% /staticref %}}<br><br>{{% staticref "files/Pengembangan Metode Pengamatan Hilal.pdf" "newtab" %}} Unduh {{% /staticref %}}
 
+<style>
+.tombol {
+  background-color: #417AF5; /* blue */
+  border: none;
+  color: white;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+</style>
 
 <script>
   document.querySelectorAll(".showmore").forEach(function (p) {
