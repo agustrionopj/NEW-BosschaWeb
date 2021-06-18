@@ -1,0 +1,501 @@
+{
+        "qna": [
+         {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Mengapa supernova jarang terlihat padahal ada banyak sekali bintang di Galaksi kita?",
+        "Reply": "Dugaan yang ada saat ini adalah bahwa supernova yang terjadi di galaksi kita umumnya terhalang oleh gas dan debu antar bintang sehingga menyulitkan deteksi. Selain itu, astronom masih belum dapat mengetahui kapan sebuah bintang akan mengalami supernova sehingga bisa saja ada yang terlewatkan meskipun saat ini sudah mulai banyak misi yang didedikasikan untuk pengamatan dengan mode scanning seluruh langit.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Bagaimana bisa Betelgeuse mengalami peredupan lalu kecerlangannya meningkat kembali?",
+        "Reply": "Penyebab anomali kecerlangan cahaya betelgeuse itu diduga berasal dari sebagian material Betelgeuse yang terlempar dan mendingin menjadi debu. Debu tersebut menghalangi cahaya Betelgeuse sesaat dan kemudian menjadi terang kembali setelah material tersebut berlalu.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Apa keistimewaan Galaksi Bima Sakti?",
+        "Reply": "Galaksi Bima Sakti menjadi istimewa karena menjadi rumah bagi Tata Surya, yang adalah rumah dari Bumi dan kehidupan di dalamnya. Selain dari sisi sebagai rumah kehidupan satu-satunya di alam semesta, Bima Sakti sendiri merupakan galaksi yang paling banyak dipelajari oleh para astronom karena sangat mudah diamati dari Bumi sehingga pengamatan dapat dilakukan secara mendetail.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Apakah halo Galaksi Bima Sakti sama dengan fenomena halo pada Matahari?",
+        "Reply": "Halo Matahari yang dilihat dari Bumi adalah hasil dari pembiasan cahaya Matahari oleh partikel es/air di atmosfer sehingga terlihat seperti pelangi yang melingkar. Sedangkan halo galaksi adalah bintang-bintang yang tersebar, gugus bola, serta gas dan debu yang menyelubungi galaksi.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Apa pengertian galaksi?",
+        "Reply": "Galaksi adalah kumpulan bintang dalam jumlah besar yang juga memuat debu, gas, dan materi lainnya.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Apakah ada merger galaksi yang tercatat sejarah manusia ?",
+        "Reply": "Memang benar bahwasanya sejumlah galaksi teramati oleh para astronom sedang mengalami penggabungan, di antaranya adalah Centaurus A dan Antennae Galaxy. Dari hasil pengamatan tersebut, para astronom kemudian dapat menyusun teori mengenai mekanisme terbentuknya galaksi-galaksi di alam semesta.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Apa pusat dari Galaksi Bima Sakti?",
+        "Reply": "Galaksi kita diyakini memiliki supermassive black hole. Hal ini diketahui dari gerakan bintang-bintang di pusat Galaksi.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Astronomi dalam Peradaban Manusia",
+        "Sub Kategori": "Etnoastronomi dan Rasi Bintang",
+        "Question": "Apa tujuan kita mempelajari rasi bintang?",
+        "Reply": "Tujuan dari mempelajari rasi bintang atau kosntelasi yaitu untuk membantu kita membedakan antara satu bintang dengan yang lainnya. Pada malam yang sangat gelap, kita bisa melihat ribuan bintang, Membedakan bintang satu dan lainnya akan sulit. Tetapi, dengan adanya konstelasi kita akan lebih mudah mengelompokkan dan mengidentifikasi suatu bintang. Misalnya, kita melihat 3 bintang berurutan  dan menyadari bahwa ketiga bintang tersebut merupakan sabuk Orion bagian konstelasi Orion, dengan itu kita juga bisa mengetahui bintang yang berada di sekitarnya. Selain itu, konstelasi dapat mempermudah kita untuk menentukan letak suatu objek di langit. Misalnya, letak galaksi Andromeda yang berada di rasi Andromeda atau pusat Galaksi Bima Sakti yang berada di sekitar rasi Sagittarius.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Apa yang ada di dalam inti Galaksi Bima Sakti?",
+        "Reply": "Di daerah inti atau pusat Galaksi Bima Sakti terdapat bintang dan debu dalam jumlah yang sangat banyak dengan kerapatan tinggi. Selain itu, tepat di pusatnya, diperkirakan terdapat lubang hitam supermasif (supermassive black hole).",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Apa yang akan terjadi pada kehidupan di Bumi ketika galaksi Andromeda dan Bima Sakti bertabrakan?",
+        "Reply": "Karena jarak antara bintang-bintang relatif jauh, tata surya kita diperkirakan masih aman. Nantinya galaksi seperti menembus satu sama lain.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Apa yang akan terjadi dengan lubang hitam supermasif di pusat Galaksi Bima Sakti ketika bertabrakan dengan galaksi Andromeda?",
+        "Reply": "Selama badan Galaksi Bima Sakti dan Andromeda bertumbukan, bagian inti kedua galaksi berosilasi dan pada akhirnya menyatu.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Apa yang menyebabkan sebuah galaksi bisa berbentuk elips, spiral, maupun spiral berbatang?",
+        "Reply": "Perbedaan struktur dan bentuk galaksi disebabkan oleh evolusinya. Beragam hal bisa terjadi selama galaksi berevolusi, seperti contohnya interaksi dengan galaksi lain. Salah satu contoh galaksi yang sedang berinteraksi adalah Galaksi Antena (Antennae Galaxies). Hal lain yang tentu terjadi adalah galaksi berotasi. Astronom-astronom berpendapat bahwa rotasi galaksi dan fenomena bernama \"density waves\" (fenomena yang dapat diibaratkan seperti riak pada air kolam) menyebabkan terbentuknya lengan spiral pada galaksi.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Butuh berapa lama untuk mempelajari seluruh galaksi yang ada?",
+        "Reply": "Hingga saat ini masih banyak galaksi yang belum dapat terdeteksi oleh teknologi yang ada. Galaksi-galaksi yang sudah dapat terdeteksi/teramati sekali pun belum semuanya telah dipelajari secara mendetail. Selain diperlukan waktu pengamatan yang panjang juga diperlukan fasilitas komputasi untuk menyimpan dan mengolah data pengamatan yang sangat banyak. Tentunya juga diperlukan banyak peneliti untuk mempelajari data-data pengamatan tersebut.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Kosmologi",
+        "Question": "Apakah ada batas atau tingkat jenuh dari alam semesta ini?",
+        "Reply": "Sejujurnya saya kurang begitu paham maksud pertanyaannya, jika yang dimaksud adalah apakah ada batas/pinggiran alam semesta, saat ini belum diketahui ada batas tersebut, yang ada adalah batas penglihatan (yaitu sejauh mana kita bisa melihat) yang tentu saja salah satunya dibatasi oleh teknologi. Alam semesta diketahui mengembang dipercepat, artinya ruang di alam semesta semakin lama semakin luas.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Apakah ada update penemuan dan penamaan nebula baru?",
+        "Reply": "Pada dasarnya penemuan obyek baru astronomi akan seiring dengan kemampuan instrumen. Dengan demikian penemuan nebulae, penamaannya akan bergantung pada penemu atau nama teleskop/misi diikuti nomor atau koordinatnya.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Apakah antar galaksi dapat berinteraksi?",
+        "Reply": "Bisa, karena setiap galaksi memiliki medan gravitasi masing-masing. Jika mereka terlalu dekat atau terlalu kuat, maka gravitasi dari satu galaksi bisa menganggu galaksi lain hingga bertabrakan atau 'mengacak-ngacak' galaksi lainnya. Galaksi-galaksi satelit, atau galaksi-galaksi lebih kecil yang mengorbit suatu galaksi lebih besar juga bisa mempengaruhi galaksi besarnya.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Apakah Awan Magellan itu merupakan satelit Galaksi Bima Sakti?",
+        "Reply": "Betul, Awan Magellan Besar merupakan salah satu satelit galaksi kita, dan merupakan satelit terbesar dari galaksi kita. Ada kurang lebih 50 galaksi-galaksi kecil yg merupakan satelit galaksi kita.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Apakah bentuk spiral galaksi dipengaruhi oleh benturan atau tabrakan dengan galaksi lain?",
+        "Reply": "Berdasarkan analisa gerak, yang paling mungkin membentuk lengan-lengan spiral adalah gerak rotasi  pada piringan dengan distribusi gas bintang-bintang yang tidak merata di piringan, sehingga berangsur membentuk spiral.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Bagaimana cara mengetahui evolusi galaksi?",
+        "Reply": "Masa depan galaksi bergantung pada evolusi internalnya dan interaksinya dengan lingkungan. Bisa saja ia tak banyak berubah bentuk jika ia berevolusi tanpa interaksi dengan lingkungan. Namun jika interaksi dengan lingkungan cukup kuat, maka bentuknya bisa berubah.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Apakah bintang berukuran besar akan kehabisan bahan bakar",
+        "Reply": "Semua bintang akan habis bahan bakarnya pada suatu saat, sehingga benar, bahkan bintang terbesar pun bahan bakarnya akan habis. Perbedaan lama waktu habis bahan bakar pada suatu bintang bergantung pada massanya; semakin besar massa sebuah bintang, maka semakin cepat bahan bakarnya akan habis.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Apakah bintang-bintang yang ada di galaksi yang sama akan memiliki karakteristik yang mirip satu sama lain?",
+        "Reply": "Karakteristik bintang utamanya ditentukan dari besar massa bintang saat ia lahir. Umumnya di galaksi spiral seperti Galaksi kita terdapat bintang bermassa kecil hingga bermassa besar sehingga memiliki karakteristik yang berbeda. Namun pada galaksi elips, sebagian besar terdiri atas bintang-bintang bermassa kecil, sehingga memiliki karakteristik yang mirip satu sama lain.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Mengapa setiap nebula memiliki materi penyusun yang berbeda?",
+        "Reply": "Komposisi nebula bisa bermacam-macam, bergantung asal dari nebula tersebut. Nebula-nebula di awal alam semesta mayoritas didominasi oleh Hidrogen. Jika nebula tersebut berasal dari bintang2 tua yang berevolusi lanjut, maka nebulanya sudah dikotori oleh unsur2 berat seperti silikon, karbon, dll. Jadi komposisi nebula bergantung dari asal mula nebula tersebut.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Apakah di Galaksi Bima Sakti masih ada bintang baru yang terbentuk?",
+        "Reply": "Di Galaksi Bima Sakti masih terjadi pembentukan bintang-bintang baru. Daerah tempat bintang-bintang terbentuk dinamakan dengan \"Star Forming Region\", di dalamnya kaya akan bahan-bahan yang dibutuhkan untuk melahirkan bintang-bintang, seperti hidrogen, helium, dan unsur-unsur lainnya. Astronom memperkirakan setidaknya tiga bintang bermassa mirip dengan Matahari terbentuk setiap tahunnya di Galaksi kita.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Apakah Galaksi Bima Sakti bergerak di luar angkasa?",
+        "Reply": "Galaksi Bima Sakti diketahui bergerak mendekati galaksi Andromeda, dan diperkirakan akan mengalami tabrakan dalam waktu miliaran tahun yang akan datang.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Apakah Galaksi Bima Sakti bisa dilihat langsung oleh mata telanjang dan, jika bisa, apakah ada waktu tertentu untuk bisa melihatnya? ",
+        "Reply": "Galaksi Bima Sakti dapat diamati secara langsung oleh mata telanjang. Bima Sakti dapat diamati sekitar bulan Maret sampai Oktober, sedangkan waktu terbaik untuk mengamatinya adalah sekitar akhir April hingga akhir Juli.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Apakah Galaksi Bima Sakti turut berkembang sebagaimana alam semesta yang terus berkembang?",
+        "Reply": "Pengembangan alam semesta merupakan pengembangan ruangwaktu dan terlihat signifikan untuk skala yang sangat besar dan memperlebar ruang diantaranya. Hanya saja untuk skala galaksi, pengaruh gravitasi masih terbilang kuat untuk mengikat isinya agar tidak diceraiberaikan oleh pengembangan alam semesta.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Apakah galaksi juga mengorbit sesuatu? Jika ya, mengorbit apa dan bagaimana orbitnya?",
+        "Reply": "Galaksi mengorbit sesuatu bergantung apakah ia anggota gugus galaksi atau bukan. Jika anggota gugus galaksi, galaksi tersebut akan mengitari pusat massa gugus. Jika galaksi yang bukan anggota gugus, ia akan bergerak bebas.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Apakah galaksi lain punya matahari juga seperti Galaksi Bima Sakti? ",
+        "Reply": "Matahari adalah sebuah bintang dan ada banyak sekali bintang seperti Matahari bahkan di galaksi kita sendiri. Oleh karena itu, di galaksi lain juga ada banyak bintang seperi Matahari. ",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Apakah posisi galaksi itu tetap atau dapat berubah?",
+        "Reply": "Posisi benda-benda di langit, termasuk galaksi lain, akan berubah akibat pergerakan Bumi mengitari matahari.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Apakah galaksi bergerak dan apa penyebabnya?",
+        "Reply": "Setiap benda di alam semesta akan bergerak selama mereka tidak berada di absolut zero atau nol Kelvin. Begitu juga kasus galaksi, pergerakannya dipengaruhi oleh sejarah pembentukannya, lingkungan, gerak diri, dan juga ruangwaktu yang mengembang.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Apakah gugus bola pasti beranggotakan bintang yang usianya sudah tua?",
+        "Reply": "Rata-rata anggota gugus bola adalah bintang-bintang yang tua, yang sudah tidak lagi memiliki materi antar bintang di sekitarnya dan sudah berevolusi lanjut. Bintang-bintang tua ini biasanya disebut sebagai bintang populasi II yg menjadi ciri khas anggota gugus bola.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Apakah jumlah objek di Galaksi Bima Sakti dapat dihitung?",
+        "Reply": "Jumlah objek di Galaksi Bima Sakti, khususnya bintang, dapat diperkirakan dengan beberapa metode. Namun tidak dihitung satu per satu karena objek yang sangat redup yang tidak dapat teramati dari Bumi tentunya tidak akan dapat dihitung karena tidak teramati.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Apakah matahari tergabung pada suatu gugus bintang?",
+        "Reply": "Matahari tidak termasuk ke dalam sebuah gugus bintang.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Apakah mungkin ada \"Bumi\" lain di galaksi lain?",
+        "Reply": "Karena di galaksi lain ada bintang yang mirip dengan Matahari, kemungkinan besar juga ada planet yang serupa dengan Bumi. Tapi apakah planet itu berpenghuni atau tidak, belum dapat kita ketahui. Jarak galaksi lain sangat jauh dari Bumi, membuatnya sulit untuk dipelajari dengan teknologi yang ada saat ini.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Pengamatan Langit",
+        "Sub Kategori": "Observasi kasat mata",
+        "Question": "Apakah mungkin untuk mengamati peristiwa supernova yang terjadi dengan teleskop optik?",
+        "Reply": "Selamat malam dan terima kasih atas pertanyaannya. Benar sekali. Peristiwa supernova dapat diamati menggunakan teleskop optik. Supernova yang merupakan tahap akhir dari sebuah bintang masif melepaskan energi dengan sangat dahsyat pada berbagai rentang panjang gelombang, termasuk di dalamnya energi pada panjang gelombang optik. Sehingga menggunakan teleskop optik kita akan melihat betapa cemerlangnya supernova yang terjadi.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Apakah nanti galaksi-galaksi akan bertabrakan dan apakah nanti alam semesta menjadi gelap?",
+        "Reply": "Galaksi-galaksi ada yang sudah terdeteksi berinteraksi dan bertabrakan. Galaksi kitapun nantinya akan bertabrakan dengan Andromeda, kurang lebih 5 miliar tahun lagi. Kebanyakan ruang di alam semesta kita adalah void atau ruang kosong, benda2 terang yang kita lihat di alam semesta (seperti bintang, galaksi, dll atau disebut juga materi biasa (baryon)) persentasenya hanya sedikit di alam semesta (kurang lebih hanya 4 persen saja).",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Apakah nanti kalo Galaksi Bima Sakti dan Andromeda bertabrakan apa yang akan terjadi dan apa akan ada ledakan yang luar biasa?",
+        "Reply": "Tidak akan ada ledakan saat Galaksi Bima Sakti dan Galaksi Andromeda ketika \"bertabrakan\". Karena jarak antarbintang yang jauh, kemungkinan bintang-bintang di dua galaksi tersebut bertabrakan akan sangat kecil. Yang terjadi setelah tabrakan galaksi kemungkinan besar adalah perubahan jalur orbit bintang-bintang saja.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Astronomi dalam Peradaban Manusia",
+        "Sub Kategori": "Etnoastronomi dan Rasi Bintang",
+        "Question": "Apakah rasi bintang ada kaitannya dengan zodiak (tanggal & bulan lahir)?",
+        "Reply": "Lebih tepatnya adalah rasi zodiak merupakan sejumlah rasi dari 88 rasi yang ada di langit. Rasi-rasi zodiak pada dasarnya merupakan rasi-rasi yang dilalui Matahari terlihat dari Bumi sepanjang tahun.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Apakah saat ini ada misi yang secara khusus mempelajari Galaksi Bima Sakti? ",
+        "Reply": "Salah satu misi yang khusus untuk mempelajari Galaksi Bima Sakti adalah misi GAIA. GAIA bertugas mengukur jarak, posisi, dan gerak dari setiap bintang di galaksi kita untuk membangun model 3 dimensi.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Apakah setiap galaksi melakukan rotasi?",
+        "Reply": "Semua galaksi berotasi, namun ada galaksi-galaksi yang gerak rotasinya dominan (galaksi piringan dengan lengan spiral). Galaksi yang eliptik atau berbentuk seperti bola juga berotasi tetapi jauh lebih lambat, dan gerak bintang-bintangnya didominasi oleh gerak acak.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Apakah bentuk galaksi atau banyak lengan yg dimiliki galaksi mempengaruhi cepat/lambat rotasinya?",
+        "Reply": "Kecepatan rotasi galaksi lebih dipengaruhi oleh massa totalnya daripada oleh banyak lengannya.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Objek kompak",
+        "Question": "Apakah wormhole bisa terdeteksi?",
+        "Reply": "Sejauh ini wormhole diduga ada dari perhitungan teoritis. Belum ada bukti observasi tentang adanya wormhole",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Bagaimana area gembungan (bulge) Galaksi Bima Sakti dapat terbentuk?",
+        "Reply": "Mekanisme pembentukan bulge secara umum merupakan gabungan dari awal pembentukan galaksinya seperti bagaimana awal keruntuhan massa menjadi struktur di sekitar pusat, kemudian evolusi dinamis dari pergerakan bintang-bintang, dan juga pengaruh lingkungan.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Bagaimana bintang itu terbentuk dan apa bentuknya?",
+        "Reply": "Bintang terbentuk dari nebula. Singkatnya, jika ada gangguan, nebula tersebut akan memampat, dan jika massanya cukup, akan terbentuk reaksi nuklir di pusatnya dan mulai  'menyala' sebagai bintang. Bentuk bintang mayoritas bulat, kecuali jika bintang itu mendapat gangguan dari bintang lain (bisa terdistorsi bentuknya, tidak lagi bulat). ",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Mengapa jika manusia melihat dengan mata telanjang ke langit terlihat bahwa bintang berkelip?",
+        "Reply": "Bintang tampak berkelip-kelip karena adanya atmosfer. Udara di atmosfer kita itu bergerak dan memiliki turbulensi sehingga menyebabkan cahaya dari bintang tidak bergerak lurus namun berkelok-kelok. Saat mencapai mata, kesan kita adalah kelip-kelip.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Bagaimana cara menentukan posisi pusat galaksi dari mengamati globular cluster?",
+        "Reply": "Dengan mengasumsikan gugus bola harusnya tersebar secara sferis, maka melihat dari berbagai lokasi gugus bola kita bisa mengira-ngira pusat penyebaran gugus bola tersebut. Karena gugus bola di suatu galaksi harusnya mengorbit pusat galaksi, maka dari itu bisa dikira-kira posisi pusat galaksinya.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Bagaimana galaksi yang terbentuk dapat memiliki bentuk morfologi yang berbeda-beda?",
+        "Reply": "Banyak faktor yang mempengaruhi bentuk morfologi sebuah galaksi, beberapa diantaranya adalah \"keadaan\" ketika pembentukan awal seperti besar massa awal, evolusi dinamika pengisi galaksi tersebut seperti gerak bintang, dan juga lingkungannya seperti merger.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Kosmologi",
+        "Question": "Bagaimana kita menghitung efek dari gravitational lensing pada citra yang kita peroleh?",
+        "Reply": "Jika yang dimaksud adalah lensa gravitasi kuat, maka untuk mengetahui total massa yang menyebabkan pelengkungan atau splitting obyek latar belakang adalah dengan melakukan fitting model. Fitting model itu dengan cara mengasumsikan model sebaran massa obyek pelensa kemudian melakukan ray tracing sumber latar belakang dan dibandingkan citra yang terbentuk dengan hasil pengamatan. Semakin dekat kecocokkannya maka secara probabilitas kita dapat mengetahui seberapa besar efek lensa gravitasinya. ",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Instrumen pengamatan",
+        "Question": "Apakah teleskop GOTO di Obs. Bosscha masih beroperasi?",
+        "Reply": "Untuk sementara ini GOTO masih dalam perbaikan.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Pengamatan Langit",
+        "Sub Kategori": "Instrumen pengamatan",
+        "Question": "Bagaimana manusia bisa mengembangkan teknologi untuk pengamatan astronomi lebih luas lagi?",
+        "Reply": "Teknologi berkembang tentu saja mengikuti kebutuhan. Saat para astronom melakukan penelitian dan memerlukan suatu teknologi tertentu, maka di situlah teknologi dituntut untuk ikut mengakomodasi keperluan tersebut. Semakin luas pengetahuan manusia tentang alam semesta, semakin banyak keperluan pemakaian teknologi untuk bisa me-refine pengetahuan tersebut. Saintis dan insinyur saling mendukung.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Bagaimana metode pemberian nama pada bintang baru yang belum memiliki identitas? ",
+        "Reply": "Metode penamaan bintang yang baru disurvei akan mengikuti penamaan yang diatur untuk survei tersebut. Penamaan-penamaan tersebut akan unik untuk tiap survei. Sebagai contoh, survei Hipparcos menggunakan awalan HIP yang diikuti angka unik sebagai identifikasi bintang. Kemudian, nama bintang tidak menggunakan nama orang sebagai pengidentifikasinya, kecuali sejumlah kecil bintang yang dikaitkan dengan astronom penelitinya, contohnya bintang Barnard, meskipun nama-nama tersebut bukan nama resmi. IAU sendiri tidak memiliki konvensi/peraturan penamaan bintang dengan nama orang.",
+        "Checker": "EP"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Objek Kompak",
+        "Question": "Bagaimana para astronom bisa menyimpulkan keberadaan lubang hitam supermasif pada inti Galaksi Bima Sakti?",
+        "Reply": "Lubang hitam memiliki terminologi \"hitam\", menunjukkan sifatnya yang masih misteri dan sulit diamati karena tidak memancarkan cahaya. Namun lubang hitam memiliki gravitasi yang sangat besar sehingga obyek-obyek seperti bintang akan mengorbit. Dengan menganalisis radius dan periode orbit, kita akan bisa mengetahui seberapa besar obyek yang dikelilinginya. Contoh fenomena seperti ini biasa ditemukan di pusat galaksi, salah satunya di pusat Bima Sakti. Obyek yang tidak terlihat, mempunyai massa besar, dan melingkupi kawasan yang kecil merupakan sifat dari lubang hitam.",
+        "Checker": "EP"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Bagaimana akhir kehidupan dari sebuah bintang?",
+        "Reply": "Setiap bintang mengalami evolusi dari kelahiran hingga kematian. Besarnya massa bintang saat dia lahir menetukan jejak evolusinya dan cara bintang tersebut mengakhiri hidup. Akhir kehidupan bintang terjadi ketika bintang tersebut sudah tidak dapat menghasilkan energi. Umumnya pada akhir kehidupan bintang, bintang akan melontarkan sebagian besar massanya ke lingkungan sekitar, sebagai bahan baku pembentukan bintang baru.",
+        "Checker": "EP"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Apakah galaksi-galaksi yang ada juga bergerak mengelilingi sesuatu?",
+        "Reply": "Seperti halnya sistem lain (misalnya Tata Surya, ataupun bintang ganda), galaksi-galaksi juga bergerak mengelilingi suatu titik pusat massa di antara mereka. Titik pusat massa ini akan cenderung lebih dekat ke galaksi yang massanya paling besar dalam sistem tersebut.",
+        "Checker": "EP"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Bagaimanakah siklus hidup Galaksi Bima Sakti atau galaksi spiral lainnya?",
+        "Reply": "Menurut sebuah penelitian menggunakan citra galaksi-galaksi serupa Bima Sakti yang diambil oleh Teleskop Luar Angkasa Hubble, Bima Sakti bermula dari sekumpulan gas yang sangat banyak dan berbentuk sferis yang kemudian runtuh membentuk bintang-bintang. Pada masa 4 milyar tahun setelah Big Bang, Bima Sakti memproduksi 15 bintang per tahun. Selagi membentuk miliaran bintang, bagian bulge dan piringan galaksi terbentuk bersamaan. Pada akhirnya, Bima Sakti berbentuk seperti yang kita kenal sekarang. Terkait evolusi struktur spiral, masih banyak perdebatan apa yang menyebabkannya. Bima Sakti akan terus berevolusi dan pada suatu saat nanti akan bertabrakan dengan Galaksi Andromeda sehingga strukturnya akan berubah secara signifikan. Sementara itu, untuk galaksi spiral lain yang tidak bertabrakan dengan galaksi lain, evolusi lanjutannya adalah pembentukan bintang akan berhenti dan galaksi dapat berubah menjadi galaksi elips.",
+        "Checker": "EP"
+    },
+    {
+        "Kategori": "Pengamatan Langit",
+        "Sub Kategori": "Observasi kasat mata",
+        "Question": "Apakah Galaksi Bima Sakti dapat dilihat dengan mata telanjang?",
+        "Reply": "Untuk melihat Galaksi Bima Sakti dengan mata telanjang, sebaiknya dilakukan di tempat yang \"bersih\" dari polusi cahaya sebab Bima Sakti cukup redup. Untuk masalah ketinggian, pengamatan dapat dilakukan di ketinggian berapapun selama minim polusi cahaya dan cuaca cerah. Untuk waktu pengamatannya, Bima Sakti bisa teramati di atas horizon pada selamat langit malam (sejak Matahari terbenam hingga Matahari terbit), mulai dari bulan Februari hingga Oktober. Namun, waktu terbaiknya adalah sekitar bulan Juni - September, karena posisi Bima Sakti sudah cukup tinggi di langit sehingga mudah diamati.",
+        "Checker": "EP"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Apa parameter yang menentukan kelompok galaksi itu?",
+        "Reply": "Galaksi tidak didistribusikan secara acak di seluruh alam semesta, tetapi dikelompokkan dalam kelompok yang terikat secara gravitasi. Bima Sakti merupakan bagian dari kelompok yang disebut Grup Lokal yang berisi sekitar 50 galaksi.",
+        "Checker": "EP"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Bagaimana cara menentukan apakah suatu objek yang diamati termasuk ke dalam bagian Galaksi Bima Sakti atau bukan?",
+        "Reply": "Untuk menentukan apakah suatu objek merupakan anggota Galaksi Bima Sakti adalah dengan mengukur jaraknya. Jika jarak suatu objek masih dalam cakupan diameter Galaksi Bima Sakti, maka objek tersebut masih merupakan anggota dari galaksi kita.",
+        "Checker": "EP"
+    },
+    {
+        "Kategori": "Pengamatan Langit",
+        "Sub Kategori": "Observasi kasat mata",
+        "Question": "Bagaimana trik memotret Bima Sakti di daerah dengan polusi cahaya yang tinggi?",
+        "Reply": "Untuk daerah dengan polusi cahaya tinggi, salah satu cara yang bisa digunakan adalah dengan menggunakan Light Pollution Reduction (LPR atau CLS) filter. Filter ini tersedia untuk berbagai diameter lensa DSLR yang beredar di pasaran saat ini.",
+        "Checker": "EP"
+    },
+    {
+        "Kategori": "Tata Surya",
+        "Sub Kategori": "Bumi",
+        "Question": "Jika melompat di luar angkasa apakah bisa kembali lagi?",
+        "Reply": "Bergantung pada kecepatan melompatnya. Jika kecepatan melompat kita jauh lebih tinggi daripada kecepatan lepas (yang bergantung pada kekuatan gravitasi Bumi), maka ia bisa bebas meninggalkan permukaan Bumi dan tak jatuh lagi. Itu yang diupayakan oleh roket-roket yang keluar angkasa. Karena manusia tidak bertenaga setinggi itu, maka manusia hanya bisa melompat rendah saja dan jatuh lagi ke permukaan Bumi.",
+        "Checker": "EP"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Apakah ukuran galaksi dapat berubah?",
+        "Reply": "Ukuran galaksi dapat berubah. Jika galaksi-galaksi tersebut berinteraksi dan bergabung atau melakukan merger, maka gabungan galaksi tersebut akan berukuran lebih besar daripada galaksi awal pembentuknya.",
+        "Checker": "EP"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Objek Kompak",
+        "Question": "Jika pusat Galaksi Bima Sakti adalah lubang hitam, mengapa galaksinya tidak terhisap?",
+        "Reply": "Lubang hitam hanya dapat menghisap materi yang jaraknya cukup dekat saja. Untuk benda-benda yang jaraknya cukup jauh maka lubang hitam bersifat seperti benda bermassa pada umumnya. Oleh karena itu, bintang-bintang yang cukup jauh dari lubang hitam di pusat Galaksi kita tidak terhisap tetapi bergerak mengelilingi lubang hitam tersebut. Pergerakan bintang-bintang mengelilingi lubang hitam di pusat Galaksi kita dapat digunakan untuk menetukan massa lubang hitam di pusat Galaksi kita.",
+        "Checker": "EP"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Kapan Galaksi Bima Sakti lahir?",
+        "Reply": "Para astronom memperkirakan bahwa Galaksi Bima Sakti terbentuk sekitar 13,6 miliar tahun lalu.",
+        "Checker": "EP"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Mengapa bintang di pinggiran galaksi tidak terpental keluar akibat gaya sentrifugal?",
+        "Reply": "Bintang-bintang di tepian galaksi berkecepatan cukup tinggi, membuat orang bertanya-tanya bagaimana itu mungkin. Hal ini menunjukkan bahwa potensial gravitasi galaksi besar hingga ke tepian, yang berarti massa galaksi itu terdistribusi cukup besar hingga ke tepi, tidak hanya menumpuk di bagian tengah saja. Massa yang besar hingga ke tepi inilah yang menjaga bintang-bintang tidak lepas dari keseluruhan galaksi.",
+        "Checker": "EP"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Kenapa galaksi kita dinamai Bima Sakti, padahal dalam bahasa Inggris disebut sebagai Milky Way?",
+        "Reply": "Penamaan galaksi kita dalam bahasa Indonesia tidak menterjemahkan dari nama bahasa Inggrisnya. Galaksi Bima Sakti ketika musim kemarau akan melewati zenith (tepat di atas kepala kita) dan membentang dari timur ke barat, terlihat seperti kaki yang menyangkangi Bumi. Masyarakat Jawa kuno melihat kabut galaksi kita ini sebagai kaki milik Bima (Werkudara), tokoh wewayangan dari cerita Mahabarata. Karena Bima adalah tokoh yang sakti, maka dinamakan Bima Sakti. Milky Way sendiri berasal dari mitologi Yunani.",
+        "Checker": "EP"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Objek Kompak",
+        "Question": "Bagaimana asal-usul lubang hitam?",
+        "Reply": "Lubang hitam terbentuk dari bintang yang sangat masif atau bermassa sangat besar. Kemudian saat akhir hidupnya, bintang ini runtuh ke pusat dan meledak sehingga terbentuk objek sangat kompak. Karena massa yang besar ini lah gravitasinya besar pula.",
+        "Checker": "EP"
+    },
+    {
+        "Kategori": "Tata Surya",
+        "Sub Kategori": "Matahari",
+        "Question": "Kenapa Matahari bisa \"mati\"?",
+        "Reply": "Matahari memiliki \"bahan bakar\" berupa atom-atom hidrogen sehingga dapat menghasilkan energi melalui fusi nuklir di intinya. Hingga pada suatu masa, bahan bakar tersebut akan habis digunakan, dan \"mati\". Tidak hanya Matahari, semua bintang di langit juga akan mengalami hal yang kurang lebih sama: mereka akan mengakhiri masa hidupnya ketika bahan bakarnya habis. ",
+        "Checker": "EP"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Kosmologi",
+        "Question": "Mungkinkah galaksi bertabrakan di alam semesta yang memuai?",
+        "Reply": "Hingga saat ini, model alam semesta yang cocok dengan hasil pengamatan adalah alam semesta memuai dipercepat. Ditambah saat ini pula, galaksi Andromeda dan Galaksi Bima Sakti diperkirakan akan bertabrakan dalam orde miliaran tahun lagi. Jadi, jawabannya adalah mungkin.",
+        "Checker": "EP"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Apakah benar terdapat sebuah titik massa yg diorbit objek di dalam galaksi dan bagaimana proses terbentuknya?",
+        "Reply": "Pusat massa atau titik berat adalah titik dimana berat keseluruhan benda berada. Seperti jungkat jungkit yang titik massanya adalah di tengah meskipun terdapat pemberat di kedua ujung. Untuk galaksi, benar pusat massa galaksi adalah 'titik' yang diorbit objek di dalam galaksi, tetapi dia bukan titik, melainkan sebuah supermassive blackhole (lubang hitam sangat masif). Proses pembentukannya masih menjadi bahan studi, tapi salah satu teorinya mereka terbentuk dari runtuhnya awan antar bintang di awal alam semesta. Ada juga kemungkinan mereka terbentuk karena penggabungan dari lubang hitam-lubang hitam lainnya.",
+        "Checker": "EP"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Kosmologi",
+        "Question": "Apa pengaruh materi gelap pada galaksi?",
+        "Reply": "Untuk saat ini, materi penyusun materi gelap masih berusaha dikuak oleh para ilmuwan. Banyak sekali kandidat materi gelap yang diajukan dan dicocokkan dengan efeknya melalui pengamatan. Pengaruh materi gelap di skala galaksi adalah ada kasus kekurangan massa setelah melihat kurva rotasi bintang-bintang khususnya di galaksi spiral. Jika merujuk perhitungan Kepler, harusnya rotasi bintang yang memiliki radius lebih besar terhadap pusat akan menurun, tetapi dari fakta pengamatan malah terlihat mendatar. Hal ini yang mendasari bahwa kita kekurangan informasi massa yang tidak memancarkan radiasi elektromagnetik, yang kemudian disebut materi gelap.",
+        "Checker": "EP"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Kosmologi",
+        "Question": "Melihat jarak-jaraknya, benarkah apa yg kita lihat ini sebenarnya berasal dari masa lalu?",
+        "Reply": "Karena jarak objek-objek di alam semesta ini sangat besar, cahayanya butuh waktu untuk sampai ke Bumi. Skala waktunya hingga miliaran tahun. Kita bayangkan, untuk Matahari yang relatif dekat saja butuh waktu sekitar 8 menit agar cahayanya sampai ke Bumi.",
+        "Checker": "EP"
+    }
+    ]
+}

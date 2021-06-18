@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+        <title>Bootstrap Example</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+
+        <div class="container">
+
+                <ul id="qna">
+                        <li>
+                                <a data-toggle="modal" data-target="#qnaModal" href="#" class="tautan"></a>
+                        </li>
+                </ul>
+
+                <!-- The Modal -->
+                <div class="modal fade" id="qnaModal">
+                        <div class="modal-dialog modal-dialog-lg modal-dialog-centered">
+                                <div class="modal-content">
+
+                                        <!-- Modal Header -->
+                                        <div class="modal-header">
+                                                <h5 class="modal-title" id="modalTitle"></h5>
+                                                <button type="button" class="close"
+                                                        data-dismiss="modal">&times;</button>
+                                        </div>
+
+                                        <!-- Modal body -->
+                                        <div class="modal-body" id="modalBody">
+                                                <p></p>
+                                        </div>
+
+                                        <!-- Modal footer -->
+                                        <div class="modal-footer">
+                                                <button type="button" class="btn btn-danger"
+                                                        data-dismiss="modal">Tutup</button>
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+        </div>
+
+        <script>
+                $(document).ready(function () {
+                        $.getJSON('qna-pvlm03.json', function (data) {
+                                // clickedIndex = $(this).closest("li").index();
+                                // console.log(clickedIndex);
+                                var output = '';
+                                $.each(data.qna, function (key, value) {
+                                        output += '<li><a data-toggle="modal" data-target="#qnaModal" href="#" class="tautan">' + value.Question + '</a></li>';
+                                });
+                                $('#qna').html(output);
+                                var infoModal = $('#qnaModal');
+                                $('.tautan').on('click', function () {
+                                        clickedIndex = $(this).closest("li").index(); // mengetahui index list yang di-klik
+                                        // console.log(clickedIndex);
+                                        $.ajax({
+                                                type: "GET",
+                                                url: 'qna-pvlm03.json',
+                                                dataType: 'json',
+                                                success: function (data) {
+                                                        $(data.qna).each(function (index, value) {
+                                                                if (index == clickedIndex) {
+                                                                        htmlQuestion = value.Question;
+                                                                        htmlAnswer = value.Reply;
+                                                                        infoModal.find('.modal-title').html("Q: " + htmlQuestion);
+                                                                        infoModal.find('.modal-body').html(htmlAnswer);
+                                                                        infoModal.modal('show');
+                                                                };
+                                                        });
+                                                }
+                                        });
+                                });
+                        });
+                });
+
+        </script>
+
+</body>
+
+</html>
