@@ -229,11 +229,11 @@
   url = "/layanan/pvlm-2020/"
   weight = 57
 
-# [[main]]
-#   name = "Tautan"
-#   parent = "layanan"
-#   url = "tautan/"
-#   weight = 48
+[[main]]
+  name = "Polusi Cahaya"
+  parent = "layanan"
+  url = "/layanan/langitmalam"
+  weight = 58
 
 # [[main]]
 #   name = "Tim Pendidikan & Penjangkauan Publik"
