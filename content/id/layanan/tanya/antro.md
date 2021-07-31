@@ -23,6 +23,7 @@ weight: 4
   text-align: left;
   outline: none;
   transition: 0.4s;
+  font-size:16px;
 }
 
 .actives, .accordion:hover {
@@ -45,6 +46,7 @@ weight: 4
   padding: 0 18px;
   background-color: white;
   max-height: 0;
+  font-size:15px;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
   font-size: 15px;
@@ -67,9 +69,29 @@ weight: 4
 <div class="panel">
   <p>Ilmuwan Yunani dan Arab merupakan salah satu yang paling awal mempelajari dan memetakan bintang. Dokumentasi bintang dan rasi dari dua peradaban tersebut merupakan salah satu yang paling lengkap, oleh karena itulah nama modern bintang dan rasi sebagian besar diadopsi dari bahasa Yunani dan Arab.</p>
 </div>
+<button class="accordion">Di indonesia, adakah kebudayan yang berhubungan dengan peristiwa gerhana Bulan?</button>
+<div class="panel">
+<p>Di adat Jawa, ketika gerhana Bulan terjadi, dipercaya bahwa Bulan "dimakan" oleh seorang Buta bernama Kala Rahu yang balas dendam terhadap Dewa Bulan, Bathara Soma. Kala Rahu terpenggal oleh Bathara Wisnu karena dilaporkan oleh Bathara Soma dan Bathara Surya, ketika ia berusaha meminum air yang memberikan keabadian bernama Tirta Amertha. Kepala Kala Rahu menjadi abadi dan tubuhnya jatuh ke Bumi sebagai lesung. Masyarakat akan menabuhkan lesung supaya Kala Rahu memuntahkan Bulan kembali. Di NTT, masyarakat di Manggarai percaya gerhana Bulan terjadi karena Bulan melenceng dari jalur biasanya. Mereka akan menabuh gendang dan menari-nari untuk meminta Bulan kembali ke jalurnya. Ini hanya dua dari beberapa kebudayaan lainnya, cerita rakyat dan mitologi mengenai gerhana Bulan ada banyak di adat-adat lainnya. </p></div>
+<button class="accordion">Rasi bintang apa yang menjadi latar belakang gerhana Bulan 26 Mei 2021?	</button>
+<div class="panel">
+<p>Gerhana Bulan 26 Mei 2021 terjadi di dekat rasi Scorpius. </p>
+</div>
+<button class="accordion">Bagaimana memanfaatkan ilmu astronomi dalam kehidupan sehari hari? 	</button>
+<div class="panel">
+<p>Astronomi sebetulnya sangat erat dengan kehidupan sehari-hari, zaman dahulu, benda-benda langit banyak digunakan untuk navigasi yang tentunya sangat penting untuk manusia. Hingga saat ini pun posisi benda-benda langit juga masih banyak digunakan untuk navigasi orientasi satelit, dan satelit sangat diperlukan di era modern saat ini. Aktivitas Matahari juga sangat mempengaruhi satelit sehingga mempelajari aktivitas Matahari juga sangat erat dengan kehidupan modern saat ini. Dari sisi budaya dan keagamaan, ada banyak hari-hari penting yang ditentukan berdasarkan benda langit.</p>
+</div>
+<button class="accordion">Apa tujuan kita mempelajari rasi bintang?</button>	
+<div class="panel">
+<p>Tujuan dari mempelajari rasi bintang atau kosntelasi yaitu untuk membantu kita membedakan antara satu bintang dengan yang lainnya. Pada malam yang sangat gelap, kita bisa melihat ribuan bintang, Membedakan bintang satu dan lainnya akan sulit. Tetapi, dengan adanya konstelasi kita akan lebih mudah mengelompokkan dan mengidentifikasi suatu bintang. Misalnya, kita melihat 3 bintang berurutan  dan menyadari bahwa ketiga bintang tersebut merupakan sabuk Orion bagian konstelasi Orion, dengan itu kita juga bisa mengetahui bintang yang berada di sekitarnya. Selain itu, konstelasi dapat mempermudah kita untuk menentukan letak suatu objek di langit. Misalnya, letak galaksi Andromeda yang berada di rasi Andromeda atau pusat Galaksi Bima Sakti yang berada di sekitar rasi Sagittarius.</p></div>
+<button class="accordion">Apakah rasi bintang ada kaitannya dengan zodiak (tanggal & bulan lahir)?</button>	
+<div class="panel">
+<p>Lebih tepatnya adalah rasi zodiak merupakan sejumlah rasi dari 88 rasi yang ada di langit. Rasi-rasi zodiak pada dasarnya merupakan rasi-rasi yang dilalui Matahari terlihat dari Bumi sepanjang tahun.</p></div>
 
 ### Waktu dan Sistem Kalender
 <div>Seputar waktu dan sistem kalender</div>
+<button class="accordion">Sejak kapan manusia bisa memprdiksi terjadinya gerhana Bulan?</button>
+<div class="panel">
+<p>Lebih dari 2000 tahun lalu manusia sudah bisa memprediksi gerhana. Dahulu gerhana sudah dicatatkan sehingga periodenya dapat diketahui, sekitar 18 tahunan yang dikenal sebagai Siklus Saros. Semakin modern, semakin akurat waktu prediksinya. </p></div>
 
 ### Eksplorasi Luar Angkasa
 <div>Seputar eksplorasi luar angkasa</div>

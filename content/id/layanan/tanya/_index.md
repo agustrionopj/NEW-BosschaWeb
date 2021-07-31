@@ -40,6 +40,7 @@ linktitle = "Tata Surya"
   text-align: left;
   outline: none;
   transition: 0.4s;
+  font-size:16px;
 }
 
 .actives, .accordion:hover {
@@ -63,6 +64,7 @@ linktitle = "Tata Surya"
   background-color: white;
   max-height: 0;
   overflow: hidden;
+  font-size:15px;
   transition: max-height 0.2s ease-out;
 }
 </style>
@@ -71,9 +73,15 @@ linktitle = "Tata Surya"
 
 ### Bumi
 <div>Seputar Bumi</div>
+<button class="accordion">Jika melompat di luar angkasa apakah bisa kembali lagi?</button>	
+<div class="panel">Bergantung pada kecepatan melompatnya. Jika kecepatan melompat kita jauh lebih tinggi daripada kecepatan lepas (yang bergantung pada kekuatan gravitasi Bumi), maka ia bisa bebas meninggalkan permukaan Bumi dan tak jatuh lagi. Itu yang diupayakan oleh roket-roket yang keluar angkasa. Karena manusia tidak bertenaga setinggi itu, maka manusia hanya bisa melompat rendah saja dan jatuh lagi ke permukaan Bumi.
+</div>
 
 ### Matahari
 <div>Seputar Matahari</div>
+<button class="accordion">Kenapa Matahari bisa "mati"?</button>	
+<div class="panel">Matahari memiliki "bahan bakar" berupa atom-atom hidrogen sehingga dapat menghasilkan energi melalui fusi nuklir di intinya. Hingga pada suatu masa, bahan bakar tersebut akan habis digunakan, dan "mati". Tidak hanya Matahari, semua bintang di langit juga akan mengalami hal yang kurang lebih sama: mereka akan mengakhiri masa hidupnya ketika bahan bakarnya habis. 
+</div>
 
 ### Planet dan planet kerdil
 <div>Seputar planet</div>
