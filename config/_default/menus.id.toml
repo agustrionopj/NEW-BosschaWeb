@@ -233,7 +233,7 @@
   name = "Pustaka Pertanyaan"
   parent = "layanan"
   url = "/layanan/tanya/"
-  weight = 57
+  weight = 58
 
 # [[main]]
 #   name = "Tautan"
