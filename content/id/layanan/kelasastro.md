@@ -22,6 +22,7 @@ Di masa pandemi Covid-19 ini, tim pendidikan dan penjangkauan publik Observatori
 
 Kelas daring dapat berlangsung selama 30 hingga 60 menit yang dapat berisi beberapa pemaparan materi seperti pengenalan observatorium dan profesi astronom, serta topik astronomi tertentu. Untuk materi astronomi yang disampaikan akan bergantung kepada pihak observatorium, atau dalam kasus tertentu dapat sesuai permintaan. Dalam penyampaiannya, program dan konten akan disesuaikan dengan tingkat pendidikan dari peserta. Kami dapat menggunakan media interaktif (*software*, video) dan juga aktivitas *hands-on* dalam pelaksanaan kelas.  Kelas ini akan dipandu oleh peneliti/astronom edukator kami. 
 
+### Seputar Layanan
 #### Apakah Observatorium Bosscha memberikan layanan virtual trip? 
 > Kami belum memiliki program tur virtual dengan format berkeliling kawasan dan melihat fasilitas Observatorium Bosscha secara *real-time*. 
 
