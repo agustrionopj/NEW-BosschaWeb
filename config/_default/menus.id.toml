@@ -172,7 +172,7 @@
 [[main]]
   name = "Galeri"
   parent = "media"
-  # url = "/gallery-test3/"
+  #url = "/gallery-test3/"
   url = "/gallery/"
   weight = 45
 # --------------------------------------------------------------
@@ -227,6 +227,12 @@
   name = "Kegiatan Lampau"
   parent = "layanan"
   url = "/layanan/pvlm-2020/"
+  weight = 57
+
+[[main]]
+  name = "Pustaka Pertanyaan"
+  parent = "layanan"
+  url = "/layanan/tanya/"
   weight = 57
 
 # [[main]]
