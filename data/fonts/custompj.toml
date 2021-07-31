@@ -4,12 +4,14 @@ name = "minimal"
 # Optional Google font URL
 
 # google_fonts = "Lato:400,700|Work+Sans:400,400italic,700|Roboto+Mono|Open+Sans:wght@700"
-google_fonts = "Montserrat:wght@400;700|Lato:ital,wght@0,400;0,700;1,400|Open+Sans:wght@700|Roboto+Mono|Fira+Sans|Roboto|Nunito"
+google_fonts = "Montserrat:wght@400;700|Lato:ital,wght@0,400;0,700;1,400|Open+Sans:wght@700|Roboto+Mono|Fira+Sans|Roboto|Nunito|Raleway:wght@400;700"
 
 # Font families
 heading_font = "Nunito"
+# heading_font = "Raleway"
 body_font = "Open Sans"
 nav_font = "Nunito"
+# nav_font = "Raleway"
 mono_font = "Roboto Mono"
 # heading_font = "Lato"
 # body_font = "Work Sans"

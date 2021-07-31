@@ -1,0 +1,13 @@
+// Override this file to add your own SCSS styling.
+.navbar-nav {
+        display: flex;
+    
+        .nav-link {
+          color: rgba(250,250,111, .85);
+    
+          &.active {
+            font-weight: bold !important;
+            color: $sta-menu-text-active !important;
+          }
+        }
+      }

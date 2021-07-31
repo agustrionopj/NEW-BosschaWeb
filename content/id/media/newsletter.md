@@ -108,10 +108,12 @@ menu:
     </p>
   </div>
   <div class="column">
-     <!-- {{<youtube iQ7-aChXn7g >}}
-    <p style="font-size: .8em" class="showmore">Pada pertemuan ini pemirsa diajak untuk mendengar cerita tentang siklus hidup bintang, seperti apa daerah pembentuk bintang pada umumnya? <span class="dots">$\ldots$</span><span class="more">Tersusun atas apa? Bagaimana bintang lahir di nebula ini? Bagaimana proses kematian serta peran bintang dalam memperkaya unsur kimia di alam semesta? </span>
-      <button>Selengkapnya</button>
-    </p> -->
+     <img src="/img/cover-01.png"></img>
+    <p style="font-size: .8em" class="showmore">
+    Resolusi Tinggi (56 MB) {{% staticref "files/newsletter/NEBULA_E01.pdf" "newtab" %}}<button>Unduh</button>{{% /staticref %}} <br>
+    Resolusi Rendah (14MB) {{% staticref "files/newsletter/NEBULA_E01_low.pdf" "newtab" %}}<button>Unduh</button>{{% /staticref %}} 
+    </p>
+  </div>
   </div>
   <div class="column">
     <!-- {{<youtube 6i4EKFyrMQ0>}}
