@@ -2,7 +2,7 @@
 # Hero widget.
 widget = "hero"  # Do not modify this line!
 headless = true
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
 # title = "Pengamatan Hilal Ramadhan 1440 H/2019 M (LIVE)"
@@ -88,11 +88,11 @@ hero_media = "closed.png"
 </style>
 
 <pengumuman>
-<p style="font-size:0.83rem;color:yellow">Dengan mempertimbangkan status pandemi  COVID-19 serta masih adanya peningkatan penyebaran virus tersebut di Indonesia, khususnya di kawasan Bandung Raya, serta memperhatikan surat edaran Menteri Pendidikan dan Kebudayaan RI No. 3 tahun 2020 dan himbauan dari Institut Teknologi Bandung, maka Observatorium Bosscha  <font color="white">memperpanjang penutupan kunjungan dan acara publik tatap muka hingga setidaknya 9 Januari 2022.</font></p>
+<p style="font-size:0.83rem;color:yellow">Dengan mempertimbangkan status pandemi  COVID-19 serta masih adanya peningkatan penyebaran virus tersebut di Indonesia, khususnya di kawasan Bandung Raya, serta memperhatikan surat edaran Menteri Pendidikan dan Kebudayaan RI No. 3 tahun 2020 dan himbauan dari Institut Teknologi Bandung, maka Observatorium Bosscha  <font color="white">memperpanjang penutupan kunjungan dan acara publik tatap muka hingga setidaknya 31 Juli 2021.</font></p>
 
 <p style="font-size:0.83rem;color:yellow">Selama penutupan berlangsung, program edukasi publik akan dilakukan <font color="white">secara daring </font> melalui kanal digital resmi  Observatorium Bosscha. Silakan kunjungi website dan media sosial resmi Observatorium Bosscha untuk informasi lebih lanjut.</p>
 
-<!-- <p style="font-size:0.83rem;color:yellow">Press release terkait pengumuman ini bisa diunduh pada tautan {{%staticref "files/press-rilis-OB-tutup-1Januari2021.pdf" "newtab" %}} berikut.{{%/staticref%}}</p> -->
+<p style="font-size:0.83rem;color:yellow">Press release terkait pengumuman ini bisa diunduh pada tautan {{%staticref "files/press-rilis-OB-tutup-1Januari2021.pdf" "newtab" %}} berikut.{{%/staticref%}}</p>
 </pengumuman>
 
 <!-- Informasi lebih lengkap tekan tombol di bawah ini: -->

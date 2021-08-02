@@ -3,13 +3,14 @@
         display: flex;
     
         .nav-link {
-          color: rgba($sta-menu-text, .85);
+          color: rgba(250,250,111, .85);
     
           &.active {
             font-weight: bold !important;
             color: $sta-menu-text-active !important;
           }
         }
+<<<<<<< HEAD
       }
 
       .wg-hero {
@@ -28,4 +29,6 @@
         animation: none;
         background-color: #fff;
         animation-delay: unset;
+=======
+>>>>>>> parent of d9bab6c (Create 'Our Team' page (beta version))
       }

@@ -67,10 +67,11 @@ Pilih **_Watch this video on YouTube_** jika ada pesan kesalahan dalam memutar v
   </div>
   <div class="column">
         {{<youtube  R174vKeYei0>}}
-        <p style="font-size: .8em" class="showmore">
-        Pada 26 Mei 2021, masyarakat di seluruh Indonesia akan berkesempatan untuk mengamati  fenomena Gerhana Bulan Total (GBT). Di wilayah Bandung dan sekitarnya, gerhana akan dimulai pada pukul 15:48 WIB <span class="dots">$\ldots$</span><span class="more">dan akan masuk menuju fase totalitas pada pukul 18:19 WIB saat Bulan baru terbit di Timur. Kita dapat menyaksikan proses gerhana hingga selesai pada pukul 20:50 WIB. Pada PVLM episode kedua tahun 2021 ini, kami akan mengajak masyarakat Indonesia melihat bagaimana proses gerhana Bulan diamati melalui teleskop di Observatorium Bosscha.</span>
-        <button>Selengkapnya</button></a>  
-        Silakan klik tautan <a href="/id/layanan/pvlm-ep02/" target=_blank>berikut</a> untuk informasi lebih lanjut tentang fenomena Gerhana Bulan Total.
+        <p style="font-size: .8em" class="showmore2">
+        Pada 26 Mei 2021, masyarakat di seluruh Indonesia akan berkesempatan untuk mengamati  fenomena Gerhana Bulan Total (GBT). Di wilayah Bandung dan sekitarnya, gerhana akan dimulai pada pukul 15:48 WIB $\ldots$
+        <!-- Pada 26 Mei 2021, masyarakat di seluruh Indonesia akan berkesempatan untuk mengamati  fenomena Gerhana Bulan Total (GBT). Di wilayah Bandung dan sekitarnya, gerhana akan dimulai pada pukul 15:48 WIB <span class="dots">$\ldots$</span><span class="more">dan akan masuk menuju fase totalitas pada pukul 18:19 WIB saat Bulan baru terbit di Timur. Kita dapat menyaksikan proses gerhana hingga selesai pada pukul 20:50 WIB. Pada PVLM episode kedua tahun 2021 ini, kami akan mengajak masyarakat Indonesia melihat bagaimana proses gerhana Bulan diamati melalui teleskop di Observatorium Bosscha.</span> -->
+        <a href="/id/layanan/pvlm-ep02/"  target=_blank><button>Selengkapnya</button></a>  
+        <!-- Silakan klik tautan <a href="/id/layanan/pvlm-ep02/" target=_blank>berikut</a> untuk informasi lebih lanjut tentang fenomena Gerhana Bulan Total. -->
   </div>
   <div class="column">
         {{<youtube NefTscdTrbo>}}

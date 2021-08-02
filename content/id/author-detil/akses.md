@@ -9,9 +9,9 @@ menu:
   author-detil:
     parent: Tentang Kami
     name: Lokasi & Akses
-    weight: 5
+    weight: 40
 
-weight: 5
+weight: 40
 ---
 <!DOCTYPE html>
 <html>

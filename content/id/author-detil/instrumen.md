@@ -10,9 +10,9 @@ identifier: instrumen
 menu:
   author-detil:
     parent: Tentang Kami
-    weight: 3
+    weight: 2
 
-weight: 3
+weight: 2
 
 # gallery_item:
 #   - album: zeiss

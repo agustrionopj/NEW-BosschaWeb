@@ -9,9 +9,9 @@ linktitle: Fasilitas Penunjang
 menu:
   author-detil:
     parent: Tentang Kami
-    weight: 4
+    weight: 3
 
-weight: 4
+weight: 3
 
 gallery_item:
   - album: perpus
