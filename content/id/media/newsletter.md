@@ -24,6 +24,54 @@ menu:
 
 ---
 
+<div class="row">
+  <div class="column">
+    <center><b>Edisi 01: April - Juni 2021</b></center>
+  </div>
+  <div class="column">
+    <center><b>Edisi 02: Juli - September 2021</b></center>
+  </div>
+  <div class="column">
+    <center><b>Edisi 03: TBD</b></center>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="/img/cover-01.png"></img>
+    <p style="font-size: .8em" class="showmore">
+    Resolusi Tinggi (56 MB) {{% staticref "files/newsletter/NEBULA_E01.pdf" "newtab" %}}<button>Unduh</button>{{% /staticref %}} <br>
+    Resolusi Rendah (14 MB) {{% staticref "files/newsletter/NEBULA_E01_low.pdf" "newtab" %}}<button>Unduh</button>{{% /staticref %}} 
+    </p>
+  </div>
+  <div class="column">
+     <img src="/img/cover-02.png"></img>
+    <p style="font-size: .8em" class="showmore">
+    Resolusi Tinggi (75 MB) {{% staticref "files/newsletter/NEBULA_E02_HD.pdf" "newtab" %}}<button>Unduh</button>{{% /staticref %}} <br>
+    Resolusi Rendah (33 MB) {{% staticref "files/newsletter/NEBULA_E02_SD.pdf" "newtab" %}}<button>Unduh</button>{{% /staticref %}} 
+    </p>
+  </div>
+  </div>
+  <div class="column">
+    <!-- {{<youtube 6i4EKFyrMQ0>}}
+    <p style="font-size: .8em" class="showmore"> Seperti manusia, masing-masing dari miliaran galaksi di alam semesta mengembangkan sifat uniknya sendiri selama masa hidup yang rumit. <span class="dots">$\ldots$</span><span class="more">Apa saja bentuk dan komponen galaksi, bagaimana galaksi terbentuk dan apa yang dapat galaksi ceritakan tentang alam semesta kita? </span>
+      <button>Selengkapnya</button>
+    </p> -->
+  </div>
+</div>
+
+<div class="row">
+  <!-- <div class="column">
+    <p style="font-size: .8em">Narasumber: <br> 1. Premana W. Premadi, Ph.D. <br>  2. Muhammad Yusuf, S.Si.</p>
+  </div> -->
+  <div class="column">
+    <!-- <p style="font-size: .8em">Narasumber: <br> 1. Dr. Kiki Vierdayanti <br>  2. Muhammad Yusuf, S.Si.</p> -->
+  </div>
+  <div class="column">
+    <!-- <p style="font-size: .8em">Narasumber: <br> 1. Premana W. Premadi, Ph.D. <br>  2. Muhammad Yusuf, S.Si.</p> -->
+  </div>
+</div>
+
 <style>
 * {
   box-sizing: border-box;
@@ -86,51 +134,3 @@ menu:
   padding: 0.5em;
 }
 </style>
-
-<div class="row">
-  <div class="column">
-    <center><b>Edisi 01: April - Juni 2021</b></center>
-  </div>
-  <div class="column">
-    <center><b>Edisi 02: Juli - September 2021</b></center>
-  </div>
-  <div class="column">
-    <center><b>Edisi 03: TBD</b></center>
-  </div>
-</div>
-
-<div class="row">
-  <div class="column">
-    <img src="/img/cover-01.png"></img>
-    <p style="font-size: .8em" class="showmore">
-    Resolusi Tinggi (56 MB) {{% staticref "files/newsletter/NEBULA_E01.pdf" "newtab" %}}<button>Unduh</button>{{% /staticref %}} <br>
-    Resolusi Rendah (14 MB) {{% staticref "files/newsletter/NEBULA_E01_low.pdf" "newtab" %}}<button>Unduh</button>{{% /staticref %}} 
-    </p>
-  </div>
-  <div class="column">
-     <img src="/img/cover-02.png"></img>
-    <p style="font-size: .8em" class="showmore">
-    Resolusi Tinggi (297 MB) {{% staticref "files/newsletter/NEBULA_E02_HD.pdf" "newtab" %}}<button>Unduh</button>{{% /staticref %}} <br>
-    Resolusi Rendah (33 MB) {{% staticref "files/newsletter/NEBULA_E02_SD.pdf" "newtab" %}}<button>Unduh</button>{{% /staticref %}} 
-    </p>
-  </div>
-  </div>
-  <div class="column">
-    <!-- {{<youtube 6i4EKFyrMQ0>}}
-    <p style="font-size: .8em" class="showmore"> Seperti manusia, masing-masing dari miliaran galaksi di alam semesta mengembangkan sifat uniknya sendiri selama masa hidup yang rumit. <span class="dots">$\ldots$</span><span class="more">Apa saja bentuk dan komponen galaksi, bagaimana galaksi terbentuk dan apa yang dapat galaksi ceritakan tentang alam semesta kita? </span>
-      <button>Selengkapnya</button>
-    </p> -->
-  </div>
-</div>
-
-<div class="row">
-  <!-- <div class="column">
-    <p style="font-size: .8em">Narasumber: <br> 1. Premana W. Premadi, Ph.D. <br>  2. Muhammad Yusuf, S.Si.</p>
-  </div> -->
-  <div class="column">
-    <!-- <p style="font-size: .8em">Narasumber: <br> 1. Dr. Kiki Vierdayanti <br>  2. Muhammad Yusuf, S.Si.</p> -->
-  </div>
-  <div class="column">
-    <!-- <p style="font-size: .8em">Narasumber: <br> 1. Premana W. Premadi, Ph.D. <br>  2. Muhammad Yusuf, S.Si.</p> -->
-  </div>
-</div>

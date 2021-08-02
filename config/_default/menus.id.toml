@@ -28,7 +28,7 @@
 [[main]]
   name = "Staf"
   parent = "about"
-  url = "#people"
+  url = "/author-detil/team/"
   weight = 12
 
 # [[main]]

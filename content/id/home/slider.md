@@ -44,6 +44,30 @@ height = "75vh"
 #  cta_icon = "tv"
 
 [[item]]
+  title = "**PENGUMUMAN TERKAIT COVID-19**<br> --------- <br> Observatorium Bosscha <font color='yellow'>TUTUP</font> <br> sampai dengan 9 Januari 2022"
+  content = ""
+  align = "center"  # Choose `center`, `left`, or `right`.
+
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = "#666"  # An HTML color value.
+  # overlay_img = "headers/m31.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "headers/covid-19.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+  # Call to action button (optional).
+  #   Activate the button by specifying a URL and button label below.
+  #   Deactivate by commenting out parameters, prefixing lines with `#`.
+
+  #cta_label = "Tentang Kami"
+  #cta_url = "#about"
+  #cta_icon_pack = "fas"
+  #cta_icon = "user-check"
+  # cta_label = "Get Academic"
+  # cta_url = "https://sourcethemes.com/academic/"
+  # cta_icon_pack = "fas"
+  # cta_icon = "graduation-cap"
+[[item]]
   title = "**Selamat Datang** <br> di Observatorium Bosscha"
   content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
