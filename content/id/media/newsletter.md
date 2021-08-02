@@ -92,7 +92,7 @@ menu:
     <center><b>Edisi 01: April - Juni 2021</b></center>
   </div>
   <div class="column">
-    <center><b>Edisi 02: TBD</b></center>
+    <center><b>Edisi 02: Juli - September 2021</b></center>
   </div>
   <div class="column">
     <center><b>Edisi 03: TBD</b></center>
@@ -104,14 +104,14 @@ menu:
     <img src="/img/cover-01.png"></img>
     <p style="font-size: .8em" class="showmore">
     Resolusi Tinggi (56 MB) {{% staticref "files/newsletter/NEBULA_E01.pdf" "newtab" %}}<button>Unduh</button>{{% /staticref %}} <br>
-    Resolusi Rendah (14MB) {{% staticref "files/newsletter/NEBULA_E01_low.pdf" "newtab" %}}<button>Unduh</button>{{% /staticref %}} 
+    Resolusi Rendah (14 MB) {{% staticref "files/newsletter/NEBULA_E01_low.pdf" "newtab" %}}<button>Unduh</button>{{% /staticref %}} 
     </p>
   </div>
   <div class="column">
-     <img src="/img/cover-01.png"></img>
+     <img src="/img/cover-02.png"></img>
     <p style="font-size: .8em" class="showmore">
-    Resolusi Tinggi (56 MB) {{% staticref "files/newsletter/NEBULA_E01.pdf" "newtab" %}}<button>Unduh</button>{{% /staticref %}} <br>
-    Resolusi Rendah (14MB) {{% staticref "files/newsletter/NEBULA_E01_low.pdf" "newtab" %}}<button>Unduh</button>{{% /staticref %}} 
+    Resolusi Tinggi (297 MB) {{% staticref "files/newsletter/NEBULA_E02_HD.pdf" "newtab" %}}<button>Unduh</button>{{% /staticref %}} <br>
+    Resolusi Rendah (33 MB) {{% staticref "files/newsletter/NEBULA_E02_SD.pdf" "newtab" %}}<button>Unduh</button>{{% /staticref %}} 
     </p>
   </div>
   </div>
