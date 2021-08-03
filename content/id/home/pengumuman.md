@@ -2,7 +2,7 @@
 # Hero widget.
 widget = "hero"  # Do not modify this line!
 headless = true
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
 # title = "Pengamatan Hilal Ramadhan 1440 H/2019 M (LIVE)"

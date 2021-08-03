@@ -24,6 +24,7 @@ menu:
     # parent: Fasilitas
     
 ---
+* {{%staticref "files/press-rilis-OB-tutup-2Agustus2021.pdf" "newtab"%}}Press Release Bosscha Tutup terkait COVID-19 2 Agustus 2021{{%/staticref%}}
 * {{%staticref "files/ObsBosscha-Press-Release-GBT-Mei-2021.pdf" "newtab"%}}Press Release Gerhana Bulan Total 26 Mei 2021{{%/staticref%}}
 * {{%staticref "files/ObsBosscha-Press-Release-Syawal-2021.pdf" "newtab"%}}Press Release Hilal Syawal 1442H/2021 M {{%/staticref%}}
 * {{%staticref "files/ObsBosscha-Press-Release-Ramadhan-2021.pdf" "newtab"%}}Press Release Hilal Ramadhan 1442H/2021 M {{%/staticref%}}
