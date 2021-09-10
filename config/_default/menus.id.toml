@@ -240,10 +240,12 @@
 #   parent = "layanan"
 #   url = "tautan/"
 #   weight = 48
-    #name = "Polusi Cahaya"
-    #parent = "layanan"
-    #url = "/layanan/langitmalam"
-    #weight = 59
+
+[[main]]
+    name = "Polusi Cahaya"
+    parent = "layanan"
+    url = "/layanan/langitmalam"
+    weight = 59
 
 # [[main]]
 #   name = "Tim Pendidikan & Penjangkauan Publik"
