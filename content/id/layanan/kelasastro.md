@@ -14,7 +14,7 @@ menu:
 weight: 1
 ---
 
-<h3 style="text-align: center;">Layanan Daring untuk Sekolah</h3>
+### Layanan Daring Untuk Sekolah
 
 ---
 
@@ -228,6 +228,7 @@ img {
 
 Kelas daring dapat berlangsung selama 30 hingga 60 menit yang dapat berisi beberapa pemaparan materi seperti pengenalan observatorium dan profesi astronom, serta topik astronomi tertentu. Untuk materi astronomi yang disampaikan akan bergantung kepada pihak observatorium, atau dalam kasus tertentu dapat sesuai permintaan. Dalam penyampaiannya, program dan konten akan disesuaikan dengan tingkat pendidikan dari peserta. Kami dapat menggunakan media interaktif (*software*, video) dan juga aktivitas *hands-on* dalam pelaksanaan kelas.  Kelas ini akan dipandu oleh peneliti/astronom edukator kami. 
 
+### Seputar Layanan
 #### Apakah Observatorium Bosscha memberikan layanan virtual trip? 
 > Kami belum memiliki program tur virtual dengan format berkeliling kawasan dan melihat fasilitas Observatorium Bosscha secara *real-time*. 
 
@@ -244,16 +245,20 @@ Contoh program yang telah terlaksana dapat dilihat pada link <a href="https://ww
 
 Apakah sekolah Anda tertarik? Silahkan ikuti langkah berikut:
 
-- <u>Membuat surat resmi yang ditujukan kepada Observatorium Bosscha, dengan mencantumkan informasi berikut</u> :
+1.  <u> Daftarkan sekolah dengan mengisi formulir <a href="#pendaftaran">pendaftaran</a>.</u>
+    - **Isikan data dengan informasi yang sebenar-benarnya**
+<br>
+<br>
+2.  <u> Tunggu informasi lanjutan mengenai pendaftaran yang telah dilakukan. </u>
+<br>
 
-    - **Tanggal dan Waktu acara**
-    - **Tingkat pendidikan peserta**
-    - **Komponen dan jumlah peserta (siswa, guru, atau lainnya)**
-    - **Topik  materi yang ingin disampaikan (jika ada)**
-    - **Narahubung**
+***
+### Jadwal
 
-- <u>Layangkan permohonan dan surat ke email</u>:
-{{% alert note %}}
-<i class="fas fa-envelope"></i> `bosscha[at]as.itb.ac.id` <br><br>
-(Ganti '[at]' dengan lambang '@' saat anda menuliskan alamat email)
-{{% /alert %}} -->
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FJakarta&amp;src=aWQuaW5kb25lc2lhbiNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=Y2xhc3Nyb29tMTEyODIyMjczNDk4MTIzMDk1MDQwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23D50000&amp;color=%23F6BF26&amp;title=Jadwal%20Kelas%20Daring%20Astronomi" style="border:solid 1px #777" width="640" height="480" frameborder="0" scrolling="no"></iframe>
+<br>
+
+***
+### Pendaftaran
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfwMVTUsT8cw9Po3apYbqoajvaAh3E8l-GT4av-OCu1Y6F-HA/viewform?embedded=true" width="860" height="2000" frameborder="0" marginheight="0" marginwidth="0">Memuat…</iframe>

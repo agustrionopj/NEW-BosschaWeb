@@ -172,7 +172,7 @@
 [[main]]
   name = "Galeri"
   parent = "media"
-  # url = "/gallery-test3/"
+  #url = "/gallery-test3/"
   url = "/gallery/"
   weight = 45
 # --------------------------------------------------------------
@@ -230,10 +230,20 @@
   weight = 57
 
 [[main]]
-  name = "Polusi Cahaya"
+  name = "Pustaka Pertanyaan"
   parent = "layanan"
-  url = "/layanan/langitmalam"
+  url = "/layanan/tanya/"
   weight = 58
+
+# [[main]]
+#   name = "Tautan"
+#   parent = "layanan"
+#   url = "tautan/"
+#   weight = 48
+    #name = "Polusi Cahaya"
+    #parent = "layanan"
+    #url = "/layanan/langitmalam"
+    #weight = 59
 
 # [[main]]
 #   name = "Tim Pendidikan & Penjangkauan Publik"

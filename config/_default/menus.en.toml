@@ -35,16 +35,17 @@
   weight = 13
 
 [[main]]
-  name = "Facility"
+  name = "Instruments"
   parent = "about"
   url = "/author-detil/instrumen/"
   weight = 14
 
 [[main]]
-  name = "News"
+  name = "Facility"
   parent = "about"
-  url = "/post/"
+  url = "/author-detil/non-instrumen/"
   weight = 15
+
 # ------------------------------------------------
 # Research & Academic
 # ------------------------------------------------
@@ -78,40 +79,13 @@
 #   weight = 24
 
 # --------------------------------------------------------------
-# Public visit
-# --------------------------------------------------------------
-[[main]]
-  name = "Visit"
-  identifier = "kunjungan"
-  url = "/kunjungan/"
-  weight = 30
-
-[[main]]
-  name = "Programme & Schedule"
-  parent = "kunjungan"
-  url = "/kunjungan/"
-  weight = 31
-
-[[main]]
-  name = "Visiting Tips & Rules"
-  parent = "kunjungan"
-  url = "/kunjungan/aturan/"
-  weight = 32
-
-[[main]]
-  name = "Registration"
-  parent = "kunjungan"
-  url = "/kunjungan/daftar/"
-  weight = 33
-
-# --------------------------------------------------------------
 # Public Service
 # --------------------------------------------------------------
 [[main]]
-  name = "Services"
+  name = "Media"
   identifier = "layanan"
   url = "/layanan/"
-  weight = 40
+  weight = 30
 
 # [[main]]
 #   name = "Education & Outreach"
@@ -120,23 +94,30 @@
 #   weight = 41
 
 [[main]]
-  name = "Astronomy Calendar"
-  parent = "layanan"
-  url = "/layanan/astrocal/"
-  weight = 42
-
-[[main]]
   name = "Press-release"
   parent = "layanan"
   url = "/layanan/pressrelease"
-  weight = 43
+  weight = 31
+
+[[main]]
+  name = "News"
+  parent = "layanan"
+  url = "/post/"
+  weight = 32
+
+[[main]]
+  name = "Astronomy Calendar"
+  parent = "layanan"
+  url = "/layanan/astrocal/"
+  weight = 33
+
 
 [[main]]
   name = "Gallery"
   parent = "layanan"
-  url = "/gallery-test2/"
+  url = "/gallery/"
   # url = "/galeri-2/"
-  weight = 44
+  weight = 34
 
 # [[main]]
 #   name = "Library"
@@ -144,17 +125,48 @@
 #   url = "#"
 #   weight = 45
 
-[[main]]
-  name = "Weather Station"
-  parent = "layanan"
-  url = "../aws/"
-  weight = 46
+ #[[main]]
+  #name = "Links"
+  #parent = "layanan"
+  #url = "tautan/"
+  #weight = 48
 
- [[main]]
-  name = "Links"
-  parent = "layanan"
-  url = "tautan/"
-  weight = 48
+# --------------------------------------------------------------
+# Public visit
+# --------------------------------------------------------------
+[[main]]
+  name = "Visit"
+  identifier = "kunjungan"
+  url = "/kunjungan/"
+  weight = 40
+
+[[main]]
+  name = "Programme & Schedule"
+  parent = "kunjungan"
+  url = "/kunjungan/"
+  weight = 41
+
+[[main]]
+  name = "Visiting Tips & Rules"
+  parent = "kunjungan"
+  url = "/kunjungan/aturan/"
+  weight = 42
+
+[[main]]
+  name = "Registration"
+  parent = "kunjungan"
+  url = "/kunjungan/daftar/"
+  weight = 43
+  
+# ---------------------------------------
+#  WEATHER
+# ---------------------------------------
+[[main]]
+  name = "Weather"
+  #parent = "layanan"
+  url = "../aws/"
+  weight = 49
+
 # ---------------------------------------
 #  KONTAK
 # ---------------------------------------
