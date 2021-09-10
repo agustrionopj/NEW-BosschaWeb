@@ -22,24 +22,25 @@ Bagaimana menyaksikan PVLM 2021?
 
 ---
 
-<!-- **12 Juni 2021** <br>
-**Episode 3 - Galaksi Bima Sakti dari Masa ke Masa** <br>
-**Narasumber: Hesti Retno T. Wulandari, Muhammad Yusuf, Zulkarnain** <br><br>
-Sebagai galaksi rumah tempat kita berada, tidak mengherankan bila Bima Sakti merupakan galaksi yang paling banyak dipelajari secara mendalam detail. Dimulai dengan usaha pemetaan oleh Herschel di abad ke-18 dan penelusuran ukuran galaksi dengan studi gugus bola oleh Shapley di awal abad ke-12, kini, teknologi pengamatan mengijinkan untuk mendapatkan sensus posisi, gerak, warna, dan sifat bintang-bintang dengan ketelitian yang tinggi. Misi GAIA yang merupakan kolaborasi dari negara-negara Eropa telah berhasil menghasilkan pengukuran 1,5 miliar bintang di galaksi kita, hampir 1% dari jumlah bintang yang diperkirakan mengisi galaksi kita. Jumlah dan tingkat presisi pengukuran ini memberikan gambaran yang lebih baik akan bentuk, dinamika serta evolusi galaksi kita.
-
-Dalam acara kali ini, bersama dengan narasumber kita akan membahas bagaimana usaha manusia dalam memahami struktur, komponen, evolusi, dan lingkungan Galaksi Bima Sakti. Ditemani dengan pengamatan dari Observatorium Bosscha dan dari Kupang bersama astronom amatir, Zulkarnain, kita akan melihat lebih dekat objek-objek yang mengisi galaksi kita. Bagaimana kita mengamati bintang, gugusan bintang, dan nebula penyusun galaksi, dimana kita bisa temukan dan bagaimana kontribusinya kepada cerita besar tentang Galaksi Bima Sakti. Kita juga akan diajak untuk menengok bagaimana persepsi dan pengetahuan kita tentang Bima Sakti berkontribusi dan memberikan pemahaman terhadap alam semesta pada skala yang jauh lebih besar. 
-
+<!-- **28 Agustus 2021** <br>
+**Episode 5 - Jejak Kehidupan di Alam Semesta** <br>
+**Narasumber: Taufiq Hidayat, Agus Triono P.J., Zulkarnain** <br><br>
+ Seiring berkembangnya ilmu pengetahuan, keingintahuan manusia tentang dirinya sendiri menjadi semakin besar. Bersamaan dengan itu, berbagai misi antariksa telah berhasil mengorbit atau mendarat di planet lain lalu mempelajarinya secara mendetail. Sejauh ini, belum ditemukan adanya makhluk hidup yang mirip dengan manusia. Hal ini memunculkan berbagai pertanyaan: apakah jenis kehidupan yang kita kenal di Bumi adalah satu-satunya di alam semesta? Apakah ada kehidupan yang lebih maju dibandingkan kehidupan yang ada di Bumi? Untuk menjawab pertanyaan itu, terlebih dulu harus diputuskan dari mana kita mulai mencari. Dengan berbekal pengetahuan tentang kehidupan yang kita kenal di Bumi, astronom menentukan hal apa yang paling esensial bagi keberadaan kehidupan, beberapa di antaranya adalah keberadaan rantai karbon sebagai basis dari DNA dan air dalam bentuk cair. Pencarian dilakukan di berbagai tempat; dari planet lain di Tata Surya, asteroid, satelit planet, hingga sistem keplanetan di luar Tata Surya (eksoplanet). Walaupun penelitian ini tentunya akan memakan waktu yang lama, hasil yang didapatkan kemungkinan besar akan sangat berpengaruh bagi cara manusia memandang dirinya sendiri dan alam semesta.
 
 Acara ini akan disiarkan secara langsung dan dapat diikuti melalui <i>platform</i> Slido (pendaftaran pada tautan [berikut]({{<ref "pvlm.md#pendaftaran">}})) dan <a href="https://www.youtube.com/user/obsbosscha" target=_blank>YouTube</a>. Dengan mendaftar peserta akan dapat mengikuti sesi interaktif dan memberikan pertanyaan untuk dijawab narasumber dan tim astronom kami. 
 
-<img src="/img/pvlm2021-03.png"></img> -->
+<img src="/img/pvlm2021-05.png"></img> -->
 
 ### Pendaftaran {#pendaftaran}
 
-<!-- Pendaftaran untuk partisipasi di Episode 03 melalui Slido akan dibuka pada <font color="red">Jumat, 11 Juni 2021, pukul 17:00 WIB</font>. -->
+<!-- <iframe src="https://us02web.zoom.us/webinar/register/WN_h26HhQ0RQKyWmXZlJu_29Q" width="800px" height="500px"></iframe> -->
+
+<!-- Pendaftaran untuk partisipasi di Episode 05 melalui Slido akan dibuka pada <font color="red">Jumat, 27 Agustus 2021, pukul 19:00 WIB</font>. -->
 
 <!-- Ticket Tailor Widget. Paste this in to your website where you want the widget to appear. Do no change the code or the widget may not work properly. -->
-<div class="tt-widget"><div class="tt-widget-fallback"><p><a href="https://www.tickettailor.com/events/obsbosscha/506903/select-date?ref=website_widget" target="_blank">Click here to buy tickets</a><br /><small><a href="https://www.tickettailor.com?rf=wdg" class="tt-widget-powered">Sell tickets online with Ticket Tailor</a></small></p></div><script src="https://cdn.tickettailor.com/js/widgets/min/widget.js" data-url="https://www.tickettailor.com/events/obsbosscha/506903/select-date" data-type="inline" data-inline-minimal="true" data-inline-show-logo="false" data-inline-bg-fill="false" data-inline-inherit-ref-from-url-param="" data-inline-ref="website_widget"></script></div>
+
+<!-- Ticket Tailor Widget. Paste this in to your website where you want the widget to appear. Do no change the code or the widget may not work properly. -->
+<div class="tt-widget"><div class="tt-widget-fallback"><p><a href="https://www.tickettailor.com/all-tickets/obsbosscha/?ref=website_widget" target="_blank">Click here to buy tickets</a><br /><small><a href="https://www.tickettailor.com?rf=wdg" class="tt-widget-powered">Sell tickets online with Ticket Tailor</a></small></p></div><script src="https://cdn.tickettailor.com/js/widgets/min/widget.js" data-url="https://www.tickettailor.com/all-tickets/obsbosscha/" data-type="inline" data-inline-minimal="true" data-inline-show-logo="false" data-inline-bg-fill="false" data-inline-inherit-ref-from-url-param="" data-inline-ref="website_widget"></script></div>
 <!-- End of Ticket Tailor Widget -->
 
 ### Arsip PVLM 2021
@@ -67,11 +68,11 @@ Pilih **_Watch this video on YouTube_** jika ada pesan kesalahan dalam memutar v
   </div>
   <div class="column">
         {{<youtube  R174vKeYei0>}}
-        <p style="font-size: .8em" class="showmore2">
-        Pada 26 Mei 2021, masyarakat di seluruh Indonesia akan berkesempatan untuk mengamati  fenomena Gerhana Bulan Total (GBT). Di wilayah Bandung dan sekitarnya, gerhana akan dimulai pada pukul 15:48 WIB $\ldots$
-        <!-- Pada 26 Mei 2021, masyarakat di seluruh Indonesia akan berkesempatan untuk mengamati  fenomena Gerhana Bulan Total (GBT). Di wilayah Bandung dan sekitarnya, gerhana akan dimulai pada pukul 15:48 WIB <span class="dots">$\ldots$</span><span class="more">dan akan masuk menuju fase totalitas pada pukul 18:19 WIB saat Bulan baru terbit di Timur. Kita dapat menyaksikan proses gerhana hingga selesai pada pukul 20:50 WIB. Pada PVLM episode kedua tahun 2021 ini, kami akan mengajak masyarakat Indonesia melihat bagaimana proses gerhana Bulan diamati melalui teleskop di Observatorium Bosscha.</span> -->
-        <a href="/id/layanan/pvlm-ep02/"  target=_blank><button>Selengkapnya</button></a>  
-        <!-- Silakan klik tautan <a href="/id/layanan/pvlm-ep02/" target=_blank>berikut</a> untuk informasi lebih lanjut tentang fenomena Gerhana Bulan Total. -->
+        <p style="font-size: .8em" class="showmore">
+        <!-- Pada 26 Mei 2021, masyarakat di seluruh Indonesia akan berkesempatan untuk mengamati  fenomena Gerhana Bulan Total (GBT). Di wilayah Bandung dan sekitarnya, gerhana akan dimulai pada pukul 15:48 WIB $\ldots$ -->
+        Pada 26 Mei 2021, masyarakat di seluruh Indonesia akan berkesempatan untuk mengamati  fenomena Gerhana Bulan Total (GBT). Di wilayah Bandung dan sekitarnya, gerhana akan dimulai pada pukul 15:48 WIB <span class="dots">$\ldots$</span><span class="more">dan akan masuk menuju fase totalitas pada pukul 18:19 WIB saat Bulan baru terbit di Timur. Kita dapat menyaksikan proses gerhana hingga selesai pada pukul 20:50 WIB. Pada PVLM episode kedua tahun 2021 ini, kami akan mengajak masyarakat Indonesia melihat bagaimana proses gerhana Bulan diamati melalui teleskop di Observatorium Bosscha.</span>
+        <button>Selengkapnya</button></a>  
+        Silakan klik tautan <a href="/id/layanan/pvlm-ep02/" target=_blank>berikut</a> untuk informasi lebih lanjut tentang fenomena Gerhana Bulan Total.
   </div>
   <div class="column">
         {{<youtube NefTscdTrbo>}}
@@ -93,6 +94,50 @@ Pilih **_Watch this video on YouTube_** jika ada pesan kesalahan dalam memutar v
   </div>
 </div>
 
+<div class="row">
+  <div class="column">
+    <b>Episode 04 - Mengenal Gugus Bintang</b>
+  </div>
+  <div class="column">
+    <b>Episode 05 - Jejak Kehidupan di Alam Semesta</b>
+  </div>
+  <div class="column">
+    <b>Episode 06 - TBD</b>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    {{<youtube ZvIKGpTsXY8 >}}
+    <p style="font-size: .8em" class="showmore">
+    Penelitian terbaru tentang proses kelahiran bintang menunjukkan bahwa hampir semua bintang dilahirkan berpasangan dalam awan molekuler.  <span class="dots">$\ldots$</span><span class="more"> Walaupun begitu, beberapa bintang (termasuk Matahari kita) mengalami gangguan yang menyebabkan bintang tersebut terpisah dari pasangannya beberapa waktu setelah lahir, sehingga terbentuklah bintang tunggal. Pasangan yang terbentuk saat proses kelahiran bintang tidak hanya terdiri atas satu atau dua bintang, namun bisa berjumlah ratusan dan bahkan ribuan. Anggota kelompok bintang ini tentunya memiliki properti yang serupa satu sama lain karena lahir bersamaan pada dari awan molekuler yang sama. Oleh karena itu, kelompok bintang ini dapat digunakan untuk mempelajari banyak hal, misalnya terkait lingkungan tempat pembentukan, karakteristik anggota, maupun digunakan sebagai alat untuk memetakan objek dengan skala yang lebih besar (galaksi).</span>
+      <button>Selengkapnya</button>
+  </div>
+  <div class="column">
+        {{<youtube  PL3ouS5ReAg>}}
+        <p style="font-size: .8em" class="showmore">
+        Seiring berkembangnya ilmu pengetahuan, keingintahuan manusia tentang dirinya sendiri menjadi semakin besar. Bersamaan dengan itu, berbagai misi antariksa telah berhasil mengorbit  <span class="dots">$\ldots$</span><span class="more">atau mendarat di planet lain lalu mempelajarinya secara mendetail. Sejauh ini, belum ditemukan adanya makhluk hidup yang mirip dengan manusia. Hal ini memunculkan berbagai pertanyaan: apakah jenis kehidupan yang kita kenal di Bumi adalah satu-satunya di alam semesta? Apakah ada kehidupan yang lebih maju dibandingkan kehidupan yang ada di Bumi? Untuk menjawab pertanyaan itu, terlebih dulu harus diputuskan dari mana kita mulai mencari. Dengan berbekal pengetahuan tentang kehidupan yang kita kenal di Bumi, astronom menentukan hal apa yang paling esensial bagi keberadaan kehidupan, beberapa di antaranya adalah keberadaan rantai karbon sebagai basis dari DNA dan air dalam bentuk cair. Pencarian dilakukan di berbagai tempat; dari planet lain di Tata Surya, asteroid, satelit planet, hingga sistem keplanetan di luar Tata Surya (eksoplanet). Walaupun penelitian ini tentunya akan memakan waktu yang lama, hasil yang didapatkan kemungkinan besar akan sangat berpengaruh bagi cara manusia memandang dirinya sendiri dan alam semesta</span>
+        <button>Selengkapnya</button>
+  </div>
+  <div class="column">
+        {{<youtube >}}
+        <p style="font-size: .8em" class="showmore">
+      <button>Selengkapnya</button>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <p style="font-size: .8em">Narasumber: <br> 1. Dr. Chatief Kunjaya <br>  2. Agus Triono P. J., M.Si <br> 3. Zulkarnain</p>
+  </div>
+  <div class="column">
+        <p style="font-size: .8em">Narasumber: <br> 1.  Prof. Dr. Taufiq Hidayat, DEA <br>  2. Agus Triono P. J., M.Si <br> 3. Zulkarnain </p>
+  </div>
+  <div class="column">
+        <p style="font-size: .8em">Narasumber: <br> 1. <br>  2.  <br> 3.  </p>
+  </div>
+</div>
+
 ### Materi PVLM 2021
 
   | | | |
@@ -101,7 +146,8 @@ Pilih **_Watch this video on YouTube_** jika ada pesan kesalahan dalam memutar v
  01 |  Premana W. Premadi, Ph.D| *Kabar Terkini Astronomi*| {{% staticref "files/PVLM-01-Premadi.pdf" "newtab" %}} Unduh {{% /staticref %}} |  [Lihat]({{< ref "/layanan/qna-01.md" >}})
 02 |  Ferry M. Simatupang, M.Si| *Gerhana Bulan Total 26 Mei 2021* | {{% staticref "files/Gerhana Bulan Total 26 Mei 2021.pptx" "newtab" %}} Unduh {{% /staticref %}} | [Lihat]({{< ref "/layanan/qna-02.md" >}})
 03 |  Dr. rer. nat. Hesti Retno T. Wulandari| *Galaksi Bima Sakti dari Masa ke Masa*| | [Lihat]({{< ref "/layanan/qna-03.md" >}})
-
+04 |  Dr. Chatief Kunjaya | *Mengenal Gugus Bintang*| | [Lihat]({{< ref "/layanan/qna-04.md" >}})
+05 |  Prof. Dr. Taufiq Hidayat, DEA | *Jejak Kehidupan di Alam Semesta* | {{% staticref "files/PVLM-Episode05-Jejak Kehidupan di Alam Semesta.pdf" "newtab" %}} Unduh {{% /staticref %}} | [Lihat]({{< ref "/layanan/qna-05.md" >}})
 ### [Arsip PVLM 2020]({{< ref "/layanan/pvlm-2020.md">}})
 
 <style>

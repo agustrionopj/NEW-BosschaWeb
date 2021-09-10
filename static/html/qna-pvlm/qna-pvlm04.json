@@ -1,0 +1,400 @@
+{
+    "qna":[
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Gugus Bintang",
+        "Question": "Apakah setiap gugus bintang mempunyai nama?",
+        "Reply": "Setiap gugus bintang yang sudah diketahui minimal memiliki nama berdasarkan kode katalog yang sesuai (misalkan gugus yang didata dalam katalog Messier akan diberi nama 'M' dan angka urutan objek). Terkadang ada juga gugus yang memiliki nama bukan kode katalog (contoh: Gugus Ptolemy [M7], Gugus Kupu-kupu [M6], dll.) yang mayoritas diberikan berdasarkan penampakannya di langit yang mirip dengan objek yang sudah diketahui.",
+        "Checker": "TAS",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Pengamatan Langit",
+        "Sub Kategori": "Observasi Kasat Mata",
+        "Question": "Apakah gugus bintang yang kita lihat di bumi polanya akan sama jika dilihat dari planet lain?",
+        "Reply": "Jika dilihat dari planet lain (yang sama-sama anggota Tata Surya), bentuk gugus bintang akan serupa karena jaraknya yang sangat jauh dari Matahari. Praktisnya, jarak gugus tersebut dengan Bumi sama dengan jaraknya dengan planet lain di Tata Surya. Jika planet tersebut ada di sistem bintang lain, kemungkinan polanya akan berbeda dengan yang terlihat di Bumi.",
+        "Checker": "TAS",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Pengamatan Langit",
+        "Sub Kategori": "Observasi Kasat Mata",
+        "Question": "Apakah ada gugus bintang yang terlihat malam ini?",
+        "Reply": "Malam ini kita akan lihat bersama-sama gugus bintang melalui teleskop yang dipandu para pengamat. Jika ingin mengetahui apakah ada gugus bintang yang terlihat lain waktu, bisa lihat https://stellarium-web.org/ dan bisa cari dengan ketikkan M. Nanti akan muncul pilihan cluster/gugus. ",
+        "Checker": "TAS",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Gugus Bintang",
+        "Question": "Apakah bintang-bintang yang termasuk dalam gugus bintang dapat memiliki sistem tata surya seperti matahari (memiliki planet yang mengelilingi)?",
+        "Reply": "Beberapa survei langit mengindikasikan bahwa kemungkinan besar, setiap bintang memiliki planet yang mengelilinginya. Hal ini juga berlaku pada bintang anggota gugus.",
+        "Checker": "TAS",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Jika bintang di gugus saling berdekatan dan terikat gravitasi, apakah bisa dikatakan salah satu dari mereka adalah bintang biner? ",
+        "Reply": "Bintang-bintang yang berada dalam satu gugus yang sama saling terikat oleh gravitasi. Seringkali ditemukan bintang biner yang saling mengikat satu sama lain pada gugus bintang.",
+        "Checker": "TAS",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Gugus Bintang",
+        "Question": "Hal apa yang mempengaruhi gugus bola memiliki sedikit unsur berat? ",
+        "Reply": "Gugus bola terdiri dari bintang-bintang tua. Gugus bola terbentuk saat alam semesta masih dini dan masih terdiri dari unsur-unsur ringan (belum banyak unsur berat). Seiring waktu terjadi evolusi kimia dimana unsur unsur berat terbentuk di inti bintang, kemudian saat bintang berevolusi lanjut dan melontarkan massanya, unsur berat ini akan mengotori materi antarbintang di sekitarnya yang mengakibatkan bintang yang terbentuk selanjutnya akan mengandung unsur berat yang lebih banyak.",
+        "Checker": "TAS",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Jika salah satu bintang anggota gugus mati, apakah ledakannya sampai ke Bumi?",
+        "Reply": "Karena jarak bintang-bintang sangat jauh dari Bumi, maka Bumi tidak akan mengalami pengaruh secara langsung akibat peristiwa ledakan dari sebuah bintang pada akhir hidupnya. Namun, manusia/pengamat di Bumi akan mendapati terpaan energi dari bintang yang meledak tersebut, mulai dari sinar elektromagnetik, partikel-partikel, hingga gelombang gravitasi, semuanya penting bagi manusia untuk diteliti lebih lanjut untuk menguak misteri-misteri di alam semesta. ",
+        "Checker": "TAS",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Apakah beda antara rasi bintang dan gugus bintang?",
+        "Reply": "Rasi bintang adalah hasil imajiinasi dan kreativitas manusia yang mencoba menghubungkan beragam bintang yang sebenarnya terpisah jauh menjadi pola yang dikenali, sementara gugus bintang merupakan sekumpulan bintang yang terikat secara gravitasional dengan satu sama lain. Ukuran mereka juga berbeda bila dilihat dari Bumi, rasi mencakup area yang luas di langit ketimbang gugus bintang yang terlihat kecil seperti noktah buram di langit. ",
+        "Checker": "TAS",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Pengamatan Langit",
+        "Sub Kategori": "Observasi Kasat Mata",
+        "Question": "Saya pernah melihat ada satu bintang yang terang sekali dan bergerak seperti cahaya lampu pesawat, tapi tidak berkedip. Bintangnya bergerak kemudian hilang sesaat kemudian terlihat lagi. Apakah benar itu satelit?",
+        "Reply": "Betul, kemungkinan itu satelit.",
+        "Checker": "TAS",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Eksoplanet dan Kehidupan Luar Bumi",
+        "Question": "Apakah ada planet yang mengitari bintang lain (seperti di Matahari)?",
+        "Reply": "Pada umumnya bintang-bintang memiliki planet. Namun, belum diketahui dengan pasti proporsi bintang tersebut berapa banyak karena semua planetnya belum terdeteksi. Dapat dibayangkan ukuran planet jauh lebih kecil dari bintangnya sehingga mengamati planet di bintang lain cukup sulit. Jika diperkirakan, setidaknya satu bintang memiliki satu planet. ",
+        "Checker": "TAS",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Gugus Bintang",
+        "Question": "Apakah Matahari merupakan anggota gugus bintang? Jika iya, apa namanya?",
+        "Reply": "Seperti bintang-bintang pada umumnya, Matahari diperkirakan lahir bersama bintang-bintang lain dari sebuah awan pembentukan bintang. Namun, hingga saat ini belum ditemukan bintang-bintang lain yang kira-kira adalah saudara-saudara dari Matahari kita, dan hal ini menjadi salah satu permasalahan yang selalu menarik perhatian para astronom.",
+        "Checker": "TAS",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Gugus Bintang",
+        "Question": "Mengapa gugus bola bersuhu rendah?",
+        "Reply": "Gugus Bola memiliki anggota dengan bintang-bintang usia tua yang telah menghabiskan bahan bakarnya sehingga suhunya lebih rendah.",
+        "Checker": "TAS",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Pengamatan Langit",
+        "Sub Kategori": "Observasi Kasat Mata",
+        "Question": "Apakah kita bisa membedakan antara rasi bintang dan gugus bintang dengan menggunakan mata telanjang?",
+        "Reply": "Salah satu cara untuk membedakan rasi bintang dan gugus bintang dengan mata telanjang adalah, rasi bintang memiliki sebuah pola tertentu hasil dari imajinasi manusia. Terdapat 88 rasi bintang resmi yang sudah diakui oleh IAU yang polanya sudah diketahui. Jarak antar bintang pada sebuah rasi pun biasanya tidak terlalu dekat jika dilihat oleh mata telanjang, dan biasanya bentuk dari rasi terlihat lebih luas. Sedangkan, gugus bintang tidak memiliki pola tertentu, dan biasanya terlihat seperti sekumpulan bintang yang sangat berdekatan, rapat, dan biasanya ukurannya terlihat lebih kecil. ",
+        "Checker": "TAS",
+        "Unnamed: 5": null,
+        "Unnamed: 6": "w"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Gugus Bintang",
+        "Question": "Apa yang dimaksud blue straggler dalam gugus bola?",
+        "Reply": "Blue stragglers adalah bintang yang lebih biru daripada kebanyakan bintang tua di suatu gugus, biasanya ada pada gugus yang rapat. Diduga blue stragglers ini adalah bintang baru yang terbentuk akibat tumbukan dua bintang tua. Ini mungkin jika bintang-bintang berada di dalam gugus yang rapat.",
+        "Checker": "TAS",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Gugus Bintang",
+        "Question": "Apakah gugus bintang itu dapat terpisah dan cahayanya meredup secara sendirinya?",
+        "Reply": "Bintang anggota gugus diperkirakan dapat terlepas dari gugus tersebut apabila mengalami gangguan. Gangguan ini dapat berupa gangguan gravitasi karena berlintasan dekat dengan bintang lain, atau akibat proses supernova bintang lain di dekatnya. Cahaya dari sebuah gugus juga dapat meredup akibat bintang anggotanya yang kehabisan bahan bakar lalu kemudian mati.",
+        "Checker": "TAS",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Gugus Bintang",
+        "Question": "Apa yang terjadi pada sebuah gugus bintang jika salah satu bintang anggotanya mati?",
+        "Reply": "Gugus bintang terbentuk dari awan antarbintang yang sama sehingga umumnya gugus bintang terdiri dari bintang-bintang yang usianya relatif sama. Jika ada anggota gugus (bintang) yang berevolusi lanjut, misalnya meledak, maka akan menyebabkan gelombang kejut.  Jika ada awan sisa di dekat bintang tersebut, maka bisa jadi akan terbentuk bintang-bintang baru.",
+        "Checker": null,
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Gugus Bintang",
+        "Question": "Apa maksud dari umur bintang yang beribu-ribu tahun cahaya? ",
+        "Reply": "Untuk meluruskan, mungkin yang dimaksud adalah jaraknya dari Bumi kita. Karena satuan tahun cahaya itu merupakan satuan jarak dimana definisinya adalah jarak yang ditempuh oleh kurir informasi atau cahaya selama satu tahun. Maka dapat disimpulkan jika kita menerima cahaya dari objek pada jarak tersebut, sebenarnya cahaya tersebut berangkat dari tempat asalnya 6000 tahun yang lalu. Contohnya, jika seseorang ingin mencoba mengonversinya maka 1 tahun cahaya = satu tahun diubah ke detik dikalikan kecepatan cahaya 300000 km per detik.",
+        "Checker": "CV",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Gugus Bintang",
+        "Question": "Apakah mungkin apabila gugus bola berubah menjadi gugus terbuka atau sebaliknya?",
+        "Reply": "Kalau melihat bentuknya saja, bisa. Gugus Palomar 5, contohnya. Ia gugus bola, namun fotonya terlihat lebih seperti gugus terbuka. Hal tersebut karena gugusnya tercerai berai. Sebagian besar bintang-bintang anggotanya sudah terlontar keluar oleh gaya pasang-surut Bimasakti. Kalau bentuknya ada kemungkinan, meskipun sangat jarang. ",
+        "Checker": "CV",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Astronomi dalam Peradaban Manusia",
+        "Sub Kategori": "Etnoastronomi dan rasi bintang",
+        "Question": "Mengapa rasi bintang dapat dijadikan sebagai penunjuk arah? Bagaimana dengan gugus bintang?",
+        "Reply": "Rasi adalah hasil imajinasi manusia untuk menghubungkan beragam bintang menjadi pola yang dikenali, mencakup area yang luas di langit, serta bisa terlihat dengan mudah sehingga bisa digunakan sebagai penunjuk arah. Gugus bintang, di sisi lain, terlihat kecil di langit dan mayoritas digabungkan menjadi bagian dari rasi sekitarnya sehingga tidak dijadikan acuan untuk menentukan arah.",
+        "Checker": "CV",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Gugus Bintang",
+        "Question": "Apakah ada kemungkinan satu gugus bintang bergabung menjadi satu blackhole raksasa atau gugus bintang tersebut berubah menjadi galaksi yang lebih besar dan melahap materi dari gugus bintang yang lain?",
+        "Reply": "Itu estimasi yang baik sekali. Dan memang, semua benda-benda di angkasa bergerak, sehingga ada kalanya mereka berinteraksi dan membentu lubang hitam. Di bagian inti galaksi besar, biasanya ada lubang hitam supermasif. Di  inti gugus bintang--gugus bola, diperkirakan ada lubang hitam yang massanya besar, mungkin tidak cuma satu. Apakah mereka bisa bergabung lagi? Bisa, dan sudah ada buktinya. Lubang hitam dengan lubang hitam, lubang hitam dengan bintang neutron, bintang neutron dengan bintang neutron. Mereka bisa saja terjadi. Apalagi jika gugus bola menembus bidang galaksi yang banyak bintangnya. Probabilitas terjadinya interaksi semakin tinggi. Namun, probabilitas tinggi untuk gugus bola bukan berarti akan banyak hal tersebut terjadi, kemungkinan besar hanyalah 1 per mil, karena kebanyakan ruang kosong di gugus bola. Secara probabilitas bisa terjadi.",
+        "Checker": "CV",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Gugus Bintang",
+        "Question": "Bagaimana cara kita menentukan umur bintang atau umur gugus bintang yang terdiri dari banyak bintang dengan umur yang berbeda?",
+        "Reply": "Untuk tiap gugus kita pelajari terang/redup bintang-bintang anggotanya, juga suhunya, dan juga kandungan kimianya. Dari analisa ini kita bisa memperkirakan umur bintangnya. Bintang yang cenderung berwarna biru, panas, dan kandungannya belum beragam (hanya hidrogen dan helium saja) sangat boleh jadi itu bintang muda. Yang berwarna merah, kadang sudah beragam kandungan kimianya, mungkin sudah panjang umurnya. Umur gugus mengikuti umur bintang yang mayoritas. ",
+        "Checker": "CV",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Gugus Bintang",
+        "Question": "Mengapa gugus terbuka lebih panas dari pada gugus bola?",
+        "Reply": "Gugus Bola memiliki anggota dengan bintang-bintang usia tua yang telah menghabiskan bahan bakarnya sehingga suhunya lebih rendah. ",
+        "Checker": "CV",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Gugus Bintang",
+        "Question": "Apakah di ujung gugus bintang ada lubang hitam, dan jika lubang hitam hitam itu masif, bagaimana kalo bintang bintang di gugus bintang itu dihisap oleh lubang hitam? Apakah akan memicu perubahan pada tata surya?",
+        "Reply": "Jika kita mengingat bahwa gugus bintang itu berisi bintang-bintang dengan jumlah yang sangat banyak dan memiliki variasi massa yang berbeda, maka evolusinya akan sangat berbeda. Dengan demikian, maka kemungkinan menemukan lubang hitam relatif lebih besar dibandingkan dengan mencari pada sistem bintang ganda atau single. Pertanyaannya apakah bintang-bintang sekitarnya akan terhisap? jawabannya tidak. Jika melihat jarak pisah antar bintang serta pengaruh gravitasinya, tentu tidak akan terjadi penghisapan itu. Kalaupun ada benda yang mendekat maka pengaruh gravitasinya akan membuatnya mengorbit objek lubang hitang tersebut. Karena gugus bintang sangat jauh dari Tata Surya kita, maka jika ada lubang hitam di sana, rasanya kita patut bersyukur karena tidak akan ada pengaruhnya pada rumah kita yaitu tata surya.",
+        "Checker": "CV",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Eksoplanet dan Kehidupan di Luar Bumi",
+        "Question": "Jutaan bintang dengan jutaan planet dan objek langit lainnya, tentunya akan menuju ke pertanyaan pamungkas: Are we really alone in the universe?",
+        "Reply": "Betul, itulah yang masih menjadi pertanyaan bagi kita semua. Apakah ada kehidupan di tempat lain? Untuk mengungkapnya, manusia terus meneliti, bahkan hingga mengirimkan misi-misi antariksa untuk memeriksanya, salah satunya yang terbaru adalah misi Mars Perseverance. Misi ini dimanfaatkan untuk megecek tanda kehidupan yang mungkin pernah ada.",
+        "Checker": "CV",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Jika bintang sudah sampai di usia tuanya, apakah bintang tersebut bisa mati? Jika mati apa yang akan terjadi? Apakah bintang tersebut akan berubah menjadi bentuk lain atau tidak?",
+        "Reply": "Benar, bintang-bintang melewati riwayat hidup seperti kita, bintang-bintang lahir, berkembang, kemudian mati. Akhir hidup bintang ditentukan oleh massanya. Bintang-bintang bermassa besar memiliki umur relatif pendek dan akan berakhir menjadi black hole, sementara itu bintang-bintang yang lebih kecil memiliki umur yang lebih panjang dan biasanya akan berakhir menjadi bintang katai putih.",
+        "Checker": "CV",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Pengamatan Langit",
+        "Sub Kategori": "Observasi kasat mata",
+        "Question": "Gugus bintang apa saja yang bisa dilihat dengan mata telanjang?",
+        "Reply": "Salah satu gugus bintang yang paling mudah dikenali dan diamati mengunakan mata telanjang adalah gugus terbuka Pleiades atau Lintang Kartika. Gugus ini terletak di rasi Taurus dan dapat diamati selama beberapa waktu ke depan sejak tengah malam sampai pagi hari di arah timur.",
+        "Checker": "CV",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Gugus Bintang",
+        "Question": "Apakah dalam sebuah gugus bintang bisa menjadi tempat kelahiran suatu bintang yang baru?",
+        "Reply": "Bintang-bintang terbentuk dari nebula. Di dalam sebuah gugus terdapat juga nebula, artinya bintang baru bisa terbentuk dengan syarat nebula itu cukup panas untuk pembentukan bintang. Salah satu caranya saat ada bintang meledak atau membagikan massanya dengan bintang lain. Namun, pada umumnya bintang dalam sebuah gugus akan terlahir pada waktu yang relatif sama. ",
+        "Checker": "CV",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Pengamatan Langit",
+        "Sub Kategori": "Observasi kasat mata",
+        "Question": "Jika kita di suatu pulau, apakah kita akan melihat gugus bintang yang sama dengan yg berada di pulau lain (dalam 1 negara)? Kemudian, jika berbeda negara, apakah akan melihat gugus bintang yang sama?",
+        "Reply": "Bisa saja, asal perbedaan lintang satu pengamat tidak terlalu jauh dengan pengamat lain. Posisi lintang menentukan belahan langit mana yang bisa dilihat (misal, bila di lintang utara, maka bisa melihat langit belahan utara, sementara lintang rendah seperti di ekuator bisa melihat mayoritas kedua belahan langit). Yang perlu diperhatikan juga adalah bila kedua posisi pengamat ada di bujur berbeda (berhubungan dengan zona waktu), karena bisa saja yang satu sedang mengamat gugus tersebut di malam hari sementara pengamat lain sedang mengalami siang hari.",
+        "Checker": "CV",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Gugus Bintang",
+        "Question": "Apa yang terjadi pada sebuah gugus bintang jika salah satu bintangnya meledak membentuk supernova dan menghasilkan blackhole?",
+        "Reply": "Ketika sebuah bintang raksasa yang meledak sebagai lubang hitam, sebenarnya total massanya berkurang. Massa lubang hitam dengan massa bintang sebelumnya lebih kecil sebenarnya. Jika bintang-bintang di sekitarnya tidak bisa tertarik ke bintang sebelum ia meledak, harusnya ia tidak akan tertarik ke lubang hitam tersebut. Orang sering bilang kalau lubang hitam tarikannya sangat kuat, namun hal tersebut kurang tepat. Tarikan gravitasi lubang hitam sangat kuat kalau berada di dekatnya. Jika jaraknya masih beberapa tahun cahaya, tidak akan sampai memakan bintang yang lain. Buktinya, Bumi kita ini selalu bergerak mengelilingi lubang hitam raksasa, yang massanya 4 juta kali massa Matahari. Kita sedang mengelilingi itu: massanya besar, gravitasinya besar, tetapi karena kita mengelilinginya, kita tidak akan jatuh. Yang menentukan apakah sesuatu tertarik ke lubang hitam bukan hanya massa dan tarikan gravitasinya, melainkan juga jarak dan kecepatan objek tersebut. ",
+        "Checker": "CV",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Gugus Bintang",
+        "Question": "Misalnya, di gugus bintang terdapat bintang yang sangat besar, jika bintang itu makin membesar lebih besar daripada bintang biasanya, apakah nanti ketika dilihat menggunakan mata telanjang akan lebih jelas atau terjadi perubahan pada gugus bintang? Atau justru akan terjadi pelepasan gravitasi, atau bintang bintang itu pada keluar dari zona gugus bintang? Lalu bagaimana yang terjadi pada Matahari dan Tata Surya?",
+        "Reply": "Pada umumnya terdapat batas seberapa besar bintang bisa mengembang. Sampai saat ini belum ada bintang yang memiliki ukuran sebesar gugus bintang, dan bintang yang sangat besar umurnya tidak akan panjang, sehingga mereka akan supernova terlebih dahulu sebelum terdapat perubahan drastis pada gugus. Jika terdapat bintang supermasif di suatu gugus, kemungkinan perubahan yang terjadi adalah terdapat lubang hitam di gugus tersebut. Untuk apakah perubahan tersebut bisa dilihat secara kasat mata bergantung pada jarak gugus dari Bumi kita. Jika jarak mereka jauh, maka tidak akan ada dampak pada Matahari dan Tata Surya.",
+        "Checker": "CV",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Apakah letak bintang akan sama dengan lokasi ia lahir (nebula) atau akan terpental keluar dari nebula?",
+        "Reply": "Benar, bintang terlahir dari sebuah nebula dan akan berada di nebula tempat bintang tersebut dilahirkan. Hal ini bisa dilihat dari bintang-bintang dan nebula dalam sebuah gugus terbuka. Namun, dalam kasus-kasus tertentu sebuah bintang dapat terlontar dari nebula atau gugus tempat bintang tersebut dilahirkan, seperti yang diduga terjadi pada Matahari kita. ",
+        "Checker": "CV",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Objek kompak",
+        "Question": "Apakah lubang hitam dapat mati/mengilang? Begitu pula dengan katai putih? ",
+        "Reply": "Lubang hitam bisa menghilang melalui mekanisme radiasi Hawking. Untuk katai putih, mereka lama-lama akan padam dan menjadi katai hitam karena tidak ada lagi pembangkitan energi di intinya melalui fusi nuklir. ",
+        "Checker": "CV",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Bintang yang ada di langit malam apakah sama dengan Matahari, namun karena terlalu jauh jaraknya dengan Bumi sehingga cahayanya cuma bisa terlihat di malam hari?",
+        "Reply": "Beberapa bintang di langit malam mirip dengan Matahari. Ada pula bintang yang lebih besar maupun lebih kecil, yang lebih terang maupun lebih redup. Alasan mengapa bintang selain Matahari hanya bisa terlihat di malam hari yaitu karena di siang hari Matahari bersinar sangat terang dan cahaya dari bintang lain kalah dengan sinar Matahari. Sedangkan di malam hari langit lebih gelap dan bintang yang lain dapat terlihat dengan jelas. Dan betul, karena jarak yang sangat jauh, bintang yang nyatanya lebih terang dari Matahari pun tidak dapat dilihat di siang hari karena kalah oleh Matahari yang jaraknya dekat dengan kita. ",
+        "Checker": "CV",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Gugus Bintang",
+        "Question": "Apakah gugus bintang terbuka itu dekat dengan pusat galaksi? Terdapat informasi bahwa tepat di samping pusat galaksi banyak sekali lubang hitam, apakah bintang di gugus terbuka itu akan terhisap atau tidak apa-apa?",
+        "Reply": "Gugus terbuka kebanyakan tersebar bagian piringan Galaksi, bukan di dekat pusat Galaksi. Di pusat Galaksi sendiri terdapat Lubang Hitam Supermasif (Supermassive Blackhole) yang diberi nama Sgr A*, yang memiliki gravitasi sangat kuat untuk mempengaruhi dinamika objek-objek yang berada di sekitarnya. Namun, sejauh ini belum ditemukan adanya gugus terbuka yang cukup dekat dengan Sgr A* tersebut. ",
+        "Checker": "CV",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Apakah Matahari termasuk bintang bermassa besar atau kecil?",
+        "Reply": "Matahari kita termasuk ke dalam bintang bermassa rendah. Bintang bermassa rendah merupakan bintang-bintang dengan massa lebih kecil daripada Matahari sampai kira-kira dua kali massa Matahari. Bintang bermassa lebih dari dua kali massa Matahari hingga delapan massa Matahari digolongkan ke dalam bintang bermassa menengah. Lebih dari itu tergolong ke dalam bintang bermassa besar. Yang menarik, batas massa tertinggi yang bisa dimiliki oleh bintang adalah berkisar 150-200 kali massa Matahari, jika bintang melebihi massa tersebut bintang akan tercerai-berai.",
+        "Checker": "EP",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Gugus Bintang",
+        "Question": "Apakah ada kemungkinan suatu/sekelompok bintang bergerak dari satu galaksi ke galaksi lain?",
+        "Reply": "Bintang-bintang yang berada di tepian galaksi masih bisa berpindah ke galaksi lain yang berpapasan dekat dengan dengan galaksi asalnya karena tarikan graivitasi yang besar dari galaksi yang lewat itu.",
+        "Checker": "EP",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Gugus Bintang",
+        "Question": "Apakah bintang di gugus bintang lebih banyak daripada bintang biasanya?",
+        "Reply": "Dalam sebuah gugus bola, bisa terdapat 10 ribu hingga satu juta bintang anggota sedangkan dalam sebuah gugus terbuka, bisa terdapat ratusan bintang anggota. Di langit malam, terdapat sekitar 5 ribu bintang yang dapat kita lihat dengan mata telanjang, akan tetapi bintang di langit malam sebetulnya jauh lebih banyak dari angka tersebut.",
+        "Checker": "EP",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Pengamatan Langit",
+        "Sub Kategori": "Observasi kasat mata",
+        "Question": "Apakah gugus bintang juga terbit dan terbenam layaknya bintang dan rasi bintang?",
+        "Reply": "Gugus bintang dan bintang relatif berada di posisi yang sama satu sama lain sehingga kita bisa melihat gugus bintang dan bintang terbit dan terbenam. Terbit dan terbenam objek ini disebabkan oleh rotasi Bumi. ",
+        "Checker": "EP",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Gugus Bintang",
+        "Question": "Apakah di gugus bintang ada bintang yang dikenal sangat besar seperti UY Scuti? ",
+        "Reply": "Kita dapat membedakan satu bintang dengan bintang lainnya dari gugus terbuka karena jarak satu sama lainnya relatif berjauhan. Pada gugus bola yang sangat rapat mungkin akan kesulitan untuk melihatnya satu-persatu. ",
+        "Checker": "EP",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Gugus Bintang",
+        "Question": "Apa penyebab adanya perbedaan kadar unsur berat yang terkandung di gugus terbuka dan gugus bola?",
+        "Reply": "Penyebabnya adalah umur anggotanya. Gugus terbuka berisi bintang-bintang muda, sehingga unsur-unsur berat hasil fusi nuklir di inti setiap anggotanya masih sedikit. Di sisi lain, gugus bola berisi bintang-bintang tua yang banyak mengandung unsur-unsur berat akibat perbedaan unsur yang dihasilkan di inti anggotanya melalui fusi nuklir. ",
+        "Checker": "EP",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Apakah Sirius merupakan anggota dari suatu gugus bintang?",
+        "Reply": "Sirius bukan merupakan bagian dari gugus bintang, melainkan bagian dari sisem bintang ganda. Terkait ini, sebenarnya ada gugus bintang yang terlihat di dekat Sirius, yakni gugus terbuka Messier 41 yang letaknya di selatan bintang Sirius dan sama-sama berada di rasi Canis Major.",
+        "Checker": "EP",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Gugus Bintang",
+        "Question": "Jika bintang di gugus bintang mempunyai planet yang terlepas, apakah nanti planet itu menuju Bumi atau ke luar dari galaksi?",
+        "Reply": "Planet yang terlepas ikatannya dari bintang pusatnya akan mengarungi galaksi sendirian dan boleh jadi akan bertemu dengan Tata Surya kita atau bergerak ke luar dari galaksi kita.",
+        "Checker": "EP",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Gugus Bintang",
+        "Question": "Berapa umur gugus bintang tertua?",
+        "Reply": "Gugus bola paling tua yang pernah ditemukan berumur sekitar 12 miliar tahun.",
+        "Checker": "EP",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Jika ada suatu bintang yang selalu berkelap-kelip, apakah itu artinya bintang tersebut akan meledak?",
+        "Reply": "Bintang tampak berkelap-kelip karena kondisi atmosfer Bumi. Bintang ada yang berubah ukuran sesuai evolusinya, tetapi tidak berkelap-kelip. ",
+        "Checker": "EP",
+        "Unnamed: 5": null,
+        "Unnamed: 6": null
+    }
+    ]
+}

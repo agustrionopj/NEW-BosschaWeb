@@ -1,0 +1,347 @@
+    {
+        "qna":[
+    {
+        "Kategori": "Tata Surya",
+        "Sub Kategori": "Planet dan Planet Kerdil",
+        "Question": "Akankah cincin Saturnus menjadi bulan?",
+        "Reply": "Jawabannya tidak. Cincin Saturnus merupakan batuan dan bongkahan es kecil-kecil yang berasal dari objek yang pecah di masa lalu. Sebagian besar cincin Saturnus berada di bawah \"batas Roche\" (sekitar 2,5 jari-jari Saturnus). Sehingga gaya pasang surut yang disebabkan gravitasi Saturnus akan mencegah bagian dari cincin untuk membentuk bulan.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Kosmologi",
+        "Question": "Apa itu cosmic microwave background?",
+        "Reply": "Cosmic Microwave Background atau sering disingkat CMB adalah reliks atau sisa radiasi dari tahap awal alam semesta. Dari pengetahuan fisika dan pengamatan astronomi diketahui bahwa alam semesta itu mengembang sehingga jika ditarik ke masa lalu ukuran alam semesta sangat kecil sehingga sangat kedap, panas, dan bertekanan tinggi. Keadaan ini yang membuat foton sebagai kurir informasi belum bisa menjalar. Ketika alam semesta mulai membesar dan mendingin maka foton itu mulai bebas menjalar ke penjuru langit yang kemudian kita sebut sebagai CMB.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Tata Surya",
+        "Sub Kategori": "Planet dan Planet Kerdil",
+        "Question": "Apa komponen yang menyusun \"cincin\" Saturnus? Dan apa fungsi dari cincin itu?",
+        "Reply": "Secara garis besar sudah disinggung oleh Pak Taufiq tentang cincin Saturnus. Cincin Saturnus berapa batuan dan bongkahan es kecil-kecil yang berasal dari objek yang pecah di masa lalu. Material batuan dan es yang bersifat sebagai pemantul cahaya juga jumlah dan kerapatannya yang cukup tinggi menyebabkan cincin Saturnus relatif lebih mudah diamati dibanding dengan cincin di planet lain. Secara tidak langsung cincin akan memberikan pengetahuan seberapa besar massa dan gravitasi di Saturnus. ",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Eksoplanet dan Kehidupan di Luar Bumi",
+        "Question": "Apa tujuan kita mencari tahu kehidupan lain di alam semesta? Apakah hanya karena keingintahuan manusia saja, atau karena hal lain?",
+        "Reply": "Dari sudut pandang ilmu pengetahuan khususnya astronomi, tentu saja keberadaan kehidupan di luar Bumi menjadi pertanyaan yang sangat menggelitik sehingga menggugah rasa ingin tahu, karena alam semesta terdiri atas banyak galaksi-galaksi yang tersusun atas banyak bintang-bintang yang di antaranya juga banyak yang memiliki planet-planet dan bahkan telah ditemukan planet-planet yang memiliki kemiripan dengan Bumi.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Eksoplanet dan Kehidupan di Luar Bumi",
+        "Question": "Apa yang akan kita lakukan setelah kita menemukan kehidupan di luar Bumi?",
+        "Reply": "Dari sudut pandang ilmu pengetahuan khususnya astronomi, tentu saja penemuan tersebut akan memicu penyelidikan lanjutan karena pengetahuan tentang kehidupan di luar Bumi dapat membantu memahami tentang proses pembentukan kehidupan di alam semesta, misalnya dengan membandingkan kondisi bintang induk planet tersebut dengan Matahari, maupun membandingkan kondisi planet itu sendiri dengan Bumi.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Eksoplanet dan Kehidupan di Luar Bumi",
+        "Question": "Apa yang membedakan kehidupan biasa dan kehidupan cerdas?",
+        "Reply": "Kehidupan cerdas yang dimaksud adalah kehidupan yang memiliki makhluk berintelegensia sepeti manusia yang mampu berkomunikasi. Oleh karenanya, jika seandainya terdapat kehidupan cerdas di luar Bumi maka diharapkan kita akan dapat berkomunikasi dengan makluk cerdas di planet tersebut.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Tata Surya",
+        "Sub Kategori": "Planet dan Planet Kerdil",
+        "Question": "Apabila Jupiter merupakan sekumpulan gas seperti yg dijelaskan, mengapa Jupiter tidak disebut sebagai bintang?",
+        "Reply": "Jupiter diklasifikasikan sebagai planet karena tidak memenuhi syarat sebagai bintang, salah satunya yaitu objek yang memancarkan cahayanya sendiri yang berasal dari reaksi fusi di dalam intinya.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Eksoplanet dan Kehidupan di Luar Bumi",
+        "Question": "Apakah ada kehidupan di planet lain selain Bumi?",
+        "Reply": "Sejauh ini belum ditemukan bukti konklusif mengenai keberadaan kehidupan di planet lainnya, khususnya kehidupan berintelegensia.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Eksoplanet dan Kehidupan di Luar Bumi",
+        "Question": "Apakah dengan adanya bukti air di berbagai planet yang ada di zona layak huni menunjukkan kemungkinan adanya kehidupan walau hanya seukuran mikro?",
+        "Reply": "Kemungkinan itu tetap ada, selama kondisi di planet tersebut memenuhi syarat terbentuknya mikroorganisme. Selanjutnya, tinggal dicari buktinya dengan mencari sampel hidup atau sekadar fosil dari mikroorganisme tersebut.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Eksoplanet dan Kehidupan di Luar Bumi",
+        "Question": "Apakah di luar Tata Surya kita, ada planet yang bisa dihuni manusia?",
+        "Reply": "Planet yang dapat dihuni manusia tentunya membutuhkan banyak prasyarat yang semirip mungkin dengan Bumi. Karena pengamatan dilakukan dari jauh, (bukan pengamatan in-situ yang mengunjungi planetnya), cukup sulit mendeskripsikan karakteristik planet secara detail. Hanya karakteristik umum saja yang dapat dianalisis, misalnya ukuran dan unsur. Dari analisis yang didapat, setidaknya saintis memiliki kandidat planet laik huni (bukan berarti pasti bisa dihuni manusia karena membutuhkan info yang lebih detail lagi). Dalam galaksi kita setidaknya ada 300 juta planet yang berpotensi berada dalam tempat laik huni (habitable zone)",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Eksoplanet dan Kehidupan di Luar Bumi",
+        "Question": "Apakah ditemukan planet yang memiliki gravitasi yang berbeda dengan Bumi tapi dia memiliki air dan oksigen?",
+        "Reply": "Sejauh ini belum ada bukti konklusif keberadaan planet lain selain Bumi yang memiliki kehidupan berintelegensia namun tanda-tanda kehidupan berupa keberadaan air telah ditemukan pada beberapa planet lain.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Tata Surya",
+        "Sub Kategori": "Planet dan Planet Kerdil",
+        "Question": "Apakah dulu Mars mempunyai kandungan air dan apakah yang terjadi jika Bumi juga senasib dengan Mars?",
+        "Reply": " Ya, dahulu Mars memiliki air dalam bentuk cair, bahkan pengamatan beberapa tahun ini menunjukkan air dalam bentuk cair masih ada di Mars, meskipun tidak sebanyak dulu. Jika Bumi senasib dengan Mars, Bumi mungkin tidak mampu menompang kehidupan seperti yang kita ketahui saat ini.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Tata Surya",
+        "Sub Kategori": "Planet dan Planet Kerdil",
+        "Question": "Apakah Enceladus bisa menjadi kandidat sebagai objek langit yg bisa dihuni?",
+        "Reply": "Penelitian mengungkap bahwa Enceladus diperkirakan memiliki samudera di bawah permukaannya. Selain itu, di kutub selatannya, ada lontaran air. Berdasarkan penelitian ini dan pengukuran molekul-molekul yang ada dalam lontaran air tadi, juga dengan membandingkan kondisi lontaran air tersebut dengan keluarnya uap air panas melalui celah-celah di dasar laut di Bumi yang menjadi habitat organisme, dikatakan bahwa Enceladus mungkin bisa memiliki kondisi yang mendukung kehidupan. Hanya saja, sampai saat ini tidak ditemukan bukti kehidupan di Enceladus.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Eksoplanet dan Kehidupan di Luar Bumi",
+        "Question": "Apakah mungkin ada kehidupan lain di luar Galaksi kita yang mirip seperti di Bumi?",
+        "Reply": "Selamat malam, terima kasih atas pertanyaanya. Saat ini pencarian tanda kehidupan di planet-panet di luar Tata Surya kita masih difokuskan pada bintang-bintang di Galaksi kita. Hal ini dikarenakan deteksi planet-planet ini tidak mudah karena sinyalnya sangat kecil. Namun tentu saja masih terdapat kemungkinan akan dapat ditemukan tanda kehidupan di luar Galaksi kita.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Eksoplanet dan Kehidupan di Luar Bumi",
+        "Question": "Apakah kita tetap mencari single-cell organism based on carbon material atau adakah kemungkinan organisme di luar sana yang materinya tidak terbentuk dari karbon?",
+        "Reply": "Ini menarik sekali untuk dilakukan, namun kita belum memiliki tuntunan riset yang cukup untuk apa yang dicari sebagai indikator.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Tata Surya",
+        "Sub Kategori": "Planet dan Planet Kerdil",
+        "Question": "Apakah mungkin jika suatu saat salah satu satelit dari Jupiter, seperti Ganymede, dapat berveolusi dan berubah menjadi salah satu planet di Tata Surya kita?",
+        "Reply": "Untuk menjadi planet, satelit harus mengitari matahari, bukan planet induknya. Jadi, bukan tidak mungkin salah satu satelit besar Jupiter berubah status menjadi planet, tetapi memerlukan benturan dari objek yang sangat masif untuk memindahkan orbitnya tanpa jadi hancur. Ini kondisi/syarat yang amat sulit untuk dipenuhi.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Tata Surya",
+        "Sub Kategori": "Planet dan Planet Kerdil",
+        "Question": "Apakah oksigen bisa dibuat di planet Mars? Bagaimana cara membuatnya?",
+        "Reply": "Percobaan yang dilakukan Perserverance Rover milik NASA berhasil membuat oksigen menggunakan karbon dioksida di Mars. Pertama, karbon dioksida dihisap ke dalam mesin melalui filter dan dikompres agar mirip dengan kondisi Bumi. Kemudian, gas tersebut diolah menggunakan teknik elektrolisis dengan memanasinya hingga 800 derajat Celcius. Karbon dioksida, yang terdiri dari dua atom karbon dan satu atom oksigen kemudian terpecah menjadi satu atom oksigen dan satu molekul karbon monoksida. Oksigen tersebut kemudian diisolasi dalam wadah khusus sebagai tahap akhir. Dalam satu jam, bisa dihasilkan 5.4 gram oksigen murni, kira-kira setara 10 menit udara yang bisa dihirup oleh manusia.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Tata Surya",
+        "Sub Kategori": "Planet dan Planet Kerdil",
+        "Question": "Apakah planet terbesar adalah planet dengan satelit terbanyak?",
+        "Reply": "Planet terbesar di Tata Surya adalah planet Jupiter. Namun, planet yang memiliki satelit terbanyak adalah Saturnus (82 satelit). Jumlah satelit yang dimiliki setiap planet dapat saja berubah, baik bertambah (baru ditemukan) maupun berkurang (terlempar atau jatuh masuk ke planet).",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Tata Surya",
+        "Sub Kategori": "Planet dan Planet Kerdil",
+        "Question": "Apa yang akan terjadi jika cincin Saturnus itu tidak ada? Apakah bulan-bulan Saturnus akan tidak beraturan atau tidak akan terjadi apa-apa?",
+        "Reply": "Faktor yang sangat mempengaruhi keberlangsungan satelit/bulan adalah planet yang ia kitari. Oleh karena itu, ketiadaan cincin Saturnus tidak akan banyak memberikan pengaruh terhadap satelit-satelitnya.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Tata Surya",
+        "Sub Kategori": "Planet dan Planet Kerdil",
+        "Question": "Bagaimana aktivitas gunung berapi di planet Mars? Bagaimana atmosfir di planet tersebut? Apakah ada perbedaan antara oxidants dan reductans?",
+        "Reply": "Menurut penelitian, sebagian besar aktivitas vulkanisme Mars berlangsung setidaknya 3-4 milyar tahun lalu. Namun, penelitian tahun 2021 mengungkap Mars masih mungkin aktif secara geologis hingga 50.000 tahun lalu. Terkait atmosfer Mars, komposisinya berbeda dengan Bumi, yakni 95% karbon dioksida, 3% nitrogen, 1.6% argon, dan gas-gas lainnya. Oxidant dan reductant terkait dengan pelepasan elektron dalam reaksi kimia. Terjadi transfer elektron dalam reaksi kimia. Oxidant menerima elektron dan karena dengan demikian dia disebut tereduksi (muatannya semakin negatif karena ketambahan elektron). Sebaliknya, reductant melepas elektron dan teroksidasi.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Bagaimana cara kita tahu bahwa galaksi kita (galaksi Bimasakti) adalah galaksi spiral?",
+        "Reply": "Memang sangat sulit untuk menggambarkan rumah kita sendiri dimana kita tidak dapat keluar untuk melihat bentuknya saking besarnya. Terima kasih karena kita diberikan pengetahuan dari apa yang dapat kita indra untuk kemudian memprediksi atau menggambarkan rumah kita sendiri. Pertama kita dapat mengukur jarak dari objek-objek langit, misal planet, bintang, kumpulan debu. Kemudian kita petakan lokasi mereka untuk melihat daerah mana saja objek-objek tersebut berkumpul. Di sisi lain kita juga bisa mengamati galaksi tetangga bagaimana bentuk mereka dan bagaimana objek-objek serupa dengan yang ada di galaksi kita berkumpul dan terdistribusi. Secara singkat dengan pengetahuan tersebut kita dapat menggambarkan Bima Sakti dengan baik.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Tata Surya",
+        "Sub Kategori": "Planet dan Planet Kerdil",
+        "Question": "Bagaimana cara mengetahui (memastikan) bahwa kerak Io dibentuk (terdiri dari) Silika sebagaimana kerak bumi.",
+        "Reply": "Selamat malam Tati, terima kasih telah bertanya. Batuan dari satelit Io memantulkan cahaya yang kemudian ditangkap oleh detektor di Bumi atau di satelit pengamatan dan diteruskan ke sebuah alat yang disebut spektrometer. Spektrometer ini yang kemudian mengurai cahaya tadi menjadi seperti \"pelangi\" yang kita kenal. Hasil penguraian cahaya tersebut akan mengandung pola tertentu yang menunjukkan komposisi kimia tertentu. Berdasarkan pengetahuan kita tentang kimia, maka kita tahu di Io itu unsur kimia apa yang terkandung di kerak atau batuannya.\n",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Eksoplanet dan Kehidupan di Luar Bumi",
+        "Question": "Bagaimana implikasi praktis dan filosofis ketika kehidupan di luar Bumi ditemukan?",
+        "Reply": "Pembahasan pertanyaan ini akan panjang, namun salah satunya, tentunya, hal tersebut akan menjadi capaian yang luar biasa bagi perkembangan ilmu pengetahuan umat manusia, khususnya di bidang astrobiologi. Sangat boleh jadi, kita akan memperbaharui lagi definisi terkait \"Apa itu yang disebut 'hidup'?\". Misalkan, ternyata yang namanya \"hidup\" itu tidak perlu air. Lalu, bagaimana caranya supaya kita bisa hidup tanpa air? Apakah perlu alat bantu atau lingkungan tertentu? dst. Intinya, akan sangat hal menarik yang bisa kita kembangkan nantinya, baik dalam sisi sains maupun teknologinya.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Eksoplanet dan Kehidupan di Luar Bumi",
+        "Question": "Bagaimana kemungkinan unsur kehidupan yg bukan hanya ada di planet, melainkan mungkin berada di asteroid, bintang, atau obyek angkasa lain?",
+        "Reply": "Bisa terdapat molekul kompleks di benda langit bukan planet (asteroid, bulan, dan lain-lain) bahkan salah satu teori usul kehidupan di Bumi adalah dari asteroid/komet yang mencapai Bumi. Namun ada tidaknya unsur kehidupan di benda langit tersebut bergantung pada kondisi lingkungannya.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Tata Surya",
+        "Sub Kategori": "Planet dan Planet Kerdil",
+        "Question": "Bagaimana pengaruh senyawa metana di planet Mars? Bagaimana pula radiasi di planet tersebut?",
+        "Reply": "Metana di Mars sangat sedikit untuk dapat berdampak. Sejauh ini, bahkan ilmuwan masih berusaha memecahkan misteri deteksi metana di Mars, seperti apa yang menghasilkannya, mengapa konsentrasinya sangat kecil di atmosfer, dan mengapa hanya dapat dideteksi ketika malam hari. Terkait radiasi di Mars, permukaan Mars menerima radiasi lebih banyak daripada Bumi karena atmosfernya yang lebih tipis. Tentu ini menjadi pertimbangan tersendiri terkait perencanaan misi-misi ke Mars.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Tata Surya",
+        "Sub Kategori": "Planet dan Planet Kerdil",
+        "Question": "Bagaimana perkiraan waktu miliaran tahun didapatkan ketika melihat jejak-jejak kehidupan di Mars?",
+        "Reply": "Cara yang biasa dipakai untuk memperkirakan umur adalah dengan mengukur kelimpahan Carbon 14 yang terus meluruh dengan waktu. Salah satu cara yang lain adalah dengan merujuk pada berbagai kemungkinan asal unsur kimia tertentu (proses fisis yang relevan dan kondisi fisis), ini yang dikorelasikan dengan masa tertentu pada tahapan evolusi planetnya.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Eksoplanet dan Kehidupan di Luar Bumi",
+        "Question": "Bagaimana planet bisa memiliki atmosfer? Apakah ada perbedaan antara pembentukan planet/satelit yang memiliki atmosfer dan tidak?",
+        "Reply": "Planet-planet dekat Matahari rata-rata memiliki atmosfer yang tipis atau bahkan hampir tidak ada atmosfer. Berbeda dengan planet-planet yang jauh dari Matahari, memiliki atmosfer cukup tebal. Hal ini diperkirakan planet dekat Matahari banyak terpengaruhi oleh angin Matahari dan gravitasinya relatif lebih kecil daripada planet-palnet gas yang besar. Gravitasi yang besar memiliki gaya tarik yang besar untuk tetap mempertahankan atmosfer palnetnya",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Tata Surya",
+        "Sub Kategori": "Bumi",
+        "Question": "Bagaimanakah astronomi berhubungan dengan geologi sehingga karakteristik kehidupan yang muncul pada Bumi bisa menjadi referensi untuk penelitian benda langit?",
+        "Reply": "Pada dasarnya penelitian-penelitian dari bidang lain, seperti biologi, kimia, geologi dan masih banyak lagi memberikan referensi mengenai biomarker atau lingkungan yang bisa menjadi tempat suatu \"organisme\" itu hidup. Dari sisi geologi, penentuan umur batuan yang berkorelasi dengan waktu hidup organisme yang sekarang menjadi fosil. Dengan mengetahui usia atau waktu, kita akan bisa menduga kondisi seperti apa ketika organisme itu hidup dulu, misal temperatur, air, dan lain-lain. Dugaan itu bisa menjadi sebuah batasan bagaimana kemudian astronom merumuskan \"definisi kehidupan\".",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Berapakah umur galaksi Bima sakti?",
+        "Reply": "Saat ini umur galaksi Bima Sakti sekitar 13,5 miliar tahun.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Eksoplanet dan Kehidupan di Luar Bumi",
+        "Question": "Apakah sampai saat ini belum ada tanda-tanda yang menunjukkan adanya kehidupan di luar angkasa? Apakah benar yang saat ini diketahui masih sebatas elemen yang mirip seperti yang ada di Bumi?",
+        "Reply": "Betul, hingga kini hanya diketahui kemiripan elemen sepeerti di bumi saja.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Tata Surya",
+        "Sub Kategori": "Planet dan Planet Kerdil",
+        "Question": "Bulan, satelit Bumi, diduga merupakan bagian dari Bumi karena pembentuknya mirip. Apakah planet-planet lain juga seperti itu, yaitu satelit-satelitnya terbentuk dari pecahan planet induknya?",
+        "Reply": "Satelit alami dapat terbentuk pula dari benda-benda yang dahulu berada di sekitar pembentukan planet atau benda yang melintas dekat planet sehingga terperangkap gravitasi planet. Pembentukan Bulan adalah pecahan Bumi merupakan dugaan terbaik yang dipikirkan oleh saintis saat ini. Mungkin saja pada masa yang akan datang dapat muncul dugaan lain. Lalu planet-planet gas memiliki satelit yang relatif padat berupa batuan dan es, sehingga dugaan satelit itu terbentuk dari pecahan planetnya sepertinya kecil kemungkinannya.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Tata Surya",
+        "Sub Kategori": "Planet dan Planet Kerdil",
+        "Question": "Dapatkah satelit dari sebuah planet memiliki satelitnya sendiri?",
+        "Reply": "Jika kita tinjau secara interaksi dua benda, mungkin saja hal itu terjadi jika memiliki konfigurasi jarak yang pas. Meskipun begitu, sampai saat ini belum ditemukan sistem seperti itu, hanya saja ada indikasi untuk kasus salah satu satelit Planet Saturnus memiliki orbit stabil yang dapat dikelilingi oleh bongkahan cincin Planet induknya.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Tata Surya",
+        "Sub Kategori": "Planet dan Planet Kerdil",
+        "Question": "Jika ada air di planet Mars, apa kandungan air tersebut sama seperti di Bumi?",
+        "Reply": "Pada dasarnya, air merupakan senyawa dengan rumus kimia H2O di mana pun dia berada. Namun, zat yang terlarut dalam air sangat mungkin berbeda-beda. Bukan hanya antara air di Bumi dan (mungkin) Mars, tetapi air di berbagai daerah di Bumi pun memiliki kandungan yang berbeda. Misalnya air laut dan air sungai, di dalamnya terdapat zat yang tentu berbeda.",
+        "Checker": "CV"
+    },
+    {
+        "Kategori": "Tata Surya",
+        "Sub Kategori": "Planet dan planet kerdil",
+        "Question": "Jika ditemukan jejak aliran air di Mars, kira-kira apa yang membuat air di Mars hilang dan membuatnya seperti sekarang?",
+        "Reply": "Astronom mengusulkan dua mekanisme untuk hal ini. Pertama, air menguap ke atmosfer Mars lalu terpecah menjadi unsur penyusunnya, yakni hidrogen dan oksigen, akibat radiasi angin Matahari. Hidrogen yang lebih ringan kemudian lepas ke angkasa karena tidak dapat ditahan gravitasi Mars. Kedua, air bisa saja terserap dan terkunci dalam molekul-molekul di batuan-batuan Mars.",
+        "Checker": "EP"
+    },
+    {
+        "Kategori": "Tata Surya",
+        "Sub Kategori": "Planet dan planet kerdil",
+        "Question": "Jikalau memungkinkan adanya kehidupan di planet Mars, apakah manusia dapat hidup juga di dalamnya? Berapa lama dan dengan catatan apa dapat hidup disana?",
+        "Reply": "Hingga saat ini telah banyak wahana antariksa tanpa awak yang dikirim ke planet Mars untuk mempelajarinya, bahkan ada wahana yang saat ini sedang melakukan survei di permukaan planet Mars. Dari hasil survei tersebut nantinya diharapkan dapat diketahui dengan lebih baik bagaimana eksplorasi wahana berawak dapat dilakukan. Sejauh ini yang diketahui untuk dapat tinggal di Mars dibutuhkan sistem pendukung kehidupan yang sangat kompleks.",
+        "Checker": "EP"
+    },
+    {
+        "Kategori": "Tata Surya",
+        "Sub Kategori": "Planet dan planet kerdil",
+        "Question": "Apakah keberadaan Mars pada habitable zone ditambah dengan dugaan keberadaan air dapat menjadi penanda bahwa Mars memiliki potensi kehidupan pada masa lalu? ",
+        "Reply": "Salah satu yang memungkinkan adanya kehidupan (seperti di Bumi) adalah keberadaan air dalam bentuk cair, yaitu pada habitable zone. Dalam beberapa misi terdapat tanda yang mengindikasikan bahwa Mars memiliki hal tersebut. Untuk meyakinkan ada tidaknya keberadaan makhluk hidup, dikirimlah misi-misi lanjutan, salah satunya Mars Perseverance",
+        "Checker": "EP"
+    },
+    {
+        "Kategori": "Tata Surya",
+        "Sub Kategori": "Planet dan planet kerdil",
+        "Question": "Kenapa Pluto keluar dari Tata Surya?",
+        "Reply": "Sebenarnya Pluto masih berada pada posisinya dalam Tata Surya, mengorbit Matahari seperti biasanya. Hanya saja Pluto ini disepakati oleh para astronom dunia untuk diklasifikasikan sebagai 'planet kerdil', bukan lagi planet. Sehingga kalau dulu di Tata Surya ada 9 planet sekarang menjadi 8 planet.",
+        "Checker": "EP"
+    },
+    {
+        "Kategori": "Tata Surya",
+        "Sub Kategori": "Planet dan planet kerdil",
+        "Question": "Mengapa Venus bertemperatur hingga 471 derajat Celsius? Apakah itu dari radiasi ultraviolet Matahari atau Venus memanaskan dirinya sendiri?",
+        "Reply": "Venus menjadi planet terpanas di Tata Surya karena atmosfernya yang tebal dan terdiri dari karbondioksida. Gas ini sering disebut sebagai unsur rumah kaca yang menyebabkan pemanasan global di Bumi. Seperti rumah kaca yang dapat menghangatkan tanaman, gas ini dapat memerangkap panas Matahari yang masuk sehingga tidak dapat dilepaskan kembali. Hal ini membuat planet memanas.",
+        "Checker": "EP"
+    },
+    {
+        "Kategori": "Tata Surya",
+        "Sub Kategori": "Planet dan planet kerdil",
+        "Question": "Mengapa guratan-guratan di Mars dianggap diakibatkan oleh air, bukan angin? Apakah karena bentuk guratannya berbeda?",
+        "Reply": "Guratan yang terlihat di permukaan Mars memiliki makna yang berbeda-beda. Jika guratan tampak cekung, kemungkinan pengaruh aliran air. Seperti di Bumi, saat kekeringan  melanda, terdapat jejak aliran air yang tampak menggurat. Jika yang tampak berupa gundukan tanah, hal itu biasanya disebabkan oleh angin. Tentu saja semua variabel alam akan dialami oleh permukaan Mars. Namun, ada beberapa yang menjadi penyebab utama.\n",
+        "Checker": "EP"
+    },
+    {
+        "Kategori": "Tata Surya",
+        "Sub Kategori": "Planet dan planet kerdil",
+        "Question": "Mengapa planet Jupiter yang merupakan kumpulan gas bisa menghasilkan warna-warna yang terlihat teratur dan berpola?",
+        "Reply": "Komposisi planet sangat bergantung pada proses pembentukan Tata Surya di masa lalu. Ketika awal pembentukan Tata Surya, materi-materi yang lebih berat misal batuan, akan jatuh dan terkumpul di daerah pusat sedangan yang lebih ringan akan berada pinggiran. Materi yang di pinggiran itu karena berjumlah cukup banyak tetapi jauh dari pusat keruntuhan gravitasi maka akan runtuh menjadi planet gas seperti Saturnus, Jupiter, dan lain-lain. Kemudian mengenai warna itu mengindikasikan kandungan kimia dan ketebalan astmosfer Jupiter. Pola itu juga terbentuk karena perbedaan kecepatan rotasi menurut lintangnya.",
+        "Checker": "EP"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Gugus Bintang",
+        "Question": "Mengapa gugus bintang termasuk target menarik bagi pencari kehidupan ekstraterestrial?",
+        "Reply": "Gugus bintang berisi bintang dalam jumlah jauh lebih tinggi dari rata-rata sehingga kemungkinan menemukan eksoplanet juga lebih tinggi. Selain itu, gugus bintang berisi gas yang kaya unsur kimianya.",
+        "Checker": "EP"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Eksoplanet dan Kehidupan di Luar Bumi",
+        "Question": "Berapa persen kemungkinan adanya kehidupan lain di luar bumi? Apa alasannya?",
+        "Reply": "Pada tahun 1960an, seorang ilmuwan bernama Frank Drake, mengusulkan perhitungan terkait kemungkinan ditemukannya kehidupan lain di luar Bumi yang dikenal sebagai Persamaan Drake. Persamaan tersebut mempertimbangkan beberapa faktor yang dimulai dari berapa rata-rata laju pembentukan bintang dalam Galaksi kita. Lalu, di antara sekian banyak bintang yang terbentuk, berapa banyak yang punya planet? Lalu, di antara sekian planet tersebut, berapa yang dapat membentuk kehidupan? Seperti yang sedang dibahas di PVLM ini. Faktor-faktor dalam persamaan Drake ini bahkan bisa diekstensi ke kemungkinan adanya kehidupan sampai ke tahap peradaban cerdas dan dapat berkomunikasi seperti manusia. Banyak ilmuwan yang telah mengusulkan nilai persentase kemungkinan (probabilitas) tersebut dan masih diperdebatkan/dibahas lebih lanjut mengikuti perkembangan temuan-temuan terbaru terkait eksoplanet, evolusi bintang, dll. Intinya, probabilitasnya kecil, bisa jauh lebih kecil dari 1, tapi tidak sampai 0% (bukan sesuatu yang mustahil). ",
+        "Checker": "EP"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Mungkinkah adanya unsur lain di luar angkasa yang lebih berat dari yang telah ditemukan di Bumi? Mungkinkah unsur tersebut terbentuk saat supernovae / hypernovae?",
+        "Reply": "Sejauh ini unsur-unsur yang diyakini dapat dibentuk dari evolusi bintang maupun peristiwa supernovae dan hypernovae merupakan unsur-unsur yang kita kenal pada tabel periodik. Hanya saja kadang unsur yang sangat jarang ditemukan di Bumi justru dapat terdeteksi dari peristiwa supernovae.",
+        "Checker": "EP"
+    },
+    {
+        "Kategori": "Tata Surya",
+        "Sub Kategori": "Planet dan planet kerdil",
+        "Question": "Planet Jupiter memiliki medan gravitasi yang sangat kuat. Namun, mengapa gas-gas di Jupiter tidak memadat/memampat karena tekanan gravitasi planet itu sendiri?",
+        "Reply": "Jupiter memang memiliki medan gravitasi yang kuat. Namun, planet ini berotasi sangat cepat dan memiliki medan magnet sangat kuat sehingga menyulitkan proses pemadatan.",
+        "Checker": "EP"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Eksoplanet dan Kehidupan di Luar Bumi",
+        "Question": "Sebelum manusia hidup, apakah pada planet yang mengandungan air terdapat kehidupan?",
+        "Reply": " Agar kehidupan (seperti yang kita ketahui) dapat bertahan, terdapat beberapa faktor yang harus dipenuhi selain daripada keberadaan air. Meski begitu, sangat tidak menutup kemungkinan pada planet tersebut memiliki kehidupan yang barangkali berbeda dengan yang kita temui di planet Bumi.",
+        "Checker": "EP"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Eksoplanet dan Kehidupan di Luar Bumi",
+        "Question": "Sejauh mana kebenaran adanya bukti balasan sinyal dari makhluk cerdas atau mungkin alien?",
+        "Reply": "Pada tahun 1977, sekelompok astronom di Amerika Serikat pernah mendapatkan sinyal pada gelombang radio pita sempit yang nampak mencurigakan, tidak seperti sinyal radio alamiah yang saat itu telah diketahui. Sinyal ini berupa lonjakan sinyal secara tiba-tiba lalu kemudian menghilang. Saat itu, orang-orang menyebutnya sebagai \"WOW! Signal\" dan diduga datang dari makhluk cerdas di luar Bumi (Extraterrestrial Intelligence). Namun, dugaan tersebut hingga saat ini belum dapat terkonfirmasi positif apakah betul-betul datang dari alien atau bukan. Bisa saja sinyal ini berasal dari satelit buatan yang saat itu lewat atau terdapat objek/fenomena astronomis baru yang belum diketahui sehingga perlu dilakukan analisis lebih lanjut.",
+        "Checker": "EP"
+    },
+    {
+        "Kategori": "Pengamatan Langit",
+        "Sub Kategori": "Observasi kasat mata",
+        "Question": "Sejauh mana relevansi pengamatan langit malam dan aktivitas pertanian di masa kini?",
+        "Reply": "Sejak zaman dahulu, manusia memanfaatkan penampakan bintang-bintang di langit untuk menentukan, salah satunya, waktu bercocok tanam. Karena posisi bitang-bintang di langit berhubungan dengan musim yang terjadi di Bumi. Di masa kini, perkembangan teknologi sangat membantu aktivitas manusia, termasuk dalam hal bercocok tanam. Sehingga tidak lagi (sangat) diperlukan pengamatan bintang-bintang di langit untuk melakukan aktivitas seputar pertanian.",
+        "Checker": "EP"
+    },
+    {
+        "Kategori": "Tata Surya",
+        "Sub Kategori": "Planet dan planet kerdil",
+        "Question": "Seperti apa fitur Titan di Bumi?",
+        "Reply": "Fitur yang mirip antara Bumi dan Titan adalah adanya 'sungai' atau 'danau', namun kandungan kimianya jauh berbeda.",
+        "Checker": "EP"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Eksoplanet dan Kehidupan di Luar Bumi",
+        "Question": "Jika tidak semua planet yang berada di habitable zone bisa menyokong kehidupan, lalu apa saja syarat-syarat agar planet bisa menyokong kehidupan?",
+        "Reply": "Setidaknya, planet-planet tersebut harus dapat memungkinkan air tetap ada dalam bentuk cair agar kehidupan, sebagaimana yang kita ketahui, dapat terbentuk. Untuk itu, planet tersebut harus memiliki atmosfer yang tekanan dan temperaturnya \"pas\" sedemikian rupa. Dengan adanya atmosfer, maka unsur-unsur organik seperti C, H, N, O, P, S dapat membentuk molekul yang lebih kompleks untuk menyokong kehidupan seperti O2, CO2, CH4, dll. Selain itu, perlu juga ada sumber energi yang berasal dari bintang induknya (seperti Matahari terhadap Bumi) agar kehidupan bisa berlangsung.",
+        "Checker": "EP"
+    }
+    ]
+}
