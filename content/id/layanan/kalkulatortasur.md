@@ -4,7 +4,7 @@ date = 2021-03-15T00:00:00
 lastmod = 2021-09-02T00:00:00
 toc = true
 type = "docs"
-draft = true
+draft = false
 
 linktitle = "Kalkulator Skala Tata Surya"
 
@@ -473,7 +473,7 @@ Untuk mempelajari skala dimensi yang lebih sederhana bagi anak-anak usia TK atau
       <tr valign="top">
         <td valign="middle">
           <div align="right">
-            Bintang Alpha Centauri<br>
+            Bintang $\alpha$ Cen<br>
           </div>
         </td>
         <td valign="middle"><br></td>
