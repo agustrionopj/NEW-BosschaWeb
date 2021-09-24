@@ -76,7 +76,7 @@ Malam hari merupakan waktu yang digunakan oleh manusia untuk beristirahat dari a
 
 Cahaya lampu berdampak negatif terhadap kesehatan manusia, diantaranya peningkatan risiko obesitas, depresi, gangguan tidur, diabetes, kanker payudara, dll. Terpaparnya tubuh manusia oleh cahaya lampu di malam hari dapat mengganggu produksi hormon melatonin. Hormon ini berfungsi untuk menjaga kesehatan manusia karena bersifat sebagai antioksidan, meningkatkan sistem kekebalan tubuh, menurunkan kadar kolesterol, dan membantu kinerja tiroid, pankreas, ovarium, testis dan kelenjar adrenal. Jika produksi hormon melatonin terganggu, maka terganggu pula kesehatan manusia. Oleh karena itu perlu dilakukan pengaturan terhadap waktu beraktivitas agar produksi hormon melatonin tetap terjaga.
 
-Masalah ternyata tidak berhenti sampai di sini. Kualitas lampu juga dapat memengaruhi kesehatan manusia. Setiap lampu tentunya memiliki temperatur yang berbeda atau dalam istilah lain disebut sebagai spektrum. Lampu yang banyak memancarkan panjang gelombang biru dapat mengganggu kesehatan karena panjang gelombang biru merupakan panjang gelombang dengan energi tinggi. Terlebih lagi, banyak lampu yang digunakan memiliki panjang gelombang biru, yakni LED. Meskipun LED adalah lampu hemat energi tetapi penggunaanya tetap harus dibatasi karena dapat memengaruhi kesehatan manusia. Asosiasi Kesehatan Amerika 2016 merekomendasikan penggunaan lampu bertemperatur dibawah 3000 K untuk menjaga kesehatan. Aplikasi pada *smartphone* atau *tablet* dapat digunakan untuk mendeteksi temperatur warna lampu, diantaranya *Lux* dan *Twilight*.
+Masalah ternyata tidak berhenti sampai di sini. Kualitas lampu juga dapat memengaruhi kesehatan manusia. Setiap lampu tentunya memiliki temperatur yang berbeda atau dalam istilah lain disebut sebagai spektrum. Lampu yang banyak memancarkan panjang gelombang biru dapat mengganggu kesehatan karena panjang gelombang biru merupakan panjang gelombang dengan energi tinggi. Terlebih lagi, banyak lampu yang digunakan memiliki panjang gelombang biru, yakni LED. Meskipun LED adalah lampu hemat energi tetapi penggunaanya tetap harus dibatasi karena dapat memengaruhi kesehatan manusia. 
 
 ### Bagaimana Mengatasinya?
 Polusi cahaya merupakan jenis polusi yang sudah cukup baik dipahami keberadaan serta dampaknya kepada lingkungan dan tubuh manusia. Lalu bagaimana kita menanggulangi polusi cahaya? Kita memang tidak dapat menghilangkan sepenuhnya peran pencahayaan buatan dari kehidupan kita, yang dapat kita lakukan adalah mengubah sudut pandang kita terhadap penggunaan pencahayaan dan beralih kepada menggunakan cahaya dengan lebih bijak. Tidak seperti polusi yang lain, polusi cahaya merupakan jenis polusi yang sangat mudah untuk ditanggulangi. 
@@ -85,11 +85,11 @@ Lalu apa yang dapat dilakukan?
 
 Sebagai awal, tanamkanlah pemikiran bahwa kita hanya memerlukan pencahayaan di tempat dan di waktu yang diperlukan. Saat siang hari, manfaatkan pencahayaan matahari semaksimal mungkin. Ini akan mengurangi beban energi (dan uang) yang sebetulnya tidak diperlukan. 
 
-Pasanglah tudung lampu agar lampu tidak menyilaukan, terutama untuk lampu di luar. Pastikan tudung lampu menutupi sedemikian rupa hingga mengarahkan pencahayaan hanya ke tempat yang diperlukan dan tidak mengarah ke langit. Tudung lampu sederhana (lihat gambar 11 di bawah) sudah dapat ditemukan dengan mudah secara komersial. Selain itu, gunakan jenis lampu dan tingkat intensitas yang tepat. Lampu yang baik adalah lampu yang cahayanya tidak lebih dari 30 derajat (dihitung dari arah vertikal).  Gunakanlah lampu hemat energi dengan memperhitungkan warna temperaturnya. 
+{{<figure src="/img/20210727_YY_Lampu.png" width="65%" title="**Gambar 12**.  Strategi pencahayaan yang dapat dilakukan untuk mengurangi polusi cahaya.">}}
+
+Dengan menerapkan 5 tahapan “T” pada pencahayaan, Tudungi, Tempat, Temperatur, Terang, dan Temporer, pastikan lampu yang arah cahayanya tidak lebih dari 30 derajat (dihitung dari arah vertikal). Gunakan sumber cahaya berwarna kuning hangat karena cahaya putih lebih menyilaukan dan gunakan lampu dengan suhu warna 2200K atau kurang. Hanya gunakan pencahayaan di tempat yang sangat dibutuhkan dan pada waktu yang diperlukan saja.
 
 {{<figure src="/img/tudung-lampu.jpg" width="65%" title="**Gambar 11**.  Salah satu bentuk tudung lampu.">}}
-
-{{<figure src="/img/strategi-pencahayaan.png" width="65%" title="**Gambar 12**.  Strategi pencahayaan yang dapat dilakukan untuk mengurangi polusi cahaya.">}}
 
 ---
 

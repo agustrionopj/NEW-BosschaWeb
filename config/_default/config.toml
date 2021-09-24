@@ -33,8 +33,8 @@ title = "Observatorium Bosscha"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-# baseurl = "https://bosscha.itb.ac.id/"
-baseurl = "http://167.205.7.35:3000/"
+baseurl = "https://bosscha.itb.ac.id/"
+# baseurl = "http://167.205.7.35:3000/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
