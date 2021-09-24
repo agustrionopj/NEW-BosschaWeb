@@ -229,11 +229,11 @@
   url = "/layanan/pvlm-2020/"
   weight = 57
 
-# [[main]]
-#   name = "Pustaka Pertanyaan"
-#   parent = "layanan"
-#   url = "/layanan/tanya/"
-#   weight = 58
+[[main]]
+  name = "Pustaka Pertanyaan"
+  parent = "layanan"
+  url = "/layanan/tanya/"
+  weight = 58
 
 # [[main]]
 #   name = "Tautan"
@@ -241,11 +241,11 @@
 #   url = "tautan/"
 #   weight = 48
 
-# [[main]]
-#     name = "Polusi Cahaya"
-#     parent = "layanan"
-#     url = "/layanan/langitmalam"
-#     weight = 59
+[[main]]
+    name = "Polusi Cahaya"
+    parent = "layanan"
+    url = "/layanan/langitmalam"
+    weight = 59
 
 # [[main]]
 #   name = "Tim Pendidikan & Penjangkauan Publik"

@@ -4,7 +4,7 @@ date = 2021-03-15T00:00:00
 lastmod = 2021-09-02T00:00:00
 toc = true
 type = "docs"
-draft = true
+draft = false
 
 linktitle = "Kalkulator Berat Badan"
 
@@ -240,7 +240,7 @@ var b = form.x.value;
 
         form.moon.value=(int_zero(10*b*.166)/10).toLocaleString('id-ID');
         form.europa.value=(int_zero(100*b*.13358)/100).toLocaleString('id-ID');
-        //form.titan.value=(int_zero(10*b*1.125)/10).toLocaleString('id-ID');
+        form.titan.value=(int_zero(10*b*.138)/10).toLocaleString('id-ID');
         form.sun.value=(int_zero(10*b*27.072)/10).toLocaleString('id-ID');
         form.wdwarf.value=(int_zero(10*b*13e5)/10).toLocaleString('id-ID');
         form.neutron.value=(int_zero(14e10*b)).toLocaleString('id-ID');
