@@ -1,57 +1,47 @@
 +++
-# Project title.
-title = "Pengamatan Okultasi"
-draft = true
+title = "Okultasi"
 
-# Date this page was created.
-date = 2016-04-27T00:00:00
+date = 2021-09-21T05:00:00
+# lastmod = 2021-09-21T05:00:00
 
-# Project summary to display on homepage.
-summary = "An example of using the in-built project page."
+draft = true  # Is this a draft? true/false
+toc = false  # Show table of contents? true/false
+type = "docs"  # Do not modify.
 
-# Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["occultation", "observation"]
+# Add menu entry to sidebar.
+[menu.topik]
+  parent = "Topik"
+  name = "Okultasi"
+  weight = 5
 
-# Optional external URL for project (replaces project detail page).
-external_link = ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
-#   `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides = "example-slides"
-
-# Links (optional).
-url_pdf = ""
-url_slides = ""
-url_video = ""
-url_code = ""
-
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
-  # Caption (optional)
-  caption = "Peristiwa okultasi Saturnus oleh Bulan <br> (sumber: http://www.abc.net.au/science/articles/2014/02/19/3947224.htm)"
-  
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
 +++
-#### :arrow_backward: [Kembali]({{< relref "/penelitian" >}})
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+<!-- {{< figure library="true" src="underconstruction.jpg" width="200px">}} -->
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+***
+<!-- ![NGC 6494](/img/gugus_terbuka/NGC_6494.jpeg) -->
+<!-- ![Kurva cahaya](/img/okultasi/mu_sgr.png) -->
+<img src="/img/okultasi/mu_sgr.png" alt="Kurva cahaya" width="500" height="600">
+<div style="text-align: center; font-size: 75%;">
+Kurva cahaya okultasi Mu Sgr oleh Bulan, diamati dari Observatorium Bosscha. Separasi sudut yang diperoleh dari pengamatan ini adalah 9,5 +/- 5,6 mas.
+<br><br>
+</div>
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+Peristiwa okultasi merupakan peristiwa tertutupnya sebuah obyek langit oleh obyek langit lain yang ukuran sudutnya (ukuran tampak dari Bumi) lebih besar dari obyek yang ditutupi. Contohnya adalah okultasi sebuah bintang oleh Bulan, ataupun sebuah bintang oleh asteroid. Akibat proses ini, maka akan ada perubahan cahaya obyek yang tertutupi seiring waktu, biasanya menjadi meredup, atau bahkan hilang sepenuhnya. Perubahan cahaya ini berlangsung singkat (biasanya dalam orde detik) sehingga diperlukan suatu cara untuk bisa merekam peristiwa ini dalam resolusi temporal yang tinggi.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+Beberapa alasan kenapa penelitian okultasi ini menarik adalah: pertama, resolusi sudut yang dihasilkan bisa mencapai milidetik busur atau milli arcseconds (mas = 1/1000 detik busur) (catatan: 1° = 3600 detik busur) sehingga sangat baik digunakan untuk mencari pasangan obyek (misalnya pasangan bintang ganda) yang separasi sudutnya kecil, yang biasanya hanya bisa dilakukan dengan teknik interferometri. Kedua, teknik observasinya tangguh terhadap polusi cahaya dan secara praktis bisa dilakukan di manapun selama obyeknya masih terlihat. Ketiga, diameter teleskop yang diperlukan tidak harus besar, sehingga baik untuk dijadikan sebagai program pengamatan teleskop-teleskop kecil. Keempat, karena peristiwa okultasi ini berlangsung hanya pada waktu tertentu saja, maka efisiensi waktu teleskop (telescope time) akan lebih besar, karena bisa dipadukan dengan program pengamatan lain.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Observatorium Bosscha melakukan pengamatan okultasi sejak tahun 2011 dan mendapatkan beberapa hasil, di antaranya adalah deteksi pasangan bintang Mu Sgr, okultasi Saturnus oleh Bulan, serta deteksi pasangan bintang Delta Sco<sup>1</sup>. 
+
+Pada akhir tahun 2020, Observatorium Bosscha mencanangkan ‘Project BEACON’ atau Bosscha Eclipse and Occultation Observation, yang didedikasikan khusus untuk pengamatan okultasi dan gerhana, serta berencana berpartisipasi dalam pengamatan transit dan okultasi bersama antara satelit-satelit galilean Jupiter di tahun 2021 atau proyek PHEMU21<sup>2</sup>.
+
+
+PI: Agus Triono P. J., M.Si., agustriono.pj(at)gmail.com
+
+Referensi:
+<div>
+	<ol>
+		<li>Jatmiko, A. T. P., Puannandra, G. P., Hapsari, R. D., Putri, R. A., Arifin, Z. M., Haans, G. K., dan Hadiputrawan, I. P. W., 2014. Lunar occultation observation of μ Sgr: A progress report. AIP Conference Proceedings, <b>1589</b>, 53. </li>
+		<li>Observational campaign of the mutual phenomena of Jupiter’s satellites. <a href="https://www.imcce.fr/recherche/campagnes-observations/phemus/phemu">https://www.imcce.fr/recherche/campagnes-observations/phemus/phemu</a>, diakses pada 24 September 2021.
+	</ol>
+</div>
