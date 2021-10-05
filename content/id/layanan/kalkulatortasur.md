@@ -1,17 +1,16 @@
-+++
-title = "Kalkulator Skala Tata Surya"
-date = 2021-03-15T00:00:00
-lastmod = 2021-09-02T00:00:00
-toc = true
-type = "docs"
-draft = false
-
-linktitle = "Kalkulator Skala Tata Surya"
-
-[menu.layanan]
-    parent = "Materi Edukasi Astronomi"
-    weight = 2
-+++
+---
+title: Kalkulator Skala Tata Surya
+date: 2021-03-15T00:00:00.000
+lastmod: 2021-10-03T00:00:00.000
+toc: true
+type: docs
+draft: false
+linktitle: Kalkulator Skala Tata Surya
+menu:
+  layanan:
+    parent: Materi Edukasi Astronomi
+    weight: 2
+---
 
 Tata Surya kita sangatlah besar. Dimensi ukuran dan jarak pada benda-benda astronomis terkadang sangat ekstrim sehingga sulit dibayangkan dari pengalaman sehari-hari. 
 
@@ -32,7 +31,7 @@ Untuk mempelajari skala dimensi yang lebih sederhana bagi anak-anak usia TK atau
 
 <p class="a">
 <form id="SolCalcForm" name="SolCalcForm">
-        Ukuran Matahari dalam mm: <input name="x" size="13" type="text"> <input
+        Ukuran Matahari dalam milimeter (mm): <input name="x" size="13" type="text"> <input
                 onclick="Calculate(document.SolCalcForm)" type="button" value="Hitung!">
         <hr>
         <table border="0" cellpadding="2" cellspacing="2" width="100%">
@@ -68,8 +67,9 @@ Untuk mempelajari skala dimensi yang lebih sederhana bagi anak-anak usia TK atau
                                 </td>
                                 <td valign="middle">
                                         <div align="left">
-                                                <input name="d_sun_real" readonly size="13" type="text"
-                                                        value="1.391.900"> km
+                                                <!-- <input name="d_sun_real" readonly size="13" type="text"
+                                                        value="1.391.900"> km -->
+                                                        1.391.900 km<br>
                                         </div>
                                 </td>
                                 <td></td>
@@ -84,8 +84,9 @@ Untuk mempelajari skala dimensi yang lebih sederhana bagi anak-anak usia TK atau
                                 </td>
                                 <td valign="middle">
                                         <div align="left">
-                                                <input name="d_mercury_real" readonly size="13" type="text"
-                                                        value="4.866"> km
+                                                <!-- <input name="d_mercury_real" readonly size="13" type="text"
+                                                        value="4.866"> km -->
+                                                        4.866 km<br>
                                         </div>
                                 </td>
                                 <td valign="middle">
@@ -95,8 +96,9 @@ Untuk mempelajari skala dimensi yang lebih sederhana bagi anak-anak usia TK atau
                                 </td>
                                 <td valign="middle">
                                         <div align="left">
-                                                <input name="r_mercury_real" readonly size="13" type="text"
-                                                        value="57.950.000"> km
+                                                <!-- <input name="r_mercury_real" readonly size="13" type="text"
+                                                        value="57.950.000"> km -->
+                                                        57.950.000 km<br>
                                         </div>
                                 </td>
                                 <td valign="middle">
@@ -113,8 +115,9 @@ Untuk mempelajari skala dimensi yang lebih sederhana bagi anak-anak usia TK atau
                                 </td>
                                 <td valign="middle">
                                         <div align="left">
-                                                <input name="d_venus_real" readonly size="13" type="text"
-                                                        value="12.106"> km
+                                                <!-- <input name="d_venus_real" readonly size="13" type="text"
+                                                        value="12.106"> km -->
+                                                        12.106 km<br>
                                         </div>
                                 </td>
                                 <td valign="middle">
@@ -124,8 +127,9 @@ Untuk mempelajari skala dimensi yang lebih sederhana bagi anak-anak usia TK atau
                                 </td>
                                 <td valign="middle">
                                         <div align="left">
-                                                <input name="r_venus_real" readonly size="13" type="text"
-                                                        value="108.110.000"> km
+                                                <!-- <input name="r_venus_real" readonly size="13" type="text"
+                                                        value="108.110.000"> km -->
+                                                        108.110.000 km<br>
                                         </div>
                                 </td>
                                 <td valign="middle">
@@ -142,8 +146,9 @@ Untuk mempelajari skala dimensi yang lebih sederhana bagi anak-anak usia TK atau
                                 </td>
                                 <td valign="middle">
                                         <div align="left">
-                                                <input name="d_earth_real" readonly size="13" type="text"
-                                                        value="12.742"> km
+                                                <!-- <input name="d_earth_real" readonly size="13" type="text"
+                                                        value="12.742"> km -->
+                                                        12.742 km<br>
                                         </div>
                                 </td>
                                 <td valign="middle">
@@ -153,8 +158,9 @@ Untuk mempelajari skala dimensi yang lebih sederhana bagi anak-anak usia TK atau
                                 </td>
                                 <td valign="middle">
                                         <div align="left">
-                                                <input name="r_earth_real" readonly size="13" type="text"
-                                                        value="149.570.000"> km
+                                                <!-- <input name="r_earth_real" readonly size="13" type="text"
+                                                        value="149.570.000"> km -->
+                                                        149.570.000 km
                                         </div>
                                 </td>
                                 <td valign="middle">
@@ -171,8 +177,9 @@ Untuk mempelajari skala dimensi yang lebih sederhana bagi anak-anak usia TK atau
                                 </td>
                                 <td valign="middle">
                                         <div align="left">
-                                                <input name="d_mars_real" readonly size="13" type="text" value="6.760">
-                                                km
+                                                <!-- <input name="d_mars_real" readonly size="13" type="text" value="6.760">
+                                                km -->
+                                                6.760 km
                                         </div>
                                 </td>
                                 <td valign="middle">
@@ -182,8 +189,9 @@ Untuk mempelajari skala dimensi yang lebih sederhana bagi anak-anak usia TK atau
                                 </td>
                                 <td valign="middle">
                                         <div align="left">
-                                                <input name="r_mars_real" readonly size="13" type="text"
-                                                        value="227.840.000"> km
+                                                <!-- <input name="r_mars_real" readonly size="13" type="text"
+                                                        value="227.840.000"> km -->
+                                                        227.840.000 km
                                         </div>
                                 </td>
                                 <td valign="middle">
@@ -200,8 +208,9 @@ Untuk mempelajari skala dimensi yang lebih sederhana bagi anak-anak usia TK atau
                                 </td>
                                 <td valign="middle">
                                         <div align="left">
-                                                <input name="d_jupiter_real" readonly size="13" type="text"
-                                                        value="139.516"> km
+                                                <!-- <input name="d_jupiter_real" readonly size="13" type="text"
+                                                        value="139.516"> km -->
+                                                        139.516 km
                                         </div>
                                 </td>
                                 <td valign="middle">
@@ -211,8 +220,9 @@ Untuk mempelajari skala dimensi yang lebih sederhana bagi anak-anak usia TK atau
                                 </td>
                                 <td valign="middle">
                                         <div align="left">
-                                                <input name="r_jupiter_real" readonly size="13" type="text"
-                                                        value="778.140.000"> km
+                                                <!-- <input name="r_jupiter_real" readonly size="13" type="text"
+                                                        value="778.140.000"> km -->
+                                                        778.140.000 km
                                         </div>
                                 </td>
                                 <td valign="middle">
@@ -229,8 +239,9 @@ Untuk mempelajari skala dimensi yang lebih sederhana bagi anak-anak usia TK atau
                                 </td>
                                 <td valign="middle">
                                         <div align="left">
-                                                <input name="d_saturn_real" readonly size="13" type="text"
-                                                        value="116.438"> km
+                                                <!-- <input name="d_saturn_real" readonly size="13" type="text"
+                                                        value="116.438"> km -->
+                                                        116.438 km
                                         </div>
                                 </td>
                                 <td valign="middle">
@@ -240,8 +251,9 @@ Untuk mempelajari skala dimensi yang lebih sederhana bagi anak-anak usia TK atau
                                 </td>
                                 <td valign="middle">
                                         <div align="left">
-                                                <input name="r_saturn_real" readonly size="13" type="text"
-                                                        value="1.427.000.000"> km
+                                                <!-- <input name="r_saturn_real" readonly size="13" type="text"
+                                                        value="1.427.000.000"> km -->
+                                                        1.427.000.000 km
                                         </div>
                                 </td>
                                 <td valign="middle">
@@ -258,8 +270,9 @@ Untuk mempelajari skala dimensi yang lebih sederhana bagi anak-anak usia TK atau
                                 </td>
                                 <td valign="middle">
                                         <div align="left">
-                                                <input name="d_uranus_real" readonly size="13" type="text"
-                                                        value="46.940"> km
+                                                <!-- <input name="d_uranus_real" readonly size="13" type="text"
+                                                        value="46.940"> km -->
+                                                        46.940 km
                                         </div>
                                 </td>
                                 <td valign="middle">
@@ -269,8 +282,9 @@ Untuk mempelajari skala dimensi yang lebih sederhana bagi anak-anak usia TK atau
                                 </td>
                                 <td valign="middle">
                                         <div align="left">
-                                                <input name="r_uranus_real" readonly size="13" type="text"
-                                                        value="2.870.300.000"> km
+                                                <!-- <input name="r_uranus_real" readonly size="13" type="text"
+                                                        value="2.870.300.000"> km -->
+                                                        2.870.300.000 km
                                         </div>
                                 </td>
                                 <td valign="middle">
@@ -287,8 +301,9 @@ Untuk mempelajari skala dimensi yang lebih sederhana bagi anak-anak usia TK atau
                                 </td>
                                 <td valign="middle">
                                         <div align="left">
-                                                <input name="d_neptune_real" readonly size="13" type="text"
-                                                        value="45.432"> km
+                                                <!-- <input name="d_neptune_real" readonly size="13" type="text"
+                                                        value="45.432"> km -->
+                                                        45.432 km
                                         </div>
                                 </td>
                                 <td valign="middle">
@@ -298,8 +313,9 @@ Untuk mempelajari skala dimensi yang lebih sederhana bagi anak-anak usia TK atau
                                 </td>
                                 <td valign="middle">
                                         <div align="left">
-                                                <input name="r_neptune_real" readonly size="13" type="text"
-                                                        value="4.499.900.000"> km
+                                                <!-- <input name="r_neptune_real" readonly size="13" type="text"
+                                                        value="4.499.900.000"> km -->
+                                                        4.499.900.000 km
                                         </div>
                                 </td>
                                 <td valign="middle">
@@ -316,8 +332,9 @@ Untuk mempelajari skala dimensi yang lebih sederhana bagi anak-anak usia TK atau
                                 </td>
                                 <td valign="middle">
                                         <div align="left">
-                                                <input name="d_pluto_real" readonly size="13" type="text" value="3.400">
-                                                km
+                                                <!-- <input name="d_pluto_real" readonly size="13" type="text" value="3.400">
+                                                km -->
+                                                3.400 km
                                         </div>
                                 </td>
                                 <td valign="middle">
@@ -327,16 +344,30 @@ Untuk mempelajari skala dimensi yang lebih sederhana bagi anak-anak usia TK atau
                                 </td>
                                 <td valign="middle">
                                         <div align="left">
-                                                <input name="r_pluto_real" readonly size="13" type="text"
-                                                        value="5.913.000.000"> km
+                                                <!-- <input name="r_pluto_real" readonly size="13" type="text"
+                                                        value="5.913.000.000"> km -->
+                                                        5.913.000.000 km
                                         </div>
                                 </td>
                                 <td valign="middle">
                                         <div align="left">
                                                 <input name="r_pluto" readonly size="13" type="text" value=""> m
                                         </div>
-                                </td>
+                                </td>   
                         </tr>
+                        <tr valign="top">
+                                <td valign="middle">
+                                        <div align="right">
+                                        <strong>Skala jarak dari Matahari</strong>
+                                </td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td valign="middle">
+                                        <div align="left">
+                                        <strong>Nilai skala Jarak</strong>
+                                </td>
+                        </tr>    
                         <tr valign="top">
                                 <td valign="middle">
                                         <div align="right">
@@ -384,8 +415,8 @@ Untuk mempelajari skala dimensi yang lebih sederhana bagi anak-anak usia TK atau
                         </tr>
                 </tbody>
         </table>
-</form>
-</p>
+</form2>
+</p> 
 
 <style>
         p.a {

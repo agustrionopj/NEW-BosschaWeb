@@ -10,25 +10,8 @@ menu:
         parent: Pustaka Pertanyaan
         name: Tata Surya
         weight: 1
-    
-
-
-
 ---
-<!--
-+++
-title = "Tata Surya"
-date = 2021-03-15T00:00:00
-toc = true
-type = "docs"
 
-linktitle = "Tata Surya"
-
-[menu.layanan]
-    parent = "Pustaka Pertanyaan"
-    weight = 1
-+++
--->
 <style>
 .accordion {
   background-color: #eee;

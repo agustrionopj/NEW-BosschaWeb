@@ -22,14 +22,14 @@ Bagaimana menyaksikan PVLM 2021?
 
 ---
 
-<!-- **28 Agustus 2021** <br>
-**Episode 5 - Jejak Kehidupan di Alam Semesta** <br>
-**Narasumber: Taufiq Hidayat, Agus Triono P.J., Zulkarnain** <br><br>
- Seiring berkembangnya ilmu pengetahuan, keingintahuan manusia tentang dirinya sendiri menjadi semakin besar. Bersamaan dengan itu, berbagai misi antariksa telah berhasil mengorbit atau mendarat di planet lain lalu mempelajarinya secara mendetail. Sejauh ini, belum ditemukan adanya makhluk hidup yang mirip dengan manusia. Hal ini memunculkan berbagai pertanyaan: apakah jenis kehidupan yang kita kenal di Bumi adalah satu-satunya di alam semesta? Apakah ada kehidupan yang lebih maju dibandingkan kehidupan yang ada di Bumi? Untuk menjawab pertanyaan itu, terlebih dulu harus diputuskan dari mana kita mulai mencari. Dengan berbekal pengetahuan tentang kehidupan yang kita kenal di Bumi, astronom menentukan hal apa yang paling esensial bagi keberadaan kehidupan, beberapa di antaranya adalah keberadaan rantai karbon sebagai basis dari DNA dan air dalam bentuk cair. Pencarian dilakukan di berbagai tempat; dari planet lain di Tata Surya, asteroid, satelit planet, hingga sistem keplanetan di luar Tata Surya (eksoplanet). Walaupun penelitian ini tentunya akan memakan waktu yang lama, hasil yang didapatkan kemungkinan besar akan sangat berpengaruh bagi cara manusia memandang dirinya sendiri dan alam semesta.
+<!-- **2 Oktober 2021** <br>
+**Episode 6 - Fotometri Bintang Variabel** <br>
+**Narasumber: Evan Irawan Akbar, Muhammad Yusuf** <br><br>
+ Setelah pengamatan ratusan hingga ribuan tahun, hal yang tidak terlewatkan oleh mata para pemerhati langit adalah berkerlap-kerlipnya bintang di malam hari. Menariknya, benda-benda yang cenderung lebih dekat terhadap kita tidak mengalami hal yang sama. Pada umumnya, kerlap-kerlip bintang tidaklah signifikan. Tetapi, ada kala juga ketika masyarakat di peradaban masa kuno menemukan adanya bintang yang kerlap-kerlipnya jauh melebihi yang biasa mereka lihat. Bahkan, mereka yakin apa yang mereka amati adalah bintang baru yang semula tidak ada di sana. Perubahan kecerlangan bintang sudah sejak lama menarik keingintahuan manusia. Di era modern, dengan teknologi yang lebih canggih, kita saat ini paham bahwa, selain dari efek atmosfer, ada juga bintang yang memang berubah kecerlangannya. Bintang-bintang tersebut, yang sekarang dinamakan sebagai bintang variabel, juga bervariasi jenisnya bergantung pada apa yang menyebabkan perubahan mereka. Variabilitas kecerlangan tersebut menjadi jendela informasi astronom untuk melihat dan memprediksi riwayat hidup bintang. Terlepas dari peran bintang variabel dalam pemahaman alam semesta, bintang dan langit tidak berhenti menghubungkan manusia dari berbagai latar belakang. Pengamatan bintang variabel pun merangkul dan memberikan kesempatan astronom amatir untuk ikut berkontribusi dalam mengembangkan ilmu astronomi
 
 Acara ini akan disiarkan secara langsung dan dapat diikuti melalui <i>platform</i> Slido (pendaftaran pada tautan [berikut]({{<ref "pvlm.md#pendaftaran">}})) dan <a href="https://www.youtube.com/user/obsbosscha" target=_blank>YouTube</a>. Dengan mendaftar peserta akan dapat mengikuti sesi interaktif dan memberikan pertanyaan untuk dijawab narasumber dan tim astronom kami. 
 
-<img src="/img/pvlm2021-05.png"></img> -->
+<img src="/img/pvlm2021-06.png"></img> -->
 
 ### Pendaftaran {#pendaftaran}
 
@@ -102,7 +102,7 @@ Pilih **_Watch this video on YouTube_** jika ada pesan kesalahan dalam memutar v
     <b>Episode 05 - Jejak Kehidupan di Alam Semesta</b>
   </div>
   <div class="column">
-    <b>Episode 06 - TBD</b>
+    <b>Episode 06 - Fotometri Bintang Variabel</b>
   </div>
 </div>
 
@@ -120,8 +120,9 @@ Pilih **_Watch this video on YouTube_** jika ada pesan kesalahan dalam memutar v
         <button>Selengkapnya</button>
   </div>
   <div class="column">
-        {{<youtube >}}
+        {{<youtube rLn6ELFub4Y>}}
         <p style="font-size: .8em" class="showmore">
+        Setelah pengamatan ratusan hingga ribuan tahun, hal yang tidak terlewatkan oleh mata para pemerhati langit adalah berkerlap-kerlipnya bintang di malam hari. Menariknya, <span class="dots">$\ldots$</span><span class="more">benda-benda yang cenderung lebih dekat terhadap kita tidak mengalami hal yang sama. Pada umumnya, kerlap-kerlip bintang tidaklah signifikan. Tetapi, ada kala juga ketika masyarakat di peradaban masa kuno menemukan adanya bintang yang kerlap-kerlipnya jauh melebihi yang biasa mereka lihat. Bahkan, mereka yakin apa yang mereka amati adalah bintang baru yang semula tidak ada di sana. Perubahan kecerlangan bintang sudah sejak lama menarik keingintahuan manusia. Di era modern, dengan teknologi yang lebih canggih, kita saat ini paham bahwa, selain dari efek atmosfer, ada juga bintang yang memang berubah kecerlangannya. Bintang-bintang tersebut, yang sekarang dinamakan sebagai bintang variabel, juga bervariasi jenisnya bergantung pada apa yang menyebabkan perubahan mereka. Variabilitas kecerlangan tersebut menjadi jendela informasi astronom untuk melihat dan memprediksi riwayat hidup bintang. Terlepas dari peran bintang variabel dalam pemahaman alam semesta, bintang dan langit tidak berhenti menghubungkan manusia dari berbagai latar belakang. Pengamatan bintang variabel pun merangkul dan memberikan kesempatan astronom amatir untuk ikut berkontribusi dalam mengembangkan ilmu astronomi</span>
       <button>Selengkapnya</button>
   </div>
 </div>
@@ -134,7 +135,7 @@ Pilih **_Watch this video on YouTube_** jika ada pesan kesalahan dalam memutar v
         <p style="font-size: .8em">Narasumber: <br> 1.  Prof. Dr. Taufiq Hidayat, DEA <br>  2. Agus Triono P. J., M.Si <br> 3. Zulkarnain </p>
   </div>
   <div class="column">
-        <p style="font-size: .8em">Narasumber: <br> 1. <br>  2.  <br> 3.  </p>
+        <p style="font-size: .8em">Narasumber: <br> 1. Evan Irawan Akbar, M.Si <br>  2.  Muhammad Yusuf, S.Si</p>
   </div>
 </div>
 

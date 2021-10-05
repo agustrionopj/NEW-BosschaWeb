@@ -1,19 +1,18 @@
-+++
-title = "Berat Badan di Dunia yang Lain"
-date = 2021-03-15T00:00:00
-lastmod = 2021-09-02T00:00:00
-toc = true
-type = "docs"
-draft = false
+---
+title: Berat Badan di Dunia yang Lain
+date: 2021-03-15T00:00:00.000
+lastmod: 2021-09-02T00:00:00.000
+toc: true
+type: docs
+draft: false
+linktitle: Kalkulator Berat Badan
+menu:
+  layanan:
+    parent: Materi Edukasi Astronomi
+    weight: 3
+---
 
-linktitle = "Kalkulator Berat Badan"
-
-[menu.layanan]
-    parent = "Materi Edukasi Astronomi"
-    weight = 3
-+++
-
-Saat ada di planet lain, berat/bobot Anda dapat sangat berbeda dengan saat di permukaan Bumi. Seberapa tinggi Anda dapat melompat sedikit banyak bergantung kepada berapa berat Anda di tempat tersebut, semakin ringan berat Anda semakin tinggi Anda bisa melompat. Berat (weight) Anda di sebuah planet adalah hasil dari massa dan kekuatan gravitasi di planet tersebut. 
+Saat ada di planet lain, berat/bobot (atau *weight*) Anda dapat sangat berbeda dengan saat di permukaan Bumi. Seberapa tinggi Anda dapat melompat sedikit banyak bergantung kepada berapa berat Anda di tempat tersebut, semakin ringan berat Anda semakin tinggi Anda bisa melompat. Berat Anda di sebuah planet adalah hasil dari massa dan kekuatan gravitasi di planet tersebut. 
 
 Dengan kalkulator ini, temukan berapa berat Anda di planet atau objek lain di Tata Surya. Masukkan besaran berat badan (angka yang ditunjukkan di timbangan badan) Anda pada kolom di bawah dan klik **hitung** . Lihatlah bagaimana beragamnya berat Anda di tempat-tempat tersebut.
 

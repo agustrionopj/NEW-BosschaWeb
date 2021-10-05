@@ -18,13 +18,13 @@ Observatorium Bosscha mengadakan serangkaian webinar, gelar wicara (<i>talk show
 
 ---
 
-**25 September 2021** <br>
+<!-- **25 September 2021** <br>
 **Temu Virtual 3 - Mengenal Matahari dan Cuaca Antariksa** <br>
 **Narasumber: Dr. Dhani Herdiwijaya, Muhammad Yusuf** <br>
 <img src="/img/tv3.png"></img>
 Matahari merupakan bintang pusat Tata Surya sekaligus yang terletak paling dekat dengan Bumi. Matahari berkaitan erat dengan kehidupan manusia di Bumi, misalnya sebagai penanda waktu dan pergantian siang dan malam. Karena letaknya yang dekat dengan Bumi, Matahari dapat dipelajari secara intensif oleh para astronom baik menggunakan teleskop dari permukaan Bumi maupun wahana antariksa. 
 
-Seminar ini ditujukan untuk memberikan pengetahuan tentang dinamika Matahari dan pentingnya pemantauan yang berkelanjutan dan ekstensif terkait Matahari. Kita akan meninjau apa saja yang telah kita pelajari tentang Matahari dari pengamatan, baik ruang angkasa maupun landas Bumi, khususnya apa yang kita ketahui tentang aktivitas Matahari, di antaranya semburan Matahari, siklus Matahari, serta dampak Matahari terhadap lingkungan Bumi (cuaca antariksa). Selain itu, kita juga akan mencoba mengamati Matahari dengan menggunakan teleskop yang tersedia di Observatorium Bosscha.
+Seminar ini ditujukan untuk memberikan pengetahuan tentang dinamika Matahari dan pentingnya pemantauan yang berkelanjutan dan ekstensif terkait Matahari. Kita akan meninjau apa saja yang telah kita pelajari tentang Matahari dari pengamatan, baik ruang angkasa maupun landas Bumi, khususnya apa yang kita ketahui tentang aktivitas Matahari, di antaranya semburan Matahari, siklus Matahari, serta dampak Matahari terhadap lingkungan Bumi (cuaca antariksa). Selain itu, kita juga akan mencoba mengamati Matahari dengan menggunakan teleskop yang tersedia di Observatorium Bosscha. -->
 . 
 ### Pendaftaran {#pendaftaran}
 
@@ -136,7 +136,7 @@ Seminar ini ditujukan untuk memberikan pengetahuan tentang dinamika Matahari dan
     </p>
   </div>
   <div class="column">
-        {{<youtube >}}
+        {{<youtube 5lR6-rbiXs4>}}
     <p style="font-size: .8em" class="showmore">
     Matahari merupakan bintang pusat Tata Surya sekaligus yang terletak paling dekat dengan Bumi. Matahari berkaitan erat dengan kehidupan manusia di Bumi, misalnya sebagai penanda waktu dan pergantian siang dan malam. Karena letaknya yang dekat dengan Bumi, <span class="dots">$\ldots$</span><span class="more"> Matahari dapat dipelajari secara intensif oleh para astronom baik menggunakan teleskop dari permukaan Bumi maupun wahana antariksa.</span>
      <button>Selengkapnya</button>

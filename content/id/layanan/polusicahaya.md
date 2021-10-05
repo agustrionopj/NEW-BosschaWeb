@@ -21,11 +21,15 @@ Komponen polusi cahaya meliputi:
 #### *Skyglow*
 *Skyglow* merupakan pendaran langit malam di atas area yang dihuni. *Skyglow* (pendar langit malam) ini berasal dari cahaya buatan berlebih yang terpancar ke atas atau yang terpantul ke atas (pendaran sekunder) kemudian dihamburkan oleh aerosol seperti awan dan bulir air atau partikel kecil seperti polutan di atmosfer. 
 
+{{<figure src="/img/polusi-cahaya-bandung.jpg" width="65%" title="**Gambar 4**. *Skyglow* dari Kota Bandung dilihat dari Observatorium Bosscha, 2008 (Kredit foto: Alfan Nasrullah)">}}
+
 Tingkatan *skyglow* sangat bervariasi tergantung pada kondisi cuaca saat itu, jumlah debu dan gas di atmosfer, jumlah cahaya yang diarahkan ke langit, dan arah dari mana sinar itu dilihat. Dalam kondisi cuaca yang buruk, lebih banyak partikel hadir di atmosfer untuk menyebarkan cahaya yang terikat ke atas, sehingga *skyglow* menjadi efek yang sangat terlihat sebagai cahaya dan energi yang terbuang. *Skyglow* merupakan bentuk polusi cahaya yang paling umum terjadi.
 
 #### *Light trespass* 
 
 *Light trespass* atau cahaya luber disebabkan oleh cahaya jatuh di tempat yang tidak dimaksudkan atau dibutuhkan sehingga mengganggu kesehatan
+
+{{<figure src="/img/light-trespass.jpg" width="65%" title="**Gambar 5**. Contoh dari *light trespass*, di mana cahaya lampu tempat parkir meluber ke lingkungan sekitar, termasuk rumah penduduk.  (Kredit: http://www.science.smith.edu/~jlowenth/images/VillageHill_IMG_2238_small.jpg)">}}
 
 
 #### *Glare*
@@ -37,22 +41,21 @@ Tingkatan *skyglow* sangat bervariasi tergantung pada kondisi cuaca saat itu, ju
 
 *Clutter* adalah pengelompokan sumber cahaya yang terang, membingungkan dan berlebihan.
 
-{{<figure src="/img/polusi-cahaya-bandung.jpg" width="65%" title="**Gambar 4**. *Skyglow* dari Kota Bandung dilihat dari Observatorium Bosscha, 2008 (Kredit foto: Alfan Nasrullah)">}}
-{{<figure src="/img/diagram-polusi-cahaya.jpg" width="65%" title="**Gambar 5**. Diagram jenis polusi cahaya (kredit: Observatorium Bosscha)">}}
+{{<figure src="/img/diagram-polusi-cahaya.jpg" width="65%" title="**Gambar 6**. Diagram jenis polusi cahaya (kredit: Observatorium Bosscha)">}}
 
 ### Peta Polusi Cahaya
 Pada publikasi “Atlas Dunia Kecerahan Langit Malam Buatan” tahun 2016, diperkirakan sekitar 80 persen populasi dunia hidup di bawah *skyglow*. Di Amerika Serikat dan Eropa 99 persen masyarakat tidak dapat mengalami malam yang alami!
 
 Kita dapat mengetahui seberapa buruk polusi cahaya di tempat kita tinggal dengan mengunakan <a href="http://cires.colorado.edu/artificial-sky" target="_blank">peta interaktif</a> yang dibuat dari data "<a href="https://www.darksky.org/80-of-world-population-lives-under-skyglow-new-study-finds/" target="_blank">World Atlas</a>" atau <a href="http://www.blue-marble.de/nightlights/2012" target="_blank">NASA Blue Marble Navigator</a> untuk melihat pemandangan cahaya lampu di area tempat tinggal kita. Dan jangan lupa untuk memeriksa data <a href="http://www.globeatnight.org/map/?2013" target="_blank">peta polusi cahaya interaktif Globe at Night</a> yang dibuat dengan delapan tahun data yang dikumpulkan oleh ilmuwan khalayak (*citizen scientists*).
 
-{{<figure src="/img/blue-marble.png" width="65%" title="**Gambar 6**. Peta sebaran penggunaan lampu malam hari di permukaan Bumi pada tahun 2012 (https://worldview.earthdata.nasa.gov/)">}}
-{{<figure src="/img/blue-marble-indonesia.png" width="65%" title="**Gambar 7**. Sebaran cahaya malam dari kawasan Indonesia.">}}
-{{<figure src="/img/blue-marble-Java.png" width="65%" title="**Gambar 8**. Gambar dekat sebaran cahaya malam dari Pulau Jawa">}}
-{{<figure src="/img/F2large.jpg" width="65%" title="**Gambar 9**. Peta dampak visual pencemaran cahaya di langit malam tahun 2016 (Kredit: : Fabio Falchi et al. Sci Adv 2016)">}}
+{{<figure src="/img/blue-marble.png" width="65%" title="**Gambar 7**. Peta sebaran penggunaan lampu malam hari di permukaan Bumi pada tahun 2012 (https://worldview.earthdata.nasa.gov/)">}}
+{{<figure src="/img/blue-marble-indonesia.png" width="65%" title="**Gambar 8**. Sebaran cahaya malam dari kawasan Indonesia.">}}
+{{<figure src="/img/blue-marble-Java.png" width="65%" title="**Gambar 9**. Gambar dekat sebaran cahaya malam dari Pulau Jawa">}}
+{{<figure src="/img/F2large.jpg" width="65%" title="**Gambar 10**. Peta dampak visual pencemaran cahaya di langit malam tahun 2016 (Kredit: : Fabio Falchi et al. Sci Adv 2016)">}}
 
-Peta terbaru mengenai dampak polusi cahaya diterbitkan oleh Fabio Falchi et al. tahun 2016. Peta pada Gambar 9 menunjukkan, dalam dua langkah peningkatan, kecerahan langit buatan sebagai rasio terhadap kecerahan langit alami (diasumsikan 174 μcd / m$^2$). Legenda pada peta menunjukkan arti dari setiap tingkat warna. Warna pada peta memperlihatkan tingkat polusi cahaya di berbagai area. Hitam untuk langit yang masih gelap, diikuti warna biru, hijau, kuning, dan merah yang memperlihatkan peningkatan polusi cahaya. Lokasi yang berwarna putih pada peta merupakan “kerucut aktif”, atau kota dengan tingkat polusi cahaya paling parah.
+Peta terbaru mengenai dampak polusi cahaya diterbitkan oleh Fabio Falchi et al. tahun 2016. Peta pada Gambar 10 menunjukkan, dalam dua langkah peningkatan, kecerahan langit buatan sebagai rasio terhadap kecerahan langit alami (diasumsikan 174 μcd / m$^2$). Legenda pada peta menunjukkan arti dari setiap tingkat warna. Warna pada peta memperlihatkan tingkat polusi cahaya di berbagai area. Hitam untuk langit yang masih gelap, diikuti warna biru, hijau, kuning, dan merah yang memperlihatkan peningkatan polusi cahaya. Lokasi yang berwarna putih pada peta merupakan “kerucut aktif”, atau kota dengan tingkat polusi cahaya paling parah.
 
-{{<figure src="/img/perubahan-cahaya-2012-2016.gif" title="**Gambar 10**. Perubahan sebaran cahaya malam pada tahun 2012 vs 2016">}}
+{{<figure src="/img/perubahan-cahaya-2012-2016.gif" title="**Gambar 11**. Perubahan sebaran cahaya malam pada tahun 2012 vs 2016">}}
 
 ### Efek Polusi Cahaya
 Cahaya adalah bentuk energi. Saat pencahayaan yang dilakukan tidak pada tempatnya, berlebih, dan mengganggu, jelas itu merupakan sebuah pemborosan. 
@@ -89,7 +92,7 @@ Sebagai awal, tanamkanlah pemikiran bahwa kita hanya memerlukan pencahayaan di t
 
 Dengan menerapkan 5 tahapan “T” pada pencahayaan, Tudungi, Tempat, Temperatur, Terang, dan Temporer, pastikan lampu yang arah cahayanya tidak lebih dari 30 derajat (dihitung dari arah vertikal). Gunakan sumber cahaya berwarna kuning hangat karena cahaya putih lebih menyilaukan dan gunakan lampu dengan suhu warna 2200K atau kurang. Hanya gunakan pencahayaan di tempat yang sangat dibutuhkan dan pada waktu yang diperlukan saja.
 
-{{<figure src="/img/tudung-lampu.jpg" width="65%" title="**Gambar 11**.  Salah satu bentuk tudung lampu.">}}
+{{<figure src="/img/tudung-lampu.jpg" width="65%" title="**Gambar 13**.  Salah satu bentuk tudung lampu.">}}
 
 ---
 
