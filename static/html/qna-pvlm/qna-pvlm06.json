@@ -1,0 +1,186 @@
+{
+    "qna":[
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Apa mungkin ada suatu bintang yang berada di ruang antar galaksi tanpa terikat gravitasi apapun?",
+        "Reply": "Jika sebuah benda memiliki massa, maka benda tersebut pasti memiliki gravitasi. Tanpa harus terikat oleh sebuah galaksi, sebuah bintang sudah pasti memiliki gravitasinya sendiri karena ia memiliki massa. Bahkan sebuah serpihan asteroid memiliki gravitasinya sendiri karena massanya, walaupun gravitasinya tidak besar. ",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Eksoplanet dan Kehidupan di Luar Bumi",
+        "Question": "Apa mungkin suatu planet bisa terbentuk dari gas nebula?",
+        "Reply": "Sistem keplanetan bersama bintang induknya berasal dari nebula yang sama. Planet akan terbentuk saat temperatur sekitar bintang induk sesuai.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Apa perbedaan kerlipan bintang berdenyut dengan kerlipan bintang lain akibat pengaruh atmosfer Bumi?",
+        "Reply": "Kerlipan bintang biasa akibat pengaruh atmosfer Bumi terjadi dalam rentang waktu yang jauh lebih singkat dibanding akibat denyutan (variabilitas) bintang. Kerlipan bintang terjadi dalam orde detik, sedangkan variabilitas bintang terjadi dalam orde jam hingga harian. Oleh karena itu, astronom, ketika melakukan pengamatan bintang variabel, telah memasukkan faktor perngaruh atmosfer sehingga informasi yang diperoleh murni berasal dari bintang.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Apa saja syarat suatu bintang dapat dijadikan suatu bintang variabel? Apakah seorang astronom dapat melakukan penambahan bintang variabel pada tabel?",
+        "Reply": "Sederhananya, sebuah bintang dianggap variabel jika magnitudo (kecerlangan) bintang tersebut berfluktuasi/nampak berubah-ubah dari sudut pandang kita di Bumi. Perubahan ini dapat terjadi selama bertahun-tahun atau hanya hitungan jam. Penyebab perubahan kecerlangannya dapat disebabkan oleh proses fisis di dalam/di permukaan bintang, maupun disebabkan oleh kejadian di luar bintang yang tidak mempengaruhi sifat bintang secara langsung. Dan tentu, jika seorang astronom menemukan sebuah bintang variabel baru, penemuan tersebut dapat dipublikasikan dan dicatat.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Apa yang menyebabkan sisa ledakan supernova/nova itu bisa berbeda satu sama lain?",
+        "Reply": "Sistem yang berbeda antara satu supernova/nova dengan supernova/nova lainnya mempengaruhi bentuk ledakan yang tampak. Selain itu, perbedaan 'usia' ledakan juga bisa menjadi penyebab rupa yang berbeda dari sisa ledakan supernova/nova. Supernova yang terjadi lebih dahulu atau \"lebih tua\" akan tampak lebih membaur 'diffused' dengan ruang antarbintang, sedangkan sisa  ledakan yang 'baru' bentuknya akan lebih tegas.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Apakah ada cara lain selain dengan melihat kecerlangan bintang dan pengamatan langsung untuk menemukan objek nova, supernova, ataupun bintang variabel?",
+        "Reply": "Hal pertama yang membuat orang mengenali nova, supernova, atau bintang variable adalah perubahan kecerlangannya yang bukan karena kondisi atmosfer Bumi. Maka memang harus diamati berulang kali untuk selang waktu yang panjang (dimonitor). Untuk bintang variable dan nova yang berulang, penting untuk punya data yang telah diperoleh dalam selang waktu panjang agar dapat dibandingkan, dan dilihat pola perubahannya. ",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Kosmologi",
+        "Question": "Apakah ada korelasi antara menjauhnya galaksi dengan teori ruang-waktu?",
+        "Reply": "Ditemukan korelasi antara kecepatan galaksi menjauhi kita dengan jaraknya dari kita: semakin jauh jaraknya, semakin tinggi laju menjauhnya. Interpretasi: galaksi-galaksi bergerak saling menjauh mengikuti ruang yang memuai. Artinya alam semesta memuai.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Tata Surya",
+        "Sub Kategori": "Planet dan Planet Kerdil",
+        "Question": "Apakah benar planet tidak kelap-kelip/konstan saat kita lihat itu karena planet menerima pantulan cahaya dari Matahari/sumber lain?",
+        "Reply": "Bintang tampak terang karena memancarkan cahaya, sedangkan planet tampak terang karena memantulkan cahaya. Efek kelap-kelip atau seeing disebabkan atmosfer Bumi. Bintang tampak lebih berkelap/kelip karena jarak bintang yang sangat jauh dibandingkan jarak planet dari Bumi.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Apakah besarnya ukuran & gravitasi suatu bintang berbanding lurus dengan banyaknya planet yang mengitari nya?",
+        "Reply": "Bintang besar memang memiliki gravitasi yang besar tetapi bukan berarti akan terdapat banyak planet di sekitarnya karena bisa saja material pembentuk planet tidak banyak tersedia di sekitar bintang.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Apakah mungkin, bintang baru terbentuk dari supernova atau sisa supernova?",
+        "Reply": "Mungkin sekali terbentuk sebuah objek baru setelah supernova. Supernova merupakan akhir hayat dari sebuah bintang bermassa besar. Setelah mengalami supernova, bintang tersebut akan meninggalkan sisa berbentuk bintang neutron atau lubang hitam. Bintang neutron atau lubang hitam sering disebut dengan bintang mati atau \"jasad bintang\" karena tidak lagi mengalami fusi nuklir di intinya. ",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Pengamatan Langit",
+        "Sub Kategori": "Observasi Kasat Mata",
+        "Question": "Apakah pernah ada supernova yang dapat dilihat dengan mata telanjang?",
+        "Reply": "Salah satu supernova yang pernah terjadi dan dapat dilihat oleh mata telanjang yaitu SN 1054 yang terjadi pada 4 Juli 1054 (tercatat oleh astronom arab dan tiongkok). Saat itu seluruh Bumi dapat melihat sebuah objek yang sangat terang di langit pada arah rasi Taurus, saat itu ledakan supernova tersebut lebih terang dari Bulan lalu perlahan memudar selama dua tahun. Saat ini, sisa ledakan tersebut dikenal sebagai Nebula Kepiting.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Apakah pernah ditemukan kasus tabrakan antar bintang di alam semesta ini?",
+        "Reply": "Secara umum, jarak antar bintang sangat jauh sehingga kemungkinannya sangat rendah untuk bintang saling bertabrakan. Tetapi di beberapa tempat, terutama di gugus bola, bintang-bintang dapat berkumpul bersama jauh lebih rapat dan mungkin bertabrakan satu sama lain. Selain itu, di alam semesta juga terdapat sistem bintang biner kontak yang komponen bintangnya sangat dekat sehingga saling bersentuhan atau bergabung untuk berbagi selubung gas. Contoh kasusnya, pada tahun 2008, teramati sebuah tabrakan/penggabungan bintang biner kontak di rasi Scorpius (V1309 Scorpii) dan menyebabkan sebuah ledakan.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Galaksi",
+        "Question": "Apakah semua nebula itu bentuknya sama dan apakah yang terjadi jika semua nebula di alam semesta ini tidak ada? ",
+        "Reply": "Nebula adalah awan gas, dan seperti awan di Bumi, bentuknya tidak sama dan terus berubah bergantung pada arah dan kecepatan gerak partikel gas di nebula tersebut. Bila seluruh nebula hilang dari alam semesta, maka tidak akan ada bintang yang dapat terbentuk karena nebula merupakan bahan dasar pembentukan bintang.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Pengamatan Langit",
+        "Sub Kategori": "Observasi Kasat Mata",
+        "Question": "Apakah supernova itu bisa dilihat dari mata? Jika ledakan supernova dekat dengan bintang besar maupun kecil apakah bintang itu ikut meledak juga? ",
+        "Reply": "Energi dari sebuah supernova sangat besar sekali, yang biasanya menyebabkan bintang tersebut menjadi terang berkali-kali lipat dari terang sebelumnya. Terangnya supernova ini apakah terlihat mata atau tidak dari Bumi tentu saja bergantung beberapa hal seperti: jarak supernova tersebut, kapan terjadinya, dsb. Dalam banyak kasus, supernova bisa dilihat dengan mata, bahkan ada beberapa yang bisa terlihat di siang hari. Jika ada bintang di dekat peristiwa tersebut, bintang tersebut akan 'terganggu', bisa buyar (jika terlalu dekat jaraknya) ataupun mengalami kehilangan massa.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Apakah terjadi suatu reaksi setelah transfer massa dari bintang pasangannya tersebut?",
+        "Reply": "Bintang katai putih memiliki gravitasi yang besar karena memiliki massa sekitar ~1 massa Matahari namun diameternya hanya sebesar Bumi kita. 1 sendok materi bintang katai putih memiliki berat setara 1 ton di Bumi. Materi yang ditransfer oleh bintang pasangannya ke permukaan bintang katai putih akan mendapatkan tekanan yang amat besar. Jika suatu materi diberi tekanan yang besar, maka temperaturnya akan meningkat. Pada suatu titik, temperaturnya akan cukup tinggi untuk memulai fusi nuklir Hidrogen di permukaan bintang katai putih tersebut. ",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Bagaimana cara astronom dalam menentukan waktu terjadinya supernova? Apakah terdapat ciri-ciri khusus sebuah bintang yang akan mengalami supernova?",
+        "Reply": "Waktu persis kapan sebuah bintang akan mengalami supernova tidak bisa dipastikan, karena bergantung dengan proses di interiornya dan/atau bergantung mekanisme transfer massa pasangannya (jika supernova tersebut terjadi di bintang ganda). Saat supernova terjadi, biasanya sinar gamma akan terlebih dahulu dipancarkan, bahkan sebelum terang obyek tersebut berubah, sehingga sinar gamma ini bisa dijadikan sebagai 'alert' atau 'early warning system' bahwa sebuah supernova sedang terjadi.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Pengamatan Langit",
+        "Sub Kategori": "Observasi Kasat Mata",
+        "Question": "Bagaimana caranya jika ingin melihat bintang dengan jelas dari daerah yang penuh polusi cahaya ?",
+        "Reply": "Kenampakan bintang akan terbatas di daerah yang dikenai polusi cahaya. Cobalah untuk mematikan lampu sekitar di tempat Anda mengamati langit dan usahakan berada di balik bayang-bayang agar pandangan ke langit tidak silau. Cara lain, yaitu memotret bintang dengan waktu bukaan lensa yang cukup lama agar cahaya bintang terkumpul lebih banyak. Saat memotret, tentunya polusi cahaya di langit akan ikut ditingkatkan pula",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Bintang apa saja yang dapat menjadi bintang variabel? Apakah ada batas massa tertentu?",
+        "Reply": "Bintang mengalami perubahan kecerlangan cahaya bisa disebabkan oleh beberapa hal, baik intrinsik maupun ekstrinsik. Sebab intrinsik misalnya ada mekanisme pembakaran nuklir baru yang terjadi, sehingga energi dari dalam bintang bertambah, sehingga ukuran bintang sesaat membesar dan terangnya bertambah. Sebab ekstrinsik misalnya jika bintang tersebut ditutupi oleh pasangannya, terjadi di sistem bintang ganda ataupun mengalamin transfer massa dari bintang pasangannya. Jika bintang tersebut dilimpahi massa dari pasangannya, maka ada batas tertentu sedemikian sehingga jika massa bintang tersebut lebih dari massa tersebut, maka bintang itu akan runtuh dan mengalami supernova. Batas massa ini biasa disebut sebagai batas massa Chandrasekhar.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Dimanakah bintang 42 Capricorni?",
+        "Reply": "Saat ini, bintang 42 Capricorni sedang akan transit atau lewat di atas kepala kita. Lokasinya di langit hari ini terlihat dekat dengan planet Jupiter (Jupiter terlihat sebagai titik putih terang di atas kepala), sedikit di utara Jupiter. Sesuai dengan namanya, bintang ini merupakan bagian dari rasi Capricorn di utara bintang Deneb Algedi (delta Capricorni). Sayangnya, karena magnitudo 42 Cap sebesar +5,28 dan sangat dekat dengan batas bintang teredup yang bisa diamati tanpa mata telanjang yakni sebesar +6 magnitudo, maka diperlukan langit yang sangat gelap untuk dapat melihatnya dengan mata tanpa alat bantu.  ",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Jika ada ledakan supernova yang terjadi apakah akan ada sisa-sisa bintang termasuk bintangnya ikut meledak? ",
+        "Reply": "Peristiwa supernova bisa menyisakan inti bintang tersebut, yang kemudian kita sebut dengan bintang neutron. Namun untuk kasus yang ekstrim, yaitu bintang-bintang yang amat sangat besar sekali massanya, diperkirakan bintang akan sepenuhnya 'buyar'.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Kalau boleh tau malam ini bisakah kita mengamat rasi Capricorn dan dimana letaknya?",
+        "Reply": "Malam ini rasi Capricorn dapat terlihat di langit hingga pukul 1 dini hari. Letak rasi ini sekarang sedikit ke arah barat dari atas kepala kita. Menariknya, Planet Jupiter (terlihat sebagai titik putih sangat terang di langit) dan Saturnus (terlihat sebagai titik putih terang yang sedikit lebih redup di sebelah barat Jupiter) sedang terlihat berada di rasi ini sehingga bila berhasil mengamati dua planet ini malam ini, maka Anda juga sedang mengamati rasi Capricorn.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Pengamatan Langit",
+        "Sub Kategori": "Observasi Kasat Mata",
+        "Question": "Kalau di masa sekarang, bintang-bintang apa saja yang paling cemerlang jika dilihat dari Bumi?",
+        "Reply": "Saat ini bintang yang paling terang jika dilihat dari bumi tentu Matahari. Tetapi, pada malam hari bintang yang terlihat paling terang adalah bintang Sirius yang terletak di rasi canis Major, diikuti oleh bintang Canopus (bintang paling terang kedua), kemudian Rigil Kentaurus (bintang paling terang ketiga).",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Kapan kira-kira supernova akan terjadi? ",
+        "Reply": "Tidak ada yang tahu kapan sebuah supernova terjadi, karena peristiwa tersebut baru bisa diketahui dari Bumi saat ada perubahan kecerlangan secara visual (yang sebelumnya biasanya didahului oleh semburan sinar gamma). Secara statistik, supernova di galaksi kita terjadi kira-kira setiap 50 tahun sekali.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Jika planet itu jauh dari bintang apakah planet itu akan konstan atau bintangnya yang akan konstan? ",
+        "Reply": "Planet akan mengitari bintang induknya. Saat planet berada di depan bintang induknya, kecerlangan bintang yang teramati akan berkurang, meski sangat kecil. Ingat, bahwa ukuran planet jauh lebih kecil dibandingkan bintangnya. Saat mengamati sistem keplanetan, seolah-olah kita mengamati lampu mercusuar yang sedang dilewati oleh nyamuk",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Dimana letak bintang Aldebaran?",
+        "Reply": "Bintang Aldebaran posisinya di langit berada di rasi Taurus (Sang Banteng), yang posisi tepatnya berada di bagian \"kepala\" Taurus. Bintang ini berwarna merah dan cukup terang, yaitu dengan magnitudo 0.85. Sebagai panduan pengamatan, bintang ini berada di sebelah utara rasi Orion (Sang Pemburu). Malam ini, bintang ini dapat dilihat setelah terbitnya sekitar mulai pukul 22.00 WIB.",
+        "Checker": "TAS"
+    },
+    {
+        "Kategori": "Alam Semesta",
+        "Sub Kategori": "Bintang",
+        "Question": "Mengapa di dalam Crab Nebula tidak ada bintang?",
+        "Reply": "Di area Crab Nebula ada bintang sisa ledakan supernova. Bintangnya berupa bintang neutron: bintang yang teramat kompak, padat, dan bergasing dengan amat cepat, dan mengeluarkan jet dari kutub-kutubnya. Karena bergasing, seperti mercu suar; secara teratur cahaya jetnya akan menuju ke kita, dan kita melihatnya seperti bintang yang terang-redup atau berpulsasi dengan cepat sekali. Sehingga bintang neutron ini dikenal sebagai pulsar. Dalam hal ini disebut Crab Pulsar.",
+        "Checker": "TAS"
+    }
+    ]
+}

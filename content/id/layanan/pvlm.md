@@ -146,9 +146,10 @@ Pilih **_Watch this video on YouTube_** jika ada pesan kesalahan dalam memutar v
  **Episode** | **Pembicara** | **Judul** | | **Daftar Pertanyaan**
  01 |  Premana W. Premadi, Ph.D| *Kabar Terkini Astronomi*| {{% staticref "files/PVLM-01-Premadi.pdf" "newtab" %}} Unduh {{% /staticref %}} |  [Lihat]({{< ref "/layanan/qna-01.md" >}})
 02 |  Ferry M. Simatupang, M.Si| *Gerhana Bulan Total 26 Mei 2021* | {{% staticref "files/Gerhana Bulan Total 26 Mei 2021.pptx" "newtab" %}} Unduh {{% /staticref %}} | [Lihat]({{< ref "/layanan/qna-02.md" >}})
-03 |  Dr. rer. nat. Hesti Retno T. Wulandari| *Galaksi Bima Sakti dari Masa ke Masa*| | [Lihat]({{< ref "/layanan/qna-03.md" >}})
+03 |  Dr. rer. nat. Hesti Retno T. Wulandari| *Galaksi Bima Sakti dari Masa ke Masa*| {{% staticref "files/PVLM-Episode03-Galaksi Bimasakti.pdf" "newtab"%}} Unduh {{% /staticref %}}| [Lihat]({{< ref "/layanan/qna-03.md" >}})
 04 |  Dr. Chatief Kunjaya | *Mengenal Gugus Bintang*| | [Lihat]({{< ref "/layanan/qna-04.md" >}})
 05 |  Prof. Dr. Taufiq Hidayat, DEA | *Jejak Kehidupan di Alam Semesta* | {{% staticref "files/PVLM-Episode05-Jejak Kehidupan di Alam Semesta.pdf" "newtab" %}} Unduh {{% /staticref %}} | [Lihat]({{< ref "/layanan/qna-05.md" >}})
+06 |  Evan Irawan Akbar, M.Si | *Fotometri Bintang Variabel* | {{% staticref "files/PVLM-Episode06-Bintang Variabel.pptx" "newtab" %}} Unduh {{% /staticref %}} | [Lihat]({{< ref "/layanan/qna-06.md" >}})
 ### [Arsip PVLM 2020]({{< ref "/layanan/pvlm-2020.md">}})
 
 <style>

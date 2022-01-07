@@ -9,5 +9,6 @@ featured: false
 publication: "*arXiv:2002.01611 [astro-ph]*"
 tags: ["Astrophysics - Astrophysics of Galaxies"]
 url_pdf: "http://arxiv.org/abs/2002.01611"
+doi: "10.1093/mnras/staa1062"
 ---
 

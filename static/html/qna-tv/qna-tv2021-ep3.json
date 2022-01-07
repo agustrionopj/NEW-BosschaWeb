@@ -1,0 +1,109 @@
+{
+        "qna": [
+                {
+                        "Kategori": "Tata Surya",
+                        "Sub Kategori": "Matahari",
+                        "Question": "Apa manfaat yang didapatkan dari kita mengetahui rotasi Matahari?",
+                        "Reply": "Pengamatan bintik Matahari dalam waktu lama terhadap Matahari memberitahu kita bahwa Matahari itu berotasi, dan ternyata periode rotasinya berbeda-beda untuk lokasi yang berbeda pula di Matahari. Pengamatan bintik Matahari (dan rotasi Matahari) yang terus dilakukan kemudian menunjukkan bahwa Matahari memiliki siklus (11 tahunan), yang ditunjukkan oleh populasi bintik hitam yang sebarannya berpindah dari lintang tinggi ke lintang rendah. Hal ini kemudian diduga akibat aktivitas megnetik global yang ada di Matahari.",
+                        "Checker": null
+                },
+                {
+                        "Kategori": "Tata Surya",
+                        "Sub Kategori": "Matahari",
+                        "Question": "Apakah ada perbedaan aktivitas pada kutub dan ekuator Matahari? Ataukah setiap fenomena sama seringnya terjadi pada setiap permukaan di Matahari?",
+                        "Reply": "Terdapat perbedaan aktivitas Matahari pada kutub dan ekuator Matahari. Bintik Matahari tidak terjadi pada lintang tinggi (mulai lintang sekitar 45 derajat - kutub). Tetapi, prominensa dan filamen teramati kurang lebih sama banyaknya baik di daerah ekuator maupun kutub.",
+                        "Checker": null
+                },
+                {
+                        "Kategori": "Alam Semesta",
+                        "Sub Kategori": "Bintang",
+                        "Question": "Apakah ada semacam sunspot di bintang lainnya?",
+                        "Reply": "Ya, di bintang lain juga terdapat seperti bintik Matahari yang disebut bintik bintang (atau \"starspots\") dengan mekanisme pembentukan yang sama seperti bintik Matahari.",
+                        "Checker": null
+                },
+                {
+                        "Kategori": "Tata Surya",
+                        "Sub Kategori": "Matahari",
+                        "Question": "Apakah bintik-bintik hitam di Matahari permanen?",
+                        "Reply": "Bintik hitam di Matahari tidak berlangsung permanen karena tergantung pada tingkat aktivitas magnetik di Matahari (bisa muncul dan hilang). Semakin tinggi aktivitasnya, maka akan semakin banyak bintik hitam yang muncul, dan berlaku sebaliknya. Selain itu, posisinya juga berubah mengikuti rotasi Matahari. Hal menarik lain adalah selama siklus sebelas tahunan Matahari, posisi bintik akan semakin mendekati lintang rendah Matahari (mendekati ekuator Matahari). Sebagai perbandingan, sekarang ini siklus ke-25 baru dimulai sehingga bintik Matahari muncul di lintang tinggi atau bila dilihat di hasil pengamatan terlihat berada di dekat sisi bawah dan atas piringan Matahari.",
+                        "Checker": null
+                },
+                {
+                        "Kategori": "Tata Surya",
+                        "Sub Kategori": "Matahari",
+                        "Question": "Apakah jumlah bintik hitam pada Matahari akan berpengaruh pada kondisi Bumi kita?",
+                        "Reply": "Keberadaan bintik Matahari berkaitan dengan tingkat aktivitas yang sedang terjadi di Matahari. Jika bintik yang teramati jumlahnya banyak, kita katakan Matahari sedang aktif. Aktivitas Matahari ini menyebabkan partikel-partikel dengan energi tinggi dilepaskan dari Matahari ke ruang antarplanet, sehingga bisa saja mengenai Bumi. Apabila hal tersebut terjadi maka dapat mengganggu fasilitas kelistrikan yang ada baik di atmosfer Bumi maupun di permukaan Bumi.",
+                        "Checker": null
+                },
+                {
+                        "Kategori": "Tata Surya",
+                        "Sub Kategori": "Matahari",
+                        "Question": "Apakah jumlah bintik Matahari akan mempengaruhi usia matahari?",
+                        "Reply": "Jumlah bintik Matahari tidak akan mempengaruhi usia Matahari karena mekanisme yang mempengaruhi keduanya berbeda. Bintik Matahari kemunculan dan jumlahnya dipengaruhi peningkatan dan penurunan aktivitas magnetik Matahari. Sementara itu, usia Matahari dipengaruhi pembangkitan energi melalui proses fusi nuklir di intinya yang selanjutnya terkait dengan kadar hidrogen sebagai bahan bakar utama proses ini.",
+                        "Checker": null
+                },
+                {
+                        "Kategori": "Alam Semesta",
+                        "Sub Kategori": "Bintang",
+                        "Question": "Apakah kejadian di Matahari juga terjadi di bintang lain?",
+                        "Reply": "Hal yang terjadi di Matahari juga terjadi di bintang lain. Hanya saja, cukup sulit untuk melihat fenomena tersebut karena jarak bintang yang sangat jauh sehingga butuh ukuran fenomena yang cukup besar untuk dapat diamati. Contoh yang sudah bisa diamati adalah bintik bintang (starspot) berukuran raksasa di beberapa bintang yang teramati melalui misi teleskop luar angkasa Kepler. Bintik bintang diketahui berdasarkan peredupan kecerlangan bintang yang diamati.",
+                        "Checker": null
+                },
+                {
+                        "Kategori": "Tata Surya",
+                        "Sub Kategori": "Matahari",
+                        "Question": "Apakah kemunculan bintik Matahari jangka waktunya konstan/berpola?",
+                        "Reply": "Terdapat variasi jumlah bintik Matahari dari tahun ke tahun. Variasi ini terjadi rata-rata setiap 11 tahun sekali dan disebut \"Siklus Bintik Matahari\". Waktu puncak dari jumlah bintik Matahari di siklus ini disebut \"solar maximum\" (atau \"solar max\"), sebaliknya disebut \"solar minimum\" (atau \"solar min\").",
+                        "Checker": null
+                },
+                {
+                        "Kategori": "Tata Surya",
+                        "Sub Kategori": "Matahari",
+                        "Question": "Berapa prediksi usia Matahari kita saat ini dan berapa perkiraan usia Matahari?",
+                        "Reply": "Matahari saat ini berusia sekitar 4,6 miliar tahun dan diperkirakan setidaknya Matahari akan hidup selama 5 miliar tahun lagi.",
+                        "Checker": null
+                },
+                {
+                        "Kategori": "Tata Surya",
+                        "Sub Kategori": "Matahari",
+                        "Question": "Berapa jarak terdekat badai Matahari ke Bumi?",
+                        "Reply": "Jarak terdekat badai Matahari ke Bumi adalah: mengenai Bumi. Contohnya peristiwa badai Matahari pada tahun 1859 (Carrington Event) merupakan badai matahari besar yang mengenai magnetosfer Bumi. Pada saat itu, Aurora dapat terlihat hingga daerah tropis serta sistem telegraf mengalami gangguan dan menyebabkan kebakaran kecil.",
+                        "Checker": null
+                },
+                {
+                        "Kategori": "Pengamatan Langit",
+                        "Sub Kategori": "Intrumen Pengamatan",
+                        "Question": "Kenapa pengambilan objek astronomi harus monokrom?",
+                        "Reply": "Pengambilan citra harus dalam monokrom karena pengambilan data astronomi harus menggunakan filter pada satu panjang gelombang yang spesifik. Hal ini untuk memperoleh fitur tertentu yang diinginkan yang hanya dapat diamati di panjang gelombang tertentu.",
+                        "Checker": null
+                },
+                {
+                        "Kategori": "Tata Surya",
+                        "Sub Kategori": "Matahari",
+                        "Question": "Mengapa gelombang radio dari ledakan Matahari yang ditangkap bisa terlambat 4 jam?",
+                        "Reply": "Kecepatan gelombang elektromagnetik selalu sama, sehingga akan terdeteksi dari Bumi dalam jangka waktu 8 menit setelah muncul di permukaan Matahari. Sementara itu, untuk yang baru bisa dideteksi 4 jam setelah terlontar dari Matahari adalah partikel berenergi tinggi, bukan gelombang elektromagnetik.",
+                        "Checker": null
+                },
+                {
+                        "Kategori": "Tata Surya",
+                        "Sub Kategori": "Matahari",
+                        "Question": "Mengapa lapisan korona bisa diteliti saat gerhana Matahari?",
+                        "Reply": "Korona bisa teramati ketika gerhana Matahari karena pada saat itu piringan Matahari tertutup hampir sempurna seutuhnya oleh piringan Bulan sehingga kita hanya melihat bagian koronanya saja.",
+                        "Checker": null
+                },
+                {
+                        "Kategori": "Tata Surya",
+                        "Sub Kategori": "Matahari",
+                        "Question": "Mengapa rotasi Matahari di setiap daerahnya bisa berbeda-beda?",
+                        "Reply": "Karena Matahari terbuat dari gas atau plasma sehingga tidak seperti Bumi, kecepatan rotasi sudut Matahari di setiap lintangnya berbeda-beda. Kecepatan rotasi di daerah ekuator Matahari lebih cepat (sekitar 24 hari) dibandingkan dengan daerah kutub (lebih dari 30 hari).",
+                        "Checker": null
+                },
+                {
+                        "Kategori": "Tata Surya",
+                        "Sub Kategori": "Matahari",
+                        "Question": "Sebesar apakah badai Matahari?",
+                        "Reply": "Badai Matahari berukuran jauh lebih besar daripada Bumi. Perkiraan ukuran untuk fenomena prominensa bisa mencapai 10x diameter Bumi. Bahkan untuk fenomena Coronal Mass Ejection (CME), ukurannya bisa jauh lebih besar lagi. Bila dikaitkan dengan energi yang dilepaskan, dalam sekali fenomena CME, sejumlah energi setara 20 juta kali bom nuklir dilepaskan dari Matahari.",
+                        "Checker": null
+                }
+        ]
+}

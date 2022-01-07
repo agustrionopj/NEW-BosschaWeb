@@ -7,11 +7,11 @@ linktitle: Astro day in Schools
 identifier: astroday
 
 menu:
-    gallery-test2:
-        parent: Bosscha's Activities
-        weight: 5
+    media:
+        parent: Gallery
+        weight: 4
 
-weight: 5
+weight: 4
 ---
 
 ### SD Pancasila

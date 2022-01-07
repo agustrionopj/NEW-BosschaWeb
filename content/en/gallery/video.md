@@ -4,11 +4,12 @@ type: docs
 date: 2020-08-25T14:46:00+07:00
 
 menu:
-    gallery-test2:
-        name: Video
-        weight: 1
+    media:
+        parent: Gallery
+        name: Video of Bosscha's activities
+        weight: 9
 
-weight: 1
+weight: 9
 ---
 
 #### Open House of Bosscha Observatory

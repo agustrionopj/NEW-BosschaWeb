@@ -7,11 +7,11 @@ identifier: Public Visit
 linktitle: Public Visit
 
 menu:
-    gallery-test2:
-        parent: Bosscha's Activities
-        weight: 2
+    media:
+        parent: Gallery
+        weight: 5
 
-weight: 2
+weight: 5
 ---
 
 {{<foldergallery src="visit">}}

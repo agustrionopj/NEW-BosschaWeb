@@ -2,7 +2,7 @@
 # Hero widget.
 widget = "hero"  # Do not modify this line!
 headless = true
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 # title = "Pengamatan Hilal Ramadhan 1440 H/2019 M (LIVE)"
@@ -86,7 +86,7 @@ hero_media = "closed.png"
 </style>
 
 <pengumuman>
-<p style="font-size:1rem;color:yellow">Regarding recent information and updates of COVID-19 pandemic, especially in Greater Bandung region, we are sorry to inform you that Bosscha Observatory Public Services will remain closed <font color="white">at least until July 2021.</font></p>
+<p style="font-size:0.83rem;color:yellow">Regarding recent information and updates of COVID-19 pandemic, especially in Greater Bandung region, we are sorry to inform you that Bosscha Observatory Public Services will remain closed <font color="white">at least until July 2021.</font></p>
 
 <p style="font-size:1rem;color:yellow">During this absent, our services will be done <font color="white">online </font> through our official social media channels</p>
 

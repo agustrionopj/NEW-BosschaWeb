@@ -8,5 +8,6 @@ abstract: "We report the serendipitous discovery of HSC J0904$-$0102, a quadrupl
 featured: false
 publication: ""
 url_pdf: "https://arxiv.org/abs/1909.00120v2"
+doi: "10.1093/mnras/staa583"
 ---
 

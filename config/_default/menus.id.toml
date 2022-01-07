@@ -97,30 +97,30 @@
 # --------------------------------------------------------------
 # KUNJUNGAN
 # --------------------------------------------------------------
-[[main]]
-  name = "Kunjungan ke Observatorium"
-  identifier = "kunjungan"
-  parent = "layanan"
-  url = "/kunjungan/"
-  weight = 30
+# [[main]]
+#   name = "Kunjungan ke Observatorium"
+#   identifier = "kunjungan"
+#   parent = "layanan"
+#   url = "/kunjungan/"
+#   weight = 30
+# --------------------------------------------------------------
+# [[main]]
+#   name = "Program & Jadwal"
+#   parent = "kunjungan"
+#   url = "/kunjungan/"
+#   weight = 31
 
-[[main]]
-  name = "Program & Jadwal"
-  parent = "kunjungan"
-  url = "/kunjungan/"
-  weight = 31
+# [[main]]
+#   name = "Tips & Aturan Berkunjung"
+#   parent = "kunjungan"
+#   url = "/kunjungan/aturan/"
+#   weight = 32
 
-[[main]]
-  name = "Tips & Aturan Berkunjung"
-  parent = "kunjungan"
-  url = "/kunjungan/aturan/"
-  weight = 32
-
-[[main]]
-  name = "Pendaftaran"
-  parent = "kunjungan"
-  url = "/kunjungan/daftar/"
-  weight = 33
+# [[main]]
+#   name = "Pendaftaran"
+#   parent = "kunjungan"
+#   url = "/kunjungan/daftar/"
+#   weight = 33
 
 # [[main]]
 #   name = "Jadwal"
@@ -180,9 +180,14 @@
 # --------------------------------------------------------------
 [[main]]
 #   name = "ASTRONOMI UNTUK PUBLIK"
+#   name = "Astronomi untuk Publik"
+#   identifier = "layanan"
+#   url = "/layanan/"
+#   weight = 50
+  
   name = "Astronomi untuk Publik"
   identifier = "layanan"
-  url = "/layanan/"
+  url = "/publik/"
   weight = 50
 
 # [[main]]
@@ -197,13 +202,13 @@
 #   parent = "edukasi astro"
 #   url = "/layanan/belajarastro/"
 #   weight = 41
-
-[[main]]
-  name = "Materi Edukasi Astronomi"
-  parent = "layanan"
-  url = "/layanan/material/"
-  weight = 51
-
+# -----------------------------------------------------------------
+# [[main]]
+#   name = "Materi Edukasi Astronomi"
+#   parent = "layanan"
+#   url = "/layanan/material/"
+#   weight = 51
+# ------------------------------------------------------------------
 # [[main]]
 #   name = "Prakarsa Langit Gelap"
 #   parent = "layanan"
@@ -216,37 +221,37 @@
 #   url = "#"
 #   weight = 45
 
+# -----------------------------------------------------------------
+# [[main]]
+#   name = "Program dan Layanan Daring"
+#   parent = "layanan"
+#   url = "/layanan/"
+#   weight = 53
 
-[[main]]
-  name = "Program dan Layanan Daring"
-  parent = "layanan"
-  url = "/layanan/"
-  weight = 53
-
-[[main]]
-  name = "Kegiatan Lampau"
-  parent = "layanan"
-  url = "/layanan/pvlm-2020/"
-  weight = 57
-
-[[main]]
-  name = "Pustaka Pertanyaan"
-  parent = "layanan"
-  url = "/layanan/tanya/"
-  weight = 58
+# [[main]]
+#   name = "Kegiatan Lampau"
+#   parent = "layanan"
+#   url = "/layanan/pvlm-2020/"
+#   weight = 57
+# -------------------------------------------------------------------
+# [[main]]
+#   name = "Pustaka Pertanyaan"
+#   parent = "layanan"
+#   url = "/layanan/tanya/"
+#   weight = 58
 
 # [[main]]
 #   name = "Tautan"
 #   parent = "layanan"
 #   url = "tautan/"
 #   weight = 48
-
-[[main]]
-    name = "Polusi Cahaya"
-    parent = "layanan"
-    url = "/layanan/langitmalam"
-    weight = 59
-
+# ---------------------------------------------------------------------
+# [[main]]
+#     name = "Polusi Cahaya"
+#     parent = "layanan"
+#     url = "/layanan/langitmalam"
+#     weight = 59
+# ----------------------------------------------------------------------
 # [[main]]
 #   name = "Tim Pendidikan & Penjangkauan Publik"
 #   parent = "layanan"

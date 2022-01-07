@@ -12,27 +12,28 @@
 # profile
 # -----------------------------------------------------------------
 [[main]]
-  name = "About"
+  name = "About Us"
   identifier = "about"
   url = "#about"
   weight = 10
+
 [[main]]
-  name = "Profile"
+  name = "Profile and History"
   parent = "about"
-  url = "#about"
+  url = "/author-detil/"
   weight = 11
 
 [[main]]
   name = "Staff"
   parent = "about"
-  url = "#people"
+  url = "/author-detil/team/"
   weight = 12
 
-[[main]]
-  name = "History"
-  parent = "about"
-  url = "/author-detil/"
-  weight = 13
+# [[main]]
+#   name = "History"
+#   parent = "about"
+#   url = "/author-detil/"
+#   weight = 13
 
 [[main]]
   name = "Instruments"
@@ -41,7 +42,7 @@
   weight = 14
 
 [[main]]
-  name = "Facility"
+  name = "Facilities"
   parent = "about"
   url = "/author-detil/non-instrumen/"
   weight = 15
@@ -56,13 +57,13 @@
   weight = 20
 
 [[main]]
-  name = "Research Topic"
+  name = "Research Topics"
   parent = "penelitian"
   url = "/penelitian/"
   weight = 21
 
 [[main]]
-  name = "Publication"
+  name = "Publications"
   parent = "penelitian"
   url = "/en/publication/"
   weight = 22
@@ -79,12 +80,12 @@
 #   weight = 24
 
 # --------------------------------------------------------------
-# Public Service
+# MEDIA
 # --------------------------------------------------------------
 [[main]]
   name = "Media"
-  identifier = "layanan"
-  url = "/layanan/"
+  identifier = "media"
+  url = "#"
   weight = 30
 
 # [[main]]
@@ -93,28 +94,28 @@
 #   url = "https://www.google.com/"
 #   weight = 41
 
-[[main]]
-  name = "Press-release"
-  parent = "layanan"
-  url = "/layanan/pressrelease"
-  weight = 31
+# [[main]]
+#   name = "Press-release"
+#   parent = "layanan"
+#   url = "/layanan/pressrelease"
+#   weight = 31
 
 [[main]]
   name = "News"
-  parent = "layanan"
+  parent = "media"
   url = "/post/"
   weight = 32
 
 [[main]]
   name = "Astronomy Calendar"
-  parent = "layanan"
+  parent = "media"
   url = "/layanan/astrocal/"
   weight = 33
 
 
 [[main]]
   name = "Gallery"
-  parent = "layanan"
+  parent = "media"
   url = "/gallery/"
   # url = "/galeri-2/"
   weight = 34

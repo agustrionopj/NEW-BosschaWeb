@@ -8,7 +8,7 @@ type: docs
 linktitle: Support Facilities
 menu:
   author-detil:
-    parent: Facilities
+    parent: About Us
     weight: 3
 
 weight: 3

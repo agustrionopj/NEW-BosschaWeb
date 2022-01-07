@@ -1,7 +1,7 @@
 ---
 title: Temu Virtual
-date: 2021-03-14T00:00:00.000Z
-lastmod: 2021-09-16T00:00:00.000Z
+date: 2021-10-11T00:00:00.000Z
+# lastmod: 2021-09-16T00:00:00.000Z
 draft: false
 toc: true
 type: docs
@@ -159,9 +159,11 @@ Seminar ini ditujukan untuk memberikan pengetahuan tentang dinamika Matahari dan
 ### Materi Temu Virtual
 
   | | |
------- | ----- | ----- | ------
-**Episode** | **Pembicara** | **Judul** |
+------ | ----- | ----- | ------ | ------ | ------
+**Episode** | **Pembicara** | **Judul** | |**Daftar Pertanyaan**
 01 | Hendro Setyanto, M.Si <br><br>  Muhammad Yusuf, S.Si| *Hisab-Rukyat dalam Penetapan Awal Bulan Hijriyyah*<br><br>*Pengembangan Metode Pengamatan Hilal*  | {{% staticref "files/Hendro Setyanto - Awal Bulan.pdf" "newtab" %}} Unduh {{% /staticref %}}<br><br>{{% staticref "files/Pengembangan Metode Pengamatan Hilal.pdf" "newtab" %}} Unduh {{% /staticref %}}
+02 | Agus Triono P. J., M.Si | *Kelas Astrofotografi Dasar* |
+03 | Dr. Dhani Herdiwijaya<br><br> Muhammad Yusuf, S.Si | *Mengenal Matahari dan Cuaca Antariksa* | {{% staticref "files/TV03-CuacaAntariksa-DhaniHerdiwijaya.pdf" "newtab" %}} Unduh {{% /staticref %}}|  [Lihat]({{< ref "/layanan/qna-tv2021-ep3.md" >}})
 
 <style>
 .tombol {

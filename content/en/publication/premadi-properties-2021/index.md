@@ -9,5 +9,6 @@ featured: false
 publication: "*arXiv:2106.14581 [astro-ph]*"
 tags: ["Astrophysics - Astrophysics of Galaxies"]
 url_pdf: "http://arxiv.org/abs/2106.14581"
+doi: "https://doi.org/10.5614/j.math.fund.sci.2021.53.3.7"
 ---
 

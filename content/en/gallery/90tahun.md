@@ -7,8 +7,8 @@ linktitle: 90th Year of Zeiss Telescope
 identifier: 90tahunZeiss
 
 menu:
-    gallery-test2:
-        parent: Bosscha's Activities
+    media:
+        parent: Gallery
         weight: 4
 
 weight: 4

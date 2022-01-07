@@ -19,79 +19,79 @@ weight: 1
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval=1750>
    <div class="carousel-inner">
       <div class="carousel-item active">
-			<a href="/img/Dok/MF dos.png" data-fancybox="kda">
+			<a href="/img/Dok/MF dos.jpg" data-fancybox="kda">
 		 		<div class="thumbnail"> 
-	  				<img src="/img/Dok/MF dos.png" class="d-block w-100" alt="..." style="width:100%;">
+	  				<img src="/img/Dok/MF dos.jpg" class="d-block w-100" alt="..." style="width:100%;">
 				</div>
       	</a>
 	   </div>
       <div class="carousel-item">
-			<a href="/img/Dok/YY .png" data-fancybox="kda">
+			<a href="/img/Dok/YY .jpg" data-fancybox="kda">
 				<div class="thumbnail">
-					<img src="/img/Dok/YY .png" class="d-block w-100" alt="..."  style="width:100%;">
+					<img src="/img/Dok/YY .jpg" class="d-block w-100" alt="..."  style="width:100%;">
 				</div>
 			</a>
 		</div>
       <div class="carousel-item">
-			<a href="/img/Dok/TAS.png" data-fancybox="kda">
+			<a href="/img/Dok/TAS.jpg" data-fancybox="kda">
 				<div class="thumbnail">
-					<img src="/img/Dok/TAS.png" class="d-block w-100" alt="..." style="width:100%;">
+					<img src="/img/Dok/TAS.jpg" class="d-block w-100" alt="..." style="width:100%;">
 				</div>
 			</a>
 		</div>
       <div class="carousel-item ">
-			<a href="/img/Dok/MF.png" data-fancybox="kda">
+			<a href="/img/Dok/MF.jpg" data-fancybox="kda">
 		 		<div class="thumbnail"> 
-	  				<img src="/img/Dok/MF.png" class="d-block w-100" alt="..." style="width:100%;">
+	  				<img src="/img/Dok/MF.jpg" class="d-block w-100" alt="..." style="width:100%;">
 				</div>
       		</a>
 	   </div>
       <div class="carousel-item">
-			<a href="/img/Dok/L2.png" data-fancybox="kda">
+			<a href="/img/Dok/L2.jpg" data-fancybox="kda">
 				<div class="thumbnail">
-					<img src="/img/Dok/L2.png" class="d-block w-100" alt="..." style="width:100%;">
+					<img src="/img/Dok/L2.jpg" class="d-block w-100" alt="..." style="width:100%;">
 				</div>
 			</a>
 		</div>
       <div class="carousel-item">
-			<a href="/img/Dok/YY1.png" data-fancybox="kda">
+			<a href="/img/Dok/YY1.jpg" data-fancybox="kda">
 				<div class="thumbnail">
-					<img src="/img/Dok/YY1.png" class="d-block w-100" alt="..." style="width:100%;">
+					<img src="/img/Dok/YY1.jpg" class="d-block w-100" alt="..." style="width:100%;">
 				</div>
 			</a>
 		</div>
       <div class="carousel-item">
-			<a href="/img/Dok/LASL.png" data-fancybox="kda">
+			<a href="/img/Dok/LASL.jpg" data-fancybox="kda">
 				<div class="thumbnail">
-					<img src="/img/Dok/LASL.png" class="d-block w-100" alt="..." style="width:100%;">
+					<img src="/img/Dok/LASL.jpg" class="d-block w-100" alt="..." style="width:100%;">
 				</div>
 			</a>
 		</div>
       <div class="carousel-item">
-			<a href="/img/Dok/L3.png" data-fancybox="kda" >
+			<a href="/img/Dok/L3.jpg" data-fancybox="kda" >
 				<div class="thumbnail">
-					<img src="/img/Dok/L3.png" class="d-block w-100" alt="..." style="width:100%;">
+					<img src="/img/Dok/L3.jpg" class="d-block w-100" alt="..." style="width:100%;">
 				</div>
 			</a>
 		</div>
       <div class="carousel-item">
-			<a href="/img/Dok/RF.png" data-fancybox="kda" height="240" >
+			<a href="/img/Dok/RF.jpg" data-fancybox="kda" height="240" >
 				<div class="thumbnail">
-					<img src="/img/Dok/RF.png" class="d-block w-100" alt="..." height="240" style="width:100%;height:100%">
+					<img src="/img/Dok/RF.jpg" class="d-block w-100" alt="..." height="240" style="width:100%;height:100%">
 				</div>
 			</a>
 		</div>
 		<div class="carousel-item">
-			<a href="/img/Dok/L1.png" data-fancybox="kda" height="240" >
+			<a href="/img/Dok/L1.jpg" data-fancybox="kda" height="240" >
 				<div class="thumbnail">
-					<img src="/img/Dok/L1.png" class="d-block w-100" alt="..." height="240" style="width:100%;height:100%">
+					<img src="/img/Dok/L1.jpg" class="d-block w-100" alt="..." height="240" style="width:100%;height:100%">
 				</div>
 			</a>
 		</div>
 		<div class="carousel-item">
-			<a href="/img/Dok/L4.png" data-fancybox="kda" height="240" >
+			<a href="/img/Dok/L4.jpg" data-fancybox="kda" height="240" >
 				<div class="thumbnail">
-					<img src="/img/Dok/L4.png" class="d-block w-100" alt="..." height="240" style="width:100%;height:100%">
+					<img src="/img/Dok/L4.jpg" class="d-block w-100" alt="..." height="240" style="width:100%;height:100%">
 				</div>
 			</a>
 		</div>	

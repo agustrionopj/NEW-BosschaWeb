@@ -4,8 +4,7 @@
 title: "Newsletter"
 linktitle: "Newsletter"
 summary:
-date: 2020-01-30T12:33:42+07:00
-lastmod: 2020-01-30T12:33:42+07:00
+date: 2021-10-10
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -21,7 +20,6 @@ menu:
     name: Newsletter
     # parent: Fasilitas
     weight: 2
-
 ---
 
 <div class="row">
@@ -32,7 +30,7 @@ menu:
     <center><b>Edisi 02: Juli - September 2021</b></center>
   </div>
   <div class="column">
-    <center><b>Edisi 03: TBD</b></center>
+    <center><b>Edisi 03: Oktober - Desember 2021</b></center>
   </div>
 </div>
 
@@ -51,12 +49,12 @@ menu:
     Resolusi Rendah (33 MB) {{% staticref "files/newsletter/NEBULA_E02_SD.pdf" "newtab" %}}<button>Unduh</button>{{% /staticref %}} 
     </p>
   </div>
-  </div>
   <div class="column">
-    <!-- {{<youtube 6i4EKFyrMQ0>}}
-    <p style="font-size: .8em" class="showmore"> Seperti manusia, masing-masing dari miliaran galaksi di alam semesta mengembangkan sifat uniknya sendiri selama masa hidup yang rumit. <span class="dots">$\ldots$</span><span class="more">Apa saja bentuk dan komponen galaksi, bagaimana galaksi terbentuk dan apa yang dapat galaksi ceritakan tentang alam semesta kita? </span>
-      <button>Selengkapnya</button>
-    </p> -->
+    <img src="/img/cover-03.png"></img>
+    <p style="font-size: .8em" class="showmore">
+    Resolusi Tinggi (26 MB) {{% staticref "files/newsletter/NEBULA_E03_HD.pdf" "newtab" %}}<button>Unduh</button>{{% /staticref %}} <br>
+    Resolusi Rendah (7 MB) {{% staticref "files/newsletter/NEBULA_E03_SD.pdf" "newtab" %}}<button>Unduh</button>{{% /staticref %}}
+    </p>
   </div>
 </div>
 
@@ -80,7 +78,7 @@ menu:
 /* Create three equal columns that floats next to each other */
 .column {
   float: left;
-  width: 33.33%;
+  width: 33%;
   padding: 10px;
   /* text-align: justify;
   text-justify: inter-word; */

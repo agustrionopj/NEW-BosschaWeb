@@ -1,0 +1,216 @@
+{
+		"qna":[
+	    {
+	        "Question": "Mengapa ketika terjadi Gerhana Bulan Total Bulan berwarna merah ya?",
+	        "Reply": " Warna bulan yang biasanya dilihat itu merupakan pantulan dari cahaya Matahari langsung. Ketika terjadi gerhana seperti ini, cahaya Matahari terhalang oleh Bumi, tetapi cahaya Matahari yang sempat diserap oleh atmosfer Bumi (cenderung berwarna merah) dipancarkan ke Bulan dan dipantulkan kembali ke Bumi dengan warna kemerahan. Kepekatan warna akan bergantung kondisi atmosfer atau udara saat itu."
+	    },
+	    {
+	        "Question": "Apa manfaat Gerhana Bulan untuk Bumi?",
+	        "Reply": " Seperti yang telah dijelaskan pada diskusi di awal, warna yang terlihat ketika bulan berada pada fase umbra akan mengindikasikan kondisi dan kualitas udara/atmosfer di wilayah tertentu."
+	    },
+	    {
+	        "Question": "Apa yang terjadi jika kita melihat gerhana bulan saat di planet lain? ",
+	        "Reply": " Gerhana Bulan hanya terjadi pada sistem Matahari, Bumi dan Bulan sehingga fenomena ini hanya dapat diamati oleh pengamat di Bumi. Peristiwa serupa di planet lain, adalah tertutupnya cahaya Matahari oleh planet tersebut sehingga satelitnya tidak memantulkan cahaya ke planet tersebut."
+	    },
+	    {
+	        "Question": "Apakah  bulan benar-benar berbentuk bola sempurna seperti yang diamati dengan teleskop dan mata telanjang?",
+	        "Reply": " Bentuk semu (atau yang teramati) benda langit akan sangat bergantung pada detektornya. Untuk kasus Bulan yang diamati oleh mata telanjang, maka Bulan akan berbentuk bulat. Tapi jika diamati oleh alat yang mempunyai resolusi lebih baik maka bulan akan menunjukkan kawah-kawahnya, sehingga bentuknya tidak lagi bulat sempurna."
+	    },
+	    {
+	        "Question": "Apakah gerhana bulan/Matahari dapat memberi \n dampak anomali gravitasi pada air laut/danau?",
+	        "Reply": " Konfigurasi Gerhana Bulan Total (GBT) adalah Matahari, Bumi dan Bulan dalam satu garis 'lurus'. Pada posisi seperti ini efek gaya pasang yang besar menyebabkan kenaikan muka air laut sehingga jika ada sungai yang terdekat dan tersambung langsung ke laut maka muka airnya pun terpengaruh. Tapi karena ini adalah kondisi yang biasa terjadi layaknya ketika purnama, jadi akan baik-baik saja."
+	    },
+	    {
+	        "Question": "Apakah terjadi Gerhana Bulan Total bisa mempengaruhi air sungai ?",
+	        "Reply": " Konfigurasi Gerhana Bulan Total (GBT) adalah Matahari, Bumi dan Bulan dalam satu garis 'lurus'. Pada posisi seperti ini efek gaya pasang yang besar menyebabkan kenaikan muka air laut sehingga jika ada sungai yang terdekat maka muka airnya pun terpengaruh. Tapi karena ini adalah kondisi yang biasa terjadi layaknya ketika purnama, jadi akan baik-baik saja."
+	    },
+	    {
+	        "Question": "Bagaimana ciri-ciri puncak gerhana bulan? ",
+	        "Reply": " Jika warna bulan sudah berubah kemerahan maka pada saat itu sudah masuk totalitas dilihat oleh mata telanjang. Tentu saja didahului dan diakhiri oleh bentuk bulan yang berubah menjadi sabit dari bentuk purnamanya."
+	    },
+	    {
+	        "Question": "Kapan Gerhana Bulan muncul & apa faktor sehingga gerhana Bulan ada?",
+	        "Reply": " Gerhana Bulan muncul ketika konfigurasi posisinya adalah Matahari, Bumi, dan Bulan pada satu garis 'lurus'. Ada kondisi lain adalah konfigurasi tersebut terjadi berdekatan pada saat bidang orbit Bulan mengelilingi Bumi berpotongan dengan bidang orbit Bumi mengelilingi Matahari. Sehingga cahaya Matahari tertutupi oleh Bumi dan bulan berada di dalam bayang-bayang Bumi."
+	    },
+	    {
+	        "Question": "Kenapa gerhana tidak terjadi setiap bulan?",
+	        "Reply": " Secara konfigurasi, gerhana Bulan memiliki posisi yang mirip seperti posisi Bulan purnama. Namun karena bidang orbit Bulan mengelilingi Bumi memiliki kemiringan sekitar 5 derajat terhadap bidang orbit Bumi mengelilingi Matahari, maka hanya pada posisi dan waktu yang tepat saja gerhana ini akan terjadi."
+	    },
+	    {
+	        "Question": "Metode apa saja yang dapat digunakan untuk memprediksi terjadinya gerhana Bulan, khususnya Gerhana Bulan Total di suatu daerah?",
+	        "Reply": "Metode yang biasa digunakan adalah mencari titik potong bidang orbit Bulan mengelilingi Bumi dengan bidang orbit Bumi mengelilingi Matahari, kemudian dihitung waktu terjadinya. Karena lama waktu terjadinya juga dapat dihitung dan mempunyai luasan daerah yang dilewati (hampir setengah belahan Bumi), maka daerah yang mengalami malam saat itu dapat mengamati fenomena ini. "
+	    },
+	    {
+	        "Question": "Apa saja pengaruh gerhana bulan terhadap Bumi?",
+	        "Reply": "  Selain kita yang tidak bisa melihat Bulan Purnama seperti biasanya, tidak ada pengaruh fisik gerhana bulan terhadap Bumi. "
+	    },
+	    {
+	        "Question": "Apakah gerhana Bulan memiliki pengaruh, terhadap perubahan musim yang ada disebuah negara?",
+	        "Reply": "Tidak ada pengaruh gerhana Bulan terhadap perubahan musim, karena gerhana Bulan hanyalah peristiwa ketika Matahari-Bumi-Bulan berada pada satu garis. "
+	    },
+	    {
+	        "Question": "Apakah gerhana juga dapat terjadi di planet lain (selain Bumi)?",
+	        "Reply": "  Pada dasarnya, gerhana adalah peristiwa ketika satu benda langit tertutupi oleh benda langit lainnya dari sudut pandang pengamat. Jika di Bumi sedang terjadi gerhana Matahari, belum tentu di planet lain mengalami hal yang sama, karena konfigurasi benda langitnya berbeda. Gerhana bisa terjadi di planet lain, selama ada benda langit yang menutupi benda langit lainnya. Bisa jadi gerhana Matahari terjadi di Bulan karena Matahari ditutupi oleh Bumi, ketika kita sedang mengamati gerhana Bulan. Rover Curiosity di planet Mars sempat mengabadikan gerhana Matahari di Mars. "
+	    },
+	    {
+	        "Question": "Di indonesia, adakah kebudayan yang berhubungan dengan peristiwa gerhana Bulan ?",
+	        "Reply": "Di adat Jawa, ketika gerhana Bulan terjadi. Mereka percaya Bulan \"dimakan\" oleh seorang Buta bernama Kala Rahu yang balas dendam terhadap Dewa Bulan, Bathara Soma. Kala Rahu terpenggal oleh Bathara Wisnu karena dilaporkan oleh Bathara Soma dan Bathara Surya, ketika ia berusaha meminum air yang memberikan keabadian bernama Tirta Amertha. Kepala Kala Rahu menjadi abadi dan tubuhnya jatuh ke Bumi sebagai lesung. Masyarakat akan menabuhkan lesung supaya Kala Rahu memuntahkan Bulan kembali. Di NTT, masyarakat di Manggarai percaya gerhana Bulan terjadi karena Bulan melenceng dari jalur biasanya. Mereka akan menabuh gendang dan menari-nari untuk meminta Bulan kembali ke jalurnya. Ini hanya dua dari beberapa kebudayaan lainnya, cerita rakyat dan mitologi mengenai gerhana Bulan ada banyak di adat-adat lainnya. "
+	    },
+	    {
+	        "Question": "Ketika terjadi Gerhana Bulan Total, apakah hewan memiliki naluri dengan ada nya efek Gerhana Bulan maupun Gerhana Matahari Total ? ",
+	        "Reply": "  Ya, benar, naluri hewan terkena dampak efek gerhana Bulan dan gerhana Matahari, terutama gerhana Matahari. Hewan aktivitasnya pada umumnya bergantung pada siklus gelap-terang. Naluri mereka memberitahu mereka kapan harus melakukan sesuatu bergantung apakah langit gelap atau terang. Gerhana total, terutama Matahari, akan \"menganggu\" aktivitas mereka karena yang seharusnya masih terang, tiba-tiba gelap, atau tiba-tiba menjadi lebih gelap. Hewan nokturnal bisa tiba-tiba muncul ketika gerhana Matahari total, dan hewan-hewan yang biasanya beraktivitas di siang hari merasa mereka harus beristirahat karena sudah gelap. Seakan-akan \"tertipu\" dengan gelap-terang yang tiba-tiba berubah. "
+	    },
+	    {
+	        "Question": "Rasi bintang apa yang menjadi latar belakang gerhana kali ini ?",
+	        "Reply": "  Gerhana kali ini terjadi di dekat rasi Scorpius. "
+	    },
+	    {
+	        "Question": "Apa yang mempengaruhi nilai L pada Skala Sanjon?",
+	        "Reply": " Nilai L dipengaruhi oleh kondisi atmosfir Bumi. makin banyak partikel penyerap (misal waktu ada gunung meletus), makin sedikit cahaya Matahari yang lolos dari atmosfir Bumi dan menerangi Bulan, sehingga bulan terlihat makin gelap (skala L makin kecil)"
+	    },
+	    {
+	        "Question": "Bagaimana gerhana Bulan bila dilihat dari Bulan?",
+	        "Reply": "  Jika ada pengamat yang ada di Bulan, maka dia akan melihat gerhana Matahari, karena piringan Matahari ditutupi oleh Bumi. "
+	    },
+	    {
+	        "Question": "Bagaimana menyikapi/mengedukasi teman, anggota keluarga, ataupun masyarakat yang masih awam dengan fenomena gerhana, sebagai suatu peristiwa yg menakutkan?",
+	        "Reply": " Mungkin bisa diajak bersama-sama melihat gerhana. Atau diajak mengikuti kegiatan edukasi semacam yang dilakukan Observatorium Bosscha ini "
+	    },
+	    {
+	        "Question": "Bagaimana sih cara para astronom dapat mengetahui jadwal kapan terjadinya gerhana untk membuat kalender astronomi? Apakah ada perhitungan khusus yang digunakan?",
+	        "Reply": " Fenomena-fenomena astronomis bisa diprediksi karena ada keteraturan atau pola. Pola tersebut bisa dikenali biasanya setelah hasil pengamatan yang sangat panjang (bisa ratusan bahkan ribuan tahun). Dari pola tersebut dapat dibuat dibuat perhitungan atau model, kemudian prediksi dicocokkan dengan pengamatan berikutnya. Hasi pengamatan yang baru akan memperbaiki ketelitian perhitungan."
+	    },
+	    {
+	        "Question": "Bagaimana memanfaatkan ilmu astronomi dalam kehidupan sehari hari? ",
+	        "Reply": "Astronomi sebetulnya sangat erat dengan kehidupan sehari-hari, zaman dahulu, benda-benda langit banyak digunakan untuk navigasi yang tentunya sangat penting untuk manusia. Hingga saat ini pun posisi benda-benda langit juga masih banyak digunakan untuk navigasi orientasi satelit, dan satelit sangat diperlukan di era modern saat ini. Aktivitas Matahari juga sangat mempengaruhi satelit sehingga mempelajari aktivitas Matahari juga sangat erat dengan kehidupan modern saat ini. Dari sisi budaya dan keagamaan, ada banyak hari-hari penting yang ditentukan berdasarkan benda langit."
+	    },
+	    {
+	        "Question": "Bagaimana perkembangan dunia astronomi mengenai fenomena gerhana Bulan?",
+	        "Reply": "  Fenomena gerhana bulan antara lain dapat digunakan untuk mempelajari kondisi Bulan secara tidak langsung. Gerhana Bulan juga dapat digunakan untuk mempelajari keadaan atmosfer Bumi."
+	    },
+	    {
+	        "Question": "Di belahan dunia bagian mana sajakah gerhana Bulan untuk blood moon ini terjadi? ",
+	        "Reply": "Untuk gerhana bulan hari ini dapat diamati pula di sebagian benua Asia, Australia, maupun Amerika. Namun tidak semua belahan Bumi mengamati fase gerhana yang seragam."
+	    },
+	    {
+	        "Question": "Faktor apa yang bisa menyebabkan Bulan tidak terlihat?",
+	        "Reply": "Ada beberapa faktor yang menyebabkan Bulan tidak dapat teramati, yang pertama adalah saat bulan berada pada fase bulan mati karena pada fase tersebut permukaan Bulan yang terkena cahaya Matahari tidak mengarah ke Bumi. Faktor yang lain adalah cuaca di Bumi, mendung dapat menghalangi cahaya Bulan."
+	    },
+	    {
+	        "Question": "Gerhana bulan ini apa hubungannya dgn hari Waisak? ",
+	        "Reply": " Kebetulan kali ini gerhana Bulan terjadi saat hari Waisak. Hari Waisak diperingati bertepatan dengan Bulan purnama namun tidak setiap Bulan purnama terjadi gerhana Bulan."
+	    },
+	    {
+	        "Question": "Mengapa gerhana Bulan sering terjadi saat Bulan berada pada fase purnama?",
+	        "Reply": "Gerhana bulan memerlukan konfigurasi tertentu yaitu Bumi berada di antara Matahari dan Bulan. Konfigurasi ini dipenuhi saat bulan purnama, sehingga hanya terjadi saat bulan purnama. Namun tidak setiap bulan purnama terjadi gerhana bulan karena bidang orbit Bulan dan Bumi tidak tepat berhimpit."
+	    },
+	    {
+	        "Question": "Mengapa waktu saat puncak hanya berlangsung sebentar saja, dibanding fase lainnya?",
+	        "Reply": "Fase puncak gerhana terjadi ketika permukaan Bulan tertutup oleh bayangan Bumi yang paling gelap. Daerah bayangan ini relatif lebih kecil dibandingkan daerah bayangan Bumi seluruhnya sehingga berlangsung lebih singkat."
+	    },
+	    {
+	        "Question": "Apa saja perbedaan Bulan baru dan gerhana Bulan?",
+	        "Reply": " Akibat gerak Bulan mengelilingi Bumi, maka permukaan Bulan yang terkena cahaya Matahari tidak selalu sama, sehingga bentuk Bulan terlihat berubah-ubah yang kita sebut sebagai fase Bulan. Fase Bulan selalu berulang diawali dengan fase bulan baru yaitu ketika Bulan berada di antara Matahari dan Bumi. Saat bulan baru permukaan Bulan yang terkena cahaya Matahari tidak menghadap ke Bumi sehingga Bulan tidak terlihat. Gerhana bulan terjadi saat bulan purnama, yaitu saat Bumi berada di antara Matahari dan Bulan, sehingga bulan terlihat seperti lingkaran penuh. Namun perlu diingat bahwa tidak di setiap fase bulan purnama terjadi gerhana bulan."
+	    },
+	    {
+	        "Question": "Apakah terdapat pengaruh yang ditimbulkan gerhana Bulan pada Tata Turya? ",
+	        "Reply": "   Tidak ada pengaruh peristiwa gerhana bulan pada planet-planet lain di Tata Surya. Fenomena gerhana bulan merupakan fenomena yang dapat dinikmati oleh kita di Bumi. "
+	    },
+	    {
+	        "Question": "Bagaimana keadaan diatas permukaan bulan saat gerhana Bulan?apakah ada pengaruh terhadap permukaan Bulan juga?",
+	        "Reply": "  Jika kita sedang berada di permukaan Bulan, kita akan merasakan gelap karena cahaya Matahari yang datang akan terhalang oleh Bumi. Selain itu, akibat gerhana Bulan, temperatur permukaan bulan akan sedikit menurun. Namun durasi gerhana relatif singkat sehingga hal ini tidak terlalu mempengaruhi temperatur rata-rata Bulan. "
+	    },
+	    {
+	        "Question": "Apa efeknya jika Bulan tidak berada pada orbit normalnya atau bahkan Bulan tidak ada sama sekali?",
+	        "Reply": "   Orbit Bumi juga akan terganggu. Bulan juga dikenal sebagai tameng Bumi dari asteroid. Bisa dabayangkan kalau Bulan tidak ada"
+	    },
+	    {
+	        "Question": "Apakah ada dampak berbahaya pada mata atau tubuh ketika kita melihat langsung gerhana Matahari dan Bulan secara langsung?",
+	        "Reply": "   Gerhana bulan aman untuk dilihat mata. Sedangkan gerhana Matahari sebagian berbahaya karena masih ada cahaya Matahari yang diterima Bumi. Kalau fase gerhana Matahari total aman untuk dilihat oleh mata karena cahaya Matahari betul2 terhalang oleh Bulan\n"
+	    },
+	    {
+	        "Question": "Apakah di setiap terjadi fenomena gerhana memiliki dampak yang berbeda-beda pula? ",
+	        "Reply": "   Pada umumnya dampak saat Bulan purnama atau gerhana Bulan adalah adanya pasang surut akibat tarikan gravitasi Bulan"
+	    },
+	    {
+	        "Question": "Sejak kapan manusia bisa memprediksi terjadinya gerhana Bulan? Bagaimana caranya?",
+	        "Reply": "   Lebih dari 2000 tahun lalu manusia sudah bisa memprediksi gerhana. Dahulu gerhana sudah dicatatkan sehingga periodenya dapat diketahui, sekitar 18 tahunan yang dikenal sebagai Siklus Saros. Semakin modern, semakin akurat waktu prediksinya. "
+	    },
+	    {
+	        "Question": "Puncak gerhana Bulan berapa lama waktunya?",
+	        "Reply": "  Puncak gerhana malam ini kurang lebih terjadi selama 14 menit. Terima kasih."
+	    },
+	    {
+	        "Question": "Apa yang bisa dipelajari dari peristiwa Gerhana Bulan Total khususnya untuk planet Bumi (misal iklim) ?",
+	        "Reply": "Beberapa di antara hal yang bisa dipelajari dari peristiwa gerhana Bulan adalah: melalui Gerhana Bulan Total kita dapat mengetahui kualitas udara sekitar dari kenampakan Bulan saat fase total gerhana berlangsung yang dikarakterisasi ke dalam skala Danjon, analisa lebih mendalam tentang bayangan Bumi yang terlihat menutupi Bulan dapat memberikan informasi yang akurat tentang jarak Bumi-Bulan-Matahari saat itu serta ukuran masing-masing benda."
+	    },
+	    {
+	        "Question": "Apakah ada bahaya bagi kesehatan untuk mengamati gerhana Bulan secara langsung jika dibandingkan gerhana Matahari?",
+	        "Reply": "   Gerhana Bulan aman untuk diamati menggunakan mata telanjang, karena terangnya Bulan tidak seberbahaya sinar Matahari jika dilihat secara langsung. Berbeda dengan gerhana Matahari, meskipun Bulan menutupi Matahari, mengamati gerhana Matahari tanpa pelindung (kacamata gerhana) berbahaya bagi kesehatan mata."
+	    },
+	    {
+	        "Question": "Apakah ada objek langit yang bisa lebih ter-ekspos dengan adanya gerhana Bulan ini?",
+	        "Reply": "   Pada malam-malam biasa ketika terjadi Bulan purnama terjadi, cahaya Bulan akan mengalahkan sinar dari bintang-bintang di langit, namun ketika terjadi gerhana Bulan, langit akan menjadi lebih gelap sehingga bahkan bintang-bintang redup menjadi dapat diamati, atau dengan kata lain objek langit akan lebih terekspos.  "
+	    },
+	    {
+	        "Question": "Apakah di planet lain yang memiliki lebih dari satu satelit dapat terjadi gerhana yang diakibatkan oleh kesejajaran letak satelit-satelitnya?",
+	        "Reply": "   Jika planet memiliki lebih dari satu buah satelit, maka dapat terjadi gerhana untuk masing-masing satelit tersebut, dengan catatan konfigurasinya harus cocok agar bayangan planet menutupi permukaan satelit."
+	    },
+	    {
+	        "Question": "Mengapa gerhana Bulan berwarna merah tidak hitam kan cahaya Matahari terhalang Bumi? ",
+	        "Reply": "   Permukaan Bulan tidak gelap sempurna karena sinar Matahari masih bisa sampai ke permukaan Bulan berkat pembiasan sinar Matahari oleh atmosfer Bumi. Akibat pembiasan ini, sinar Matahari yang tiba di permukaan Bulan adalah sinar pada panjang gelombang merah, sehingga permukaan Bulan tampak berwarna merah."
+	    },
+	    {
+	        "Question": "Saat gerhana Bulan, hal menarik apa yang bisa diamati di langit? Misalnya, saat gerhana Matahari kita bisa mengamati benda langit di siang hari",
+	        "Reply": "Saat gerhana Bulan hal yang menarik yang bisa diamati adalah tentu saja prosesi terjadinya gerhana tersebut. Mulai dari Bulan memasuki penumbra Bumi, Umbra Bumi, fase puncak, hingga Bulan purnama kembali bercahaya seperti sedia kala, masing-masing menyuguhkan pemandangan yang amat menarik. Selain itu, akibat cahaya bulan yang redup, kita dapat mengamati bintang-bintang redup yang sebelumnya tidak dapat diamati karena terhalangi oleh terangnya Bulan purnama. "
+	    },
+	    {
+	        "Question": "Kenapa pada saat gerhana, Venus dan Merkurius tidak pernah menghalangi di antara Bumi dan Matahari?",
+	        "Reply": "  Gerhana terjadi karena konfigurasi garis lurus yang dibentuk oleh Matahari-Bumi-Bulan. Meskipun Merkurius dan Venus terletak lebih dekat ke Matahari, kedua planet tersebut tidak akan menghalangi terjadinya gerhana apabila tidak berada dalam satu garis lurus dengan Matahari, Bumi, dan Bulan karena karakteristik orbit masing-masing planet. Tetapi, terdapat kondisi di mana Merkurius atau Venus melintas di antara Matahari dan Bumi yang dinamakan dengan transit."
+	    },
+	    {
+	        "Question": "Mengapa cuaca mempengaruhi pengamatan gerhana? ",
+	        "Reply": "  Cuaca berperan penting dalam pengamatan astronomi. Apabila cuaca cerah dan tidak berawan, objek langit akan dapat diamati dengan mudah. Sebaliknya, jika cuaca mendung, berawan, atau hujan, kemungkinan objek langit yang diamati akan terhalang oleh kondisi cuaca tersebut.  Selain itu, kondisi atmosfer Bumi atau kualitas udara akan berpengaruh pada warna yang terlihat ketika bulan berada pada fase umbra. Semakin banyak debu di atmosfer, semakin gelap bulan yang terlihat dan semakin baik kualitas udara/sedikit debu di atmosfer maka semakin merah bulan yang terlihat karena partikel debu yang menghalangi lebih sedikit."
+	    },
+	    {
+	        "Question": "Mengapa kita masih bisa melihat Bulan padahal posisi Bumi, Bulan, dan Matahari sejajar disaat gerhana? Apakah ini berhubungan dengan konsep paralaks? ",
+	        "Reply": "  Gerhana Bulan terjadi pada malam hari dengan konfigurasi Matahari-Bumi-Bulan, sehingga daerah yang tercakupi gerhana tentu dapat melihat Bulan di malam hari saat terjadinya gerhana (apabila kondisi cuaca mendukung). "
+	    },
+	    {
+	        "Question": "Bagian-bagian bulan apa saja yang terlihat jelas saat Gerhana Bulan Total (Super blood moon) kali ini?",
+	        "Reply": "Semua bagian Bulan yang menghadap Bumi (yang memang biasa terlihat saat Purnama) dapat terlihat, hanya saya ada saat2nya berwarna merah/gelap, ada saatnya terlihat jelas, bergantung pada momen2 gerhananya"
+	    },
+	    {
+	        "Question": "Bila terjadi gerhana Matahari, keadaan Bumi begitu gelap, lantas bila terjadi gerhana Bulan, apakah keadaan permukaan Bulan ikut gelap juga?",
+	        "Reply": "Gerhana Bulan Total terjadi pada saat fase Purnama. Tentu permukaan Bumi akan sedikit gelap dari biasanya (dibanding ketika tersinari Purnama), pada saat totalnya, namun perbedaan gelap ini tidak sesignifikan ketika Gerhana Matahari Total."
+	    },
+	    {
+	        "Question": "Dalam satu tahun, dapat terjadi berapa kali gerhana Bulan?",
+	        "Reply": "Dalam setahun, rata-rata bisa terjadi kira2 2-3 kali gerhana Bulan, total maupun parsial"
+	    },
+	    {
+	        "Question": "Apa yang memengaruhi perbedaan durasi fase U2 saat terjadinya gerhana Bulan?",
+	        "Reply": " Durasi fase U2 bisa berbeda tergantung dengan lintasan Bulan selama berada di bayangan umbra Bumi. Contohnya seperti yang terjadi hari ini, lintasan Bulan yang agak ke tepi bayangan umbra Bumi menyebabkan lama fase U2, yakni lama piringan Bulan sepenuhnya berada di bayangan umbra Bumi, menjadi lebih pendek daripada biasanya. Bila di lain waktu Bulan melintasi bagian tengah umbra Bumi, maka durasi fase U2 akan lebih lama daripada yang terjadi hari ini."
+	    },
+	    {
+	        "Question": "Kapan gerhana terjadi lagi di Indonesia?",
+	        "Reply": "  Untuk tahun ini, hanya akan ada satu gerhana lagi yang dapat disaksikan dari Indonesia yakni gerhana Bulan sebagian pada tanggal 19 November 2021. Kalau untuk gerhana Matahari, masyarakat Indonesia baru bisa menyaksikannya tahun 2023 dalam bentuk gerhana Matahari parsial/sebagian. Bila ingin tahu lebih lanjut perihal perkiraan jadwal gerhana yang dapat disaksikan di Indonesia, silakan mengakses web www.timeanddate.com. "
+	    },
+	    {
+	        "Question": "Perbedaan Blue moon dan Blood moon itu apa?",
+	        "Reply": "  Istilah \"blue moon\" digunakan untuk menyebut dua fenomena berikut: Bulan purnama kedua dalam satu bulan kalender Masehi dan Bulan purnama ketiga dalam satu musim (di wilayah yang mengalami 4 musim) yang terdiri dari 4 Bulan purnama, padahal normalnya, satu musim hanya memiliki 3 Bulan purnama (karena secara astronomis, satu musim dari semi, panas, gugur, dan dingin, hanya berdurasi tiga bulan saja). Jadi istilah tersebut bukan berarti Bulan akan berwarna biru. Secara lebih umum, sebutan tersebut diartikan sebagai \"sesuatu yang sangat jarang/hampir mustahil terjadi\", karena memang kondisi yang sudah dijelaskan di atas sangat jarang terjadi. Sementara itu, istilah \"blood moon\" digunakan untuk mendeskripsikan warna Bulan yang kemerahan saat gerhana Bulan total."
+	    },
+	    {
+	        "Question": "Mengapa kebanyakan Supermoon di namakan berdasarkan kebudayaan barat seperti Amerika? Apakah setiap bangsa atau budaya bisa menamai Supermoon yang terjadi?",
+	        "Reply": " Nama-nama yang digunakan untuk menyebut bulan purnama sebagian besar diadopsi dari buku Old's Farmer Almanac yang merupakan catatan sejarah milik berbagai suku yang tinggal di benua Amerika. Pada dasarnya, setiap kebudayaan memiliki ciri tersendiri dalam penamaan bulan purnama."
+	    },
+	    {
+	        "Question": "Mengapa saat gerhana Bulan, Bulan tampak lebih besar?",
+	        "Reply": " Gerhana Bulan selalu bertepatan dengan bulan purnama, oleh sebab itu Bulan akan tampak lebih besar."
+	    },
+	    {
+	        "Question": "Menurut penelitian, Bulan semakin menjauh dari Bumi, apakah suatu saat nanti bisa saja gerhana Bulan atau gerhana Matahari tidak akan lagi terjadi?",
+	        "Reply": "Setiap hari Bulan benar bergerak menjauhi Bumi sedikit demi sedikit. Ketika jaraknya sudah cukup jauh, mungkin saja konfigurasi gerhana tidak bisa terpenuhi sehingga gerhana Bulan tidak terjadi lagi. Namun, itu baru akan terjadi miliaran tahun lagi ketika Bulan berjarak cukup jauh dari Bumi."
+	    }
+	]	
+}

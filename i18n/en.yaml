@@ -134,7 +134,7 @@
   translation: Type
 
 - id: date
-  translation: Date
+  translation: Year
 
 - id: last_updated
   translation: Last updated on

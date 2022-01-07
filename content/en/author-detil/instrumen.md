@@ -1,7 +1,7 @@
 ---
 title: Research Instruments
-date: 2018-09-08T17:00:00.000Z
-lastmod: 2020-01-31T08:00:00.000Z
+date: 2021-10-08T17:00:00.000Z
+# lastmod: 2020-01-31T08:00:00.000Z
 draft: false
 toc: true
 type: docs
@@ -9,7 +9,7 @@ linktitle: Instruments
 identifier: instrumen
 menu:
   author-detil:
-    parent: Facilities
+    parent: About Us
     weight: 2
 
 weight: 2

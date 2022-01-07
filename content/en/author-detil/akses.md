@@ -7,8 +7,9 @@ toc: true
 type: docs
 menu:
   author-detil:
-    name: Location & Access
-    weight: 40
+        parent: About Us
+        name: Location & Access
+        weight: 40
 
 weight: 40
 ---
@@ -47,7 +48,7 @@ weight: 40
 | Setiabudi - Lower Entrance Gate| $\pm$ 45 minutes |
 | Lower Entrance Gate - Observatory | $\pm$ 20 minutes (by walking) |
 
-From  <font color='red'>Jl. Setiabudi</font> Bandung, go to the direction of <font color='red'>Lembang</font> town. Along the way, you will pass  <font color='red'>Indonesia Education University or Universitas Pendidikan Indonesia (UPI Bandung)</font> and <font color='red'>Ledeng Terminal</font>. After passing <font color='red'>Ledeng Terminal</font>, continue your way to <font color='red'>Lembang</font>. Follow the main road until you pass <font color='red'>Women Army Education Center or Pusdik Korps Wanita Angkatan Darat</font>. From here, at approximately 400 meters, you will arrive at <font color='red'>Lower Entrance Gate of Bosscha Observatory</font> on the right side of the street from where you came. Big vehicles e.g. Bus are parked in front of this gate. You go to the Observatory by <font color='red'>walking</font> for around 800 meter, passing through Upper Entrance Gate of Bosscha Observatory and finally arrived at the observatory.
+From Jl. Setiabudi Bandung, go to the direction ofLembang</ town. Along the way, you will pass Indonesia Education University or Universitas Pendidikan Indonesia (UPI Bandung)</ and Ledeng Terminal. After passing Ledeng Terminal, continue your way to Lembang. Follow the main road until you pass Women Army Education Center or Pusdik Korps Wanita Angkatan Darat. From here, at approximately 400 meters, you will arrive at Lower Entrance Gate of Bosscha Observatory on the right side of the street from where you came. Big vehicles e.g. Bus are parked in front of this gate. You go to the Observatory by walking for around 800 meter, passing through Upper Entrance Gate of Bosscha Observatory and finally arrived at the observatory.
 
 ## By Public Transportation
 
@@ -55,12 +56,12 @@ From  <font color='red'>Jl. Setiabudi</font> Bandung, go to the direction of <fo
 
 |       |       |
 | ------- | ------- |
-| <font color='red'>Stasiun Hall</font> Train Station - Lower Entrance Gate | $\pm$ 2 hours |
-| <font color='red'>Cicaheum</font> Terminal- Lower Entrance Gate | $\pm$ 2.5 hours |
-| <font color='red'>Leuwi Panjang</font> Terminal- Lower Entrance Gate | $\pm$ 3.5 hours |
-* From <font color='red'>Stasiun Hall</font> Train Station, Bandung <br>
-Ride public transport with direction written: <font color='red'>St. Hall – Lembang</font>, and stop directly at <font color='red'>Lower Entrance Gate</font>.
-* From <font color='red'>Cicaheum Terminal (bus station)</font> <br>
-Ride public transport with direction written: <font color='red'>Cicaheum – Ledeng</font>, and stop at <font color='red'>Ledeng Terminal</font>, and change your ride to public transport <font color='red'>St. Hall – Lembang</font>. Stop at <font color='red'>Lower Entrance Gate</font>.
-* From <font color='red'>Leuwi Panjang Terminal (bus station)</font> <br>
-Ride <font color='red'>**Damri** bus with direction written: **Ledeng**</font>. From <font color='red'>Ledeng</font> ride public transport <font color='red'>St. Hall – Lembang</font>, and stop at <font color='red'>Lower Entrance Gate</font>.
+|  Train Station - Lower Entrance Gate | $\pm$ 2 hours |
+| Cicaheum Terminal- Lower Entrance Gate | $\pm$ 2.5 hours |
+| Leuwi Panjang Terminal- Lower Entrance Gate | $\pm$ 3.5 hours |
+* From Stasiun Hall Train Station, Bandung <br>
+Ride public transport with direction written: St. Hall – Lembang, and stop directly at Lower Entrance Gate.
+* From Cicaheum Terminal (bus station) <br>
+Ride public transport with direction written: Cicaheum – Ledeng, and stop at Ledeng Terminal, and change your ride to public transport St. Hall – Lembang. Stop at Lower Entrance Gate.
+* From Leuwi Panjang Terminal (bus station) <br>
+Ride Damri bus with direction written: Ledeng. From Ledeng ride public transport St. Hall – Lembang, and stop at Lower Entrance Gate.

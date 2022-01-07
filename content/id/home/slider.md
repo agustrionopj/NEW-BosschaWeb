@@ -44,7 +44,7 @@ height = "550px"
 #  cta_icon = "tv"
 
 [[item]]
-  title = "**PENGUMUMAN TERKAIT COVID-19**<br> --------- <br> Observatorium Bosscha <font color='yellow'>TUTUP</font> <br> sampai dengan 9 Januari 2022"
+  title = "**PENGUMUMAN TERKAIT COVID-19**<br> --------- <br> Observatorium Bosscha <font color='yellow'>TUTUP</font> <br> sampai dengan 31 Maret 2022"
   content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
 
@@ -59,10 +59,11 @@ height = "550px"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
 
-  cta_label = "Selengkapnya"
-  cta_url = "/id/post/bosscha-tutup-agustus2021/"
-  cta_icon_pack = "fas"
-  cta_icon = "sticky-note"
+  #cta_label = "Selengkapnya"
+  #cta_url = "/id/post/bosscha-tutup-agustus2021/"
+  #cta_icon_pack = "fas"
+  #cta_icon = "sticky-note"
+  
   # cta_label = "Get Academic"
   # cta_url = "https://sourcethemes.com/academic/"
   # cta_icon_pack = "fas"
@@ -92,28 +93,40 @@ height = "550px"
   # cta_icon_pack = "fas"
   # cta_icon = "graduation-cap"
 
-[[item]]
-  title = "**Kalender Astronomi 2021** <br> Lihat peristiwa Astronomi di tahun 2021"
-  content = ""
-  align = "center"  # Choose `center`, `left`, or `right`.
+#[[item]]
+#  title = "**Kalender Astronomi 2021** <br> Lihat peristiwa Astronomi di tahun 2021"
+#  content = ""
+#  align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
+#  overlay_color = "#666"  # An HTML color value.
   # overlay_img = "headers/m31.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_img = "headers/gms2019.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+#  overlay_img = "headers/gms2019.png"  # Image path relative to your `static/img/` folder.
+#  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
 
-  cta_label = "Detail"
-  cta_url = "/id/layanan/astrocal"
-  cta_icon_pack = "fas"
-  cta_icon = "calendar"
+ # cta_label = "Detail"
+ # cta_url = "/id/layanan/astrocal"
+ # cta_icon_pack = "fas"
+ # cta_icon = "calendar"
   # cta_label = "Get Academic"
   # cta_url = "https://sourcethemes.com/academic/"
   # cta_icon_pack = "fas"
   # cta_icon = "graduation-cap"
+
+#[[item]]
+#  title = "CRASH COURSE ON <br> **PYTHON FOR SCIENTIFIC COMPUTING 2022**"
+#  content = ""
+#  align = "center"  # Choose `center`, `left`, or `right`.
+
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+#  overlay_color = "#666"  # An HTML color value.
+  # overlay_img = "headers/m31.jpg"  # Image path relative to your `static/img/` folder.
+#  overlay_img = "headers/outreach.jpg"  # Image path relative to your `static/img/` folder.
+#  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++

@@ -7,11 +7,11 @@ linktitle: Workshop on Hilal Observation
 identifier: sarasehan
 
 menu:
-    gallery-test2:
-        parent: Bosscha's Activities
-        weight: 7
+    media:
+        parent: Gallery
+        weight: 6
 
-weight: 7
+weight: 6
 ---
 
 {{<foldergallery src="sarasehan-hilal">}}

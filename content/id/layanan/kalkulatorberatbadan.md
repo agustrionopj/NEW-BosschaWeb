@@ -14,7 +14,7 @@ menu:
 
 Saat ada di planet lain, berat/bobot (atau *weight*) Anda dapat sangat berbeda dengan saat di permukaan Bumi. Seberapa tinggi Anda dapat melompat sedikit banyak bergantung kepada berapa berat Anda di tempat tersebut, semakin ringan berat Anda semakin tinggi Anda bisa melompat. Berat Anda di sebuah planet adalah hasil dari massa dan kekuatan gravitasi di planet tersebut. 
 
-Dengan kalkulator ini, temukan berapa berat Anda di planet atau objek lain di Tata Surya. Masukkan besaran berat badan (angka yang ditunjukkan di timbangan badan) Anda pada kolom di bawah dan klik **hitung** . Lihatlah bagaimana beragamnya berat Anda di tempat-tempat tersebut.
+Dengan kalkulator ini, temukan berapa berat Anda di planet atau objek lain di Tata Surya. Masukkan **besaran berat badan (angka yang ditunjukkan di timbangan badan)** Anda pada kolom di bawah dan klik **hitung** . Lihatlah bagaimana beragamnya berat Anda di tempat-tempat tersebut.
 
 <hr>
 <form id="WeightCalcForm"

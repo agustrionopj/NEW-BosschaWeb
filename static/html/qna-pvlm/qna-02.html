@@ -50,7 +50,7 @@
 
         <script>
                 $(document).ready(function () {
-                        $.getJSON('qna-pvlm02.json', function (data) {
+                        $.getJSON('qna-pvlm02-rev.json', function (data) {
                                 // clickedIndex = $(this).closest("li").index();
                                 // console.log(clickedIndex);
                                 var output = '';
@@ -64,7 +64,7 @@
                                         // console.log(clickedIndex);
                                         $.ajax({
                                                 type: "GET",
-                                                url: 'qna-pvlm02.json',
+                                                url: 'qna-pvlm02-rev.json',
                                                 dataType: 'json',
                                                 success: function (data) {
                                                         $(data.qna).each(function (index, value) {

@@ -2,10 +2,10 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "History and Recent Development"
-linktitle: "Sejarah dan Perkembangan Terkini"
+linktitle: "Profile and History"
 summary:
-date: 2020-01-30T12:33:42+07:00
-lastmod: 2020-01-30T12:33:42+07:00
+date: 2021-10-15T12:33:42+07:00
+# lastmod: 2020-01-30T12:33:42+07:00
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -17,9 +17,10 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   author-detil:
-    name: Then & Now
+        parent: About Us
+        name: Profile and History
     # parent: Fasilitas
-    weight: 1
+        weight: 1
 
 weight: 1
 ---
@@ -39,7 +40,7 @@ In addition to carrying out his duties in research and education, Bosscha Observ
 In 2004, the Bosscha Observatory was declared as a Cultural Heritage Property by the Government. Therefore, the existence of the Bosscha Observatory is protected by <font color='red'>Government Legislation Number 2/1992</font> concerning Cultural Heritage Objects. Furthermore, in 2008, the Government established the Bosscha Observatory as one of the National Vital Objects that had to be secured.
 
 * * *
-## List of The Head of Bosscha Observatory
+## List of The Directors of Bosscha Observatory
 
 
 | Year of duty | Name  |

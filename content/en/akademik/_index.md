@@ -9,9 +9,10 @@ toc = true  # Show table of contents? true/false
 type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
-[menu.akademik]
-  name = "Services"
-  weight = 1
+[menu.penelitian]
+  parent = "Research & Academic"
+  name = "Internship"
+  weight = 3
 +++
 
 As one of academic institution under university, Bosscha Observatory often handle various academic activities as follows.
