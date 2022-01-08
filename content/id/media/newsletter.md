@@ -59,15 +59,39 @@ menu:
 </div>
 
 <div class="row">
+  <div class="column">
+    <center><b>Edisi 04: Jan - Mar 2022</b></center>
+  </div>
+  <div class="column">
+    <!-- <center><b>Edisi 05: Juli - September 2021</b></center> -->
+  </div>
+  <div class="column">
+    <!-- <center><b>Edisi 06: Oktober - Desember 2021</b></center> -->
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="/img/cover-04.png"></img>
+    <p style="font-size: .8em" class="showmore">
+    Resolusi Tinggi (64,4 MB) {{% staticref "files/newsletter/NEBULA_E04_HD.pdf" "newtab" %}}<button>Unduh</button>{{% /staticref %}} <br>
+    Resolusi Rendah (8,3 MB) {{% staticref "files/newsletter/NEBULA_E04_LD.pdf" "newtab" %}}<button>Unduh</button>{{% /staticref %}} 
+    </p>
+  </div>
   <!-- <div class="column">
-    <p style="font-size: .8em">Narasumber: <br> 1. Premana W. Premadi, Ph.D. <br>  2. Muhammad Yusuf, S.Si.</p>
+     <img src="/img/cover-02.png"></img>
+    <p style="font-size: .8em" class="showmore">
+    Resolusi Tinggi (75 MB) {{% staticref "files/newsletter/NEBULA_E02_HD_opt.pdf" "newtab" %}}<button>Unduh</button>{{% /staticref %}} <br>
+    Resolusi Rendah (33 MB) {{% staticref "files/newsletter/NEBULA_E02_SD.pdf" "newtab" %}}<button>Unduh</button>{{% /staticref %}} 
+    </p>
+  </div>
+  <div class="column">
+    <img src="/img/cover-03.png"></img>
+    <p style="font-size: .8em" class="showmore">
+    Resolusi Tinggi (26 MB) {{% staticref "files/newsletter/NEBULA_E03_HD.pdf" "newtab" %}}<button>Unduh</button>{{% /staticref %}} <br>
+    Resolusi Rendah (7 MB) {{% staticref "files/newsletter/NEBULA_E03_SD.pdf" "newtab" %}}<button>Unduh</button>{{% /staticref %}}
+    </p>
   </div> -->
-  <div class="column">
-    <!-- <p style="font-size: .8em">Narasumber: <br> 1. Dr. Kiki Vierdayanti <br>  2. Muhammad Yusuf, S.Si.</p> -->
-  </div>
-  <div class="column">
-    <!-- <p style="font-size: .8em">Narasumber: <br> 1. Premana W. Premadi, Ph.D. <br>  2. Muhammad Yusuf, S.Si.</p> -->
-  </div>
 </div>
 
 <style>
